@@ -36,7 +36,7 @@ Feel free to use any part of this repository, although providing some credit (su
 
 [![FindBots Homepage Preview][product-screenshot]](#)
 
-<p align="center">(<a href="site/static/assets/github-images">More screenshots</a>)</p>
+<p align="center">(<a href="github-images">More screenshots</a>)</p>
 
 Hope is a Discord bot that has been growing slowly, it has several features such as moderation system, tickets, language system, music, event logs and several commands for user interaction.
 
