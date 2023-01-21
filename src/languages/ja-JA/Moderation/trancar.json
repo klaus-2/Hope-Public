@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "チャンネルをロックします。",
+    "USAGE": "lock\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "ロックします",
+    "EXAMPLE": "ロックします",
+    "TRANCAR": "🔒 <{{channel}}> はロックされました。",
+    "TRANCAR1": "注意",
+    "TRANCAR_PERMISSÃO": "君はこれを許されない。"
+}

@@ -1,0 +1,7 @@
+{
+    "MESSAGE_REACTION_REMOVE": "删除了反应",
+    "MESSAGE_REACTION_REMOVE1": "此消息",
+    "MESSAGE_REACTION_REMOVE2": "用户 ID：",
+    "MESSAGE_REACTION_REMOVE3": "消息 ID：",
+    "MESSAGE_REACTION_REMOVE4": "[事件 — 一个反应已被删除]"
+}

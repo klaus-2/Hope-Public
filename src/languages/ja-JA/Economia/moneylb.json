@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "サーバー上で最も裕福な人のランクを表示します。",
+    "USAGE": "moneylb\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "moneylb",
+    "EXAMPLE": "moneylb",
+    "MAIS_RICOS7": "🏆 最も裕福な者のランク",
+    "MAIS_RICOS8": "<User unknown>",
+    "MAIS_RICOS9": "で最も裕福な人としてランク付けされている",
+    "MAIS_RICOS10": "合計でskcoins！"
+}

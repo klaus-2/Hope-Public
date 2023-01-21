@@ -1,0 +1,21 @@
+{
+    "DESCRIPTION": "Überprüfe deine Gegenstände.",
+    "USAGE": "inventar\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "inventar",
+    "EXAMPLE": "inventar",
+    "INV": "Hallo {{author}} das ist dein Inventar!",
+    "INV1": "Unten sind alle Elemente, die du derzeit auf dem Server {{guild}} hast.",
+    "INV2": "Sky-Shop",
+    "INV3": "Seite",
+    "INV4": "von",
+    "INV5": "Typ:",
+    "INV6": "Verkaufspreis:",
+    "INV7": "Vorschau:",
+    "INV8": "viewitem",
+    "INV9": "Equip:",
+    "INV10": "benutze",
+    "INV11": "Verkaufen:",
+    "INV12": "verkaufen",
+    "INV13": "[quantity]",
+    "INV14": "dein Inventar ist leer.\nKaufe Items aus Hope Shop (**{{prefix}}Shop**)"
+}

@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "사용자 음소거 해제",
+    "USAGE": "음소거 해제 <user> \n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "음소거 해제 <user>",
+    "EXAMPLE": "음소거 해제 스카이"
+}

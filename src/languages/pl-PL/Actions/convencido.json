@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Wygeneruj reakcję do przekonania.",
+    "USAGE": "smug",
+    "USAGEE": "smug",
+    "CONVENCIDO_DESCRIÇÃO": "<@{{member}}> jest przekonany."
+}

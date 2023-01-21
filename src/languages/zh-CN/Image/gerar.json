@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "gerar uma imagem 自定义。",
+    "USAGE": "生成 <option> [user]\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "生成 <option> [user]",
+    "EXAMPLE": "产生 3000 年的用户 | 生成漂亮的 <attachment>",
+    "GENERATE_DESC": "**需要1 张图片**：\n`{{IMG_1}}`。 \n**需要2张图片**：\n`{{IMG_2}}`。",
+    "NEED_TWOIMG": "上传 2 个文件或提及 2 个用户。"
+}

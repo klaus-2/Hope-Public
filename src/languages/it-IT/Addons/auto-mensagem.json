@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Configura l'addon Auto-Messaggio.",
+    "USAGE": "auto-messaggio",
+    "USAGEE": "auto-messaggio",
+    "EXAMPLE": "auto-message enable\n💡**Exemplo**: {{EXAMPLE}}",
+    "MENSAGEM": "enable",
+    "MENSAGEM1": "L'addon `Auto-Message` è stato attivato con successo.",
+    "MENSAGEM2": "disable",
+    "MENSAGEM3": "L'addon `Auto-Message` è stato disabilitato con successo.",
+    "MENSAGEM4": "channel",
+    "MENSAGEM5": "Il canale addon `Auto-Message` è stato aggiornato correttamente a <#{{channel}}>.",
+    "MENSAGEM6": "counter",
+    "MENSAGEM7": "Inserisci un numero per il contatore dei messaggi.",
+    "MENSAGEM8": "Il contatore dovrebbe essere compreso tra 1-100 messaggi.",
+    "MENSAGEM9": "Il contatore di messaggi per l'addon `Auto-Message` è stato aggiornato correttamente a `{{amount}}`.",
+    "MENSAGEM10": "message",
+    "MENSAGEM11": "Per favore, segnala un messaggio.",
+    "MENSAGEM12": "Il Contatore deve contenere fino a `2000` caratteri.",
+    "MENSAGEM13": "Il messaggio addon `Auto-Message` è stato aggiornato correttamente."
+}

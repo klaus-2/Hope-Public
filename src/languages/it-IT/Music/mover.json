@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "sposta il numero del brano specificato nella posizione specificata.",
+    "USAGE": "sposta <music position> <new position>\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "mossa <music position> <new position>",
+    "EXAMPLE": "sposta 4 8",
+    "MOVER": "Impossibile spostare una canzone che è già in riproduzione. Per saltare il tipo di canzone in riproduzione: `{{prefix}}skip`",
+    "MOVER1": "Brano non trovato.",
+    "MOVER2": "Yayy! Spostato **{{title}}** all'inizio della coda.",
+    "MOVER3": "spostato",
+    "MOVER4": "alla posizione",
+    "MOVER5": "dalla coda.",
+    "MUSICA6": "Numero non valido."
+}

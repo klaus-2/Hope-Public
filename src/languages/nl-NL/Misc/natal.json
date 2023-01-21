@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "zeg hoeveel dagen tot de kerst er is.",
+    "USAGE": "xmas\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "kerst",
+    "EXAMPLE": "kerst",
+    "ENATAL_DESC": "🎅 Hohoho! Ontbrekend **{{days}}** dagen tot Kerstmis!"
+}

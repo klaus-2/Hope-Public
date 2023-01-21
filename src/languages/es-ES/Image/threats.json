@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Crea un meme de amenazas.",
+    "USAGE": "amenazas [user] | [file]\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "amenazas [user] | [file]",
+    "EXAMPLE": "amenazas usuario | amenazas <attachment>"
+}

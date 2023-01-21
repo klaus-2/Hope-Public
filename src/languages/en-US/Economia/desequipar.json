@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Unequip a certain item.",
+    "USAGE": "unequip <type>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "unequip <type>",
+    "EXAMPLE": "unequip planodefundo",
+    "DESEQUIPAR": "please select one of the following options:",
+    "DESEQUIPAR1": "you have unequipped",
+    "DESEQUIPAR2": "successfully!"
+}

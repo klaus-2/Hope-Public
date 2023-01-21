@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Trouw met een gebruiker.",
+    "USAGE": "marry <user>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "trouwen <user>",
+    "EXAMPLE": "trouwen @Hope",
+    "FCASAR_DESC": "🙁 | <@{{author}}>, je bent single.",
+    "FCASAR_DESC1": "Gebruik {{prefix}}trouwen <user> trouwen.",
+    "FCASAR_DESC2": "met wie je getrouwd bent",
+    "FCASAR_DESC3": "Sinds ({{date}})",
+    "FCASAR_DESC4": "Ik kon geen persoon vinden met alleen",
+    "FCASAR_DESC5": "Wil je graag trouwen",
+    "FCASAR_DESC6": "Antwoord met: ``yes`` of ``no``",
+    "FCASAR_DESC7": "Je hebt het voorstel van de",
+    "FCASAR_DESC8": "Gefeliciteerd dat je getrouwd bent, veel liefde voor je 💕"
+}

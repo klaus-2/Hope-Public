@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "om te zoeken naar meteorologische informatie van een stad.",
+    "USAGE": "weather <localization>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "weer <localization>",
+    "EXAMPLE": "weer ny | weer new york",
+    "TEMPO": "Thermische sensatie:",
+    "TEMPO1": "graden",
+    "TEMPO2": "Tijdzone:",
+    "TEMPO3": "Type graad:",
+    "TEMPO4": "Breedtegraad en lengtegraad:",
+    "TEMPO5": "Ongeldige locatie",
+    "TEMPO_TITULO": "Weer - {{place}}",
+    "TEMPO_DESCRIÇÃO": "Temperatuureenheden kunnen enige tijd verschillen",
+    "TEMPO6": "Temperatuur:",
+    "TEMPO7": "Sky tekst:",
+    "TEMPO8": "Vochtigheid:",
+    "TEMPO9": "Windsnelheid:",
+    "TEMPO10": "Observatie tijd:",
+    "TEMPO11": "Wind display:"
+}

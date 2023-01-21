@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Traduza sua frase para qualquer idioma! Para obter uma lista, use __*`{{prefix}}`traduzir idiomas*__.",
+    "USAGE": "traduzir <idioma> <texto>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "traduzir <idioma> <texto>",
+    "EXAMPLE": "traduzir idiomas | traduzir en teste",
+    "ETRA_DESC": "Idiomas disponíveis no momento",
+    "ETRA_DESC1": "🇧🇬-Bulgarian use `{{prefix}}`traduzir bg <texto>`\n🇵🇱-Polish use `{{prefix}}`traduzir pl <texto>`\n🇳🇱-Dutch use `{{prefix}}`traduzir nl <texto>`\n🇩🇰-Danish use `{{prefix}}`traduzir da <texto>`\n🇩🇪-German use `{{prefix}}`traduzir de <texto>`\n🇮🇹-Italian use `{{prefix}}`traduzir it <texto>`\n🇷🇺-Russian use `{{prefix}}`traduzir ru <texto>`\n🇪🇸-Spanish use `{{prefix}}`traduzir es <texto>`\n🇹🇷-Turkish use `{{prefix}}`traduzir tr <texto>`\n🇫🇷-French use `{{prefix}}`traduzir fr <texto>`",
+    "ETRA_DESC2": "Oi, eu sou a {{user}}",
+    "ETRA_DESC3": "Você sabia que",
+    "ETRA_DESC4": "em",
+    "ETRA_DESC5": "significa",
+    "ETRA_DESC6": "<:SkyeUau:823047534670774303> Uau! Interessante né?"
+}

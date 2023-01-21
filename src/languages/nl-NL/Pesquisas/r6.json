@@ -1,0 +1,22 @@
+{
+    "DESCRIPTION": "Krijg statistieken over een Rainbews-account.",
+    "USAGE": "r6 <user> [pc/xbox/ps4] [eu/na/as]\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "r6 <user> [pc/xbox/ps4] [eu/na/as]",
+    "EXAMPLE": "r6 ThatGinger Guy 02 | r6 ThatGinger Guy 20 stuks eu",
+    "R6": "Geef een gebruikersnaam op om te zoeken",
+    "R6_1": "<a:loading:823004555884232724> Houd vast... Ik ben aan het onderzoeken!",
+    "R6_2": "Statistieken voor",
+    "R6_3": "regio in",
+    "R6_4": "Algemeen:",
+    "R6_5": "Statistieken:",
+    "R6_6": "Wint:",
+    "R6_7": "Verliezen:",
+    "R6_8": "Win/verliesverhouding:",
+    "R6_9": "Doodt",
+    "R6_10": "Sterfgevallen:",
+    "R6_11": "K/D-verhouding",
+    "R6_12": "Speeltijd:",
+    "R6_13": "Uren",
+    "R6_14": "Terroristische jacht:",
+    "R6_15": "Ontbrekende spelersgegevens"
+}

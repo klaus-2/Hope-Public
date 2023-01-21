@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "再生中のトラックの位置を指定した位置に設定します。",
+    "USAGE": "seek <time>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "seek <time>",
+    "EXAMPLE": "シーク 01:00",
+    "IRPARA": "時間は現在の曲の長さよりも短い: `{{time}}`"
+}

@@ -1,0 +1,23 @@
+{
+    "DESCRIPTION": "언급된 사용자의 모든 상태 활동을 자세하게 가져옵니다.",
+    "USAGE": "사용자 활동\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "사용자 활동 [user]",
+    "EXAMPLE": "사용자 활동 @Hope",
+    "EUAT_DESC": "**상태 없음**",
+    "EUAT_DESC1": "이 사용자에게는 사용자 지정 상태가 없습니다!",
+    "EUAT_DESC2": "**상태**",
+    "EUAT_DESC3": "**개인 설정 상태**",
+    "EUAT_DESC4": "이모티콘 없음",
+    "EUAT_DESC5": "현재 활동 {{user}}",
+    "EUAT_DESC6": "**유형**",
+    "EUAT_DESC7": "재생 중",
+    "EUAT_DESC8": "**앱**",
+    "EUAT_DESC9": "**세부 정보**",
+    "EUAT_DESC10": "세부 정보 없음",
+    "EUAT_DESC11": "**근무**",
+    "EUAT_DESC12": "스포티파이 | 노래 정보",
+    "EUAT_DESC13": "노래 이름",
+    "EUAT_DESC14": "앨범",
+    "EUAT_DESC15": "작성자",
+    "EUAT_DESC16": "음악 듣기"
+}

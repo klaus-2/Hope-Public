@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "위협 밈을 생성합니다.",
+    "USAGE": "위협 [user] | [file]\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "위협 [user] | [file]",
+    "EXAMPLE": "위협 사용자 | 위협 <attachment>"
+}

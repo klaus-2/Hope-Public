@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "criar um ticket.",
+    "USAGE": "bilet-criar [motivo]\n💡 **Przykład: {{EXAMPLE}}",
+    "USAGEE": "konfiguracja biletu",
+    "EXAMPLE": "konfiguracja biletu",
+    "TICKET_CRIAR": "Użytkownik utworzył bilet",
+    "TICKET_CRIAR1": "Bilet został utworzony pomyślnie!",
+    "TICKET_CRIAR2": "<:v_:855859391835799582> Można go zobaczyć na kanale: <#{{channel}}>",
+    "TICKET_CRIAR3": "Cześć {{author}}, jestem Hope",
+    "TICKET_CRIAR4": "Akceptujesz ☕ czekając na kogoś z",
+    "TICKET_CRIAR5": "Przyszłam z tobą porozmawiać?\n\nHmmm... Zajmują zbyt długo, zaczekaj, zadzwonię do nich!\n📢 OOOH",
+    "TICKET_CRIAR6": "nadszedł czas na pracę!",
+    "TICKET_CRIAR7": "Jesteś tu z tego powodu:",
+    "TICKET_CRIAR8": "Bilet otwarty!",
+    "TICKET_CRIAR9": "Ticket",
+    "TICKET_CRIAR10": "Użytkownik",
+    "TICKET_CRIAR11": "Powód",
+    "TICKET_CRIAR12": "Otwarty przez",
+    "COOLDOWN": "Możesz otworzyć bilet w {{NUM}} minut."
+}

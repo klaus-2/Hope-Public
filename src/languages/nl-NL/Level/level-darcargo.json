@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Stel de automatische rol van Hope in voor deze server.",
+    "USAGE": "level-giverole <new roleID>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "niveau-giverole <new roleID>",
+    "EXAMPLE": "niveau-giverrol 328328777266673",
+    "LVL_CARGO": "`Neen`",
+    "LVL_CARGO1": "Instellingen: `Level`",
+    "LVL_CARGO2": "<:v_:855859391835799582>O `auto role` is met succes bijgewerkt.",
+    "LVL_CARGO3": "Automatische rol",
+    "LVL_CARGO4": "Gewijzigd van"
+}

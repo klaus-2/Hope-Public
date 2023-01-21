@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Krijg een willekeurig feit.",
+    "USAGE": "feit\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "feit",
+    "EXAMPLE": "feit",
+    "FFATO_DESC": ". /assets/json/random-facts-nl.json",
+    "FACT_TITLE": "Willekeurig feit:"
+}

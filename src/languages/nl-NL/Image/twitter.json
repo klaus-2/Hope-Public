@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Maak een valse Twitter-tweet.",
+    "USAGE": "twitter [user] <text>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "twitter [user] <text>",
+    "EXAMPLE": "twitter @user Ik hou van Hope."
+}

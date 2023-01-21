@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "chercher des informations météorologiques sur une ville.",
+    "USAGE": "météo <localization>\n💡**Exemple** : {{EXAMPLE}}",
+    "USAGEE": "météo <localization>",
+    "EXAMPLE": "weather ny | weather new york",
+    "TEMPO": "Sensibilité thermique :",
+    "TEMPO1": "degrés",
+    "TEMPO2": "Fuseau horaire :",
+    "TEMPO3": "Type de degré:",
+    "TEMPO4": "Latitude et longitude :",
+    "TEMPO5": "Emplacement non valide",
+    "TEMPO_TITULO": "Météo - {{place}}",
+    "TEMPO_DESCRIÇÃO": "Les unités de température peuvent être différentes d'un certain temps",
+    "TEMPO6": "Température :",
+    "TEMPO7": "Texte du ciel :",
+    "TEMPO8": "Humidité :",
+    "TEMPO9": "Vitesse du vent :",
+    "TEMPO10": "Temps d'observation :",
+    "TEMPO11": "Affichage du Vent :"
+}

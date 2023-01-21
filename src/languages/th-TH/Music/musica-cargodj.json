@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "configurar o auto cargo da Hope para este servidor.",
+    "USAGE": "musica-cargodj <ID do novo cargo>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "move <music position> <new position>",
+    "EXAMPLE": "move 4 8",
+    "MUSICA_CARGODJ": "การตั้งค่า: `Music`",
+    "MUSICA_CARGODJ1": "<:v_:855859391835799582>O 'บทบาทดีเจ' ได้รับการปรับปรุงเรียบร้อยแล้ว",
+    "MUSICA_CARGODJ2": "บทบาทดีเจ",
+    "MUSICA_CARGODJ3": "เปลี่ยนจาก"
+}

@@ -1,0 +1,20 @@
+{
+    "FLAGS": "please wait",
+    "FLAGS1": "to play **flags** again.",
+    "FLAGS2": "Guess the country by its flag in less than 30 seconds:",
+    "FLAGS3": "- The first question will award $300",
+    "FLAGS4": "- After the first one, each correct captcha will be worth $100",
+    "FLAGS5": "- You only have 1 attempt per question",
+    "FLAGS6": "- The game starts in 5 seconds...",
+    "FLAGS7": "guess the country by this flag in less than 30 seconds:",
+    "FLAGS8": "Wrong country! The correct answer is",
+    "FLAGS9": "Your time is up! The correct answer is",
+    "FLAGS11": "right country! You've won $100!",
+    "FLAGS12": "you lost on your first try.",
+    "FLAGS13": "You got $200 for trying!",
+    "FLAGS14": "⚠️WARNING FROM THE BANK! Please deposit some of your money in your **bank**. You only received $",
+    "FLAGS15": "this time!",
+    "FLAGS16": "congratulations!",
+    "FLAGS17": "You received **$",
+    "FLAGS18": "dolares** for response"
+}

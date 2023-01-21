@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Eliminar un sorteo",
+    "USAGE": "g-delete <messageID>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "g-delete <messageID>",
+    "EXAMPLE": "g-delete 818821436255895612",
+    "SUCCESS_GIVEAWAY": "<:v_:855859391835799582> ¡Éxito! ¡Sorteo eliminado!",
+    "UNKNOWN_GIVEAWAY": "No se ha encontrado ningún sorteo con el ID del mensaje: `{{message}}`, compruébalo e inténtalo de nuevo, ¿vale? Espero 😊"
+}

@@ -1,0 +1,7 @@
+{
+    "MESSAGE": "{{TIME}} 에 대해 `{{INFO}} `에 대해 상기시켜 드리겠습니다.",
+    "DESC": "메시지 링크",
+    "TITLE": "미리 알림",
+    "FOOTER": "{{TIME}} 전부터 알림.",
+    "RESPONSE": "\n**알림: **\n {USER} 알림: {{INFO}}"
+}

@@ -1,0 +1,19 @@
+{
+    "DESCRIPTION": "Generate a random nsfw image using the provided query. Type `ansfw list` to return all available categories for this command.",
+    "USAGE": "anime-nsfw <category>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "anime-nsfw list",
+    "EXAMPLE": "ansfw list | ansfw blowjob | anime-nsfw classic",
+    "ANSFW_AUTHOR": "booru แบบสุ่ม: NSFW",
+    "ANSFW_FIELD": "อักขระ",
+    "ANSFW_FIELD1": "ลิขสิทธิ์",
+    "ANSFW_FIELD2": "ศิลปิน",
+    "ANSFW_FIELD3": "เมตา",
+    "ANSFW_FIELD4": "ผู้อัปโหลด",
+    "ANSFW_FIELD5": "แท็ก",
+    "ANSFW_FIELD6": "แท็ก, สุ่ม, ภาพ, hentai, booty, reddit",
+    "ANSFW_AUTHOR1": "หมวดหมู่คำสั่ง anime-nsfw",
+    "ANSFW_FIELD7": "เสียใจ,",
+    "ANSFW_FIELD8": "มันไม่ใช่หมวดหมู่ NSFW ที่ถูกต้อง เข้า",
+    "ANSFW_FIELD9": "เพื่อดูหมวดหมู่ที่มีอยู่",
+    "ANSFW_FIELD10": "หากต้องการใช้คำสั่งนี้อย่างถูกต้องให้ทำตามตัวอย่างนี้:"
+}

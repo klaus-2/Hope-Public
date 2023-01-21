@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "データベース内の提案チャネルを設定します。",
+    "USAGE": "set-suggestions\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "セット提案",
+    "EXAMPLE": "セット提案",
+    "SETAR_SUGESTÕES": "提案チャネルは <{{channel}}> で定義されました",
+    "SETAR_SUGESTÕES1": "提案チャンネルはリセットされ、非アクティブ化されました。"
+}

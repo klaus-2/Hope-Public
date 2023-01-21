@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Wybierz wspomnianego użytkownika.",
+    "USAGE": "tickle [user]",
+    "USAGEE": "tickle [user]",
+    "COCEGAS_DESCRIÇÃO": "Zatrzymaj <@{{author}}>! Kątki~",
+    "COCEGAS_DESCRIÇÃO1": "\\❌ Baw się bawiąc **<@{{author}}>**!",
+    "COCEGAS_DESCRIÇÃO2": "zkleszczony o"
+}

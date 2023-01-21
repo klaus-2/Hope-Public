@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Configurez la charge automatique de Hope pour ce serveur.",
+    "USAGE": "leveloption <0-2>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "leveloption <0-2>",
+    "EXAMPLE": "leveloption 2",
+    "LVL_OPC": "Paramètres : `Niveau`",
+    "LVL_OPC1": "<:v_:855859391835799582>La configuration de `level` a été mise à jour avec succès.",
+    "LVL_OPC2": "Réglage du niveau",
+    "LVL_OPC3": "changé de"
+}

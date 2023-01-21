@@ -1,0 +1,8 @@
+{
+    "CHANNEL_CREATE": "Текстовый канал",
+    "CHANNEL_CREATE1": "Голосовой канал",
+    "CHANNEL_CREATE2": "Категория",
+    "CHANNEL_CREATE3": "Новый",
+    "CHANNEL_CREATE4": "создано:",
+    "CHANNEL_CREATE5": "[EVENT — КАНАЛ СОЗДАН]"
+}

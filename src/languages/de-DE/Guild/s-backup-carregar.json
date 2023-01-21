@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Eine Sicherung vom Server laden.",
+    "USAGE": "s-backup-load <backupID>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "s-backup-load <backupID>",
+    "EXAMPLE": "s-backup-load 2334",
+    "S_BACKUP_CARREGAR": "Aah {{author}}, I'm sorry :(",
+    "S_BACKUP_CARREGAR1": "Du benötigst die Berechtigung Nachrichten zu verwalten, um ein Backup auf diesem Server zu erstellen.",
+    "S_BACKUP_CARREGAR2": ":warning: Alle Serverkanäle, Rollen und Einstellungen werden gelöscht. Möchtest du fortfahren? Senden Sie `confirm` oder `cancel`!",
+    "S_BACKUP_CARREGAR3": "bestätigen",
+    "S_BACKUP_CARREGAR4": "abbrechen",
+    "S_BACKUP_CARREGAR5": "Sicherung erfolgreich geladen!",
+    "S_BACKUP_CARREGAR6": "Keine Sicherung für ID gefunden: **{{backupID}}**",
+    "S_BACKUP_CARREGAR7": "Ein Fehler ist aufgetreten:",
+    "S_BACKUP_CARREGAR8": ":x: abgebrochen.",
+    "S_BACKUP_CARREGAR9": "Zeitüberschreitung für :x: Befehl! Bitte versuchen Sie es erneut."
+}

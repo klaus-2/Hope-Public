@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Désactiver l'audio d'un utilisateur.",
+    "USAGE": "deafen <user> [time]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "deafen <user> [time]",
+    "EXAMPLE": "deafen @Hope | deafen @Hope 5m",
+    "DAUDIO": "Je ne peux pas rendre sourde quelqu'un qui n'est pas sur un canal vocal."
+}

@@ -1,0 +1,23 @@
+{
+    "DESCRIPTION": "Obtén una recompensa diaria en efectivo por el complemento Economy.",
+    "USAGE": "daily\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "diario",
+    "EXAMPLE": "diario",
+    "BONUS_DIARIO": "<:cancel:855859391709577266> Ya has recogido tu recompensa diaria\n\nLa próxima recompensa estará disponible en",
+    "BONUS_DIARIO1": "y",
+    "BONUS_DIARIO2": "ok?",
+    "BONUS_DIARIO3": "<:v_:855859391835799582> Has recogido tu recompensa diaria de",
+    "BONUS_DIARIO4": "skcoins correctamente.",
+    "BONUS_DIARIO5": "**Gracias por tu apoyo**",
+    "BONUS_DIARIO6": "Ah! Y, por supuesto, he notado tu majestuosa presencia allí en mi [Servidor de Soporte] ({{SupportServer}}), y como agradecimiento te voy a dar un regalo",
+    "BONUS_DIARIO7": "skcoins** extra!",
+    "BONUS_DIARIO8": "**Felicitaciones**",
+    "BONUS_DIARIO9": "<:Skyecomemorando:823248929503445026> ** ¡Recibiste un artículo genial para tu perfil como regalo! **: Has ganado",
+    "BONUS_DIARIO10": "por sus recompensas diarias. El artículo ya se ha añadido a tu inventario.",
+    "BONUS_DIARIO11": "**Aviso bancario**:",
+    "BONUS_DIARIO12": "⚠️ ¡Atención! Tu billetera no puede contener más dinero. ¡Ha alcanzado el límite de 60.000 dólares!\n¡Necesitas transferir parte de tu dinero a tu banco!",
+    "BONUS_DIARIO13": "**Racha perdida**:",
+    "BONUS_DIARIO14": "⚠️ ¿Por qué no recoges tus recompensas todos los días y te estás perdiendo recompensas increíbles? Qué lástima, por ahora tu racha es **x1**.",
+    "BONUS_DIARIO15": "🔥 **Wow, tu racha actual es",
+    "BONUS_DIARIO16": "Sigan así"
+}

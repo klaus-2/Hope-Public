@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Générer un guillemet d'anime aléatoire",
+    "USAGE": "aniquote\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "guillemet",
+    "EXAMPLE": "aniquote anime one piece | anime-frase character naruto | af",
+    "AFRASE_FIELD": "*Devis de {{anime}}*",
+    "AFRASE_FOOTER": "guillemet [anime <name>] [caractère <name>]"
+}

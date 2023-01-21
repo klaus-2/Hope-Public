@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Hiermee wordt de score op serverniveau weergegeven.",
+    "USAGE": "rang\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "rang",
+    "EXAMPLE": "rank userID | lb @mention | leaderboard gebruikersnaam",
+    "LVL_RANK": "Server ",
+    "LVL_RANK1": "Niveau:",
+    "LEADERBOARD_TITLE": "Ranking de Níveis — Hope 👸",
+    "LEADERBOARD_FIELDT": "Geen gegevens gevonden",
+    "LEADERBOARD_FIELDDESC": "Typ de chat om ervaring op te doen."
+}

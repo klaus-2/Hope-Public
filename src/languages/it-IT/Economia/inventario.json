@@ -1,0 +1,21 @@
+{
+    "DESCRIPTION": "Controlla i tuoi oggetti.",
+    "USAGE": "inventario\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "inventario",
+    "EXAMPLE": "inventario",
+    "INV": "Ciao {{author}} è il tuo inventario!",
+    "INV1": "Di seguito sono riportati tutti gli elementi che hai attualmente sul server {{guild}}.",
+    "INV2": "Negozio di Hope's",
+    "INV3": "Pagina",
+    "INV4": "di",
+    "INV5": "Tipo:",
+    "INV6": "Prezzo Di Vendita:",
+    "INV7": "Anteprima:",
+    "INV8": "viewitem",
+    "INV9": "Equip:",
+    "INV10": "uso",
+    "INV11": "Vendita:",
+    "INV12": "vendi",
+    "INV13": "[quantity]",
+    "INV14": "il tuo inventario è vuoto.\nAcquista oggetti dal negozio di Hope's (**{{prefix}}negozio**)"
+}

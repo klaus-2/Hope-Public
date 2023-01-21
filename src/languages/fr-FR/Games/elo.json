@@ -1,0 +1,23 @@
+{
+    "DESCRIPTION": "Afficher le plus grand rang d'un utilisateur dans la Ligue des Légendes.",
+    "USAGE": "elo <nick>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "elo <nick>",
+    "EXAMPLE": "elo yassuo",
+    "ELO": "est actuellement au niveau",
+    "ELO1": "Elo",
+    "ELO2": "W/L",
+    "ELO3": "Taux de victoire",
+    "ELO4": "LP",
+    "ELO5": "n1",
+    "ELO6": "GRANDMASTER",
+    "ELO7": "BRONZE",
+    "ELO8": "IRON",
+    "ELO9": "SILVEUR",
+    "ELO10": "OR",
+    "ELO11": "PLATINUM",
+    "ELO12": "DIAMOND",
+    "ELO13": "MASTER",
+    "ELO14": "CHALLENGER",
+    "ELO15": "Profil de la Ligue des Légendes",
+    "ELO16": "Désolé, mais les invocateurs n'existent pas.\nVérifiez que vous avez correctement épelé le nom et réessayez."
+}

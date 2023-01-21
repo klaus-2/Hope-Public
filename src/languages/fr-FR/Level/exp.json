@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Montre votre note / niveau.",
+    "USAGE": "exp [user]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "exp [user]",
+    "EXAMPLE": "exp @Hope",
+    "NO_MESSAGES": "Vous n'êtes pas encore classé. Envoyez d'abord des messages, puis réessayez."
+}

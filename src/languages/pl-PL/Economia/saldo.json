@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Wyświetla bieżące saldo.",
+    "USAGE": "bilans\n💡 **Przyklad**: {{EXAMPLE}}",
+    "USAGEE": "saldo",
+    "EXAMPLE": "saldo",
+    "SALDO": "Poniżej znajdują się wszystkie informacje o Twojej gospodarce!",
+    "SALDO1": "<:carteira:855169963470880778> Portfel",
+    "SALDO2": "$",
+    "SALDO3": "skcoins w portfelu",
+    "SALDO4": "<:banco:855170000985391186> Bank",
+    "SALDO5": "skcoins na Twoim banku",
+    "SALDO6": "Bieżąca smuga:",
+    "SALDO7": "Najlepszy czas:",
+    "SALDO8": "lewa",
+    "SALDO9": "smugi, aby otrzymać **Przedmiot z nagrodą\\ ✨",
+    "SALDO10": "<:bonus:855181102893498438> Bonus",
+    "SALDO11": "✔️ Bonus dzienny został już **zastrzeżona**! Możesz ubiegać się o to ponownie na",
+    "SALDO12": "W przypadku gdy państwo członkowskie lub Szwajcaria stwierdzi, że dane państwo członkowskie lub Szwajcaria spełniają warunki określone w art. 4 ust. 1 lit. a) i b) oraz w art. 5 ust. 1 lit. b) i c) rozporządzenia (WE) nr 207/2009 oraz w art. 5 ust. 1 lit. b) i c) rozporządzenia (WE) nr 207/2009 oraz w art. 5 ust. 1 lit. b) tego rozporządzenia i art. 6 ust. 1 lit. b) tego rozporządzenia i c) tego rozporządzenia stosuje się od dnia 1 stycznia 2018 r.",
+    "SALDO13": "⚠️ Bonus dzienny jest **dostępny**!\nUżywaj „{{prefix}}dziennie” do wykupu."
+}

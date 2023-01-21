@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "チケットを閉じます。",
+    "USAGE": "t-delete\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "T-Delete",
+    "EXAMPLE": "T-Delete",
+    "TICKET": "このチケットは**10** 秒後に削除されます。"
+}

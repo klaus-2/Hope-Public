@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "自動Reddit アドオンを設定します。",
+    "USAGE": "auto-reddit <add | remove >\n💡**例**: {{EXAMPLE}}",
+    "USAGEE": "auto-reddit <add | remove >",
+    "EXAMPLE": "auto-reddit 追加",
+    "REDDIT": "add",
+    "REDDIT1": "おっと！この Reddit は存在しないか、完全に空です。確認してもう一度お試しください。",
+    "REDDIT2": "Reddit は <#{{channel}}> に正常に追加されました!",
+    "REDDIT3": "remove",
+    "REDDIT4": "自動 reddit は正常に無効化されました!",
+    "REDDIT5": "おっと！間違った Subreddit 名を入力したか、アドオンには存在しません。\n確認して再度お試し下さい。",
+    "REDDIT6": "チャンネル <#{{channel}}> は **{{sub}}** subreddit から正常に削除されました",
+    "REDDIT7": "disable"
+}

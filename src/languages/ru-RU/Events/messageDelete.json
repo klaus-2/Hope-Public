@@ -1,0 +1,11 @@
+{
+    "MESSAGE_DELETE": "Сообщение от",
+    "MESSAGE_DELETE1": "была удалена в",
+    "MESSAGE_DELETE2": "Идентификатор автора:",
+    "MESSAGE_DELETE3": "Идентификатор сообщения:",
+    "MESSAGE_DELETE4": "[EVENT — УДАЛЕННОЕ СООБЩЕНИЕ]",
+    "MESSAGE_DELETE5": "Контент",
+    "MESSAGE_DELETE6": "(укороченная)",
+    "MESSAGE_DELETE7": "*пустой*",
+    "MESSAGE_DELETE8": "Вложения"
+}

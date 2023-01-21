@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Envoyez un gif du RPG `suicide` sur le chat. Généralement interprété comme 「L'utilisateur qui a utilisé cette commande veut se suicider (de manière plaisante)」. À utiliser pour indiquer que vous êtes surpris par les discussions de l'utilisateur précédent qui vous donnent envie de vous tuer. Il s'agit d'une commande de jeu de rôle et doit être utilisé comme une blague, cependant il sera limité à un canal nsfw en raison de la nature sensible de cette commande. Le contexte ne doit pas inclure les crimes réels.",
+    "USAGE": "suicider",
+    "USAGEE": "suicider",
+    "SUICIDAR_DESCRIÇÃO": "<@{{author}}> Je viens de me suicider. <:SkyeRIP:823223047733379103>"
+}

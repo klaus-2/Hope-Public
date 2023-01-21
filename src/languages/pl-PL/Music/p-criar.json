@@ -1,0 +1,17 @@
+{
+    "DESCRIPTION": "Tworzenie listy odtwarzania",
+    "USAGE": "p-create <playlist name> <search term/link>\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "p utwórz <playlist name> <search term/link>",
+    "EXAMPLE": "p-utwórz łącze testowe",
+    "P_CRIAR": "Tytuł playlisty musi być mniejszy niż 32 znaki!",
+    "P_CRIAR1": "Dodawanie utworów do listy odtwarzania (Może to potrwać kilka sekund)...",
+    "P_CRIAR2": "Premium pozwala na zapisanie do 3 list odtwarzania zamiast 1.",
+    "P_CRIAR3": "Nie możesz zapisać więcej list odtwarzania. Maks.: 3",
+    "P_CRIAR4": "Lista odtwarzania już istnieje o tej nazwie.",
+    "P_CRIAR5": "Utworzono playlistę z nazwą:",
+    "P_CRIAR6": "Czas trwania listy odtwarzania:",
+    "P_CRIAR7": "Dodano",
+    "P_CRIAR8": "utworów) do",
+    "P_CRIAR9": "Piosenki:",
+    "P_CRIAR10": "nie jest listą odtwarzania"
+}

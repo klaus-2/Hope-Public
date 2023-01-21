@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Habilita o deshabilita el complemento de comandos de Hope en el servidor.",
+    "USAGE": "mod-commands <enable | disable>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "mod-commands <enable | disable>",
+    "EXAMPLE": "mod-comandos habilitar"
+}

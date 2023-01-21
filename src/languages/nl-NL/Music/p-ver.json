@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Geeft een afspeellijst weer",
+    "USAGE": "p-view <playlist name>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "p-view <playlist name>",
+    "EXAMPLE": "p-view Test",
+    "P_VER": "Je hebt geen afspeellijsten opgeslagen.",
+    "P_VER1": "De beschikbare afspeellijsten zijn: `{{playlists}}`.\nGebruik `{{prefix}}p-view <playlist name>` voor meer details!",
+    "P_VER2": "Pagina",
+    "P_VER3": "songs",
+    "P_VER4": "totale duur",
+    "P_VER5": "Dat is geen afspeellijst die je hebt gemaakt."
+}

@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "立即获取有关星座的信息。",
+    "USAGE": "星座运势 <sign>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "星座运势 <sign>",
+    "EXAMPLE": "星座金牛座",
+    "FHOR_DESC": "请给我一个手势来拿他的星座！",
+    "FHOR_DESC1": "这不是一个有效的标志！",
+    "FHOR_DESC2": "对不起！我的 API（星座运势机器）无法正常工作！",
+    "FHOR_DESC3": "心情",
+    "FHOR_DESC4": "没有数据。",
+    "FHOR_DESC5": "强度",
+    "FHOR_DESC6": "关键词"
+}

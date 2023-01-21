@@ -1,0 +1,15 @@
+{
+    "WARNING_SYSTEM": "การดูแล",
+    "WARNING_SYSTEM1": "คุณได้รับคําเตือนใน {{guild}}",
+    "WARNING_SYSTEM2": "แนะนําโดย:",
+    "WARNING_SYSTEM3": "เหตุผล:",
+    "WARNING_SYSTEM4": "คำเตือน:",
+    "WARNING_SYSTEM5": "1/3",
+    "WARNING_SYSTEM6": "คุณได้รับคําเตือนอื่นใน {{guild}}",
+    "WARNING_SYSTEM7": "2/3",
+    "WARNING_SYSTEM8": "[เตะ]",
+    "WARNING_SYSTEM10": "[เตือน]",
+    "WARNING_SYSTEM11": "ผู้ใช้:",
+    "WARNING_SYSTEM12": "ผู้ดําเนินรายการ:",
+    "WARNING_SYSTEM13": "คำ เตือน:"
+}

@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Wycisz wyciszenie użytkownika.",
+    "USAGE": "unmute <user> \n💡 **Przykład: {{EXAMPLE}}",
+    "USAGEE": "unmute <user>",
+    "EXAMPLE": "cofnij wyciszenie Hope"
+}

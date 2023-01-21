@@ -1,0 +1,23 @@
+{
+    "DESCRIPTION": "メンションされたユーザーのすべてのステータスアクティビティを詳細に表示します。",
+    "USAGE": "ユーザーアクティビティ\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "ユーザーアクティビティ [user]",
+    "EXAMPLE": "ユーザーアクティビティ @Hope",
+    "EUAT_DESC": "**ステータスなし**",
+    "EUAT_DESC1": "このユーザーにはカスタムステータスがありません。",
+    "EUAT_DESC2": "**ステータス**",
+    "EUAT_DESC3": "**パーソナライズされたステータス**",
+    "EUAT_DESC4": "絵文字なし",
+    "EUAT_DESC5": "{{user}}の現在のアクティビティ",
+    "EUAT_DESC6": "**タイプ**",
+    "EUAT_DESC7": "プレイ中",
+    "EUAT_DESC8": "**アプリ**",
+    "EUAT_DESC9": "**詳細**",
+    "EUAT_DESC10": "詳細なし",
+    "EUAT_DESC11": "**仕事中**",
+    "EUAT_DESC12": "Spotify | 曲情報",
+    "EUAT_DESC13": "曲の名前",
+    "EUAT_DESC14": "アルバム",
+    "EUAT_DESC15": "著者",
+    "EUAT_DESC16": "音楽を聴く"
+}

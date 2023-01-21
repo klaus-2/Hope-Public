@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "ユーザーを突く。",
+    "USAGE": "ポーク <user>",
+    "USAGEE": "ポーク <user>",
+    "CUTUCAR_DESCRIÇÃO": "\\❌ **<@{{author}}>**、誰をポーキングすればいいですか？",
+    "CUTUCAR_DESCRIÇÃO1": "私はすでにここにいます。何か必要なものはありますか？",
+    "CUTUCAR_DESCRIÇÃO2": "\\❌ **<@{{author}} >**です！",
+    "CUTUCAR_DESCRIÇÃO3": "poked"
+}

@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "다른 사용자와 함께 선박 이미지를 생성합니다.",
+    "USAGE": "배송 <user1> [user2]\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "선박 <user1> [user2]",
+    "EXAMPLE": "배송 사용자 | 배송 사용자 <attachment>"
+}

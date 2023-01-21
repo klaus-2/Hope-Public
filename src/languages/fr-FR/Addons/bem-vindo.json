@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Activer ou désactiver l'extension de bienvenue.",
+    "USAGE": "welcome <enable | disable>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "bienvenu <enable | disable>",
+    "EXAMPLE": "welcome enable"
+}

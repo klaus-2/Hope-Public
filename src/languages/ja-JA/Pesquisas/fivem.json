@@ -1,0 +1,18 @@
+{
+    "DESCRIPTION": "FIVEM のサーバーからの情報を表示します。",
+    "USAGE": "fivem <IP:PORT>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "fivem <IP:PORT>",
+    "EXAMPLE": "fivem ger-h10.vibegames.net: 30196",
+    "FIVEM": "サーバー統計",
+    "FIVEM1": "サーバーステータス:",
+    "FIVEM2": "現在、",
+    "FIVEM3": "接続されたプレーヤー。",
+    "FIVEM4": "プレイヤー ID",
+    "FIVEM5": "プレイヤー名",
+    "FIVEM6": "サーバー (FIVEM) への接続に失敗しました。",
+    "FIVEM7": "利用できません",
+    "FIVEM8": "現在、オンラインのプレイヤーはいません。",
+    "FIVEM9": "なし",
+    "FIVEM10": "スカイチップ",
+    "FIVEM11": "💡 *サーバーがオフラインであるか、サーバーの IP: PORT が間違っています。*"
+}

@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "aplica el orden aleatorio a la lista de reproducción.",
+    "USAGE": "shuffle\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "barajar",
+    "EXAMPLE": "barajar",
+    "OA": "<:v_:855859391835799582> La lista de reproducción se ha barajado correctamente."
+}

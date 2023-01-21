@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "しばらく覚えておくべきことを定義してください。",
+    "USAGE": "リマインダー <time> <message>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "リマインダー <time> <message>",
+    "EXAMPLE": "リマインダー 1h 私の猫を養う",
+    "FLEMBRETE_DESC": "記憶する期間を設定する必要があります。",
+    "FLEMBRETE_DESC1": "与えられた時間",
+    "FLEMBRETE_DESC2": "31日の制限を超えた",
+    "FLEMBRETE_DESC3": "記憶されるメッセージを書かなければならない！",
+    "FLEMBRETE_DESC4": "やあ！",
+    "FLEMBRETE_DESC5": "あなたは私の助けを頼りにできる okaaay！ここから思い出させてあげる",
+    "FLEMBRETE_DESC6": "お前は俺が覚えるだろうと信用できる、~~*思う*~~"
+}

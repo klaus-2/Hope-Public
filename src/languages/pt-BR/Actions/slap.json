@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Dê um tapa em um usuario.",
+    "USAGE": "tapa [user]\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "tapa [user]",
+    "EXAMPLE": "tapa @Hope | tapa @user1 @User2",
+    "TAPA_DESCRIÇÃO": "<@{{member}}>, por favor, não se bata!",  
+    "TAPA_DESCRIÇÃO1": "**mim**",
+    "TAPA_DESCRIÇÃO2": "deu umas bofetadas em",
+    "TAPA_HopeFRASE": "(；︿ ；✿) M-Me desculpe.. Você pode dar um tapa neles, mas por favor n-não me bata...",      
+    "TAPA_DESC": " e ",
+    "TAPA_DESC1": ", e ",    
+    "TAPA_DESC2": "mim"
+}

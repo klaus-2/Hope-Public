@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "criar um TexTemporario 运河。",
+    "USAGE": "临时通道 <categoryID> <time in minutes>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "临时通道 <categoryID> <time in minutes>",
+    "EXAMPLE": "临时通道 804851508944306237 1",
+    "CANALTEMP": "你已经有了临时频道。",
+    "CANALTEMP1": "您已在频道中被标记，请检查。",
+    "CANALTEMP2": "频道临时",
+    "CANALTEMP3": "此频道是临时频道。\n它将在 {{expire}} 分钟后被删除"
+}

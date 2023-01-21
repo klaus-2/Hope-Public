@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "ユーザーがサーバーを離れるときにチャンネルで送信されるメッセージを設定します。",
+    "USAGE": "bv-leavemsg <message>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "bv-leavemsg <message>",
+    "EXAMPLE": "bv-leavemsg **{user}** サーバーからログオフしたばかりです。",
+    "BV_SAIRMENSAGEM": "<: v_: 855859391835799582> チャンネルが正常に更新されました:"
+}

@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Retrocede o player pelo valor especificado.",
+    "USAGE": "retroceder <tempo>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "retroceder <tempo>",
+    "EXAMPLE": "retroceder 1:00 | retroceder 1:32:00",
+    "RETROCEDER": "Uma música não pode ter menos de 0 segundos de duração",
+    "RETROCEDER1": "Ei, retrocidir",
+    "RETROCEDER2": "da musica atual.\nTempo atual:",
+    "RETROCEDER3": "Tempo em formato inválido"
+}

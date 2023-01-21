@@ -1,0 +1,4 @@
+{
+    "DESCRIPTION": "Hiermee wordt een scriptbestand uitgevoerd.",
+    "USAGE": "script <file name> [...params]"
+}

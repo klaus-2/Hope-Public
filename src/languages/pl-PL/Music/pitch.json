@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "zastosować efekt skoku do muzyki.",
+    "USAGE": "boisko <value | off>\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "boisko <value | off>",
+    "EXAMPLE": "odskocz | boisko 6",
+    "PITCH": "Dezaktywacja efektu **pitch**. <:Skyeouvindomusica:823046654554144768> To może potrwać kilka sekund...",
+    "PITCH1": "<:v_:855859391835799582> **pitch** został dezaktywowany.",
+    "PITCH2": "Ilość musi być liczbą rzeczywistą.",
+    "PITCH3": "Skok powinien wynosić od 0 do 10.",
+    "PITCH4": "Ustawianie podziału na",
+    "PITCH5": "To może potrwać kilka sekund...",
+    "PITCH6": "Skok ustawiony na"
+}

@@ -1,0 +1,19 @@
+{
+    "DESCRIPTION": "更改或建议的状态。",
+    "USAGE": "建议 <AGUARDANDO | APROVADO | NEGADO>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "设置建议",
+    "EXAMPLE": "设置建议",
+    "SUGESTÕES": "哎呀！ {{status}} 表示 ** 状态未知 **\n请使用以下选项之一：`{{var}}`。",
+    "SUGESTÕES1": "请使用",
+    "SUGESTÕES2": "发生了错误，请在 {{prefix}}错误中报告此错误",
+    "SUGESTÕES3": "建议渠道不再存在",
+    "SUGESTÕES4": "此消息不再存在",
+    "SUGESTÕES5": "建议的",
+    "SUGESTÕES6": "你想建议一些东西吗？只需输入此频道",
+    "SUGESTÕES7": "状态",
+    "SUGESTÕES8": "管理部门的评论",
+    "SUGESTÕES9": "建议状态已成功更新！",
+    "SUGESTÕES10": "<: Informao:823004619805294643> 等待社区的反馈，请投票！",
+    "SUGESTÕES11": "<: v_: 855859391835799582> 建议已接受！期待很快。",
+    "SUGESTÕES12": "<: cancel: 855859391709577266> 感谢您的建议，但我们目前对此不感兴趣。"
+}

@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "skonfiguruj wiadomość, która ma być wysłana w prywatnym użytkownika podczas logowania się na serwerze.",
+    "USAGE": "bv-msgprivate <mensagem>\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "bv-msgprivate <message>",
+    "EXAMPLE": "bv-msgprivate Bawcie się świetnie tutaj na **{server}**!",
+    "BV_MENSAGEMPRIVADO": "<:v_:855859391835799582> Kanał został pomyślnie zaktualizowany do:"
+}

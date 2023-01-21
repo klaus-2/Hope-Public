@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Joue la ligne précédente de la file d'attente.",
+    "USAGE": "dos\n💡**Exemple**: {{EXAMPLE}}",
+    "USAGEE": "verso",
+    "EXAMPLE": "dos | précédent | précédent"
+}

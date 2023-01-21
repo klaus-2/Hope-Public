@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Legt den Economia Geburtstag für Ihre Economia Karte fest.",
+    "USAGE": "setbirthday <d-m>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "setbirthday <d-m>",
+    "EXAMPLE": "setbirthday 02-12",
+    "NIVER": "bitte gib deinen **Geburtstag** ein!",
+    "NIVER1": "bitte geben Sie das Datum im Format **DD-MM** ein",
+    "NIVER2": "dein Geburtstagsdatum wurde aktualisiert auf"
+}

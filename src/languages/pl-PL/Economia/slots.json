@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Szczeliny gry | 9x - rzadki | 3x - wspólny",
+    "USAGE": "szczeliny <bet amount>\n💡 **przykład**: {{EXAMPLE}}",
+    "USAGEE": "szczeliny <bet amount>",
+    "EXAMPLE": "szczeliny 5000",
+    "SLOTS": "Yaayy! <:SkyecomeMorando:828375859832160286> Gratulacje, wygrałeś",
+    "SLOTS1": "skcoins",
+    "SLOTS2": "<:Skyeaff:823057603135012874> Ahh... cóż za wstyd, przegrałeś",
+    "SLOTS3": "<:cancel:855859391709577266> Você está apostando mais do que você tem",
+    "SLOTS4": "musisz określić wartość.",
+    "SLOTS5": "$",
+    "SLOTS6": "skcoins"
+}

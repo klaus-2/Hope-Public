@@ -1,0 +1,19 @@
+{
+    "ROLE_UPDATE": "Роль:",
+    "ROLE_UPDATE1": "его имя было изменено",
+    "ROLE_UPDATE2": "[EVENT — НАЗВАНИЕ РОЛИ ИЗМЕНЕНО]",
+    "ROLE_UPDATE3": "Старое имя:",
+    "ROLE_UPDATE4": "Новое имя:",
+    "ROLE_UPDATE5": "Цвет роли:",
+    "ROLE_UPDATE6": "была изменена",
+    "ROLE_UPDATE7": "[EVENT — ЦВЕТ РОЛИ ИЗМЕНЕН]",
+    "ROLE_UPDATE8": "Старый цвет:",
+    "ROLE_UPDATE9": "Новый цвет:",
+    "ROLE_UPDATE10": "Разрешения роли:",
+    "ROLE_UPDATE11": "были изменены",
+    "ROLE_UPDATE12": "нажмите здесь",
+    "ROLE_UPDATE13": "и понять, что означают эти цифры",
+    "ROLE_UPDATE14": "[EVENT — РАЗРЕШЕНИЯ РОЛЕЙ ИЗМЕНЕНЫ]",
+    "ROLE_UPDATE15": "Предыдущие разрешения:",
+    "ROLE_UPDATE16": "Новые разрешения:"
+}

@@ -1,0 +1,6 @@
+{
+    "GUILD_CREATE": "[이벤트 — 서버 추가]",
+    "GUILD_CREATE1": "서버 이름",
+    "GUILD_CREATE2": "서버 소유자",
+    "GUILD_CREATE3": "회원 수"
+}

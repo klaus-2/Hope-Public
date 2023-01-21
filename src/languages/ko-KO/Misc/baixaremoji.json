@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "PNG 또는 GIF의 일부 서버에서 이모티콘을 다운로드하십시오!",
+    "USAGE": "다운로드이모티콘 <emoji>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "다운로드이모티콘 <emoji>",
+    "EXAMPLE": "다운로드이모티콘 이모티콘",
+    "EBEM_DESC": "이모티콘이 링크로 성공적으로 변환되었습니다!",
+    "EBEM_DESC1": "링크:",
+    "EBEM_DESC2": "[다운로드하려면 여기를 클릭하십시오] ({{Link}})",
+    "EMOJI_INVALIDO": "올바른 그림 이모티콘이 필요합니다!",
+    "EMOJI_PADRÃO": "표준 이모티콘은 다운로드로 변환할 수 없습니다."
+}

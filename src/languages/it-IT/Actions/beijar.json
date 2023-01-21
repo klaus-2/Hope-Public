@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Baciare gli utenti che hai menzionato!",
+    "USAGE": "bacio [user]",
+    "USAGEE": "bacio [user]",
+    "BEIJAR_DESCRIÇÃO": "Non puoi baciarti, ma lasciami baciarti, <@{{member}}>!",
+    "BEIJAR_Hope": " **I**",
+    "BEIJAR_DESCRIÇÃO1": "baciato",
+    "BEIJAR_HopeFRASE": "Non è come voglio che mi baciiate o niente.",
+    "BEIJAR_DESC": " e ",
+    "BEIJAR_DESC1": ", e "
+}

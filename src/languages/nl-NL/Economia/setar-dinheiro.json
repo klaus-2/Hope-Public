@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "voeg geld toe aan een gebruiker. Gebruik een negatief teken (**-**) om geld van de gebruiker te verwijderen!",
+    "USAGE": "set-money <user> <value>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "set-money <user> <value>",
+    "EXAMPLE": "set-money @Hope 5000 | set-money @Hope -5000",
+    "SETAR_DINHEIRO": "De geïnformeerde waarde is geen getal!\nZorg ervoor dat het argument na de vermelding van de gebruiker een **NUMMER** is.",
+    "SETAR_DINHEIRO1": "Ik heb **$ met succes verwijderd",
+    "SETAR_DINHEIRO2": "**Gelieve een geldige gebruiker in te voeren! **",
+    "SETAR_DINHEIRO3": "van de portemonnee van",
+    "SETAR_DINHEIRO4": "Huidig saldo:",
+    "SETAR_DINHEIRO5": "$",
+    "SETAR_DINHEIRO6": "skcoins",
+    "SETAR_DINHEIRO7": "Ik heb met succes **$ toegevoegd"
+}

@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Sets the profile bio for your profile card.",
+    "USAGE": "setbio <message>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "setbio <message>",
+    "EXAMPLE": "setbio The coolest person in town",
+    "BIO": "Hello {{author}}, you already have a biography",
+    "BIO1": "To change your biography, use `{{prefix}}setbio <newMessage>`",
+    "BIO2": "You need to set a message for your bio.",
+    "BIO3": "you have reached the **limit of `165` characters allowed!",
+    "BIO4": "Hello {{author}}, you have set a new biography!",
+    "BIO5": "You can check it out with the command `{{prefix}}profile`"
+}

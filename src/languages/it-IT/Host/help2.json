@@ -1,0 +1,4 @@
+{
+    "DESCRIPTION": "Invia informazioni su tutti i comandi che posso fare.",
+    "USAGE": "help [comando <unk> plugin]"
+}

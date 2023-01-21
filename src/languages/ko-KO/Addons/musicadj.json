@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "아티브 또는 레벨 애드온.",
+    "USAGE": "뮤지컬 <ativar | desativar>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "뮤지카디 <ativar | desativar>",
+    "EXAMPLE": "음악DJ 활성화"
+}

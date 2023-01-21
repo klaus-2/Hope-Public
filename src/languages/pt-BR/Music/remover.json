@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Remove uma musica da fila.",
+    "USAGE": "remover <posição> [posição]\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "remover <posição> [posição]",
+    "EXAMPLE": "remover 3 | remover 3 7",
+    "REMOVER": "Não é possível remover uma música que já está tocando. Para remover a música que está tocando: `{{prefix}}skip`",
+    "REMOVER1": "Não encontrei essa música.",
+    "REMOVER2": "Removi **{{title}}** da fila.",
+    "REMOVER3": "O valor final deve ser maior do que o inicial.",
+    "REMOVER4": "Removi",
+    "REMOVER5": "músicas da fila.",
+    "REMOVER6": "Numero invalido."
+}

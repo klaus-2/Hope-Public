@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Configure o canal de moderação neste servidor.",
+    "USAGE": "mod-canal <ID do canal>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "mod-canal <ID do canal>",
+    "EXAMPLE": "mod-canal 8654930377",
+    "MOD_CANAL": "Configurações: `Servidor`",
+    "MOD_CANAL1": "<:v_:855859391835799582>A configuração de `level` foi atualizado com sucesso.",
+    "MOD_CANAL2": "Configuração de Level",
+    "MOD_CANAL3": "Canal alterado de"
+}

@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Deposit an amount of money from the Economy addon into your bank account.",
+    "USAGE": "deposit <value>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "deposit <value>",
+    "EXAMPLE": "deposit 5000",
+    "DEPOSITAR": "all",
+    "DEPOSITAR1": "<:cancel:855859391709577266> You have no money to deposit",
+    "DEPOSITAR2": "<:v_:855859391835799582> You deposited all your coins in your bank",
+    "DEPOSITAR3": "<:cancel:855859391709577266> Specify an amount to deposit",
+    "DEPOSITAR4": "<:cancel:855859391709577266> Your value is not a number!",
+    "DEPOSITAR5": "<:cancel:855859391709577266> You cannot deposit negative money",
+    "DEPOSITAR6": "you do not have that amount available to deposit in your bank.",
+    "DEPOSITAR7": "<:v_:855859391835799582> You deposited",
+    "DEPOSITAR8": "skcoins to your bank account"
+}

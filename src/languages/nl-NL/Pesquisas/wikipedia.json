@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Zoek Wikipedia naar de opgegeven term.",
+    "USAGE": "wikipedia <term>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "wikipedia <term>",
+    "EXAMPLE": "wikipedia regen",
+    "WIKIPEDIA": "Ohh! Ik kon dat niet vinden op Wikipedia.\nIk vraag me af of je het goed hebt gespeld?",
+    "WIKIPEDIA1": "Link",
+    "WIKIPEDIA2": "Deze paragraaf duurde te lang voor het insluiten, klik op de meegeleverde link.",
+    "WIKIPEDIA3": "nl"
+}

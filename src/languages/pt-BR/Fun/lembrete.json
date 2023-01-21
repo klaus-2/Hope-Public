@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Defina algo para ser lembrado daqui um tempo..",
+    "USAGE": "lembrete <tempo> <mensagem>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "lembrete <tempo> <mensagem>",
+    "EXAMPLE": "lembrete 1h Alimentar meu gato",
+    "FLEMBRETE_DESC": "Você deve definir um período de tempo para ser lembrado!",
+    "FLEMBRETE_DESC1": "O tempo dado",
+    "FLEMBRETE_DESC2": "excedeu o limite de 31 dias",
+    "FLEMBRETE_DESC3": "Você deve escrever uma mensagem para ser lembrado!",
+    "FLEMBRETE_DESC4": "Ei",
+    "FLEMBRETE_DESC5": "pode contar comigo beeeeleza! Eu vou te lembrar daqui",
+    "FLEMBRETE_DESC6": "Pode confiar que eu vou lembrar hein, ~~*eu acho*~~"
+}

@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Konfiguruje moduł Auto-Addon Anty-Dehoisting.",
+    "USAGE": "anti-dehoisting\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "anti-dehoisting",
+    "EXAMPLE": "anti-dehoisting 2",
+    "DEHOISTING": "enable",
+    "DEHOISTING1": "`[AUTO-MOD]` Przeciwwłamanie zostało pomyślnie aktywowane.",
+    "DEHOISTING2": "disable",
+    "DEHOISTING3": "`[AUTO-MOD]` Przeciwwłamanie zostało pomyślnie wyłączone."
+}

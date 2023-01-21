@@ -1,0 +1,22 @@
+{
+    "DESCRIPTION": "Legt das Auto-Anime-Addon fest.",
+    "USAGE": "auto-animes <add | remove >\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "auto-animes <add | remove >",
+    "EXAMPLE": "Auto-Animes hinzufügen",
+    "ANIMES": "enable",
+    "ANIMES1": "Das Addon `Auto-Animes` wurde erfolgreich aktiviert.",
+    "ANIMES2": "disable",
+    "ANIMES3": "Das Addon `Auto-Animes` wurde erfolgreich deaktiviert.",
+    "ANIMES4": "channel",
+    "ANIMES5": "Hoppla! Ich habe keinen Zugriff auf diesen Kanal oder er existiert nicht auf diesem Server. Überprüfe ihn und versuche es erneut!",
+    "ANIMES6": "Der Kanal wurde erfolgreich auf <#{{channel}}> im Addon `Auto-Animes` aktualisiert.",
+    "ANIMES7": "add",
+    "ANIMES8": "Hoppla! Hier ist etwas passiert.\n1- Der eingegebene Name der Anime könnte falsch sein. In diesem Fall überprüfen Sie einfach und versuchen es erneut.\n2- Das Anime ist nicht mehr in der Ausstellung, in diesem Fall überprüfen Sie die aktuellen Anime in der Ausstellung und ihre korrekten Namen unter [diesem Link](https://anilist. o/search/anime?year=2021&airing%20status=RELEASING) und versuchen Sie es erneut.",
+    "ANIMES9": "Hoppla! Tut uns leid, aber du hast das 10 Anime Limit erreicht! Erstelle diese Serverprämie um unbegrenzte Animes hinzuzufügen.",
+    "ANIMES10": "Hoppla! Es scheint, dass diese Anime bereits zum Addon `Auto-Animes` hinzugefügt wurden. Überprüfe die aktuelle Liste in **{{prefix}}autoanimes list**.",
+    "ANIMES11": "Hoppla! Es scheint, als hättest du das Limit von 999 erreicht.",
+    "ANIMES12": "Anime- {{title}} wurde erfolgreich dem Addon `Auto-Animes` hinzugefügt.",
+    "ANIMES13": "remove",
+    "ANIMES14": "Anime- {{search}} wurde erfolgreich aus dem Addon `Auto-Animes` entfernt.",
+    "ANIMES15": "Hoppla! Es scheint, dass diese Anime nicht zum Addon `Auto-Animes` hinzugefügt wurden. Um die aktuelle Anime-Liste zu überprüfen, verwende `{{prefix}}autoanimes list`."
+}

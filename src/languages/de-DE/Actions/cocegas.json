@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Tickle den erwähnten Benutzer.",
+    "USAGE": "kick [user]",
+    "USAGEE": "kick [user]",
+    "COCEGAS_DESCRIÇÃO": "<@{{author}}>! Tickles~ stoppen",
+    "COCEGAS_DESCRIÇÃO1": "\\❌ Viel Spaß beim Kitzeln **<@{{author}}>**!",
+    "COCEGAS_DESCRIÇÃO2": "gekickt am"
+}

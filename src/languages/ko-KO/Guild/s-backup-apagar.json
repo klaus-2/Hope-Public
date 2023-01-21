@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "서버 백업을 삭제합니다.",
+    "USAGE": "s-백업-삭제 <backupID>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "s-백업-삭제 <backupID>",
+    "EXAMPLE": "S-백업-삭제 2334",
+    "S_BACKUP_APAGAR": "아아 {{author}}, 미안해 :(",
+    "S_BACKUP_APAGAR1": "프리미엄 상태: :small_blue_diamond: **일반 사용자** :small_blue_diamond:\n안타깝게도 <:Skyefoimal:823046654374314044> 스카이 서포트 서버**의 프리미엄 사용자가 아니기 때문에 이 명령을 사용할 수 없습니다.",
+    "S_BACKUP_APAGAR2": "💡 프리미엄은 Hope의 지원 서버를 향상시키는 사용자에게 제공되는 혜택입니다. {{prefix}}스카이",
+    "S_BACKUP_APAGAR3": "제거할 유효한 백업 ID를 지정해야 합니다.",
+    "S_BACKUP_APAGAR4": "** 백업 삭제**",
+    "S_BACKUP_APAGAR5": "** 새 백업 삭제**\n 작성자: {{author}}",
+    "S_BACKUP_APAGAR6": "{{backupID}} 에 대한 백업을 찾을 수 없습니다."
+}

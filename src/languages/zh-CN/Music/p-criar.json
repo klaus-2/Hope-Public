@@ -1,0 +1,17 @@
+{
+    "DESCRIPTION": "创建播放列表",
+    "USAGE": "p 创建 <playlist name> <search term/link>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "p-创建 <playlist name> <search term/link>",
+    "EXAMPLE": "p 创建测试链接",
+    "P_CRIAR": "播放列表标题必须少于 32 个字符！",
+    "P_CRIAR1": "将歌曲添加到播放列表中（这可能需要几秒钟。）...",
+    "P_CRIAR2": "Premium 允许您保存最多 3 个播放列表，而不是 1 个。",
+    "P_CRIAR3": "您无法再保存播放列表。最大值：3",
+    "P_CRIAR4": "使用该名称的播放列表已存在。",
+    "P_CRIAR5": "用名称创建了一个播放列表：",
+    "P_CRIAR6": "播放列表时长：",
+    "P_CRIAR7": "已添加",
+    "P_CRIAR8": "曲目）到",
+    "P_CRIAR9": "歌曲：",
+    "P_CRIAR10": "不是播放列表"
+}

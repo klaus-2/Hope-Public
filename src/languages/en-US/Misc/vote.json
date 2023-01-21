@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Displays the list of botslists available to vote for Hope.",
+    "USAGE": "vote\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "vote",
+    "EXAMPLE": "vote",
+    "VOTE": "Hope's Voting System",
+    "VOTE1": "Vote for one of the botlists below:",
+    "VOTE2": "[`Available Now!`](https://top.gg/bot/901243176814276680/vote)",
+    "VOTE3": "In",
+    "VOTE4": "[`Available Now!`](https://voidbots.net/bot/901243176814276680/vote)",
+    "VOTE5": "[`Available Now!`](https://discordbotlist.com/bots/Hope-5284/upvote)",
+    "VOTE6": "__**Rewards**__\n`12 hours of Hope PREMIUM`",
+    "VOTE7": "You have voted {{votes}} times."
+}

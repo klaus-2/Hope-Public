@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Включение или отключение аддона autorole",
+    "USAGE": "autorole <enable | disable>\n💡**Пример**: {{EXAMPLE}}",
+    "USAGEE": "autorole <enable | disable>",
+    "EXAMPLE": "автозапуск"
+}

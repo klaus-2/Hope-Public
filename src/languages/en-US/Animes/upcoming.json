@@ -1,0 +1,18 @@
+{
+    "DESCRIPTION": "Displays the list of upcoming animes.",
+    "USAGE": "nextani\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "nextani",
+    "EXAMPLE": "nextani | pa tv | p-animes ona | proximos-animes ova | p-animes movie | pa special | upcoming -",
+    "APROX_DESC": "Searching next",
+    "APROX_DESC1": "anime of",
+    "APROX_DESC2": "Response error",
+    "APROX_DESC3": "**{{member}}**, An unexpected error has occurred!\n\n",
+    "APROX_DESC4": "MyAnimeList replied with error code {{status}}",
+    "APROX_DESC5": "Next anime list",
+    "APROX_DESC6": "Genre:",
+    "APROX_DESC7": "ALL",
+    "APROX_DESC8": "command",
+    "APROX_DESC9": "Page",
+    "APROX_DESC10": "of",
+    "APROX_DESC11": "No synopsis yet."
+}

@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Personalize seu plano fundo de perfil com uma imagem de sua escolha.",
+    "USAGE": "fundo-personalizado [anexo | url]\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "fundo-personalizado [anexo | url]",
+    "EXAMPLE": "fundo-personalizado https://i.imgur.com/ru3E3zd.png",
+    "BG": "Oi {{author}}",
+    "BG1": "Sua compra foi realizada com sucesso!\nR$",
+    "BG2": "skcoins foram deduzido de sua carteira para concluir a transação!\nSeu novo plano de fundo é [{{url}}](link)",
+    "BG3": "Para ver como ficou, use o comando {{prefix}}perfil",
+    "BG4": "skcoins foram deduzido de sua carteira para concluir a transação!\nSeu novo plano de fundo é [{{args}}](link)",
+    "BG5": "você precisa anexar uma imagem ou inserir o seu link para definir um novo plano de fundo!",
+    "BG6": "Você não tem dinheiro suficiente!\nFalta",
+    "BG7": "para mudar de fundo"
+}

@@ -1,0 +1,5 @@
+{
+    "DESCRIPTION": "Ative ou desative o addon de level.",
+    "USAGE": "level <ativar | desativar>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "level <ativar | desativar>"
+}

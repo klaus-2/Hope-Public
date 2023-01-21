@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "選択したテーマに基づいて画像を検索します。",
+    "USAGE": "image <theme>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "イメージ <theme>",
+    "EXAMPLE": "イメージ太陽"
+}

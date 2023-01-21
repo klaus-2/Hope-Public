@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "取消某件物品的装备。",
+    "USAGE": "取消装备 <type>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "取消装备 <type>",
+    "EXAMPLE": "取消装备 planodefundo",
+    "DESEQUIPAR": "请选择以下选项之一：",
+    "DESEQUIPAR1": "你没装备",
+    "DESEQUIPAR2": "成功了！"
+}

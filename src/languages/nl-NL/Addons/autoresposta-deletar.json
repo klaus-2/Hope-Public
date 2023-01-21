@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Verwijdert een automatische reactie.",
+    "USAGE": "verwijdert autoresponse <command>\n💡**Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "deleteautoresponse <command>",
+    "EXAMPLE": "deleteautoresponse hi",
+    "DELETAR_RESPOSTA": "<:cancel:855859391709577266> Je opdrachtnaam is boven 30 tekens!",
+    "DELETAR_RESPOSTA1": "Automatisch antwoord verwijderen",
+    "DELETAR_RESPOSTA2": "is met succes verwijderd.",
+    "DELETAR_RESPOSTA3": "O! Sorry, maar ik kon dit commando niet vinden! Weet je zeker dat dit juist is?"
+}

@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Say thank you to a user.",
+    "USAGE": "rep <user>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "rep <user>",
+    "EXAMPLE": "rep @Hope",
+    "REP": "Please mention someone to say thank you.",
+	"REP1": "You can't thank yourself.",
+	"REP2": "Have you ever thanked anyone in the last {{hours}} hours.",
+	"REP3": "You said thank you",
+	"REP4": "for your help! He's already been thanked",
+	"REP5": "times."
+}

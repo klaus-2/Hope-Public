@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Zeigt die Liste der verfügbaren Botslisten an, um für Skype zu stimmen.",
+    "USAGE": "stimme\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "abstimmen",
+    "EXAMPLE": "abstimmen",
+    "VOTE": "Wahlsystem des Himmels",
+    "VOTE1": "Vote für einen der Botlisten unten:",
+    "VOTE2": "[`Verfügbar!`](https://top.gg/bot/839262056028176404/vote)",
+    "VOTE3": "In",
+    "VOTE4": "[`Verfügbar jetzt!`](https://voidbots.net/bot/839262056028176404/vote)",
+    "VOTE5": "[`Verfügbar!`](https://discordbotlist.com/bots/Hope-5284/upvote)",
+    "VOTE6": "__**Belohnungen**__\n`12 Stunden Hope PREMIUM`",
+    "VOTE7": "Du hast {{votes}} mal abgestimmt."
+}

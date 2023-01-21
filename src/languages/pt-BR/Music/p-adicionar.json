@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Adicione uma música a playlist.",
+    "USAGE": "p-adicionar <nome da playlist> <musica>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "p-adicionar <nome da playlist> <musica>",
+    "EXAMPLE": "p-adicionar Teste https://www.youtube.com/watch?v=4AnmemzByVY",
+    "P_ADD": "Algo estranho aconteceu.",
+    "P_ADD1": "Nenhuma playlist encontrada com o nome: `{{name}}`.",
+    "P_ADD2": "Adicionado {{num}} nova música(s) na playlist: `{{title}}`.",
+    "P_ADD3": "Resultados para {{title}}",
+    "P_ADD4": "{{results}}\n\n\tEscolha um número de 1-10 ou cancelar.\n",
+    "P_ADD5": "O número que você forneceu era pequeno demais ou muito grande (1-{{num}})."
+}

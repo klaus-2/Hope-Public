@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Setze die Gildengeld-Protokolle",
+    "USAGE": "applylog <enable #channel | disable>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "applylog <enable #channel | disable>",
+    "EXAMPLE": "applylog aktiviert #test"
+}

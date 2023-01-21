@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "自動メッセージアドオンを設定します。",
+    "USAGE": "自動メッセージ",
+    "USAGEE": "自動メッセージ",
+    "EXAMPLE": "自動メッセージ有効化\n💡**例題**: {{EXAMPLE}}",
+    "MENSAGEM": "enable",
+    "MENSAGEM1": "`Auto-Message` addon が有効になりました。",
+    "MENSAGEM2": "disable",
+    "MENSAGEM3": "`Auto-Message` アドオンは正常に無効化されました。",
+    "MENSAGEM4": "channel",
+    "MENSAGEM5": "`Auto-Message` addon channel has been successfully updated to <#{{channel}} > .",
+    "MENSAGEM6": "counter",
+    "MENSAGEM7": "メッセージカウンターの番号を入力してください。",
+    "MENSAGEM8": "カウンターは1-100のメッセージの間でなければなりません。",
+    "MENSAGEM9": "`Auto-Message`アドオンのメッセージカウンタは`{{amount}}`に正常に更新されました。",
+    "MENSAGEM10": "message",
+    "MENSAGEM11": "メッセージを報告してください。",
+    "MENSAGEM12": "カウンターは最大 `2000` 文字を含める必要があります。",
+    "MENSAGEM13": "追加の `Auto-Message` メッセージが正常に更新されました。"
+}

@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "恥ずかしさ/赤面のセットを表現してください。",
+    "USAGE": "赤面 [user]",
+    "USAGEE": "赤面 [user]",
+    "VERGONHA_DESCRIÇÃO": "<@{{author}}> が恥ずかしいです",
+    "VERGONHA_DESCRIÇÃO1": "恥ずかしいのは"
+}

@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "세트의 길드 적용 로그",
+    "USAGE": "적용 로그 <enable #channel | disable>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "적용 로그 <enable #channel | disable>",
+    "EXAMPLE": "적용 로그 활성화 #test"
+}

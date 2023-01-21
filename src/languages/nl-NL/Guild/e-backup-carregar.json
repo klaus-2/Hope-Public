@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "laad een back-up.",
+    "USAGE": "e-backup-load <code>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "e-backup-load <code>",
+    "EXAMPLE": "e-backup-load ExOBdl",
+    "E_BACKUP_CARREGAR": "Weet je het zeker?",
+    "E_BACKUP_CARREGAR1": "Hallo, {{author}}",
+    "E_BACKUP_CARREGAR2": "Weet je zeker dat je de back-up wilt laden?\n\n<:Informao:823004619805294643> Opmerking: Het voegt alleen emoji's toe terwijl er voldoende ruimte op de server was.\nZorg er dus voor dat als er meer emoji's in de back-up zitten dan serverruimte, het geen bug is, maar een gebrek aan ruimte.",
+    "E_BACKUP_CARREGAR3": "**Het laden van back-ups is geannuleerd. **",
+    "E_BACKUP_CARREGAR4": ":x: | **Deze back-upcode is niet gevonden** \nControleer of u de juiste code gebruikt en probeer het opnieuw.",
+    "E_BACKUP_CARREGAR5": ":x: | **Er zitten geen emoji's in die back-up! **",
+    "E_BACKUP_CARREGAR6": "Er is geen ruimte meer voor nieuwe emoji's.",
+    "E_BACKUP_CARREGAR7": "<:v_:855859391835799582> **De back-up is succesvol geladen. **",
+    "E_BACKUP_CARREGAR8": ":x: | **De back-up is niet gevonden! **"
+}

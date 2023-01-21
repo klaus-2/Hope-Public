@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "configura el prefijo de Hope para este servidor.",
+    "USAGE": "prefijo <new prefix>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "prefijo <new prefix>",
+    "EXAMPLE": "prefijo!",
+    "PREFIXO": "<:Skyeola 1:823223308744130580 > ¡Guau! Lamentablemente, el prefijo no puede tener más de 3 caracteres.",
+    "PREFIXO1": "Configuración: `Servidor`",
+    "PREFIXO2": "<:v_:855859391835799582> El `prefijo` se ha actualizado correctamente.",
+    "PREFIXO3": "Prefijo",
+    "PREFIXO4": "Cambiado de"
+}

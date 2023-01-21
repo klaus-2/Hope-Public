@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Show the number of warnings that a user has.",
+    "USAGE": "warnings [user]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "warnings [user]",
+    "EXAMPLE": "warnings @Hope",
+    "NO_WARNINGS": "This user has not been warned before.",
+    "WARNS_TITLE": "{{user}}'s warning list.",
+    "AVISOS": "Warnings",
+    "AVISOS1": "User left",
+    "AVISOS2": "Issue date:"
+}

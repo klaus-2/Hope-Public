@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Set up Hope auto role for this server.",
+    "USAGE": "level-ignorerole <roleID>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "level-ignorerole <roleID>",
+    "EXAMPLE": "level-ignorerole 328328777266673",
+    "LVL_IGNCARGO": "Settings: `Level`",
+    "LVL_IGNCARGO1": "<:v_:855859391835799582>O `auto role` has been successfully updated.",
+    "LVL_IGNCARGO2": "Auto role",
+    "LVL_IGNCARGO3": "Changed from"
+}

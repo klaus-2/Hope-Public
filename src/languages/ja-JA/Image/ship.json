@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "別のユーザーと一緒に船のイメージを作成します。",
+    "USAGE": "ship <user1> [user2]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "<user1> [user2]を出荷する",
+    "EXAMPLE": "ユーザーユーザーを出荷する | ユーザーを出荷する <attachment>"
+}

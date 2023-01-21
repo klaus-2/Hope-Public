@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Blurpify uma imagem.",
+    "USAGE": "blurpify [user] | [anexo]\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "blurpify [user] | [anexo]",
+    "EXAMPLE": "blurpify @Hope | blurp [anexo]"
+}

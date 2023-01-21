@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "repetir a música ou fila.",
+    "USAGE": "loop [queue / song]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "loop [queue / song]",
+    "EXAMPLE": "repeat queue | loop song | loop",
+    "REPETIR": "song",
+    "ENABLED": "<:defaultdisabled:1025607277736112248><:enabled:1025606172272762972> **Enabled**",
+    "DISABLED": "<:disabled:1025606174986469446><:defaultenabled:1025606173673672734> **Disabled**",
+    "REPETIR3": "{{trackRepeat}} track __repeat__.",
+    "REPETIR4": "queue",
+    "REPETIR7": "{{queueRepeat}} queue __repeat__."
+}

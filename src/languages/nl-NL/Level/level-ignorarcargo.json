@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Stel de automatische rol van Hope in voor deze server.",
+    "USAGE": "level-ignorerole <roleID>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "level-ignorerole <roleID>",
+    "EXAMPLE": "level-ignorerrol 328328777266673",
+    "LVL_IGNCARGO": "Instellingen: `Level`",
+    "LVL_IGNCARGO1": "<:v_:855859391835799582>O `auto role` is met succes bijgewerkt.",
+    "LVL_IGNCARGO2": "Automatische rol",
+    "LVL_IGNCARGO3": "Gewijzigd van"
+}

@@ -1,0 +1,5 @@
+{
+    "ROLE_CREATE": "新しい役割がサーバー\nに作成されました Name:",
+    "ROLE_CREATE1": "言及:",
+    "ROLE_CREATE2": "[EVENT — ロールが作成されました]"
+}

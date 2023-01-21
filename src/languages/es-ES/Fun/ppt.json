@@ -1,0 +1,18 @@
+{
+    "DESCRIPTION": "juega piedra, papel, tijeras con Hope.",
+    "USAGE": "rps <rock / paper / scissors>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "rps <rock / paper / scissors>",
+    "EXAMPLE": "rps",
+    "FPPT_DESC": "rock",
+    "FPPT_DESC1": "papel",
+    "FPPT_DESC2": "tijeras",
+    "FPPT_DESC3": "Piedra - Papel - Tijeras",
+    "FPPT_DESC4": "Elige una opción",
+    "FPPT_DESC5": "dibujó con Hope",
+    "FPPT_DESC6": "ganó",
+    "FPPT_DESC7": "perdido",
+    "FPPT_DESC8": "Has elegido:",
+    "FPPT_DESC9": "Hope eligió",
+    "FPPT_DESC10": "Resultado: you",
+    "FPPT_DESC11": "¡Ha tardado demasiado!"
+}

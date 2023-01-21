@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Spiele die vorherige Zeile der Warteschlange.",
+    "USAGE": "zurück\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "zurück",
+    "EXAMPLE": "zurück | prev | Vorherige"
+}

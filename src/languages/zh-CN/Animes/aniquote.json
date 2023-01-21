@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "生成随机的动漫报价",
+    "USAGE": "aniquote\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "aniquote",
+    "EXAMPLE": "aniquote 动漫海贼王 | anime-frase 角色火影忍者 | af",
+    "AFRASE_FIELD": "* 报价来自 {{anime}}*",
+    "AFRASE_FOOTER": "aniquote [动漫 <name>] [角色 <name>]"
+}

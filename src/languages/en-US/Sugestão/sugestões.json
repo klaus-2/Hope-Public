@@ -1,0 +1,19 @@
+{
+    "DESCRIPTION": "Altere o status de uma sugestão.",
+    "USAGE": "sugestões <AGUARDANDO | APROVADO | NEGADO>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "set-suggestions",
+    "EXAMPLE": "set-suggestions",
+    "SUGESTÕES": "Oops! {{status}} is an **Status unknown**\nPlease use one of the following options: `{{var}}`.",
+    "SUGESTÕES1": "Please use",
+    "SUGESTÕES2": "An error has occurred, please report this in {{prefix}}bug",
+    "SUGESTÕES3": "The suggestion channel no longer exists",
+    "SUGESTÕES4": "This message no longer exists",
+    "SUGESTÕES5": "suggested",
+    "SUGESTÕES6": "Would you like to suggest something? Just type in this channel",
+    "SUGESTÕES7": "Status",
+    "SUGESTÕES8": "Comment from Administration",
+    "SUGESTÕES9": "Suggestion status has been successfully updated!",
+    "SUGESTÕES10": "<:Informao:823004619805294643> Awaiting feedback from the community, please vote!",
+    "SUGESTÕES11": "<:v_:855859391835799582> Suggestion accepted! Look forward to it soon.",
+    "SUGESTÕES12": "<:cancel:855859391709577266> Thanks for the suggestion, but we're not interested in it at this time."
+}

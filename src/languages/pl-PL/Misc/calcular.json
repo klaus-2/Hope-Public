@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Oblicz równanie matematyczne.",
+    "USAGE": "kalkulator\n💡 **Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "kalkulator>",
+    "EXAMPLE": "kalkulator",
+    "EQUAÇÃO": "- Hej! To nie jest prawidłowe równanie... spróbuj jeszcze raz, proszę.",
+    "CALC": "Cześć, to kalkulator Hope. Kliknij poniższe przyciski, aby wykonać równanie!",
+    "CALC1": "- Kalkulator wyłącz"
+}

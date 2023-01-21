@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Set up Hope auto charge for this server.",
+    "USAGE": "leveloption <0-2>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "leveloption <0-2>",
+    "EXAMPLE": "leveloption 2",
+    "LVL_OPC": "Settings: `Level`",
+    "LVL_OPC1": "<:v_:855859391835799582>The configuration of `level` has been successfully updated.",
+    "LVL_OPC2": "Level Setting",
+    "LVL_OPC3": "changed from"
+}

@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "音楽の音量を変更します。",
+    "USAGE": "volume <number>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "ボリューム <number>",
+    "EXAMPLE": "第50回"
+}

@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "ユーザーが持っている警告の数を表示します。",
+    "USAGE": "warnings [user]\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "警告 [user]",
+    "EXAMPLE": "警告 @Hope",
+    "NO_WARNINGS": "このユーザーはこれまで警告を受けていません。",
+    "WARNS_TITLE": "{{user}}の警告リスト。",
+    "AVISOS": "警告",
+    "AVISOS1": "ユーザー左",
+    "AVISOS2": "発行日:"
+}

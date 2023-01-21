@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Generuj losowy cytat anime",
+    "USAGE": "aniquote\n💡 **Przykład: {{EXAMPLE}}",
+    "USAGEE": "aniquote",
+    "EXAMPLE": "anicytat anime jeden kawałek | anime-frase charakter naruto | af",
+    "AFRASE_FIELD": "*Cytat od {{anime}}*",
+    "AFRASE_FOOTER": "aniquote [anime <name>] [znak <name>]"
+}

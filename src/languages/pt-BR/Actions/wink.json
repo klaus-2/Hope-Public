@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Pisca para um usuario.",
+    "USAGE": "piscar [user]\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "piscar [user]",
+    "EXAMPLE": "piscar @Hope",
+    "PISCAR_DESCRIÇÃO": "<@{{author}}> deu uma piscadinha!", 
+    "PISCAR_DESCRIÇÃO1": "piscou para"
+}

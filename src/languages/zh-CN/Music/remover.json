@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "从队列中删除歌曲。",
+    "USAGE": "删除 <position> [position]\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "删除 <position> [position]",
+    "EXAMPLE": "删除 3 | 删除 3 7",
+    "REMOVER": "您无法删除已在播放的歌曲。要删除当前正在播放的歌曲：`{{prefix}}skip`",
+    "REMOVER1": "我找不到那首歌。",
+    "REMOVER2": "已从队列中删除 **{{title}}**。",
+    "REMOVER3": "最终值必须大于初始值。",
+    "REMOVER4": "已删除",
+    "REMOVER5": "队列中的歌曲。",
+    "REMOVER6": "编号无效。"
+}

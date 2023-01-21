@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Affiche la taille de votre PP",
+    "USAGE": "dicksize\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "dicksize",
+    "EXAMPLE": "dicksize"
+}

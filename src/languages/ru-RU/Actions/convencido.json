@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Генерировать реакцию для убеждения.",
+    "USAGE": "smug",
+    "USAGEE": "smug",
+    "CONVENCIDO_DESCRIÇÃO": "<@{{member}}> убежден."
+}

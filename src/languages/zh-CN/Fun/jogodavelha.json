@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "开始一场井字游戏。",
+    "USAGE": "tictactoe\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "tictactoe <user>",
+    "EXAMPLE": "tictactoe @User",
+    "VELHA": "请提及你想在 tictactoe 挑战谁。"
+}

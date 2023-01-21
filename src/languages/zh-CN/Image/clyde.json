@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "创建一个虚假的克莱德消息。",
+    "USAGE": "clyde <text>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "克莱德 <text>",
+    "EXAMPLE": "clyde Hope 是世界上最好的机器人 <3"
+}

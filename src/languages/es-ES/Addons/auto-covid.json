@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Configura el complemento Auto-Covid.",
+    "USAGE": "auto-covid | <channelID>",
+    "USAGEE": "auto-covid | <channelID>",
+    "EXAMPLE": "auto-covid 62349322567745\n💡**Ejemplo**: {{EXAMPLE}}",
+    "CAC_TITULO": "Configuración: `Auto-Covid`",
+    "CAC_FIELD": "<:Informao:823004619805294643> complemento de publicación automática para obtener información actualizada sobre covid-19 cada 1 hora.",
+    "CAC_FIELD1": "Canal",
+    "CAC_FIELD2": "Estado",
+    "CAC_FIELD3": "`Configurar complemento`",
+    "CORONA_DESCRIÇÃO": "Se requiere permiso `ADMINISTRATOR` para usar este comando.",
+    "CORONA_DESCRIÇÃO1": "El complemento **AUTO-CORONA** ha sido reiniciado porque no se han proporcionado canales.",
+    "CORONA_DESCRIÇÃO2": "El complemento **AUTO-CORONA** se ha establecido correctamente en <#{{channel}}>"
+}

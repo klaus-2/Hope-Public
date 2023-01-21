@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "definir algo para ser recordado en un momento.",
+    "USAGE": "reminder <time> <message>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "recordatorio <time> <message>",
+    "EXAMPLE": "recordatorio 1h alimentar a mi gato",
+    "FLEMBRETE_DESC": "¡Debes establecer un periodo de tiempo para ser recordado!",
+    "FLEMBRETE_DESC1": "El tiempo dado",
+    "FLEMBRETE_DESC2": "superó el límite de 31 días",
+    "FLEMBRETE_DESC3": "¡Debes escribir un mensaje para que te recuerden!",
+    "FLEMBRETE_DESC4": "Hola",
+    "FLEMBRETE_DESC5": "puedes contar con mi ayuda okaaay! Te lo recordaré desde aquí",
+    "FLEMBRETE_DESC6": "Puedes confiar en que lo recordaré, ~~*Creo que*~~"
+}

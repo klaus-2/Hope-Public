@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Rozwód użytkownika.",
+    "USAGE": "rozwód\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "rozwód",
+    "EXAMPLE": "rozwód",
+    "FDIV_DESC": "🙁 | <@{{author}}>, jesteś singlem.",
+    "FDIV_DESC1": "Użyj {{prefix}}poślubić <user>",
+    "FDIV_DESC2": "Chciałbyś się rozwieść",
+    "FDIV_DESC3": "Odpowiedz z: ``tak ``lub ``nie``, aby podjąć decyzję.",
+    "FDIV_DESC4": "<@{{author}}>, gratulacje nadal jesteś żonaty! , 💕",
+    "FDIV_DESC5": "<@{{author}}>, szkoda, że się rozwiedliście, 💔"
+}

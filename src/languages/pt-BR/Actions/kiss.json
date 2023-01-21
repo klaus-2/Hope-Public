@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Beije o(s) usuário(s) que você mencionou!",
+    "USAGE": "beijar [user]\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "beijar [user]",
+    "EXAMPLE": "beijar @Hope | beijar @user1 @User2",
+    "BEIJAR_DESCRIÇÃO": "Você não pode se beijar, mas deixe-me beijar você ao invés disso, <@{{member}}>!",
+    "BEIJAR_Hope": " **eu**",
+    "BEIJAR_DESCRIÇÃO1": "beijou",
+    "BEIJAR_HopeFRASE": "Não é como se eu quisesse que você me beijasse ou algo assim...・:*(〃・ｪ・〃人)*:・",
+    "BEIJAR_DESC": " e ",
+    "BEIJAR_DESC1": ", e "
+}

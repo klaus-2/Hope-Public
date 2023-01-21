@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "buscar uma musica pela internet.",
+    "USAGE": "suche <link / song name>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "suche <link / song name>",
+    "EXAMPLE": "suchanker - novo amor",
+    "BUSCAR": "Du bist nicht in einem Sprachkanal, mit dem ich mich verbinden kann.",
+    "BUSCAR1": "Dies sind die Ergebnisse für",
+    "BUSCAR2": "Wählen Sie eine Zahl von 1 bis 10 oder Abbrechen. (30s)",
+    "BUSCAR3": "<:SkyeTempo:823047534854668298> Ahhhhhh... du hast keinen Song rechtzeitig ausgewählt.",
+    "BUSCAR4": "Die Suche wurde erfolgreich abgebrochen.",
+    "BUSCAR5": "Die angegebene Nummer war entweder zu klein oder zu groß (hoose zwischen",
+    "BUSCAR6": "wurde erfolgreich zur Warteschlange hinzugefügt."
+}

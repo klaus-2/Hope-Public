@@ -1,0 +1,5 @@
+{
+    "ROLE_CREATE": "已在服务器上创建了一个新角色\nName:",
+    "ROLE_CREATE1": "提及：",
+    "ROLE_CREATE2": "[事件 — 角色已创建]"
+}

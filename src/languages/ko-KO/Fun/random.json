@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "임의의 숫자로 회신합니다.",
+    "USAGE": "랜덤\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "무작위",
+    "EXAMPLE": "랜덤 2 10",
+    "FRANDOM_DESC": ":one: 잠깐, 숫자를 고르고 있어요...",
+    "FRANDOM_DESC1": "{{num}} 잠깐, 숫자를 고르고 있어요...",
+    "FRANDOM_DESC2": "🔢 귀하의 전화 번호는** {{random}} **입니다!"
+}

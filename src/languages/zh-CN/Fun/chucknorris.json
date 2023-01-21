@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "随机获取查克·诺里斯的笑话。",
+    "USAGE": "chucknorris\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "chucknorris",
+    "EXAMPLE": "chucknorris",
+    "FNORRIS_DESC": "./resources/other/chucknorris-en.json"
+}

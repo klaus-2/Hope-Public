@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "получите несколько случайных советов от Hope.",
+    "USAGE": "совет\n💡 **Пример**: {{EXAMPLE}}",
+    "USAGEE": "совет",
+    "EXAMPLE": "совет",
+    "FCONSELHO_DESC": "./resources/other/conselhos-en.json",
+    "FCONSELHO": "Совет от {{bot}}"
+}

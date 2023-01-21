@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "rebobina el jugador por el valor especificado.",
+    "USAGE": "rewind <time>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "rebobinado <time",
+    "EXAMPLE": "rebobinar 1:00 | rebobinar 1:32:00",
+    "RETROCEDER": "Una canción no puede durar menos de 0 segundos",
+    "RETROCEDER1": "Rebobinado",
+    "RETROCEDER2": "a:",
+    "RETROCEDER3": "Hora en formato no válido"
+}

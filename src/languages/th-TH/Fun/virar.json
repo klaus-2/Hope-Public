@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "flip a coin.",
+    "USAGE": "flip\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "flip",
+    "EXAMPLE": "flip",
+    "FLIP_CHOICE": "['ศีรษะ', 'หาง'][{{choice}}]"
+}

@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "从 Fortnite 中的帐户获取信息。",
+    "USAGE": "堡垒 <kbm / gamepad / touch> <user>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "堡垒 <kbm / gamepad / touch> <user>",
+    "EXAMPLE": "Fortnite kbm 忍者",
+    "FORTNITE": "<a:loading:823004555884232724> 等一下...我正在研究！",
+    "FORTNITE1": "{{username}}的统计数据",
+    "FORTNITE2": "热门展示位置",
+    "FORTNITE3": "总积分：",
+    "FORTNITE4": "进行的比赛：",
+    "FORTNITE5": "胜利次数：",
+    "FORTNITE6": "赢率：",
+    "FORTNITE7": "杀死：",
+    "FORTNITE8": "妈妈："
+}

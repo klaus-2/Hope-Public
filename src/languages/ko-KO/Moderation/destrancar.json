@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "채널 잠금을 해제합니다.",
+    "USAGE": "잠금 해제\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "터놓다",
+    "EXAMPLE": "터놓다",
+    "DESTRANCAR": "🔓 채널 <{{channel}}>이 (가) 잠금 해제되었습니다.",
+    "DESTRANCAR1": "주의"
+}

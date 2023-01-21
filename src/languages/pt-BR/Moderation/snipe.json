@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Capture mensagens recem deletadas em um canal.",
+    "USAGE": "snipe\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "snipe",
+    "EXAMPLE": "snipe",
+    "SNIPE": "Não há mensagens deletadas neste canal!",
+    "SNIPE1": "📋 Mensagem capturada 📋",
+    "SNIPE2": "=> Autor: ```{{author}}```\n=> Mensagem apagada:```{{content}}```\nClique no :x: para apagar esta mensagem permanentemente."
+}

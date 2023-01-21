@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Выражайте набор позора/холода.",
+    "USAGE": "очистить [user]",
+    "USAGEE": "очистить [user]",
+    "VERGONHA_DESCRIÇÃO": "<@{{author}}> стыдно",
+    "VERGONHA_DESCRIÇÃO1": "стыдно от"
+}

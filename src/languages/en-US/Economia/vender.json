@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Sell your items for cash.",
+    "USAGE": "sell <item id>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "sell <item id>",
+    "EXAMPLE": "sell 3 | sell 8 2",
+    "VENDER": "could not find the item with **ID** provided!\nMake sure to enter the correct **ID** and try again.",
+    "VENDER1": "you don't have the necessary amount of",
+    "VENDER2": "to make that sale.",
+    "VENDER3": "unfortunately,",
+    "VENDER4": "cannot be sold.",
+    "VENDER5": "you do not have a bank account in Hope's Economy addon.\nPlease register using the command",
+    "VENDER6": "register",
+    "VENDER7": "you have sold successfully",
+    "VENDER8": "for **$",
+    "VENDER9": "skcoins"
+}

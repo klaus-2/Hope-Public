@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "repetir a música ou fila.",
+    "USAGE": "loop [queue / song]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "loop [queue / song]",
+    "EXAMPLE": "repeat queue | loop song | loop",
+    "REPETIR": "song",
+    "ENABLED": "เปิดใช้งาน",
+    "DISABLED": "พิการ",
+    "REPETIR3": "{{trackRepeat}} ติดตามซ้ำ",
+    "REPETIR4": "queue",
+    "REPETIR7": "{{queueRepeat}} คิวซ้ำ"
+}

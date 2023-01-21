@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "キューから曲を削除します。",
+    "USAGE": "<position> [position]\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "<position> [position]を削除する",
+    "EXAMPLE": "3 を削除 | 3 7 を削除",
+    "REMOVER": "すでに再生中の曲は削除できません。現在再生中の曲を削除するには:`{{prefix}}skip`",
+    "REMOVER1": "その曲は見つからなかった。",
+    "REMOVER2": "**{{title}}** をキューから削除しました。",
+    "REMOVER3": "最終値は初期値より大きくなければなりません。",
+    "REMOVER4": "削除済み",
+    "REMOVER5": "キュー内の曲。",
+    "REMOVER6": "番号が無効です。"
+}

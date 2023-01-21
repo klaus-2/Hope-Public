@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Schakel de add-on voor suggestie in of uit.",
+    "USAGE": "bv-channel <channelID>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "bv-kanaal <channelID>",
+    "EXAMPLE": "bv-kanaal 8973474238977",
+    "BV_CANAL": "Channel is succesvol bijgewerkt naar: "
+}

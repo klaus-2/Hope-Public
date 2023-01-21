@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "サーバ上で最も古いメンバを見つけます。",
+    "USAGE": "old\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "古い",
+    "EXAMPLE": "古い",
+    "FOLD_DESC": "うわー！このサーバーで一番古いメンバーを見つけました",
+    "FOLD_DESC1": "で一番古いユーザーです",
+    "FOLD_DESC2": "Discordアカウントは以下で作成されました:",
+    "FOLD_DESC3": "ああ、それは長いです！"
+}

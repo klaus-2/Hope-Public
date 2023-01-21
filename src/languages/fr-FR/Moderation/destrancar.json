@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "déverrouiller un canal.",
+    "USAGE": "déverrouiller\n💡**Exemple**: {{EXAMPLE}}",
+    "USAGEE": "déverrouiller",
+    "EXAMPLE": "déverrouiller",
+    "DESTRANCAR": "🔓 Le canal <#{{channel}}> a été déverrouillé.",
+    "DESTRANCAR1": "ATTENTION"
+}

@@ -1,0 +1,4 @@
+{
+    "DESCRIPTION": "Lösche eine bestimmte Anzahl an Nachrichten.",
+    "USAGE": "leere <Number> [member]"
+}

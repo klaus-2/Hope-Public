@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "PornHub에서 가짜 댓글을 작성하십시오.",
+    "USAGE": "폰허브 <user> <message>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "포르노허브 <user> <message>",
+    "EXAMPLE": "pornhub 사용자가 너무 좋음"
+}

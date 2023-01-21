@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "启用或禁用欢迎插件。",
+    "USAGE": "欢迎 <enable | disable>\n💡**示例**: {{EXAMPLE}}",
+    "USAGEE": "欢迎 <enable | disable>",
+    "EXAMPLE": "欢迎启用"
+}

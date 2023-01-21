@@ -1,0 +1,21 @@
+{
+    "DESCRIPTION": "Zoek een game/app op Steam.",
+    "USAGE": "steam-store <game>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "stoomwinkel <game>",
+    "EXAMPLE": "stoomwinkel Conan Exiles",
+    "STEAM_LOJA": "Kon **{{query}}** niet vinden op <:steam:767062357952167946> stoom",
+    "STEAM_LOJA1": "$",
+    "STEAM_LOJA2": "Gratis",
+    "STEAM_LOJA3": "* **Aanvullende opmerkingen:",
+    "STEAM_LOJA4": "Systeemvereisten",
+    "STEAM_LOJA5": "Prijs",
+    "STEAM_LOJA6": "Metascore",
+    "STEAM_LOJA7": "Aanbevelingen",
+    "STEAM_LOJA8": "Releasedatum",
+    "STEAM_LOJA9": "Ontwikkelaars",
+    "STEAM_LOJA10": "Uitgevers",
+    "STEAM_LOJA11": "Categorieën",
+    "STEAM_LOJA12": "Genres",
+    "STEAM_LOJA13": "Hoeveelheid DLC",
+    "STEAM_LOJA14": "Ondersteunde talen"
+}

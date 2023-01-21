@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "ein Emoji von irgendeinem Server in PNG oder GIF!",
+    "USAGE": "downloademoji <emoji>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "downloademoji <emoji>",
+    "EXAMPLE": "downloademoji emoji",
+    "EBEM_DESC": "Emoji erfolgreich in Link umgewandelt!",
+    "EBEM_DESC1": "Link:",
+    "EBEM_DESC2": "[Klicke hier zum Herunterladen]({{Link}})",
+    "EMOJI_INVALIDO": "Bitte ein gültiges Emoji benötigt!",
+    "EMOJI_PADRÃO": "Die Standard-Emojis können nicht in den Download konvertiert werden."
+}

@@ -1,0 +1,19 @@
+{
+    "ROLE_UPDATE": "De rol:",
+    "ROLE_UPDATE1": "had zijn naam veranderd",
+    "ROLE_UPDATE2": "[EVENT — ROLNAAM VERANDERD]",
+    "ROLE_UPDATE3": "Oude naam:",
+    "ROLE_UPDATE4": "Nieuwe naam:",
+    "ROLE_UPDATE5": "De kleur van de rol:",
+    "ROLE_UPDATE6": "is gewijzigd",
+    "ROLE_UPDATE7": "[EVENT — ROLKLEUR VERANDERD]",
+    "ROLE_UPDATE8": "Oude kleur:",
+    "ROLE_UPDATE9": "Nieuwe kleur:",
+    "ROLE_UPDATE10": "De machtigingen van de rol:",
+    "ROLE_UPDATE11": "zijn veranderd",
+    "ROLE_UPDATE12": "klik hier",
+    "ROLE_UPDATE13": "en begrijp wat deze cijfers betekenen",
+    "ROLE_UPDATE14": "[EVENT — ROLMACHTIGINGEN GEWIJZIGD]",
+    "ROLE_UPDATE15": "Eerdere machtigingen:",
+    "ROLE_UPDATE16": "Nieuwe machtigingen:"
+}

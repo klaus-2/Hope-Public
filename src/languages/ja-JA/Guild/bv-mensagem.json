@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "サーバーに参加するときにチャンネル内のユーザーに送信されるメッセージを構成します。",
+    "USAGE": "bv-message <message>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "BV-メッセージ <message>",
+    "EXAMPLE": "bv-message こんにちは {user}、**{server}** へようこそ！",
+    "BV_MENSAGEM": "<: v_: 855859391835799582> メッセージは正常に更新されました:"
+}

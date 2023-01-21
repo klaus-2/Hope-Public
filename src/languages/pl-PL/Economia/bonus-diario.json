@@ -1,0 +1,23 @@
+{
+    "DESCRIPTION": "Zdobądź dzienną nagrodę pieniężną za dodatek ekonomiczny.",
+    "USAGE": "codziennie\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "codziennie",
+    "EXAMPLE": "codziennie",
+    "BONUS_DIARIO": "<:cancel:855859391709577266> Zebrano już dzienną nagrodę\n\nNastępna nagroda będzie dostępna pod adresem",
+    "BONUS_DIARIO1": "W przypadku gdy państwo członkowskie lub Szwajcaria stwierdzi, że dane państwo członkowskie lub Szwajcaria spełniają warunki określone w art. 4 ust. 1 lit. a) i b) oraz w art. 5 ust. 1 lit. b) i c) rozporządzenia (WE) nr 207/2009 oraz w art. 5 ust. 1 lit. b) i c) rozporządzenia (WE) nr 207/2009 oraz w art. 5 ust. 1 lit. b) tego rozporządzenia i art. 6 ust. 1 lit. b) tego rozporządzenia i c) tego rozporządzenia stosuje się od dnia 1 stycznia 2018 r.",
+    "BONUS_DIARIO2": "OK?",
+    "BONUS_DIARIO3": "<:v_:855859391835799582> Zebrano dzienną nagrodę w wysokości",
+    "BONUS_DIARIO4": "skcoins pomyślnie.",
+    "BONUS_DIARIO5": "**Dziękujemy za wsparcie",
+    "BONUS_DIARIO6": "Ach! I oczywiście zauważyłem twoją majestatyczną obecność tam na moim [Serwer wsparcia] ({{SupportServer}}), i jako podziękowanie daję ci prezent",
+    "BONUS_DIARIO7": "skcoins bonusowych** extra!",
+    "BONUS_DIARIO8": "**Gratulacje**",
+    "BONUS_DIARIO9": "<:SkyecomeMorando:823248929503445026> **Otrzymałeś całkiem fajny artykuł do swojego profilu w prezencie! **: Wygrałeś",
+    "BONUS_DIARIO10": "za codzienne nagrody. Przedmiot został już dodany do Twojego ekwipunku!",
+    "BONUS_DIARIO11": "**Ogłoszenie bankowe**:",
+    "BONUS_DIARIO12": "⚠️ Uwaga! Twój portfel nie wytrzyma więcej pieniędzy. Osiągnęła limit 60 tysięcy dolarów!\nMusisz przelać część swoich pieniędzy do swojego banku!",
+    "BONUS_DIARIO13": "**Smuga przegrana**:",
+    "BONUS_DIARIO14": "⚠️ Jak to się stało, że nie zbierasz swoich nagród każdego dnia i tracisz niesamowite nagrody? Szkoda, na razie twoja passa to **x1**.",
+    "BONUS_DIARIO15": "🔥 **Wow, twoja obecna passa jest",
+    "BONUS_DIARIO16": "Trzymaj to w górze"
+}

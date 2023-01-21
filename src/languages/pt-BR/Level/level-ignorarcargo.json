@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Configure o cargo ignorado para receber experiencia.",
+    "USAGE": "level-ignorarcargo <ID do cargo>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "level-ignorarcargo <ID do cargo>",
+    "EXAMPLE": "level-ignorarcargo 328328777266673",
+    "LVL_IGNCARGO": "Configurações: `Level`",
+    "LVL_IGNCARGO1": "<:v_:855859391835799582>O `auto cargo` foi atualizado com sucesso.",
+    "LVL_IGNCARGO2": "Auto cargo",
+    "LVL_IGNCARGO3": "Alterado de"
+}

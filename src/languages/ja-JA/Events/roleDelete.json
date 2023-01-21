@@ -1,0 +1,5 @@
+{
+    "ROLE_DELETE": "サーバー上の役割が削除されました\n**名前:",
+    "ROLE_DELETE1": "言及:",
+    "ROLE_DELETE2": "[EVENT — ロールが削除されました]"
+}

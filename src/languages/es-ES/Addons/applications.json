@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Manage and configure Hope's Applications addon.",
+    "USAGE": "<prefix><commandName> <option>\n💡**Example**\n{{EXAMPLE}}",
+    "USAGEE": "<prefix><commandName> <option>",
+    "EXAMPLE": "{{prefix}}app enable **- to activate the addon**\n{{prefix}}auto-animes disable **- to disable the addon**\n{{prefix}}app add** - to add an question**\n{{prefix}}app remove ** - to remove an question**\n{{prefix}}app questions** - to see the list of current questions**\n{{prefix}}app log** - to set the log channel**\n{{prefix}}app review** - to see the list of applications pending approval**\n{{prefix}}app approve** - to approve a user application**\n{{prefix}}app decline** - to declined a user's application**"
+}

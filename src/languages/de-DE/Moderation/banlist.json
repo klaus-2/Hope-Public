@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "banliste.",
+    "USAGE": "banlist\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "baniste",
+    "EXAMPLE": "baniste",
+    "BANLIST": "❌ Du darfst die gesperrte Mitgliederliste nicht ansehen!",
+    "BANLIST1": "❌ Ich bin nicht berechtigt, die Liste der verbotenen Mitglieder zu sehen!",
+    "BANLIST2": "Dieser Server hat keine gesperrten Mitglieder!",
+    "BANLIST3": "Liste der gesperrten Mitglieder:"
+}

@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "アドオンdeレベルに絶望的なアクティブだな",
+    "USAGE": "musicadj <ativar | desativar>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "musicadj <ativar | desativar>",
+    "EXAMPLE": "musicdj 有効にする"
+}

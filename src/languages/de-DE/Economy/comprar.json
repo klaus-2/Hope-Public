@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Kaufen Sie etwas im Hope's Store.",
+    "USAGE": "kaufen [Artikel-ID]\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "kaufen [Artikel-ID]",
+    "EXAMPLE": "32 kaufen",
+    "COMPRAR": "du kannst einen **kostenlosen Artikel** nur einmal kaufen.",
+    "COMPRAR1": "du kannst nicht mehr als **1.000** Items gleichzeitig kaufen.",
+    "COMPRAR2": "du hast nicht genug Geld, um mit dieser Transaktion fortzufahren!\nDu benötigst mehr **$",
+    "COMPRAR3": "** Skcoins zum Kauf",
+    "COMPRAR4": "du kannst einen **kostenlosen Artikel** nur einmal kaufen.",
+    "COMPRAR5": "du gekauft hast",
+    "COMPRAR6": "erfolgreich!"
+}

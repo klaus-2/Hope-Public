@@ -1,0 +1,18 @@
+{
+    "DESCRIPTION": "Visualizza l'elenco degli animi in arrivo.",
+    "USAGE": "nextani\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "nextani",
+    "EXAMPLE": "nextani <unk> pa tv <unk> p-animes ona <unk> proximos-animes ova <unk> p-animes film <unk> pa special <unk> upcoming -",
+    "APROX_DESC": "Ricerca successiva",
+    "APROX_DESC1": "anime di",
+    "APROX_DESC2": "Errore di risposta",
+    "APROX_DESC3": "**{{member}}**, Si è verificato un errore imprevisto!\n\n",
+    "APROX_DESC4": "MyAnimeList ha risposto con il codice di errore {{status}}",
+    "APROX_DESC5": "Prossimo elenco anime",
+    "APROX_DESC6": "Genere:",
+    "APROX_DESC7": "TUTTI",
+    "APROX_DESC8": "comando",
+    "APROX_DESC9": "Pagina",
+    "APROX_DESC10": "di",
+    "APROX_DESC11": "Ancora nessuna sinossi."
+}

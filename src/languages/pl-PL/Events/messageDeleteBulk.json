@@ -1,0 +1,10 @@
+{
+    "MESSAGE_DELETE_BULK": "Kilka wiadomości zostało usuniętych w",
+    "MESSAGE_DELETE_BULK1": "ID kanału:",
+    "MESSAGE_DELETE_BULK2": "[EVENT — USUNIĘTE WIADOMOŚCI]",
+    "MESSAGE_DELETE_BULK3": "Liczba wiadomości:",
+    "MESSAGE_DELETE_BULK4": "Usunięte wiadomości:",
+    "MESSAGE_DELETE_BULK5": "widzieć",
+    "MESSAGE_DELETE_BULK6": "na serwerze",
+    "MESSAGE_DELETE_BULK7": "DeletedMessages.txt"
+}

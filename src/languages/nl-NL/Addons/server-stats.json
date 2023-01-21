@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Geef statistieken weer op je server.",
+    "USAGE": "server-stats <enable | disable>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "server-stats <enable | disable>",
+    "EXAMPLE": "server-stats inschakelen",
+    "STATS": "enable",
+    "STATS1": "De add-on `Server Stats` is succesvol geactiveerd.",
+    "STATS2": "disable",
+    "STATS3": "De add-on `Server Stats` is met succes uitgeschakeld.",
+    "STATS4": "Oeps! Je moet eerst de add-on activeren."
+}

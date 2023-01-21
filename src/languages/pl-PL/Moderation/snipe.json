@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Otrzymuj usunięte wiadomości.",
+    "USAGE": "snipe\n💡 **Przyklad**: {{EXAMPLE}}",
+    "USAGEE": "Snipe",
+    "EXAMPLE": "Snipe",
+    "SNIPE": "W tym kanale nie ma usuniętych wiadomości!",
+    "SNIPE1": "📋 Wiadomość Snipe Usuń 📋",
+    "SNIPE2": "=> Autor: ```{{author}}```\n=> Wiadomość Usuń: ``{{content}}````\nClink :x: , aby wyczyścić tę wiadomość"
+}

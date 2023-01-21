@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Imposta il profilo bio per la tua scheda profilo.",
+    "USAGE": "setbio <message>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "setbio <message>",
+    "EXAMPLE": "setbio La persona più cool della città",
+    "BIO": "Ciao {{author}}, hai già una biografia",
+    "BIO1": "Per cambiare la tua biografia, usa `{{prefix}}setbio <newMessage>`",
+    "BIO2": "Devi impostare un messaggio per la tua bio.",
+    "BIO3": "hai raggiunto il **limite di caratteri `165` permessi!",
+    "BIO4": "Ciao {{author}}, hai impostato una nuova biografia!",
+    "BIO5": "Puoi controllarlo con il comando `{{prefix}}profile`"
+}

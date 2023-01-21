@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "向当前服务器的所有用户添加角色。",
+    "USAGE": "addroleall <role>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "addroleall <role>",
+    "EXAMPLE": "addroleall @role | addroleall 43656543212",
+    "ROLE": "我的角色不够高于 **{{role}}** 角色！\n请通过将我的角色的位置移到顶部来纠正这个问题。",
+    "ROLE1": "请提供有效的角色",
+    "ROLE2": "已成功向所有人添加 **{{role}}**"
+}

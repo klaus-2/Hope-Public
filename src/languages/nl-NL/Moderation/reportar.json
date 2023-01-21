@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "meld een gebruiker.",
+    "USAGE": "rapport <user> [reason]\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "rapport <user> [reason]",
+    "EXAMPLE": "rapporteer @Hope test",
+    "REPORTAR": "{{author}} meldde een gebruiker",
+    "REPORTAR1": "<: Gebruiker: 823004014055522326> Lid:",
+    "REPORTAR2": "<:Moderao:823004537756844073> Gerapporteerd door:",
+    "REPORTAR3": "<:Proxima:823004353316126721> Gerapporteerd in:",
+    "REPORTAR4": "<: Fras:823004814551810068> Reden:",
+    "REPORTAR5": "<@{{user}}> is succesvol gerapporteerd."
+}

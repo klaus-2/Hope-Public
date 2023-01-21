@@ -1,0 +1,4 @@
+{
+    "DESCRIPTION": "Mai dwingen een server te verlaten",
+    "USAGE": "sair-server <ID do servidor>"
+}

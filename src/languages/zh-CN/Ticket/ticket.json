@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "告知有关 Ticket 插件的信息。",
+    "USAGE": "票\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "t-关闭",
+    "EXAMPLE": "t-关闭",
+    "TICKET_REAÇÃO": "反应",
+    "TICKET_REAÇÃO1": "Hope 秘书",
+    "TICKET_REAÇÃO2": "你好！我是 Hope 我来这里是为了帮你开票。这很简单，只需点击下面的按钮 <: Hopecorreta: 823047534602616832>",
+    "TICKET_REAÇÃO3": "你好！我是 Hope，我会在这个过程中为你提供帮助。\n\n首先，让我们记住 `<> 是必要的 `e` [] 是可选的 `！\n\n来吧，你有两个选项可以打开票证：\n 第一个选项是让你转到我在此服务器的 Tickets 频道中发送的消息，然后用 🎟 做出反应。\n\n第二种选择是在聊天中键入命令 `{{prefix}}t-<create | open> [reason]`-打开票证。\n\n<a:sirene:823004235440062464> 以下命令仅适用于此服务器的管理员，好吗？！\n\n`{{prefix}}票反应`-创建反应消息以打开票证。\n`{{prefix}}t-setup`-在此服务器上配置票证命令。",
+    "TICKET_REAÇÃO4": "开一张票"
+}

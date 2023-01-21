@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "イメージをぼかします。",
+    "USAGE": "blurpify [user] | [attached]\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "blurpify [user] | [attached]",
+    "EXAMPLE": "blurpify @Hope | blurp [attached]"
+}

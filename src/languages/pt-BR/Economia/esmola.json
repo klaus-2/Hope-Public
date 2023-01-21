@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Peça esmola e receba uma pequena quantidade de dinheiro.",
+    "USAGE": "esmola\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "esmola",
+    "EXAMPLE": "esmola",
+    "ESMOLA": "<:cancel:855859391709577266> Você já mendigou recentemente",
+    "ESMOLA1": "Mendigue novamente em",
+    "ESMOLA2": "e",
+    "ESMOLA3": "<:v_:855859391835799582> Você mendigou e recebeu",
+    "ESMOLA4": "skcoins"
+}

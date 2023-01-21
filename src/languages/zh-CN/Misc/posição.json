@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "显示用户在服务器上的登录位置。",
+    "USAGE": "位置 <user>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "位置 <user>",
+    "EXAMPLE": "位置 @Hope",
+    "EPOS_DESC": "加入职位",
+    "EPOS_DESC1": "是",
+    "EPOS_DESC2": "要进入的用户"
+}

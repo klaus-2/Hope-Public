@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Dance",
+    "USAGE": "dançar\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "dançar",
+    "EXAMPLE": "dançar",
+    "DANÇAR_DESCRIÇÃO": "<@{{author}}> começou a dançar!"
+}

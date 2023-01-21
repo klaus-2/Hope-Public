@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "为此服务器设置 Hope 频道忽略。",
+    "USAGE": "级别忽略通道 <channelID>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "级别忽略通道 <channelID>",
+    "EXAMPLE": "级别忽略通道 328328777266673",
+    "LVL_IGNCANAL": "设置：`Level `",
+    "LVL_IGNCANAL1": "<: v_: 855859391835799582> “关卡” 的配置已成功更新。",
+    "LVL_IGNCANAL2": "级别设置",
+    "LVL_IGNCANAL3": "从更改了频道"
+}

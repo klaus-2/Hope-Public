@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Enables or disables the Anti Pollution mode.",
+    "USAGE": "anti-pollution <enable | disable>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "anti-pollution <enable | disable>",
+    "EXAMPLE": "anti-pollution enable",
+    "ANTI": "เดอะ `Anti-Pollution` เปิดใช้งานโหมดเสร็จเรียบร้อยแล้ว!",
+    "ANTI1": "เดอะ `Anti-Pollution` โหมดถูกปิดใช้งานเรียบร้อยแล้ว!"
+}

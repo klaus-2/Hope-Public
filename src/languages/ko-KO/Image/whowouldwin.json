@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "후우윈 이미지를 만듭니다.",
+    "USAGE": "누구든 승리 <user1> [user2]\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "후원윈 <user1> [user2]",
+    "EXAMPLE": "후원윈 @user @user | 누가윈 @user <attachment>"
+}

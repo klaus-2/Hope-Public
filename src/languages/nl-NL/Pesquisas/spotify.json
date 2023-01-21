@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Geef het huidige gebruikersnummer weer.",
+    "USAGE": "spotify <user>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "spotify <user>",
+    "EXAMPLE": "spotify @Hope",
+    "SPOTIFY": "Deze gebruiker luistert momenteel niet naar spotify."
+}

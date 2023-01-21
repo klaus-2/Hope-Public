@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Lamba o usuario(a) mencionado.",
+    "USAGE": "lamber [user]\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "lamber [user]",
+    "EXAMPLE": "lamber @Hope | lamber @user1 @User2",
+    "LAMBER_DESCRIÇÃO": "<@{{member}}> vai lamber... a si mesmo?!",  
+    "LAMBER_DESCRIÇÃO1": "eu",
+    "LAMBER_DESCRIÇÃO2": "lambeu",
+    "LAMBER_DESCRIÇÃO3": "Nyaa..♡(｡￫ˇ艸￩) onde você está... me lambendo...",    
+    "LAMBER_DESCRIÇÃO4": "lambeu",  
+    "LAMBER_DESC": " e ",
+    "LAMBER_DESC1": ", e "
+}

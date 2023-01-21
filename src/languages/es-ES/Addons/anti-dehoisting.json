@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Configura el módulo Antideshoisting del complemento automático.",
+    "USAGE": "anti-dehoisting\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "anti-dehoisting",
+    "EXAMPLE": "anti-dehoisting 2",
+    "DEHOISTING": "enable",
+    "DEHOISTING1": "`[AUTO-MOD]` Anti-Desarollo se ha activado correctamente.",
+    "DEHOISTING2": "disable",
+    "DEHOISTING3": "`[AUTO-MOD]` Anti-Desarollo se ha desactivado correctamente."
+}

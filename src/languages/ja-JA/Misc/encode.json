@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "メッセージをバイナリでエンコードします。",
+    "USAGE": "encode <message>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "エンコード <message>",
+    "EXAMPLE": "スカイをエンコード é melhor ボット do mundo <3"
+}

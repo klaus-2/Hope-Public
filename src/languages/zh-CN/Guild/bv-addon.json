@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "启用或禁用欢迎消息插件。",
+    "USAGE": "bv-addon <enable | disable>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "bv-addon <enable | disable>",
+    "EXAMPLE": "bv-addon 启用"
+}

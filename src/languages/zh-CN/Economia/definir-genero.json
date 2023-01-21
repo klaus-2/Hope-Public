@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "在个人资料中设置用户的性别。",
+    "USAGE": "设置性别 <genero>\n💡 ** Explo**： {{EXAMPLE}}",
+    "USAGEE": "设置性别 <gender>",
+    "EXAMPLE": "设置性别男",
+    "GEN": "男",
+    "GEN1": "女性的",
+    "GEN2": "你的性别已成功更新为 `Male`！",
+    "GEN3": "你的性别已成功更新为 “女性”！"
+}

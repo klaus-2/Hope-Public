@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Włącz lub wyłącz dodatek do wiadomości powitalnej.",
+    "USAGE": "bv-addon <enable | disable>\n💡 **Przykład: {{EXAMPLE}}",
+    "USAGEE": "bv-addon <enable | disable>",
+    "EXAMPLE": "bv-addon włącz"
+}

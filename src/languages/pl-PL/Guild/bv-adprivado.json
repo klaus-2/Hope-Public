@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Włącz lub wyłącz dodatek wiadomości powitalnej w sposób prywatny.",
+    "USAGE": "bv-adprivate <enable | disable>\n💡 **Przykład: {{EXAMPLE}}",
+    "USAGEE": "bv-adprivate <enable | disable>",
+    "EXAMPLE": "bv-adprivate na"
+}

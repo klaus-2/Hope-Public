@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Erstelle eine vollständige Serversicherung.",
+    "USAGE": "s-backup-Ersteller\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "s-backup-Erstellung <backupID>",
+    "EXAMPLE": "s-backup-create 2334",
+    "S_BACKUP_CRIAR": "**Fehlende Berechtigungen**",
+    "S_BACKUP_CRIAR1": "Sie müssen [ADMINISTRATOR, MANAGE_GUILD] Perms To Use This Command!",
+    "S_BACKUP_CRIAR2": "Sicherung wird erstellt... ",
+    "S_BACKUP_CRIAR3": "Neue Sicherung erstellt\n **Backup-ID**:",
+    "S_BACKUP_CRIAR4": "**Gildenname**:",
+    "S_BACKUP_CRIAR5": "Backup wurde erstellt ",
+    "S_BACKUP_CRIAR6": "** NEUE BACKUP ERSTELLT **\nBackup-ID:",
+    "S_BACKUP_CRIAR7": "Backup-Autor:",
+    "S_BACKUP_CRIAR8": "Gilde:"
+}

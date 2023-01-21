@@ -1,0 +1,5 @@
+{
+    "DESCRIPTION": "Aative ou desative o addon de level.",
+    "USAGE": "poziom <ativar | desativar>\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "poziom <ativar | desativar>"
+}

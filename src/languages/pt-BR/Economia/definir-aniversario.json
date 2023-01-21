@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Define a data do seu aniversario em seu perfil.",
+    "USAGE": "definir-aniversario <d-m>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "definir-aniversario <d-m>",
+    "EXAMPLE": "definir-aniversario 02-12",
+    "NIVER": "por favor, informe a **data do seu aniversario**!",
+    "NIVER1": "por favor, informe a data no formato **DD-MM**",
+    "NIVER2": "a data de seu aniversário foi atualizado para"
+}

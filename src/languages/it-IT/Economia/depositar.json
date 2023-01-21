@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Deposita sul tuo conto bancario una somma di denaro proveniente dall'Economy.",
+    "USAGE": "deposito <value>\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "deposito <value>",
+    "EXAMPLE": "deposito 5000",
+    "DEPOSITAR": "tutti",
+    "DEPOSITAR1": "<:cancel:855859391709577266> Non hai denaro da depositare",
+    "DEPOSITAR2": "<:v_:855859391835799582> Hai depositato tutte le tue monete nella tua banca",
+    "DEPOSITAR3": "<:cancel:855859391709577266> Specificare un importo da depositare",
+    "DEPOSITAR4": "<:cancel:855859391709577266> Il tuo valore non è un numero!",
+    "DEPOSITAR5": "<:cancel:855859391709577266> Non puoi depositare denaro negativo",
+    "DEPOSITAR6": "non hai tale importo disponibile per depositare nella tua banca.",
+    "DEPOSITAR7": "<:v_:855859391835799582> Hai depositato",
+    "DEPOSITAR8": "skcoins sul tuo conto bancario"
+}

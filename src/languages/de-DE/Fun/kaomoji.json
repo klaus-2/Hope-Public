@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Sende einen Text Kaomoji!",
+    "USAGE": "kaomoji\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "kaomoji",
+    "EXAMPLE": "kaomoji"
+}

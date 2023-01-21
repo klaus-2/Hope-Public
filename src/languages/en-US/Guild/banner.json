@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Displays the profile banner of a user.",
+    "USAGE": "banner <user>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "banner <user>",
+    "EXAMPLE": "banner @User",
+    "BANNER": "Hi, I'm Hope.",
+    "BANNER1": "Below is the <@{{user}}> banner.",
+    "BANNER2": "Oops! This user does not have a banner.",
+    "BANNER3": "If you want to download it, [click here]({{banner}})."
+}

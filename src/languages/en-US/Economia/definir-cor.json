@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Sets the color for your Economia card.",
+    "USAGE": "setcolor <hex>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "setcolor <hex>",
+    "EXAMPLE": "setcolor #e567da",
+    "COR": "**<@{{author}}>**, please provide a valid HEX for the color.\nYou can go to [Google Color Picker](https://www.google.com/search?q=color+picker) to get the desired hex.\nIn addition, you can also type `default` to revert the color to default.",
+    "COR1": "the color of your profile has been updated to"
+}

@@ -1,0 +1,4 @@
+{
+    "DESCRIPTION": "teste comando",
+    "USAGE": "cargotodos < @cargo >"
+}

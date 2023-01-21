@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Activer ou désactiver l'extension message de bienvenue.",
+    "USAGE": "bv-addon <enable | disable>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "bv-addon <enable | disable>",
+    "EXAMPLE": "bv-addon enable"
+}

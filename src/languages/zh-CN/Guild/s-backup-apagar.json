@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "删除服务器备份。",
+    "USAGE": "s-backup-delete <backupID>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "s-备份-删除 <backupID>",
+    "EXAMPLE": "s-备份-删除 2334",
+    "S_BACKUP_APAGAR": "啊 {{author}}，对不起 :(",
+    "S_BACKUP_APAGAR1": "状态高级版： :small_blue_diamond: ** 普通用户 ** :small_blue_diamond:\n很遗憾 <: HopeFoimal:823046654374314044> 你不能使用此命令，因为你不是 **Hope 支持服务器 ** 的高级用户。",
+    "S_BACKUP_APAGAR2": "💡 高级版是提升 Hope 支持服务器的用户的一项好处。 {{prefix}}斯凯",
+    "S_BACKUP_APAGAR3": "必须指定有效的备份 ID 才能删除",
+    "S_BACKUP_APAGAR4": "** 备份删除 **",
+    "S_BACKUP_APAGAR5": "** 新备份已删除 **\n 作者： {{author}}",
+    "S_BACKUP_APAGAR6": "找不到 {{backupID}}的备份"
+}

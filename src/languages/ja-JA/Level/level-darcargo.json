@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "このサーバーの Hope 自動ロールを設定します。",
+    "USAGE": "level-giverole <new roleID>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "レベルジヴェロール <new roleID>",
+    "EXAMPLE": "level-giverole 328328777266673",
+    "LVL_CARGO": "`なし`",
+    "LVL_CARGO1": "設定: `Level`",
+    "LVL_CARGO2": "<: v_: 855859391835799582> O `auto role` が正常に更新されました。",
+    "LVL_CARGO3": "自動ロール",
+    "LVL_CARGO4": "から変更されました"
+}

@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "configurare la posizione di verifica.",
+    "USAGE": "vf-role <newroleID>\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "vf-role <newroleID>",
+    "EXAMPLE": "vf-role 98789623672631",
+    "VF_CARGO": "Configurac<unk> o<unk> es: `Server`",
+    "VF_CARGO1": "<:v_:855859391835799582>Il `auto role` è stato aggiornato con successo.",
+    "VF_CARGO2": "Ruolo della verifica",
+    "VF_CARGO3": "cambiato da"
+}

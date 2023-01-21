@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "configureer het bericht dat moet worden verzonden in de privégebruiker bij het inloggen op de server.",
+    "USAGE": "bv-msgprivate <mensagem>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "bv-msgprivate <message>",
+    "EXAMPLE": "bv-msgprivate Veel plezier hier bij **{server}**!",
+    "BV_MENSAGEMPRIVADO": "<:v_:855859391835799582> Kanaal succesvol bijgewerkt naar:"
+}

@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Expresse uma reação de desgosto.",
+    "USAGE": "desgosto\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "desgosto",
+    "EXAMPLE": "desgosto"
+}

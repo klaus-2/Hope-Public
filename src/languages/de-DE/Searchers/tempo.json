@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "zur Suche nach meteorologischen Infomationen einer Stadt.",
+    "USAGE": "Wetter <localization>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "wetter <localization>",
+    "EXAMPLE": "wetterny | Wetter-neue york",
+    "TEMPO": "Thermik Sensation:",
+    "TEMPO1": "Grad",
+    "TEMPO2": "Zeitzone:",
+    "TEMPO3": "Grad-Typ:",
+    "TEMPO4": "Breitengrad und Längengrad:",
+    "TEMPO5": "Ungültiger Ort",
+    "TEMPO_TITULO": "Wetter - {{place}}",
+    "TEMPO_DESCRIÇÃO": "Temperatureinheiten können einige Zeit unterschiedlich sein",
+    "TEMPO6": "Temperatur:",
+    "TEMPO7": "Himmelstext:",
+    "TEMPO8": "Feuchtigkeit:",
+    "TEMPO9": "Windgeschwindigkeit:",
+    "TEMPO10": "Beobachtungszeit:",
+    "TEMPO11": "Windanzeige:"
+}

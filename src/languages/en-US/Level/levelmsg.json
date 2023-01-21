@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Set up Hope auto charge for this server.",
+    "USAGE": "levelmsg <message>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "levelmsg <message>",
+    "EXAMPLE": "levelmsg GG {user}, you advanced to Level {Level}!",
+    "LVL_MSG": "Settings: `Level`",
+    "LVL_MSG1": "<:v_:855859391835799582>The configuration of `level` has been successfully updated.",
+    "LVL_MSG2": "Level Setting",
+    "LVL_MSG3": "Mensagem changed from"
+}

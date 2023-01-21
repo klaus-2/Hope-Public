@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Abilita o disabilita l'addon di benvenuto.",
+    "USAGE": "benvenuto <enable | disable>\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "benvenuto <enable | disable>",
+    "EXAMPLE": "benvenuto attivo"
+}

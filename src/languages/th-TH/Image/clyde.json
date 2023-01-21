@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Create a fake Clyde message.",
+    "USAGE": "clyde <text>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "clyde <text>",
+    "EXAMPLE": "clyde Hope เป็นบอทที่ดีที่สุดในโลก <3"
+}

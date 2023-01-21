@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Ativa ou Desativa o addon de Boas-vindas.",
+    "USAGE": "bem-vindo <ativar | desativar>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "bem-vindo <ativar | desativar>",
+    "EXAMPLE": "bem-vindo ativar"
+}

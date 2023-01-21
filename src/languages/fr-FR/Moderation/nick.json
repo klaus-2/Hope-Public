@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "modifier le pseudo d'un utilisateur.",
+    "USAGE": "nick <user> <newNick>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "pseudo <user> <newNick>",
+    "EXAMPLE": "nick @Hope @Hope <3",
+    "ENTER_NICKNAME": "Veuillez entrer un pseudonyme.",
+    "LONG_NICKNAME": "Le pseudo doit faire moins de 32 caractères."
+}

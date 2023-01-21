@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Lass den Himmel etwas sagen.",
+    "USAGE": "sage <message>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "sage <message>",
+    "EXAMPLE": "sagt, Hope ist der beste Bot der Welt <3",
+    "EFALAR_DESC": "Hallo, ich bin Hope, und ich wollte nur sagen..."
+}

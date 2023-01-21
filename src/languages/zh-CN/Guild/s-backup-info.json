@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "从服务器备份中获取信息。",
+    "USAGE": "s-backup-info <backupID>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "s 备份信息 <backupID>",
+    "EXAMPLE": "s 备份信息 2334",
+    "S_BACKUP_INFO": "您必须指定有效的备份 ID",
+    "S_BACKUP_INFO1": "** 备份信息 **\n 备份 ID：",
+    "S_BACKUP_INFO2": "服务器 ID：",
+    "S_BACKUP_INFO3": "备份大小：",
+    "S_BACKUP_INFO4": "mb \n 备份创建于："
+}

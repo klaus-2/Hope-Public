@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "apagar uma certa Quantidade de mensagens。",
+    "USAGE": "apagar <1-1000> [user]\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "apagar <1-1000> [user]",
+    "EXAMPLE": "apagar 559",
+    "NO_PREM": "服务器必须是高级服务器才能清除超过 200 条消息。",
+    "TITLE": "清除消息确认",
+    "DESC": "您即将清除该频道的 {{NUM}} 条消息，请做出回应以确认此操作。",
+    "DEL_MSG": "删除 {{NUM}} 条消息大约需要 {{TIME}} 秒钟才能完成。\n发生这种情况时不要发送任何消息。",
+    "SUCCESS": "成功删除了 {{NUM}} 封邮件。",
+    "CON_CNC": "确认已取消",
+    "CON_TO": "确认超时。"
+}

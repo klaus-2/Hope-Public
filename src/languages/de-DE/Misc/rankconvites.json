@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "zeigen den Einladungsrang des Servers an.",
+    "USAGE": "ranklädt\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "rankinvites",
+    "EXAMPLE": "rankinvites",
+    "ERANKC_DESC": "<:SkyeComVergonha:823248929508032513> Ohhhh, es scheint, dass ich keine Berechtigung habe, Einladungen auf diesem Server zu sehen... Bitte benachrichtigen Sie die Administration und versuchen Sie es erneut.",
+    "ERANKC_DESC1": "einladungen",
+    "ERANKC_DESC2": ":trophie: Einladungen Rangliste 🏆"
+}

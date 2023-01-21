@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "获取激励人心的报价来改善你的一天。",
+    "USAGE": "动机\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "动机",
+    "EXAMPLE": "动机",
+    "FMOT_DESC": "./resources/quotes/motivational-en.json",
+    "FMOT_DESC1": "励志名言"
+}

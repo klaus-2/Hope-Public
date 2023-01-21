@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "remove a song from the queue.",
+    "USAGE": "remove <position> [position]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "remove <position> [position]",
+    "EXAMPLE": "remove 3 | remove 3 7",
+    "REMOVER": "You cannot remove a song that is already playing. To remove the currently playing song: `{{prefix}}skip`",
+    "REMOVER1": "I couldn't find that song.",
+    "REMOVER2": "Removed **{{title}}** from the queue.",
+    "REMOVER3": "The final value must be greater than the initial value.",
+    "REMOVER4": "Removed",
+    "REMOVER5": "songs in the queue.",
+    "REMOVER6": "Invalid number.",
+    "REMOVER7": "Removed **{{num}}** songs from the queue"
+}

@@ -1,0 +1,7 @@
+{
+    "MESSAGE": "Je vais vous rappeler à propos de `{{INFO}}` dans environ {{TIME}}.",
+    "DESC": "Lien du message",
+    "TITLE": "Rappel",
+    "FOOTER": "Rappel d'il y a {{TIME}}.",
+    "RESPONSE": "\n**RAPPEL :**\n {USER} votre rappel : {{INFO}}"
+}

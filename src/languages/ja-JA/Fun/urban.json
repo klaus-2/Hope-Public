@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "単語の都市辞書を入手してください。",
+    "USAGE": "urban <word>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "アーバン <word>",
+    "EXAMPLE": "アーバン <word>",
+    "INCORRECT_URBAN": "フレーズです。 `{{phrase}}`は、都市辞書では見つかりませんでした。",
+    "URBAN_TITLE": "{{word}} の定義",
+    "URBAN_DESCRIPTION": "{{definition}}\n**例:**\n{{examples}}"
+}

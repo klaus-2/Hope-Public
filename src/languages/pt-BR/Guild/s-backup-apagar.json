@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Apaga um backup do servidor.",
+    "USAGE": "s-backup-apagar <ID do backup>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "s-backup-apagar <ID do backup>",
+    "EXAMPLE": "s-backup-apagar 2334",
+    "S_BACKUP_APAGAR": "Aah {{author}}, eu sinto muito :(",
+    "S_BACKUP_APAGAR1": "Status premium: :small_blue_diamond: **USUÁRIO NORMAL** :small_blue_diamond:\nInfezlimente <:SkyeFoiMal:823046654374314044> você não pode usar este comando por que você não é um usuario premium no **Servidor de Suporte da Hope**.",
+    "S_BACKUP_APAGAR2": "💡 Premium é um beneficio dado a usuarios que boostam o servidor de suporte da Hope.\nSe estiver interessado digite {{prefix}}Hope",
+    "S_BACKUP_APAGAR3": "Você deve especificar um ID de backup válido para remover",
+    "S_BACKUP_APAGAR4": "** BACKUP DELETADO**",
+    "S_BACKUP_APAGAR5": "** NOVO BACKUP DELETADO**\n Autor: {{author}}",
+    "S_BACKUP_APAGAR6": "Nenhum backup encontrado para {{backupID}}"
+}

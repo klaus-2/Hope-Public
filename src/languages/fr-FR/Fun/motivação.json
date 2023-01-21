@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "obtenir un devis motivant pour améliorer votre journée.",
+    "USAGE": "motivation\n💡**Exemple**: {{EXAMPLE}}",
+    "USAGEE": "motivations",
+    "EXAMPLE": "motivations",
+    "FMOT_DESC": "./resources/quotes/motivational-en.json",
+    "FMOT_DESC1": "Citation de motivation"
+}

@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "アドオンdesugestãoに絶望的だ",
+    "USAGE": "sugestão <ativar | desativar>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "提案する <ativar | desativar>",
+    "EXAMPLE": "提案の有効化"
+}

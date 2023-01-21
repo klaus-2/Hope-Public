@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "サーバーに自動応答のリストを与える",
+    "USAGE": "autoresponse-list\n💡**例**: {{EXAMPLE}}",
+    "USAGEE": "自動応答リスト",
+    "EXAMPLE": "自動応答リスト",
+    "LISTA_RESPOSTA": "<:cancel:855859391709577266> 現在のギルドにはカスタムコマンドがありません！",
+    "LISTA_RESPOSTA1": "カスタムコマンド",
+    "LISTA_RESPOSTA2": "現在のギルドにはカスタムコマンドはありません！"
+}

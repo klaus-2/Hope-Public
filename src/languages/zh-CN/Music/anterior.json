@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "显示以前播放过的曲目。",
+    "USAGE": "上一页 [pageNumber]\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "前一页 [pageNumber]",
+    "EXAMPLE": "以前 2",
+    "ANTERIOR": "之前没有播放过任何曲目",
+    "ANTERIOR1": "以前的曲目",
+    "ANTERIOR2": "** 最后一首曲目 **：",
+    "ANTERIOR3": "  没什么",
+    "ANTERIOR4": "Page",
+    "ANTERIOR5": "歌曲",
+    "ANTERIOR6": "Page 必须是数字。",
+    "ANTERIOR7": "只有",
+    "ANTERIOR8": "页面可用。"
+}

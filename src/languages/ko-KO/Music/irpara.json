@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "재생 중인 트랙의 위치를 지정된 위치로 설정합니다.",
+    "USAGE": "탐색 <time>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "탐색 <time>",
+    "EXAMPLE": "탐색 01:00",
+    "IRPARA": "시간이 현재 곡 길이보다 짧습니다. `{{time}}`"
+}

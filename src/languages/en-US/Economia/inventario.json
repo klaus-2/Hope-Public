@@ -1,0 +1,21 @@
+{
+    "DESCRIPTION": "Check your items.",
+    "USAGE": "inventory\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "inventory",
+    "EXAMPLE": "inventory",
+    "INV": "Hello {{author}} that's your inventory!",
+    "INV1": "Below are all items that you currently have on the server {{guild}}.",
+    "INV2": "Hope's shop",
+    "INV3": "Page",
+    "INV4": "of",
+    "INV5": "Type:",
+    "INV6": "Selling Price:",
+    "INV7": "Preview:",
+    "INV8": "viewitem",
+    "INV9": "Equip:",
+    "INV10": "use",
+    "INV11": "Sell:",
+    "INV12": "sell",
+    "INV13": "[quantity]",
+    "INV14": "your inventory is empty.\nPurchase items from Hope's shop (**{{prefix}}shop**)"
+}

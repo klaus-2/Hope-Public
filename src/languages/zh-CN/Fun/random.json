@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "用随机数回复。",
+    "USAGE": "随机\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "随机",
+    "EXAMPLE": "随机 2 10",
+    "FRANDOM_DESC": ":one: 等等，我正在选择一个数字...",
+    "FRANDOM_DESC1": "{{num}} 等等，我正在选择一个数字...",
+    "FRANDOM_DESC2": "🔢 你的号码是 **{{random}}**！"
+}

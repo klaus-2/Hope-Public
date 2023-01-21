@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Laat Hope's laatste nieuws zien.",
+    "USAGE": "nieuws\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "nieuws",
+    "EXAMPLE": "nieuws",
+    "NEWS": "Hope Nieuws",
+    "NEWS1": "Publicatiedatum:"
+}

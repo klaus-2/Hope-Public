@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Ativa ou desativa o modo de Anti Poluição.",
+    "USAGE": "anti-poluição <ativar | desativar>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "anti-poluição <ativar | desativar>",
+    "EXAMPLE": "anti-poluição ativar",
+    "ANTI": "O modo `Anti-Poluição` foi ativado com sucesso!",
+    "ANTI1": "O modo `Anti-Poluição` foi desativado com sucesso!"
+}

@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Überweisen Sie einen Betrag von Geld vom Economy Addon auf Ihr Bankkonto.",
+    "USAGE": "hinterlegen <value>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "einzahlung <value>",
+    "EXAMPLE": "5000 einzahlen",
+    "DEPOSITAR": "alle",
+    "DEPOSITAR1": "<:cancel:855859391709577266> Du hast kein Geld zu hinterlegen",
+    "DEPOSITAR2": "<:v_:855859391835799582> Du hast alle deine Münzen in deiner Bank eingezahlt",
+    "DEPOSITAR3": "<:cancel:855859391709577266> Geben Sie einen Betrag an",
+    "DEPOSITAR4": "<:cancel:855859391709577266> Dein Wert ist keine Zahl!",
+    "DEPOSITAR5": "<:cancel:855859391709577266> Du kannst kein negatives Geld einzahlen",
+    "DEPOSITAR6": "Sie haben diesen Betrag nicht zur Einzahlung auf Ihre Bank.",
+    "DEPOSITAR7": "<:v_:855859391835799582> Du hast hinterlegt",
+    "DEPOSITAR8": "skcoins auf dein Bankkonto"
+}

@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Enable or disable the moderation addon.",
+    "USAGE": "moderation <enable | disable>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "moderation <enable | disable>",
+    "EXAMPLE": "moderation enable"
+}

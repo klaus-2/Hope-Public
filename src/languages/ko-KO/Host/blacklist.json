@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "글로벌 금지 목록 업데이트",
+    "USAGE": "블랙리스트 <add / remove> <userID> [reason]",
+    "MISSING_USER": "잘못된 사용자 ID입니다.",
+    "AUTHOR": "{{TAG}} 이 (가) 전 세계적으로 금지되었습니다",
+    "DESC": "**이유: ** {{REASON}}",
+    "ALRDY_BAN": "사용자: {{ID}} 이 (가) 이미 금지되었습니다.",
+    "SUCC_UNBAN": "사용자 차단을 성공적으로 해제했습니다."
+}

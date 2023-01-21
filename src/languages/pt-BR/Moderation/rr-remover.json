@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Remover um reaction role.",
+    "USAGE": "rr-remover <link da mensagem>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "rr-remover <link da mensagem>",
+    "EXAMPLE": "rr-remover https://discord.com/channels/450822670105082938/451619652009787331/747357221053937082",
+    "RR_REMOVER": "Link da mensagem inválida",
+    "RR_REMOVER1": "Cargo de reação deletado com sucesso"
+}

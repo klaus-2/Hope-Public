@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "einen Backup-Code löschen.",
+    "USAGE": "e-Backup-Löschen <code>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "e-Backup-Löschen <code>",
+    "EXAMPLE": "e-Backup löschen Cg267T",
+    "E_BACKUP_APAGAR": "Hallo, {{author}}",
+    "E_BACKUP_APAGAR1": ":x: | **Sicherung nicht gefunden**",
+    "E_BACKUP_APAGAR2": "**Die Sicherung wurde erfolgreich gelöscht!** ",
+    "E_BACKUP_APAGAR3": ":x: | **Dieses Backup wurde nicht gefunden.**"
+}

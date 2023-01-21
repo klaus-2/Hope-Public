@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "reiniciar o bot.",
+    "USAGE": "re\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "re",
+    "EXAMPLE": "re",
+    "HRE_DESC": ":white_check_mark: **Reiniciando a Hope!**",
+	"HRE_DESC1": "Isso pode levar alguns segundos...",
+	"HRE_DESC2": ":white_check_mark: Reiniciando a Hope!\nIsso pode levar alguns segundos..."
+}

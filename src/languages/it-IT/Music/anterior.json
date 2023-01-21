@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Visualizza le tracce precedenti che sono state riprodotte.",
+    "USAGE": "precedente [pageNumber]\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "precedente [pageNumber]",
+    "EXAMPLE": "precedente 2",
+    "ANTERIOR": "Nessuna traccia precedente è stata riprodotta",
+    "ANTERIOR1": "Tracce Precedenti",
+    "ANTERIOR2": "**Ultima Traccia**:",
+    "ANTERIOR3": "  Niente",
+    "ANTERIOR4": "Pagina",
+    "ANTERIOR5": "canzone/i",
+    "ANTERIOR6": "La pagina deve essere un numero.",
+    "ANTERIOR7": "Ci sono solo",
+    "ANTERIOR8": "pagine disponibili."
+}

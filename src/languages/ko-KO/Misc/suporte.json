@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Hope 지원 서버에서 초대장을 받습니다.",
+    "USAGE": "지원\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "지원하다",
+    "EXAMPLE": "지원하다",
+    "ESUP_DESC": "스카이 지원 서버",
+    "ESUP_DESC1": "[here](https://discord.gg/KCjWHUf4zV) 을 클릭하여 지원 서버로 들어갑니다!",
+    "ESUP_DESC2": "기타 링크",
+    "ESUP_DESC3": "** [스카이 초대] (https://discordapp.com/oauth2/authorize?client_id =${bot.user.id}&범위=봇&권한=8) | ",
+    "ESUP_DESC4": "[Twitter](#) **"
+}

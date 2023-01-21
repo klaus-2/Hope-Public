@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "配置在登录服务器时以用户的私人身份发送的消息。",
+    "USAGE": "bv-msgprivate <mensagem>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "bv-msgprivate <message>",
+    "EXAMPLE": "bv-msgprivate 在这里玩得开心 **{server}**！",
+    "BV_MENSAGEMPRIVADO": "<: v_: 855859391835799582> 频道已成功更新为："
+}

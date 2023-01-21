@@ -1,0 +1,20 @@
+{
+    "CHANNEL_UPDATE": "더 카테고리",
+    "CHANNEL_UPDATE1": "더 채널",
+    "CHANNEL_UPDATE2": "이름이 바뀌 었습니다.",
+    "CHANNEL_UPDATE3": "[이벤트 — 이름 변경됨]",
+    "CHANNEL_UPDATE4": "이전 이름:",
+    "CHANNEL_UPDATE5": "새 이름:",
+    "CHANNEL_UPDATE6": "주제가 바뀌 었습니다.",
+    "CHANNEL_UPDATE7": "[이벤트 — 주제 변경됨]",
+    "CHANNEL_UPDATE8": "보낸 사람:",
+    "CHANNEL_UPDATE9": "다음 작업을 위해",
+    "CHANNEL_UPDATE10": "*빈 주제*",
+    "CHANNEL_UPDATE11": "사용 권한이 변경되었습니다.**\n*참고: * 숫자의 의미를 알려면 [설명서](https://discordapp.com/developers/docs/topics/permissions) 를 참조하십시오.",
+    "CHANNEL_UPDATE12": "[이벤트 — 주제 변경됨]",
+    "CHANNEL_UPDATE13": "허용 파마:",
+    "CHANNEL_UPDATE14": "페름이 거부되었습니다.",
+    "CHANNEL_UPDATE15": "대체가 제외되었습니다.",
+    "CHANNEL_UPDATE16": "[이벤트 — 지역 변경됨]",
+    "CHANNEL_UPDATE17": "지역이 변경되었습니다."
+}

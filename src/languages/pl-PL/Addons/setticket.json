@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Włącz lub wyłącz dodatek biletu.",
+    "USAGE": "setticket <enable | disable>\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "setticket <enable | disable>",
+    "EXAMPLE": "setticket włącz"
+}

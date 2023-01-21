@@ -1,0 +1,19 @@
+{
+    "DESCRIPTION": "Comprueba lo que puedes comprar en la tienda.",
+    "USAGE": "shop\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "tienda",
+    "EXAMPLE": "tienda",
+    "LOJA": "Bienvenido a la tienda Hope",
+    "LOJA1": "¡Elige, compra y personaliza tu perfil! <:Skyeawnnt: 823046654764515338>",
+    "LOJA2": "Tienda Hope",
+    "LOJA3": "Página",
+    "LOJA4": "de",
+    "LOJA5": "Tipo:",
+    "LOJA6": "Precio:",
+    "LOJA7": "skcoins",
+    "LOJA8": "Vista previa:",
+    "LOJA9": "ver artículo",
+    "LOJA10": "Compra:",
+    "LOJA11": "comprar",
+    "LOJA12": "[amount]"
+}

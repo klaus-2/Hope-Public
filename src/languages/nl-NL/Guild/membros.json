@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Bekijk alle leden van een bepaalde functie! of misschien allemaal!",
+    "USAGE": "leden < all | role name | @role >\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "leden < all | role name | @role >",
+    "EXAMPLE": "members @role | leden alle | naam van de rol van leden",
+    "MEMBROS": "allemaal",
+    "MEMBROS1": "Lijst",
+    "MEMBROS2": "Geen leden met de",
+    "MEMBROS3": "Er bestaat een rol!"
+}

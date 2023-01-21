@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "ユーザーのニックネームを変更する。",
+    "USAGE": "ニック <user> <newNick>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "ニック <user> <newNick>",
+    "EXAMPLE": "ニック @Hope @Hope <3",
+    "ENTER_NICKNAME": "ニックネームを入力してください。",
+    "LONG_NICKNAME": "ニックネームは 32 文字未満である必要があります。"
+}

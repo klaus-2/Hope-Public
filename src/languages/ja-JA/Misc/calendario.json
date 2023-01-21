@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "小さなカレンダーを表示する。",
+    "USAGE": "カレンダー\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "カレンダー",
+    "EXAMPLE": "カレンダー",
+    "ECALEN_DESC": "📅 | カレンダー",
+    "ECALEN_DESC1": "今日の日付:",
+    "ECALEN_DESC2": "つまり、",
+    "ECALEN_DESC3": "曜日:",
+    "ECALEN_DESC4": "スケジュール:",
+    "ECALEN_DESC5": "10日前の日付:",
+    "ECALEN_DESC6": "今から十日後:"
+}

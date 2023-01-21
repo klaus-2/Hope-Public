@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Create and manage a backup of your server or your emojis",
+    "USAGE": "<prefix><commandName> <emoji | server> <create | delete | load | list> [backupID]\n💡**Example**\n{{EXAMPLE}}",
+    "USAGEE": "<prefix><commandName> <emoji | server> <create | delete | load | list> [backupID]",
+    "EXAMPLE": "{{prefix}}backup emoji create **- to create a backup of the emojis on the server**\n{{prefix}}backup emoji delete Cg267T **- to delete the backup**\n{{prefix}}backup server load Cg267T** - to load the backup**\n{{prefix}}backup server create ** - to create a server backup**\n{{prefix}}backup emoji list ** - to see the list of backups**"
+}  

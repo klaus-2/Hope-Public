@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "사용자 정의 이미지를 만들 수 있습니다.",
+    "USAGE": "<option> [user]\n생성 💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "generate <option> [user]",
+    "EXAMPLE": "3000 년 사용자 생성 | 아름다운 <attachment>생성",
+    "GENERATE_DESC": "**1 이미지가 필요합니다**:\n`{{IMG_1}}`. \n**2개의 이미지가 필요합니다**:\n`{{IMG_2}}`.",
+    "NEED_TWOIMG": "2개의 파일을 업로드하거나 2명의 사용자를 멘션합니다."
+}

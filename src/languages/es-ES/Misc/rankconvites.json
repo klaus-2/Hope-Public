@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "muestra el rango de invitación del servidor.",
+    "USAGE": "invitaciones de rango\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "invitaciones de rango",
+    "EXAMPLE": "invitaciones de rango",
+    "ERANKC_DESC": "<:Skyecomvergonha:823248929508032513> Ohhh, parece que no tengo permisos para ver invitaciones en este servidor... avisa a la administración y vuelve a intentarlo.",
+    "ERANKC_DESC1": "invitaciones",
+    "ERANKC_DESC2": "🏆 Clasificación de invitaciones 🏆"
+}

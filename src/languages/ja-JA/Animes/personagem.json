@@ -1,0 +1,18 @@
+{
+    "DESCRIPTION": "MyAnimelist.netでキャラクターを検索する",
+    "USAGE": "文字 <name>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "キャラクター <name>",
+    "EXAMPLE": "キャラクター桜島麻衣 | anichar 桜島麻衣 | char舞さん | キャラクター舞",
+    "APERSO_DESC": "<:MyAnimeList:827773575112425472> [MyAnimeList](https://myanimelist.net 'サイト') で** {{query}} ** という名前のキャラクターを探しています。",
+    "APERSO_DESC1": "**{{query}}** の結果は見つかりませんでした！\n\nこのキャラクターが存在すると思われる場合は、別の名前を試してください。",
+    "APERSO_DESC2": "{{badge}} で限定料金をしています。後でもう一度お試しください。",
+    "APERSO_DESC3": "{{badge}}にアクセスできませんでした。現時点でサイトがダウンしている可能性があります。",
+    "APERSO_DESC4": "何も見つかりませんでした",
+    "APERSO_DESC5": "レスポンスエラー",
+    "APERSO_DESC6": "HTTP エラーコードで応答しました",
+    "APERSO_DESC7": "もっと読む",
+    "APERSO_DESC8": "ビジュアル",
+    "APERSO_DESC9": "なし",
+    "APERSO_DESC10": "と",
+    "APERSO_DESC11": "もっと！"
+}

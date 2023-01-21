@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Cria uma enquete para os usuários responderem.",
+    "USAGE": "enquete <pergunta>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "enquete <pergunta>",
+    "EXAMPLE": "enquete Vai chover hoje?",
+    "POLL_TITLE": "Enquete criada por {{username}}",
+    "POLL_FOOTER": "Reaja para votar.."
+}

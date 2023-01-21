@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Konfiguruje dodatek Auto-Reddit.",
+    "USAGE": "auto-reddit <add | remove >\n💡**Przykład**: {{EXAMPLE}}",
+    "USAGEE": "auto-reddit <add | remove >",
+    "EXAMPLE": "dodawanie auto-reddita",
+    "REDDIT": "add",
+    "REDDIT1": "Ups! Wygląda na to, że ten Reddit nie istnieje lub jest całkowicie pusty. Sprawdź i spróbuj ponownie.",
+    "REDDIT2": "Reddit został pomyślnie dodany do <#{{channel}}>!",
+    "REDDIT3": "remove",
+    "REDDIT4": "Auto-reddit został pomyślnie wyłączony!",
+    "REDDIT5": "Ups! Wygląda na to, że wpisałeś błędną nazwę subreddita lub nie istnieje w dodatku.\nZweryfikuj i spróbuj ponownie.",
+    "REDDIT6": "Kanał <#{{channel}}> został pomyślnie usunięty z subreddita **{{sub}}**",
+    "REDDIT7": "disable"
+}

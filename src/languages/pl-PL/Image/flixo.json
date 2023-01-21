@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Odtwórz zdjęcie użytkownika w kosza.",
+    "USAGE": "śmieci [user]\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "śmieć",
+    "EXAMPLE": "śmieci @Hope",
+    "FLIXO_DESC": "właśnie rzucił",
+    "FLIXO_DESC1": "w kosza",
+    "FLIXO_DESC2": "Pozwolisz temu odejść?",
+    "FLIXO_DESC3": "i uzyskać równy 😈",
+    "FLIXO_DESC4": "Whoa!"
+}

@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "genereer een beveiligd wachtwoord.",
+    "USAGE": "wachtwoord\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "wachtwoord",
+    "EXAMPLE": "wachtwoord",
+    "ESENHA_DESC": "Onzeker",
+    "ESENHA_DESC1": "Heel veilig",
+    "ESENHA_DESC2": "Verzekering",
+    "ESENHA_DESC3": "Hope Wachtwoordgenerator",
+    "ESENHA_DESC4": "Wachtwoord",
+    "ESENHA_DESC5": "Lengte",
+    "ESENHA_DESC6": "Beveiligingsniveau",
+    "ESENHA_DESC7": "Opmerking - Je wachtwoorden worden nooit aan onze kant opgeslagen!",
+    "ESENHA_DESC8": "🚫 Kan het wachtwoord niet verzenden!",
+    "ESENHA_DESC9": "Ik kan je geen DM sturen! Repareer dit door je privacyinstellingen voor deze server te wijzigen om directe berichten toe te staan!"
+}

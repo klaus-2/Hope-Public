@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "ランダムな数字で返信します。",
+    "USAGE": "ランダム\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "ランダム",
+    "EXAMPLE": "ランダム 2 10",
+    "FRANDOM_DESC": ":one: 待って、数字を選んでる...",
+    "FRANDOM_DESC1": "{{num}} 待って、数字を選んでる...",
+    "FRANDOM_DESC2": "🔢 あなたの番号は **{{random}}** です!"
+}

@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "プライベートでウェルカムメッセージアドオンを有効または無効にします。",
+    "USAGE": "bv-adprivate <enable | disable>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "bv-adprivate <enable | disable>",
+    "EXAMPLE": "bv-adprivate on"
+}

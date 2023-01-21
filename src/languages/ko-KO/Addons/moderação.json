@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "중재 애드온을 사용 또는 사용 중지합니다.",
+    "USAGE": "중재 <enable | disable>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "중재 <enable | disable>",
+    "EXAMPLE": "중재 활성화"
+}

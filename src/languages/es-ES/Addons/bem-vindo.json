@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Activar o desactivar el complemento de bienvenida.",
+    "USAGE": "bienvenido <enable | disable>\n💡**Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "Bienvenido <enable | disable>",
+    "EXAMPLE": "activar bienvenida"
+}

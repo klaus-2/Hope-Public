@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Versetzt den Benutzer in den Ruhezustand.",
+    "USAGE": "schlafen [user]",
+    "USAGEE": "schlafen [user]",
+    "DORMIR_DESCRIÇÃO": "<@{{author}}> ist eingeschlafen!",
+    "DORMIR_DESCRIÇÃO1": "eingeschlafen mit",
+    "DORMIR_DESCRIÇÃO2": "<@{{author}}>, i'm nicht schlafen...."
+}

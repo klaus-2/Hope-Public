@@ -1,0 +1,11 @@
+{
+    "MESSAGE_DELETE": "来自的消息",
+    "MESSAGE_DELETE1": "已在中删除",
+    "MESSAGE_DELETE2": "作者编号：",
+    "MESSAGE_DELETE3": "消息 ID：",
+    "MESSAGE_DELETE4": "[事件 — 已删除的消息]",
+    "MESSAGE_DELETE5": "內容",
+    "MESSAGE_DELETE6": "(缩短)",
+    "MESSAGE_DELETE7": "* 空 *",
+    "MESSAGE_DELETE8": "附件"
+}

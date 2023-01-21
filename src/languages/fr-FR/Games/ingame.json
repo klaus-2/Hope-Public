@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "montrent des informations provenant d'un match de League of Legends.",
+    "USAGE": "ingame <nick>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "elo <nick>",
+    "EXAMPLE": "elo yassuo",
+    "INGAME": "<:SkyeObservando:823223048060534833> Bonjour! Attendez un peu, je rassemble toutes les informations.",
+    "INGAME1": "Invocateur introuvable",
+    "INGAME2": "á",
+    "INGAME3": "Équipe bleue",
+    "INGAME4": "Équipe rouge",
+    "INGAME5": "Oups, j'ai fait une bonne recherche ici et j'ai trouvé que {{nom}} n'est pas actuellement dans un match 😕"
+}

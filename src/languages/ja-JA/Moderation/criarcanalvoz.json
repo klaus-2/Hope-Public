@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "ボイスチャンネルを作成します。",
+    "USAGE": "create-voiceChannel <name>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "ボイスチャンネルを作成 <name>",
+    "EXAMPLE": "音声チャンネル作成テスト"
+}

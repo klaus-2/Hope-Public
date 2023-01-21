@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "자동 코비드 애드온을 구성합니다.",
+    "USAGE": "자동 코드화 | <channelID>",
+    "USAGEE": "자동 코드화 | <channelID>",
+    "EXAMPLE": "자동 코드화 62349322567745\n💡 **예**: {{EXAMPLE}}",
+    "CAC_TITULO": "설정: `자동 코비드'",
+    "CAC_FIELD": "<:정보: 823004619805294643> 1 시간마다 코로나19 에 대한 업데이트 된 정보를 제공하는 자동 게시 애드온.",
+    "CAC_FIELD1": "채널",
+    "CAC_FIELD2": "상태",
+    "CAC_FIELD3": "`애드온 설정'",
+    "CORONA_DESCRIÇÃO": "이 명령을 사용하려면 '관리자' 권한이 필요합니다.",
+    "CORONA_DESCRIÇÃO1": "채널이 제공되지 않았기 때문에 애드온**AUTO-CORONA**가 재설정되었습니다.",
+    "CORONA_DESCRIÇÃO2": "애드온**AUTO-COVID**가 성공적으로 설정되었습니다. < {{channel}} >"
+}

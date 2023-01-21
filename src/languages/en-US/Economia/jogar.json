@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Play some games to earn credits.",
+    "USAGE": "game <game name>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "game <game name>",
+    "EXAMPLE": "game hangman",
+    "JOGAR": "please provide one of the games below that you wish to play.",
+    "JOGAR1": "is not a playable game. Please select from one of the options below:"
+}

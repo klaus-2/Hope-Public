@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "사용자의 오디오를 다시 활성화합니다.",
+    "USAGE": "<user>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "들리지 않는 <user>",
+    "EXAMPLE": "운데아펜 @Hope",
+    "REAUDIO": "음성 채널이 아닌 사람의 귀청을 들을 수 없습니다."
+}

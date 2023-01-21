@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Exprimez un jeu de honte/de blush.",
+    "USAGE": "rougir [user]",
+    "USAGEE": "rougir [user]",
+    "VERGONHA_DESCRIÇÃO": "<@{{author}}> a honte",
+    "VERGONHA_DESCRIÇÃO1": "a honte de"
+}

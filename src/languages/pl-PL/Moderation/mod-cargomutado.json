@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "ustawić automatyczną pozycję Hope dla tego serwera.",
+    "USAGE": "mod-mutedrole <newRoleID>\n💡 **Przykład: {{EXAMPLE}}",
+    "USAGEE": "mod-mutedrol <newRoleID>",
+    "EXAMPLE": "kanał mod-865493021377",
+    "MOD_CARGOMUTADO": "Ustawienia: `Server`",
+    "MOD_CARGOMUTADO1": "<:v_:855859391835799582>O `auto role` został pomyślnie zaktualizowany.",
+    "MOD_CARGOMUTADO2": "Rola automatyczna",
+    "MOD_CARGOMUTADO3": "Zmieniono z"
+}

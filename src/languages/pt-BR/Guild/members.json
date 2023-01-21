@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Verifique todos os membros de um determinado cargo! ou talvez todos!",
+    "USAGE": "membros < todos | nome do cargo | @cargo >\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "membros < todos | nome do cargo | @cargo >",
+    "EXAMPLE": "membros @cargo | membros todos | membros nome do cargo",
+    "MEMBROS": "todos",
+	"MEMBROS1": "Lista",
+	"MEMBROS2": "Nenhum membro com o",
+	"MEMBROS3": "o cargo existe!"
+}

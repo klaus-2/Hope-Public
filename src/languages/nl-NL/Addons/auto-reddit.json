@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Configureert de Auto-Reddit-addon.",
+    "USAGE": "auto-reddit <add | remove >\n💡**Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "auto-reddit <add | remove >",
+    "EXAMPLE": "auto-reddit toevoegen",
+    "REDDIT": "add",
+    "REDDIT1": "Oeps! Deze Reddit bestaat niet of is helemaal leeg. Controleer en probeer het opnieuw.",
+    "REDDIT2": "Reddit is succesvol toegevoegd aan <#{{channel}}>!",
+    "REDDIT3": "remove",
+    "REDDIT4": "Autoreddit is met succes uitgeschakeld!",
+    "REDDIT5": "Oeps! Het lijkt erop dat je de verkeerde subredditnaam hebt getypt, of het bestaat niet in de addon.\nControleer en probeer het opnieuw.",
+    "REDDIT6": "Kanaal <#{{channel}}> is succesvol verwijderd uit de **{{sub}}** subreddit",
+    "REDDIT7": "disable"
+}

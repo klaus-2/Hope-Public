@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "在维基百科中搜索指定的术语。",
+    "USAGE": "维基百科 <term>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "维基百科 <term>",
+    "EXAMPLE": "维基百科雨",
+    "WIKIPEDIA": "哦！我在维基百科上找不到它。\n我想知道你拼写正确吗？",
+    "WIKIPEDIA1": "链接",
+    "WIKIPEDIA2": "此段落对于嵌入来说太长了，请点击提供的链接。",
+    "WIKIPEDIA3": "en"
+}

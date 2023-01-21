@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "fumer une cigarette.",
+    "USAGE": "fumée\n💡**Exemple**: {{EXAMPLE}}",
+    "USAGEE": "fumée",
+    "EXAMPLE": "fumée",
+    "FFUMAR_DESC": "*Cigarette d'éclairage*",
+    "FFUMAR_DESC1": "Arrêter de fumer"
+}

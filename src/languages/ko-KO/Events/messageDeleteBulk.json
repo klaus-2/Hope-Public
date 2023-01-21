@@ -1,0 +1,10 @@
+{
+    "MESSAGE_DELETE_BULK": "에서 여러 메시지가 삭제되었습니다.",
+    "MESSAGE_DELETE_BULK1": "채널 ID:",
+    "MESSAGE_DELETE_BULK2": "[이벤트 — 삭제된 메시지]",
+    "MESSAGE_DELETE_BULK3": "메시지 수:",
+    "MESSAGE_DELETE_BULK4": "삭제된 메시지:",
+    "MESSAGE_DELETE_BULK5": "만나다",
+    "MESSAGE_DELETE_BULK6": "서버에서",
+    "MESSAGE_DELETE_BULK7": "DeletedMessages.txt"
+}

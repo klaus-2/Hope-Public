@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "über das Ticket-Add-on informieren.",
+    "USAGE": "ticket\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "-Schließen",
+    "EXAMPLE": "-Schließen",
+    "TICKET_REAÇÃO": "reaction",
+    "TICKET_REAÇÃO1": "Sekretär Hope",
+    "TICKET_REAÇÃO2": "Hallo! Ich bin Hope und ich bin hier, um dir dabei zu helfen, ein Ticket zu öffnen. Es ist sehr einfach, einfach auf den Button unten <:SkyeCorreta:823047534602616832>",
+    "TICKET_REAÇÃO3": "Hallo! Ich bin Hope und ich werde dir dabei helfen.\n\nLassen Sie uns zuerst daran denken, dass `<> notwendig ist` e `[] optional ist`!\n\nKomm weiter, Sie haben zwei Optionen, um ein Ticket zu öffnen:\n Die erste Option ist, dass Sie zu der von mir im Ticket-Kanal dieses Servers gesendeten Nachricht gehen und darauf mit 🎟.\n\nDie zweite Option ist, den Befehl `{{prefix}}t-<create | open> [reason]` einzugeben, um ein Ticket zu öffnen.\n\n<a:sirene:823004235440062464> Die folgenden Befehle sind nur für die Administration dieses Servers verfügbar, ok?!\n\n`{{prefix}}Ticket-Reaktion` - erstelle eine Reaktionsmeldung, um ein Ticket zu öffnen.\n`{{prefix}}t-setup` - um den Ticket-Befehl auf diesem Server zu konfigurieren.",
+    "TICKET_REAÇÃO4": "Ticket öffnen"
+}

@@ -1,0 +1,18 @@
+{
+    "DESCRIPTION": "Exibe a lista dos próximos animes.",
+    "USAGE": "proximos-animes\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "proximos-animes",
+    "EXAMPLE": "proximos-animes | pa tv | p-animes ona | proximos-animes ova | p-animes movie | pa special",
+    "APROX_DESC": "Buscando próximo",
+    "APROX_DESC1": "anime de",
+    "APROX_DESC2": "Erro de resposta",
+    "APROX_DESC3": "**{{member}}**, 'Um erro inesperado ocorreu!'\n\n",
+    "APROX_DESC4": "MyAnimeList respondeu com código de erro {{status}}",
+    "APROX_DESC5": "Próxima lista de anime",
+    "APROX_DESC6": "Genero:",
+    "APROX_DESC7": "TODOS",
+    "APROX_DESC8": "comando",
+    "APROX_DESC9": "Página",
+    "APROX_DESC10": "de",
+    "APROX_DESC11": "Nenhuma sinopse ainda."
+}

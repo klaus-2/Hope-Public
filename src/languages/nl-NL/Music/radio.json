@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Luister naar een radio.",
+    "USAGE": "radio <query>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "radio <query>",
+    "EXAMPLE": "radio hunter | radio bbc",
+    "RADIO": "Geen radio gevonden met die naam",
+    "RADIO1": "Resultaten voor",
+    "RADIO2": "Kies een nummer van 1-10 of annuleer.",
+    "RADIO3": "Je hebt niet op tijd een nummer gekozen.",
+    "RADIO4": "annuleren",
+    "RADIO5": "Het nummer dat je hebt opgegeven was te klein of te groot (1-{{max}}).",
+    "RADIO6": "Toegevoegd aan wachtrij:",
+    "RADIO7": "Geannuleerde selectie."
+}

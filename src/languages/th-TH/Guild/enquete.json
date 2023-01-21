@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "create a poll for users to answer.",
+    "USAGE": "poll <question>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "poll <question>",
+    "EXAMPLE": "poll Is it going to rain today?",
+    "POLL_TITLE": "โพลที่สร้างขึ้นโดย {{username}}",
+    "POLL_FOOTER": "ตอบสนองต่อการลงคะแนน.."
+}

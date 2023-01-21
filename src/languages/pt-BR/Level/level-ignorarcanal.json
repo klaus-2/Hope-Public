@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Configure o canal ignorado para receber experiencia",
+    "USAGE": "level-ignorarcanal <ID do canal>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "level-ignorarcanal <ID do canal>",
+    "EXAMPLE": "level-ignorarcanal 328328777266673",
+    "LVL_IGNCANAL": "Configurações: `Level`",
+    "LVL_IGNCANAL1": "<:v_:855859391835799582>A configuração de `level` foi atualizado com sucesso.",
+    "LVL_IGNCANAL2": "Configuração de Level",
+    "LVL_IGNCANAL3": "Canal alterado de"
+}

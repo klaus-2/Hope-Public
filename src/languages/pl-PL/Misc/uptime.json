@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "uzyskać czas sprawności bota.",
+    "USAGE": "uptime\n💡 **Przykład: {{EXAMPLE}}",
+    "USAGEE": "czas pracy",
+    "EXAMPLE": "czas pracy",
+    "EUP_DESC": "Hope | Uptime",
+    "EUP_DESC1": "Online od"
+}

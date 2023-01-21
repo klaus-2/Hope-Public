@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "配置自动货运 da Hope 对于 ESTE Servidor。",
+    "USAGE": "mod 频道 <channelID>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "mod 频道 <channelID>",
+    "EXAMPLE": "模组频道 8654930377",
+    "MOD_CANAL": "设置：`Server`",
+    "MOD_CANAL1": "<: v_: 855859391835799582> “关卡” 的配置已成功更新。",
+    "MOD_CANAL2": "级别设置",
+    "MOD_CANAL3": "从更改了频道"
+}

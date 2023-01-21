@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Añade una canción a la lista de reproducción.",
+    "USAGE": "p-add <playlist name> <song>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "p-añadir <playlist name> <song>",
+    "EXAMPLE": "p-add Prueba https://www.youtube.com/watch?v=4AnmemzByVY",
+    "P_ADD": "Ocurrió algo extraño",
+    "P_ADD1": "No se ha encontrado ninguna lista de reproducción con el nombre `{{name}}`.",
+    "P_ADD2": "Se han añadido {{num}} canción (s) nueva (s) a la lista de reproducción: `{{title}}`.",
+    "P_ADD3": "Resultados para {{title}}",
+    "P_ADD4": "{{results}}\n\n\tElige un número del 1 al 10 o cancela.\n",
+    "P_ADD5": "El número que ha proporcionado es demasiado pequeño o demasiado grande (1-{{num}})."
+}

@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Elimina un backup del server.",
+    "USAGE": "s-backup-delete <backupID>\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "s-backup-delete <backupID>",
+    "EXAMPLE": "s-backup-delete 2334",
+    "S_BACKUP_APAGAR": "Aah {{author}}, I'm sorry :(",
+    "S_BACKUP_APAGAR1": "Premio di stato: :small_blue_diamond: **NORMAL USER** :small_blue_diamond:\nSfortunatamente <:SkyeFoiMal:823046654374314044> non puoi usare questo comando perché non sei un utente premium su **Hope Support Server**.",
+    "S_BACKUP_APAGAR2": "💡 Premium è un vantaggio dato agli utenti che potenziano il Server di Supporto di Hope. {{prefix}}Hope",
+    "S_BACKUP_APAGAR3": "È necessario specificare un ID di backup valido per rimuovere",
+    "S_BACKUP_APAGAR4": "** DELETTO DI BACKUP",
+    "S_BACKUP_APAGAR5": "** NUOVO BACKUP DELETTO**\n Autore: {{author}}",
+    "S_BACKUP_APAGAR6": "Nessun backup trovato per {{backupID}}"
+}

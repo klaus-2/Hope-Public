@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Gives a list of automatic responses on a server",
+    "USAGE": "autoresponse-list\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "autoresponse-list",
+    "EXAMPLE": "autoresponse-list",
+    "LISTA_RESPOSTA": "<:cancel:855859391709577266> Guild ปัจจุบันไม่มีคำสั่งที่กำหนดเอง!",
+	"LISTA_RESPOSTA1": "คำสั่งที่กำหนดเอง",
+	"LISTA_RESPOSTA2": "Guild ปัจจุบันไม่มีคำสั่งที่กำหนดเอง!"
+}

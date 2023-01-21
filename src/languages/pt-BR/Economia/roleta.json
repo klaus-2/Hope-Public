@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Faça uma aposta na roleta para obter dinheiro.",
+    "USAGE": "roleta\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "roleta",
+    "EXAMPLE": "roleta",
+    "ROLETA": "<:cancel:855859391709577266> Especifique uma quantia para jogar | ${prefix}roleta <cor> <quantidade>",
+    "ROLETA1": "<:cancel:855859391709577266> Você está apostando mais do que você tem",
+    "ROLETA2": "<:cancel:855859391709577266> Especifique uma cor | Vermelho [1.5x] (normal) Preto [2x] (dificil) azul [15x](raro)",
+    "ROLETA3": "preto",
+    "ROLETA4": "vermelho",
+    "ROLETA5": "azul",
+    "ROLETA6": "🔵 Você ganhou ${money} skcoins\n\nMultiplicado por: 15x",
+    "ROLETA7": "🔴 Você ganhou ${money} skcoins\n\nMultiplicado por: 1.5x",
+    "ROLETA8": "⬛ Você ganhou ${money} skcoins\n\nMultiplicado por: 2x",
+    "ROLETA9": "<:cancel:855859391709577266> Você perdeu {{money}} skcoins\n\nMultiplicado por: 0x"
+}

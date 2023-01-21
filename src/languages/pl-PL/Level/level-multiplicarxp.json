@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Skonfiguruj automatyczne ładowanie Hope dla tego serwera.",
+    "USAGE": "level-multiplicarxp <0-1000>\n💡 **Przykład: {{EXAMPLE}}",
+    "USAGEE": "poziom multiplyxp <0-1000>",
+    "EXAMPLE": "poziom multiplyxp 2",
+    "LVL_XPMULT": "Ustawienia: `Level`",
+    "LVL_XPMULT1": "<:v_:855859391835799582>Konfiguracja `level` została pomyślnie zaktualizowana.",
+    "LVL_XPMULT2": "Ustawienie poziomu",
+    "LVL_XPMULT3": "Mnożnik zmieniony z"
+}

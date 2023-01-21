@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "대기열에서 노래를 제거합니다.",
+    "USAGE": "<position> [position]\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "<position> [position]제거",
+    "EXAMPLE": "3 제거 | 3 7 제거",
+    "REMOVER": "이미 재생 중인 곡은 제거할 수 없습니다.현재 재생 중인 곡을 삭제하려면: `{{prefix}}skip`",
+    "REMOVER1": "그 노래를 찾을 수가 없었어요.",
+    "REMOVER2": "대기열에서 ** {{title}} **을 (를) 제거했습니다.",
+    "REMOVER3": "최종 값은 초기 값보다 커야 합니다.",
+    "REMOVER4": "제거됨",
+    "REMOVER5": "대기열의 노래.",
+    "REMOVER6": "잘못된 번호입니다."
+}

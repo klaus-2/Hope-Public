@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Dite grazie a un utente.",
+    "USAGE": "rep <user>\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "rappresentante <user>",
+    "EXAMPLE": "rappresentante @Hope",
+    "REP": "Per piacere, menziona qualcuno per ringraziarti.",
+    "REP1": "Non puoi ringraziarti.",
+    "REP2": "Hai mai ringraziato chiunque nelle ultime {{hours}} ore.",
+    "REP3": "Hai detto grazie",
+    "REP4": "per il tuo aiuto! È già stato ringraziato",
+    "REP5": "volte."
+}

@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "사용자의 초대 레코드를 표시합니다.",
+    "USAGE": "초대 추적기 <user>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "초대 추적기 <user>",
+    "EXAMPLE": "인비트-트래커 @User",
+    "CONVITE": "봇은 누군가를 초대 할 수 없지만 셀 수는 없습니다.",
+    "CONVITE1": "서버에 아무도 초대하지 않았습니다!",
+    "CONVITE2": "초대 트래커",
+    "CONVITE3": "초대장에 대한 정보",
+    "CONVITE4": "**초대자: **",
+    "CONVITE5": "초대장 코드\n\n"
+}

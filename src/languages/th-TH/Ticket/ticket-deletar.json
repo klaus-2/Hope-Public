@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "close a ticket.",
+    "USAGE": "t-delete\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "t-delete",
+    "EXAMPLE": "t-delete",
+    "TICKET": "ตั๋วนี้จะถูกลบใน **10** วินาที"
+}

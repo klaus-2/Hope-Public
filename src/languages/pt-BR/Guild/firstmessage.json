@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Obtem a primeira mensagem do canal.",
+    "USAGE": "primeiramensagem [canal]\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "primeiramensagem [canal]",
+    "EXAMPLE": "primeiramensagem #test",
+    "PRIMEIRA_MENSAGEM": "❯ Ir até a mensagem"
+}

@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Echtscheiding van een gebruiker.",
+    "USAGE": "echtscheiding\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "scheiden",
+    "EXAMPLE": "scheiden",
+    "FDIV_DESC": "🙁 | <@{{author}}>, je bent single.",
+    "FDIV_DESC1": "Gebruik {{prefix}}marry <user> om te trouwen",
+    "FDIV_DESC2": "Wil je scheiden",
+    "FDIV_DESC3": "Antwoord met: ``yes`` of ``no`` om een besluit te nemen.",
+    "FDIV_DESC4": "<@{{author}}>, gefeliciteerd dat je nog steeds getrouwd bent! , 💕",
+    "FDIV_DESC5": "<@{{author}}>, jammer dat jullie gescheiden zijn, 💔"
+}

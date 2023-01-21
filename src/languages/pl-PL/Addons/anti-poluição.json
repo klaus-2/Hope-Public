@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Włącza lub wyłącza tryb zapobiegania zanieczyszczeniom.",
+    "USAGE": "przeciwdziałanie zanieczyszczeniu <enable | disable>\n💡**Przykład**: {{EXAMPLE}}",
+    "USAGEE": "przeciwdziałanie zanieczyszczeniu <enable | disable>",
+    "EXAMPLE": "Włączanie zapobiegania zanieczyszczeniom",
+    "ANTI": "Tryb `Antyzanieczyszczeń` został pomyślnie aktywowany!",
+    "ANTI1": "Tryb `Antyzanieczyszczeń` został pomyślnie dezaktywowany!"
+}

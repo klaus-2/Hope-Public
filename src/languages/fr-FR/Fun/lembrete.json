@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "définissez quelque chose à mémoriser dans un moment.",
+    "USAGE": "reminder <time> <message>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "rappel <time> <message>",
+    "EXAMPLE": "reminder 1h nourrir mon chat",
+    "FLEMBRETE_DESC": "Vous devez définir une période de temps pour être rappelé !",
+    "FLEMBRETE_DESC1": "Le temps donné",
+    "FLEMBRETE_DESC2": "a dépassé la limite de 31 jours",
+    "FLEMBRETE_DESC3": "Vous devez écrire un message à retenir !",
+    "FLEMBRETE_DESC4": "Salut",
+    "FLEMBRETE_DESC5": "vous pouvez compter sur mon aide okaaay! Je vais vous rappeler d'ici",
+    "FLEMBRETE_DESC6": "Vous pouvez faire confiance à ce que je me souviens, ~~*Je pense*~~"
+}

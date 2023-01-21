@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Move a música nº especificado para a posição especificada.",
+    "USAGE": "mover <posição da música> <nova posição>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "mover <posição da música> <nova posição>",
+    "EXAMPLE": "move 4 8",
+    "MOVER": "Não é possível mover uma música que já está tocando. Para pular o a música que está tocando: `{{prefix}}skip`",
+    "MOVER1": "Não encontrei essa música.",
+    "MOVER2": "Yayy! Movi **{{title}}** para o início da fila.",
+    "MOVER3": "movi",
+    "MOVER4": "para a posição",
+    "MOVER5": "da fila.",
+    "MUSICA6": "Numero invalido."
+}

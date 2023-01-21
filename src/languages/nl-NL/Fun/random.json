@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Antwoordt met een willekeurig getal.",
+    "USAGE": "random\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "willekeurig",
+    "EXAMPLE": "willekeurig 2 10",
+    "FRANDOM_DESC": ":one: Wacht, ik kies een nummer...",
+    "FRANDOM_DESC1": "{{num}} Wacht, ik kies een nummer...",
+    "FRANDOM_DESC2": "🔢 Je nummer is **{{random}}**!"
+}

@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Obtenir des informations sur un pokemon.",
+    "USAGE": "pokemon <pokemon>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "pokemon <pokemon>",
+    "EXAMPLE": "pokemon charizard",
+    "FPOKE_DESC": "Ce type de pokemon est",
+    "FPOKE_DESC1": "Faiblesse du poke"
+}

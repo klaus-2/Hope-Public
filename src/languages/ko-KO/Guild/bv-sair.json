@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "사용자가 서버에서 로그아웃할 때 메시지 애드온을 사용하거나 사용하지 않도록 설정합니다.",
+    "USAGE": "bv-휴가 <enable | disable>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "bv-휴가 <enable | disable>",
+    "EXAMPLE": "bv-떠나다"
+}

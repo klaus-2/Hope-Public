@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "作成されたバックアップのリストを表示します。",
+    "USAGE": "e-backup-list\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "電子バックアップリスト",
+    "EXAMPLE": "電子バックアップリスト",
+    "E_BACKUP_LISTA": ":x: | **あなたが作成したバックアップはありません。**",
+    "E_BACKUP_LISTA1": ":x: | **自分が作成したバックアップはありません。**",
+    "E_BACKUP_LISTA2": "これはバックアップリストです",
+    "E_BACKUP_LISTA3": "サーバー名 | バックアップ ID | 絵文字の量",
+    "E_BACKUP_LISTA4": "こんにちは、 {{author}}"
+}

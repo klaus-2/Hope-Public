@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "den Spieler um den angegebenen Wert zurückgeben.",
+    "USAGE": "rewind <time>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "rewind <time",
+    "EXAMPLE": "rewind 1:00 | rewind 1:32:00",
+    "RETROCEDER": "Ein Lied darf nicht weniger als 0 Sekunden lang sein",
+    "RETROCEDER1": "Wiederaufgewickelt",
+    "RETROCEDER2": "nach:",
+    "RETROCEDER3": "Zeit in ungültigem Format"
+}

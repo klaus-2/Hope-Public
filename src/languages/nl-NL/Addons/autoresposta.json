@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Maak een auto-reactie die wordt geactiveerd zonder een voorvoegsel!",
+    "USAGE": "autoresponse <command> <response>\n💡**Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "autoresponse <command> <response>",
+    "EXAMPLE": "autoresponse hi Hello!",
+    "AUTO_RESPOSTA": "<:cancel:855859391709577266> Je naam voor de automatische antwoord is hoger dan 30 tekens!",
+    "AUTO_RESPOSTA1": "<:cancel:855859391709577266> Je inhoud is boven 2000 tekens lang!",
+    "AUTO_RESPOSTA2": "<:cancel:855859391709577266> Auto Response-limiet bereikt **(10)**\n\n[Upgrade Premium Here voor onbeperkte commando's]({{config}})",
+    "AUTO_RESPOSTA3": "Automatisch-antwoord toegevoegd:",
+    "AUTO_RESPOSTA4": "Verwijder de volgende automatische reactie met",
+    "AUTO_RESPOSTA5": "verwijderde antwoord <autoresponse-name>",
+    "AUTO_RESPOSTA6": "Het volgende automatisch antwoord is al een bestaand commando!"
+}

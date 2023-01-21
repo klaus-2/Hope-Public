@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "配置自动Reddit插件。",
+    "USAGE": "自动reddit <add | remove >\n💡**示例**: {{EXAMPLE}}",
+    "USAGEE": "auto-reddit <add | remove >",
+    "EXAMPLE": "自动添加reddit",
+    "REDDIT": "add",
+    "REDDIT1": "哎呀！这个Reddit 似乎不存在或完全为空。请检查并重试。",
+    "REDDIT2": "Reddit 已成功添加到 <#{{channel}}>！",
+    "REDDIT3": "remove",
+    "REDDIT4": "自动reddit已成功禁用！",
+    "REDDIT5": "哎呀！看起来您键入了错误的版块名或者它不存在于插件中。\n验证然后重试。",
+    "REDDIT6": "频道<#{{channel}}> 已成功从 **{{sub}}** 版块删除",
+    "REDDIT7": "disable"
+}

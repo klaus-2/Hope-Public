@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "ユーザーのボットを作って、彼にあなたが定義したテキストを話させてください。",
+    "USAGE": "クローン <user> <message>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "クローン <user> <message>",
+    "EXAMPLE": "@Hope テストをクローン"
+}

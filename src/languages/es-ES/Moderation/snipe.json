@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Recibe mensajes eliminados.",
+    "USAGE": "snipe\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "francotirador",
+    "EXAMPLE": "francotirador",
+    "SNIPE": "¡No hay mensajes eliminados en este canal!",
+    "SNIPE1": "📋 Eliminar mensaje de Snipe 📋",
+    "SNIPE2": "=> Autor: ```{{author}}```\n=> Borrar mensaje: ```{{content}}```\nClink :x: para borrar este mensaje"
+}

@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Calcula una ecuación matemática.",
+    "USAGE": "calculadora\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "calculadora>",
+    "EXAMPLE": "calculadora",
+    "EQUAÇÃO": "- ¡Oye! no es una ecuación válida... inténtalo de nuevo, por favor.",
+    "CALC": "Hola, esta es la calculadora de Hope. ¡Haz clic en los botones de abajo para hacer tu ecuación!",
+    "CALC1": "- Calculadora desactivada"
+}

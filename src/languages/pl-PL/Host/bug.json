@@ -1,0 +1,22 @@
+{
+    "DESCRIPTION": "zgłoś błąd do mojego dewelopera.",
+    "USAGE": "bug <message>\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "błąd <message>",
+    "EXAMPLE": "Próbuję użyć polecenia testowego, ale to nie działa.",
+    "HBUG_DESC": "Musisz poczekać 5 minut, zanim ponownie użyjesz tego polecenia!",
+    "HBUG_DESC1": "Nazwisko:",
+    "HBUG_DESC2": "ID:",
+    "HBUG_DESC3": "Konto utworzone na",
+    "HBUG_DESC4": "Wiadomość:",
+    "HBUG_DESC5": "Użyj poniższego szablonu, aby odpowiedzieć",
+    "HBUG_DESC6": "> ODPOWIEDZ PRYWATNIE",
+    "HBUG_DESC7": "  u.send (`**Re: Feedback/Bug**\nWiadomość tutaj`) `",
+    "HBUG_DESC8": "> ODPOWIADAJ NA KANALE",
+    "HBUG_DESC9": "Re: Feedback/Bug**\nWiadomość TUTAJ",
+    "HBUG_DESC10": "Wysłane z serwera",
+    "HBUG_DESC11": "W",
+    "HBUG_DESC12": "Wystąpił problem, proszę zgłosić go na moim serwerze wsparcia ```{{prefix}}support```",
+    "HBUG_DESC13": "Heey {{author}}, wszystko poszło dobrze!",
+    "HBUG_DESC14": "Twój raport dotarł już do mojego dewelopera i odpowie tak szybko, jak to możliwe, proszę o cierpliwość.",
+    "HBUG_DESC15": "Jeśli nadużyjesz tego polecenia, nie będziesz mógł korzystać z tego polecenia!\nOch i przepraszam za niedogodności, jeśli miałeś problem. <:Skyeamor:823223048290172928>"
+}

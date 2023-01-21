@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "eine Kategorie von Befehlen aktivieren oder deaktivieren.",
+    "USAGE": "Befehle <category>\\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "Befehle <category>",
+    "EXAMPLE": "Befehle Musik",
+    "COMANDOS": "Liste der Hope Befehlskategorien",
+    "COMANDOS1": "Verfügbare Kategorien: `{{default}}`.",
+    "COMANDOS2": "Aktive Kategorien: `{{active}}`.",
+    "COMANDOS3": "Yayy! Ich habe die Befehlskategorie hinzugefügt: **{{addons}}** auf diesem Server.",
+    "COMANDOS4": "Yayy! Ich habe die Befehlskategorie deaktiviert: **{{addons}}** auf diesem Server.",
+    "COMANDOS5": "Es tut mir leid, aber dies ist keine existierende Befehlskategorie."
+}

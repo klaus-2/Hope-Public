@@ -1,0 +1,22 @@
+{
+    "DESCRIPTION": "meld een bug aan mijn ontwikkelaar.",
+    "USAGE": "bug <message>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "bug <message>",
+    "EXAMPLE": "bug Ik probeer het testcommando te gebruiken, maar het werkt niet.",
+    "HBUG_DESC": "Je moet 5 minuten wachten voordat je dit commando opnieuw gebruikt!",
+    "HBUG_DESC1": "Naam:",
+    "HBUG_DESC2": "ID:",
+    "HBUG_DESC3": "Account aangemaakt op",
+    "HBUG_DESC4": "Bericht:",
+    "HBUG_DESC5": "Gebruik de onderstaande sjabloon om te reageren",
+    "HBUG_DESC6": "> PRIVÉ ANTWOORD",
+    "HBUG_DESC7": "  u.send (`**Re: Feedback/Bug**\nBERICHT HERE`) `",
+    "HBUG_DESC8": "> REAGEER OP HET KANAAL",
+    "HBUG_DESC9": "Re: Feedback/Bug**\nBERICHT HIER",
+    "HBUG_DESC10": "Verzonden vanaf de server",
+    "HBUG_DESC11": "In",
+    "HBUG_DESC12": "Er was een probleem, meld het alstublieft op mijn ondersteuningsserver ```{{prefix}}support```",
+    "HBUG_DESC13": "Heey {{author}}, alles ging prima!",
+    "HBUG_DESC14": "Je rapport heeft mijn ontwikkelaar al bereikt en hij zal zo snel mogelijk reageren, wees geduldig.",
+    "HBUG_DESC15": "Als je dit misbruikt, kun je dit commando niet gebruiken!\nOh en sorry voor het ongemak als je een probleem had. <: Hope Amor: 823223048290172928>"
+}

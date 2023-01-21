@@ -1,0 +1,20 @@
+{
+    "VOICE_STATE_UPDATE": "O áudio de",
+    "VOICE_STATE_UPDATE1": "no servidor foi",
+    "VOICE_STATE_UPDATE2": "des",
+    "VOICE_STATE_UPDATE3": "ativado no canal",
+    "VOICE_STATE_UPDATE4": "ID do usuario:",
+    "VOICE_STATE_UPDATE5": "[EVENTO — ÁUDIO]",
+    "VOICE_STATE_UPDATE6": "O microfone de",
+    "VOICE_STATE_UPDATE7": "no servidor foi",
+    "VOICE_STATE_UPDATE8": "de",
+    "VOICE_STATE_UPDATE9": "silenciado no canal",
+    "VOICE_STATE_UPDATE10": "ID do usuario:",
+    "VOICE_STATE_UPDATE11": "[EVENTO — MICROFONE]",
+    "VOICE_STATE_UPDATE12": "começou",
+    "VOICE_STATE_UPDATE13": "finalizou",
+    "VOICE_STATE_UPDATE14": "uma transmissão no canal",
+    "VOICE_STATE_UPDATE15": "ID do usuario:",
+    "VOICE_STATE_UPDATE16": "[EVENTO — TRANSMISSÃO]",
+    "VOICE_STATE_UPDATE17": "Fui Desconectada de 🔉 **{{vcName}}** devido à inatividade. Se você quiser que eu fique no canal de voz 24/7, você pode torna-se Premium em **`{{{prefix}}`premium***"
+}

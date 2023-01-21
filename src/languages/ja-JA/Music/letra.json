@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "歌の歌詞を入手してください。",
+    "USAGE": "歌詞 [song]\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "歌詞 [song]",
+    "EXAMPLE": "歌詞アンカー-ノヴォ・アモル",
+    "LETRA": "歌詞探してる、待って <: Hopedetetive: 823259704443535450>",
+    "LETRA1": "歌詞が見つかりません"
+}

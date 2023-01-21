@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Agregue un rol a todos los usuarios del servidor actual.",
+    "USAGE": "addroleall <role>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "añadir rol todos <role>",
+    "EXAMPLE": "addroleall @role | añadir roleall 43656543212",
+    "ROLE": "¡Mi papel no es lo suficientemente alto que el papel de **{{role}}**!\nPor favor, corrija esto moviendo la posición de mi papel a la parte superior.",
+    "ROLE1": "Indique un rol válido",
+    "ROLE2": "Se ha añadido correctamente **{{role}}** a todos"
+}

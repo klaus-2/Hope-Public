@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "配置 Auto-Covid插件。",
+    "USAGE": "自动covid | <channelID>",
+    "USAGEE": "自动covid | <channelID>",
+    "EXAMPLE": "自动covid 62349322567745\n💡**示例**: {{EXAMPLE}}",
+    "CAC_TITULO": "设置：`Auto-Covid`",
+    "CAC_FIELD": "<:Informao:823004619805294643>自动张贴附加组件每1小时更新一次代码19的信息。",
+    "CAC_FIELD1": "频道",
+    "CAC_FIELD2": "状态",
+    "CAC_FIELD3": "`设置插件`",
+    "CORONA_DESCRIÇÃO": "`adminISTRATOR` 需要权限才能使用此命令。",
+    "CORONA_DESCRIÇÃO1": "**AUTO-CORONA** 插件已被重置，因为没有提供任何频道。",
+    "CORONA_DESCRIÇÃO2": "附加组件**AUTO-CORONA** 已成功设置为 <#{{channel}}>"
+}

@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "举报用户。",
+    "USAGE": "报告 <user> [reason]\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "报告 <user> [reason]",
+    "EXAMPLE": "报告 @Hope test",
+    "REPORTAR": "{{author}} 报告了一个用户",
+    "REPORTAR1": "上一篇：用户：823004014055522326> 会员：",
+    "REPORTAR2": "<: Moderao: 823004537756844073> 由以下人报告：",
+    "REPORTAR3": "<: 比邻:823004353316126721> 已报告于：",
+    "REPORTAR4": "<: Frase: 823004814551810068> 原因：",
+    "REPORTAR5": "<@{{user}}> 已成功举报。"
+}

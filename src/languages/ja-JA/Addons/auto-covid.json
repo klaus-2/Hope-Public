@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Auto-Covid アドオンを設定します。",
+    "USAGE": "auto-covid| <channelID>",
+    "USAGEE": "auto-covid| <channelID>",
+    "EXAMPLE": "auto-covid 62349322567745\n💡**例**: {{EXAMPLE}}",
+    "CAC_TITULO": "設定: `Auto-Covid`",
+    "CAC_FIELD": "<:Informaao:823004619805294643> covid-19 の更新情報を1時間おきに自動投稿するアドオン。",
+    "CAC_FIELD1": "チャンネル",
+    "CAC_FIELD2": "ステータス",
+    "CAC_FIELD3": "`アドオンを設定`",
+    "CORONA_DESCRIÇÃO": "このコマンドを使用するには、 `ADMINISTRATOR` パーミッションが必要です。",
+    "CORONA_DESCRIÇÃO1": "チャンネルが提供されていないため、Addon **AUTO-CORONA** がリセットされました。",
+    "CORONA_DESCRIÇÃO2": "Addon **AUTO-CORONA** has been successfully set to <#{{channel}}>"
+}

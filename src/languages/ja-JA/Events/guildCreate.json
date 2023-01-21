@@ -1,0 +1,6 @@
+{
+    "GUILD_CREATE": "[イベント — サーバーが追加されました]",
+    "GUILD_CREATE1": "サーバー名",
+    "GUILD_CREATE2": "サーバーオーナー",
+    "GUILD_CREATE3": "メンバー数"
+}

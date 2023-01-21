@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "QR 코드를 생성합니다.",
+    "USAGE": "qrcode <text / file>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "qrcode <text / file>",
+    "EXAMPLE": "qrcode https://www.google.com/ | qrcode <attachment> | qrcode 안녕하세요, 무슨 일이야",
+    "QR1": "여보세요",
+    "QR2": "변환한 내용:",
+    "QR3": "QRCODE에서 성공적으로 실행되었습니다."
+}

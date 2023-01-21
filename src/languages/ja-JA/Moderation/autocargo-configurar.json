@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "オートカーゴダスカイのエステサービス業のコンフィギュラー。",
+    "USAGE": "autorole-setup <roleID>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "自動ロールセットアップ <roleID>",
+    "EXAMPLE": "オートロールセットアップ 8973263628081",
+    "AC_CONFIG": "設定:`サーバー`",
+    "AC_CONFIG1": "<: v_: 855859391835799582> O `auto role` が正常に更新されました。",
+    "AC_CONFIG2": "自動ロール",
+    "AC_CONFIG3": "から変更されました"
+}

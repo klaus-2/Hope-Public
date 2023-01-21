@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Wyświetl statystyki na serwerze.",
+    "USAGE": "server-stats <enable | disable>\n💡 **Przykład: {{EXAMPLE}}",
+    "USAGEE": "stats serwera <enable | disable>",
+    "EXAMPLE": "staty serwera włączają",
+    "STATS": "enable",
+    "STATS1": "Dodanie `Server Stats` zostało pomyślnie aktywowane.",
+    "STATS2": "disable",
+    "STATS3": "Dodanie `Server Stats` zostało pomyślnie wyłączone.",
+    "STATS4": "Ups! Musisz najpierw aktywować dodatek."
+}

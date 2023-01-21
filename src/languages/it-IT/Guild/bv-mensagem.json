@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "configura il messaggio da inviare all'utente nel canale quando si unisce al server.",
+    "USAGE": "bv-message <message>\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "bv-message <message>",
+    "EXAMPLE": "bv-message Ciao {user}, Benvenuto a **{server}**!",
+    "BV_MENSAGEM": "<:v_:855859391835799582> Messaggio aggiornato correttamente a:"
+}

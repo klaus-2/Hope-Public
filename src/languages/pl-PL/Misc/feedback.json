@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Zostaw opinię na temat serwera Hope na jej temat.",
+    "USAGE": "opinie <stars> <comment>\n💡 **Przyklad**: {{EXAMPLE}}",
+    "USAGEE": "opinie <stars> <comment>",
+    "EXAMPLE": "Opinie 5 Hope jest doskonałym botem, który spełnia wszystkie wymagania na moim serwerze",
+    "EFEED_DESC": "Otrzymano nową opinię",
+    "EFEED_DESC1": "Gwiazdy:",
+    "EFEED_DESC2": "Komentarz:",
+    "EFEED_DESC3": "Zgłoszony przez",
+    "EFEED_DESC4": "Zostaw informacje zwrotne Hope za pomocą polecenia {{prefix}}feedback",
+    "EFEED_DESC5": "<:Skyeoi:823047534577975366> Twoja opinia została pomyślnie wysłana na serwer pomocy technicznej Hope!"
+}

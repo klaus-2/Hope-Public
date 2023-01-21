@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "向此服务器创建邀请。",
+    "USAGE": "邀请 [temp]\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "邀请 [temp]",
+    "EXAMPLE": "邀请",
+    "CONVITE": "请求者：",
+    "CONVITE1": "已成功生成对此服务器的邀请！"
+}

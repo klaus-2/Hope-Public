@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "verwijder een nummer uit de wachtrij.",
+    "USAGE": "verwijder <position> [position]\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "verwijder <position> [position]",
+    "EXAMPLE": "verwijder 3 | verwijder 3 7",
+    "REMOVER": "Je kunt een nummer dat al wordt afgespeeld niet verwijderen. Om het huidige nummer te verwijderen: `{{prefix}}skip`",
+    "REMOVER1": "Ik kon dat nummer niet vinden.",
+    "REMOVER2": "**{{title}}** uit de wachtrij verwijderd.",
+    "REMOVER3": "De uiteindelijke waarde moet groter zijn dan de initiële waarde.",
+    "REMOVER4": "Verwijderd",
+    "REMOVER5": "nummers in de wachtrij.",
+    "REMOVER6": "Ongeldig nummer."
+}

@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "울다 티켓.",
+    "USAGE": "티켓 크리어 [motivo]\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "티켓 설정",
+    "EXAMPLE": "티켓 설정",
+    "TICKET_CRIAR": "사용자가 티켓을 생성했습니다.",
+    "TICKET_CRIAR1": "티켓이 성공적으로 생성되었습니다!",
+    "TICKET_CRIAR2": "<:v_:855859391835799582> 채널에서 볼 수 있습니다. <{{channel}}>",
+    "TICKET_CRIAR3": "안녕하세요 {{author}}, 저는 스카이입니다.",
+    "TICKET_CRIAR4": "누군가를 기다리는 동안 ☕ 를 수락합니다.",
+    "TICKET_CRIAR5": "내가 얘기 하러 왔어?\n\n흠...너무 오래 걸리고, 잠깐만, 내가 전화할게!\n📢 우우",
+    "TICKET_CRIAR6": "이제 일할 시간입니다!",
+    "TICKET_CRIAR7": "여기 있는 이유는 다음과 같습니다.",
+    "TICKET_CRIAR8": "티켓 오픈!",
+    "TICKET_CRIAR9": "Ticket",
+    "TICKET_CRIAR10": "사용자",
+    "TICKET_CRIAR11": "이유",
+    "TICKET_CRIAR12": "개설",
+    "COOLDOWN": "{{NUM}} 분 내에 티켓을 열 수 있습니다."
+}

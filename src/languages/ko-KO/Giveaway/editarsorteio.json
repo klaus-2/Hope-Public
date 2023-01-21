@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "에디타 움 소르테이오 아티보.",
+    "USAGE": "g 편집 <messageID> <AddedTime> <newWinnerCount> <NewPrize>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "g-삭제 <messageID>",
+    "EXAMPLE": "지-삭제 818821436255895612",
+    "EDIT_GIVEAWAY": "<:v_:855859391835799582> 성공했습니다!GiveAaway 은 (는) {{time}} 초 이내에 업데이트됩니다.",
+    "INCORRECT_WINNER_COUNT": "이봐 요, 승자 수는 0-100의 숫자여야 합니다.\n 쉿... 네, 아무에게도 말하지 않겠어요, 약속드립니다 🤞"
+}

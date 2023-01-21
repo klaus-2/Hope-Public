@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Sourire pour un utilisateur.",
+    "USAGE": "sourire [user]",
+    "USAGEE": "sourire [user]",
+    "SORRIR_DESCRIÇÃO": "<@{{author}}> est souriant !",
+    "SORRIR_DESCRIÇÃO1": "<@{{author}}> sourit !",
+    "SORRIR_DESCRIÇÃO2": "Je renvoie un sourire",
+    "SORRIR_DESCRIÇÃO3": "sourire à"
+}

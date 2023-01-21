@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "사용자 아바타 표시",
+    "USAGE": "아바타 [user]\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "아바타 [user]",
+    "EXAMPLE": "아바타 사용자 ID | 아바타 @mention | 아바타 사용자 이름",
+    "AVATAR_TITLE": "아바타 {{user}}",
+    "AVATAR_DESCRIPTION": "**링크: **",
+    "FOTO": "요청한 사진은 다음과 같습니다.",
+    "FOTO1": "**지난 5장의 이전 사진: **"
+}

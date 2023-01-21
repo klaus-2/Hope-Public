@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "borrar un código de respaldo.",
+    "USAGE": "e-backup-delete <code>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "e-backup-delete <code>",
+    "EXAMPLE": "e-backup-delete Cg267T",
+    "E_BACKUP_APAGAR": "Hola, {{author}}",
+    "E_BACKUP_APAGAR1": ":x: | **copia de seguridad no encontrada**",
+    "E_BACKUP_APAGAR2": "**La copia de seguridad se ha eliminado correctamente. ** ",
+    "E_BACKUP_APAGAR3": ":x: | **No se ha encontrado esta copia de seguridad. **"
+}

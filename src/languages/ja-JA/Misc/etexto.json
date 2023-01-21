@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "絵文字 (emotes) の形式で提供されたテキストを返します。",
+    "USAGE": "etext <message>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "eText <message>",
+    "EXAMPLE": "テキストテスター"
+}

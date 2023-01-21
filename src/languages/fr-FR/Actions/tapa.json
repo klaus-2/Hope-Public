@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Frapper un utilisateur.",
+    "USAGE": "gifle [user]",
+    "USAGEE": "gifle [user]",
+    "TAPA_DESCRIÇÃO": "<@{{member}}>, ne vous frappez pas vous-même!",
+    "TAPA_DESCRIÇÃO1": "**moi**",
+    "TAPA_DESCRIÇÃO2": "frappée",
+    "TAPA_HopeFRASE": "(；︿ ；✿) Je-je suis désolé. Vous pouvez les gifler, mais s'il vous plaît, ne me frappez pas...",
+    "TAPA_DESC": " et ",
+    "TAPA_DESC1": ", et ",
+    "TAPA_DESC2": "moi"
+}

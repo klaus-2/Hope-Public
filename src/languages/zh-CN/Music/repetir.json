@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "在音乐或 fila 中重复。",
+    "USAGE": "循环 [队列/歌曲]\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "循环 [队列/歌曲]",
+    "EXAMPLE": "重复队列 | 循环歌曲 | 循环播放",
+    "REPETIR": "歌曲",
+    "ENABLED": "已启用",
+    "DISABLED": "残疾的",
+    "REPETIR3": "{{trackRepeat}} 曲目重复。",
+    "REPETIR4": "排队",
+    "REPETIR7": "{{queueRepeat}} 队列重复。"
+}

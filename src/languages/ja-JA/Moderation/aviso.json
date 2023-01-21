@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "ユーザーに警告を適用します。",
+    "USAGE": "warn <user> [time] [reason]\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "<user> [time] [reason]に警告する",
+    "EXAMPLE": "@Hope 1h テストに警告する"
+}

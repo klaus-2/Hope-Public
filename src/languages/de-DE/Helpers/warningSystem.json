@@ -1,0 +1,19 @@
+{
+    "WARNING_SYSTEM": "ACHTUNG",
+    "WARNING_SYSTEM1": "Du hast eine Warnung in {{guild}} erhalten.",
+    "WARNING_SYSTEM2": "Empfohlen von:",
+    "WARNING_SYSTEM3": "Grund:",
+    "WARNING_SYSTEM4": "Warnung:",
+    "WARNING_SYSTEM5": "1/3",
+    "WARNING_SYSTEM6": "Du hast eine weitere Warnung in {{guild}} erhalten.",
+    "WARNING_SYSTEM7": "2/3",
+    "WARNING_SYSTEM8": "[KICK]",
+    "WARNING_SYSTEM10": "[WARN]",
+    "WARNING_SYSTEM11": "Benutzer:",
+    "WARNING_SYSTEM12": "Moderator:",
+    "WARNING_SYSTEM13": "Warnungen:",
+    "KICKED": "*{{USER}} wurde erfolgreich gekickt, weil zu viele Warnungen* waren.",
+    "WARNING1": "gekickt",
+    "WARNING2": "gebannt",
+    "WARNING3": "Wenn du das Limit von {{limit}} Warnungen erreichst, wirst du {{punish}} vom Server sein."
+}

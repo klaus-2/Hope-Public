@@ -1,0 +1,21 @@
+{
+    "DESCRIPTION": "在 Myanimelist.net 上搜索最好的动漫之一或随机返回一个。",
+    "USAGE": "anitop [number]\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "anitop",
+    "EXAMPLE": "Anitop 我们的拓扑动画 5OU bestanime 50",
+    "ATOP_DESC": "搜索限制最多为 15",
+    "ATOP_DESC1": "你在 sfw 频道上看不到同人志！转到 nsfw 频道观看此内容。",
+    "ATOP_DESC2": "得分",
+    "ATOP_DESC3": "收藏夹",
+    "ATOP_DESC4": "週年",
+    "ATOP_DESC5": "剧集",
+    "ATOP_DESC6": "卷",
+    "ATOP_DESC7": "动画",
+    "ATOP_DESC8": "未知",
+    "ATOP_DESC9": "成员",
+    "ATOP_DESC10": "漫画",
+    "ATOP_DESC11": "开始日期",
+    "ATOP_DESC12": "结束日期",
+    "ATOP_DESC13": "Page",
+    "ATOP_DESC14": "的"
+}

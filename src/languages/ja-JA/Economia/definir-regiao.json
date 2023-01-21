@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "プロファイルで地域を設定します。",
+    "USAGE": "set-region <region>\n💡 **Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "セットリージョン <region>",
+    "EXAMPLE": "セットリージョン",
+    "REG": "お住まいの地域は `United States of America` に正常に更新されました！",
+    "REG1": "お住まいの地域は正常に `Brazil` に更新されました！"
+}

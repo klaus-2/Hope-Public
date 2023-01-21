@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Geef het aantal waarschuwingen weer dat een gebruiker heeft.",
+    "USAGE": "waarschuwingen [user]\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "waarschuwingen [user]",
+    "EXAMPLE": "waarschuwingen @Hope",
+    "NO_WARNINGS": "Deze gebruiker is nog niet eerder gewaarschuwd.",
+    "WARNS_TITLE": "{{user}}'s waarschuwingslijst.",
+    "AVISOS": "Waarschuwingen",
+    "AVISOS1": "Gebruiker links",
+    "AVISOS2": "Datum van uitgave:"
+}

@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "ユーザのプロファイルバナーを表示します。",
+    "USAGE": "banner <user>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "バナー <user>",
+    "EXAMPLE": "バナー @User",
+    "BANNER": "こんにちは、私はスカイです。",
+    "BANNER1": "以下は <@{{user}}> のバナーです。",
+    "BANNER2": "おっと！このユーザーにはバナーがありません。",
+    "BANNER3": "ダウンロードしたい場合は、[ここをクリック] ({{banner}})。"
+}

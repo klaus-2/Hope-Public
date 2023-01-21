@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "stosuje losową kolejność do listy odtwarzania.",
+    "USAGE": "shuffle\n💡 **Przyklad**: {{EXAMPLE}}",
+    "USAGEE": "szurać",
+    "EXAMPLE": "szurać",
+    "OA": "<:v_:855859391835799582> Lista odtwarzania została pomyślnie przetasowana."
+}

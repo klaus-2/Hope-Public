@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "명령 범주를 활성화하거나 비활성화합니다.",
+    "USAGE": "commands <category>\\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "commands <category>",
+    "EXAMPLE": "commands Music",
+    "COMANDOS": "스카이 명령 범주 목록",
+    "COMANDOS1": "사용 가능한 카테고리: `{{default}}`.",
+    "COMANDOS2": "액티브 카테고리: `{{active}}`.",
+    "COMANDOS3": "야이! 이 서버에** {{addons}} ** 명령 범주를 추가했습니다.",
+    "COMANDOS4": "야이! 이 서버에서** {{addons}} ** 명령 범주를 비활성화했습니다.",
+    "COMANDOS5": "죄송합니다. 이 범주는 기존 명령 범주가 아닙니다."
+}

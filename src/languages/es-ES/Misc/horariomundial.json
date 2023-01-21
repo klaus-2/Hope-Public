@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "muestra la hora mundial.",
+    "USAGE": "worldtime\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "worldtime",
+    "EXAMPLE": "worldtime",
+    "EFUSO_DESC": "Reloj mundial - zonas horarias"
+}

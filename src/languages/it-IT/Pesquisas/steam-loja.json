@@ -1,0 +1,21 @@
+{
+    "DESCRIPTION": "Cerca una partita / app su Steam.",
+    "USAGE": "steam-store <game>\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "deposito a vapore <game>",
+    "EXAMPLE": "negozio di vapore Conan Exiles",
+    "STEAM_LOJA": "Impossibile trovare **{{query}}** su <:steam:767062357952167946> steam",
+    "STEAM_LOJA1": "$",
+    "STEAM_LOJA2": "Gratis",
+    "STEAM_LOJA3": "* **Note Aggiuntive:",
+    "STEAM_LOJA4": "Requisiti Di Sistema",
+    "STEAM_LOJA5": "Prezzo",
+    "STEAM_LOJA6": "Metascore",
+    "STEAM_LOJA7": "Raccomandazioni",
+    "STEAM_LOJA8": "Data Di Rilascio",
+    "STEAM_LOJA9": "Sviluppatori",
+    "STEAM_LOJA10": "Editori",
+    "STEAM_LOJA11": "Categorie",
+    "STEAM_LOJA12": "Genres",
+    "STEAM_LOJA13": "Quantità di DLC",
+    "STEAM_LOJA14": "Lingue Supportate"
+}

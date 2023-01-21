@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "播放一首歌。",
+    "USAGE": "玩 <link / song name>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "玩 <link / song name>",
+    "EXAMPLE": "玩 palaye royale | 玩 <attachment> | 玩 https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "TOCAR": "队列",
+    "TOCAR1": "歌曲",
+    "TOCAR2": "已添加到当前播放队列中。",
+    "TOCAR3": "请输入歌曲名称/url",
+    "TOCAR4": "已排队 **{{num}}** 首曲目",
+    "TOCAR5": "已添加到队列：[{{title}}] ({{url}})"
+}

@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "zeige den gerade abgespielten Song an.",
+    "USAGE": "np\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "np",
+    "EXAMPLE": "np",
+    "MUSICA": ":rot_Kreis: LIVE",
+    "MUSICA1": "» Spiele jetzt:",
+    "MUSICA2": "Link zum Zugriff",
+    "MUSICA3": "hier klicken",
+    "MUSICA4": "Angefragt von",
+    "MUSICA5": "Dauer"
+}

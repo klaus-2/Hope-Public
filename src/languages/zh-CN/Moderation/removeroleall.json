@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "从当前服务器的所有用户中删除角色。",
+    "USAGE": "removeroleall <role>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "removeroleall <role>",
+    "EXAMPLE": "removeroleall @role | 添加角色全部 43656543212",
+    "ROLE": "已成功将 **{{role}}** 添加到 Bot",
+    "ROLE1": "已成功将 **{{role}}** 添加到会员",
+    "ROLE2": "已成功从所有人身上移除 **{{role}}**"
+}

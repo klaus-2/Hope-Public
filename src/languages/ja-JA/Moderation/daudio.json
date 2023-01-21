@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "ユーザーのオーディオを無効にします。",
+    "USAGE": "deafen <user> [time]\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "<user> [time]をくみ出そうと感じる",
+    "EXAMPLE": "くっつんとる @Hope | くっつんとまる @Hope 5m",
+    "DAUDIO": "音声チャンネルにいない誰かを聞き取りがつかない。"
+}

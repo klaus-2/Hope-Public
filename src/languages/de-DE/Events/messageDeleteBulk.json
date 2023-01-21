@@ -1,0 +1,10 @@
+{
+    "MESSAGE_DELETE_BULK": "Mehrere Nachrichten wurden gelöscht in",
+    "MESSAGE_DELETE_BULK1": "Kanal-ID:",
+    "MESSAGE_DELETE_BULK2": "[EVENT — LÖSCHE NACHRICHTE]",
+    "MESSAGE_DELETE_BULK3": "Anzahl der Nachrichten:",
+    "MESSAGE_DELETE_BULK4": "Gelöschte Nachrichten:",
+    "MESSAGE_DELETE_BULK5": "sehen",
+    "MESSAGE_DELETE_BULK6": "auf dem Server",
+    "MESSAGE_DELETE_BULK7": "Löschte Messages.txt"
+}

@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Tickle de gebruiker vermeld.",
+    "USAGE": "vinkje [user]",
+    "USAGEE": "vinkje [user]",
+    "COCEGAS_DESCRIÇÃO": "Stop <@{{author}}>! Tickles~",
+    "COCEGAS_DESCRIÇÃO1": "\\❌ Veel plezier met het checken van uzelf **<@{{author}}>**!",
+    "COCEGAS_DESCRIÇÃO2": "aangevinkt op"
+}

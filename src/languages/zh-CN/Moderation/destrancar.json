@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "解锁频道。",
+    "USAGE": "解锁\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "开锁",
+    "EXAMPLE": "开锁",
+    "DESTRANCAR": "🔓 <{{channel}}> 频道已解锁。",
+    "DESTRANCAR1": "注意"
+}

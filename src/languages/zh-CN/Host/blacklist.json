@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "更新全球禁令清单",
+    "USAGE": "黑名单 <add / remove> <userID> [reason]",
+    "MISSING_USER": "用户 ID 不正确。",
+    "AUTHOR": "{{TAG}} 已在全球范围内被禁止",
+    "DESC": "** 原因：** {{REASON}}",
+    "ALRDY_BAN": "用户： {{ID}} 已被禁止。",
+    "SUCC_UNBAN": "成功取消禁止用户。"
+}

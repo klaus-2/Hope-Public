@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Aktivieren oder deaktivieren Sie das Autool-Addon.",
+    "USAGE": "Autorole <enable | disable>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "Autorole <enable | disable>",
+    "EXAMPLE": "Autorole aktivieren"
+}

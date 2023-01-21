@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Aktivieren oder deaktivieren Sie das Nachrichten-Addon, wenn ein Benutzer sich vom Server abmeldet.",
+    "USAGE": "bv-leave <enable | disable>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "bv-leave <enable | disable>",
+    "EXAMPLE": "bv-leave an"
+}

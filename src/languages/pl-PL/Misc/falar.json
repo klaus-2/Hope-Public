@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Niech Hope coś powie.",
+    "USAGE": "powiedzieć <message>\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "powiedzieć <message>",
+    "EXAMPLE": "powiedzieć Hope jest najlepszym botem na świecie <3",
+    "EFALAR_DESC": "Cześć, jestem Hope, i chciałem tylko powiedzieć..."
+}

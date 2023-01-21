@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Get information from an account in fortnite.",
+    "USAGE": "fortnite <kbm / gamepad / touch> <user>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "fortnite <kbm / gamepad / touch> <user>",
+    "EXAMPLE": "fortnite kbm ninja",
+    "FORTNITE": "<a:loading:823004555884232724> ยึดมั่นใน... ฉันกำลังค้นคว้า!",
+    "FORTNITE1": "สถิติสำหรับ {{username}}",
+    "FORTNITE2": "ตำแหน่งด้านบน",
+    "FORTNITE3": "คะแนนรวม:",
+    "FORTNITE4": "การแข่งขันเล่น:",
+    "FORTNITE5": "ชัยชนะ:",
+    "FORTNITE6": "อัตราการชนะ:",
+    "FORTNITE7": "ฆ่า:",
+    "FORTNITE8": "AMA:"
+}

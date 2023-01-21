@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Krijg informatie van een Minecraft-server.",
+    "USAGE": "minecraft <IP> [Port]\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "minecraft <IP> [Port]",
+    "EXAMPLE": "cm eu.hypixel.net",
+    "MINECRAFT": "Serverinformatie",
+    "MINECRAFT1": "status",
+    "MINECRAFT2": "online",
+    "MINECRAFT3": "offline",
+    "MINECRAFT4": "Online spelers:",
+    "MINECRAFT5": "Server - IP:",
+    "MINECRAFT6": "Serverversie:",
+    "MINECRAFT7": "Ik heb deze server niet gevonden."
+}

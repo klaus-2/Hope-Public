@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Konfiguruje dodatek do automatycznej wiadomości.",
+    "USAGE": "automatyczna wiadomość",
+    "USAGEE": "automatyczna wiadomość",
+    "EXAMPLE": "Automatycznie włącz\n💡**Exemplo**: {{EXAMPLE}}",
+    "MENSAGEM": "enable",
+    "MENSAGEM1": "Dodatek `Auto-Message` został pomyślnie aktywowany.",
+    "MENSAGEM2": "disable",
+    "MENSAGEM3": "Dodatek `Auto-Message` został pomyślnie wyłączony.",
+    "MENSAGEM4": "channel",
+    "MENSAGEM5": "Kanał dodatku `Auto-Message` został pomyślnie zaktualizowany do <#{{channel}}>.",
+    "MENSAGEM6": "counter",
+    "MENSAGEM7": "Wprowadź numer licznika wiadomości.",
+    "MENSAGEM8": "Licznik powinien zawierać od 1 do 100 wiadomości.",
+    "MENSAGEM9": "Licznik wiadomości dla dodatku `Auto-Message` został pomyślnie zaktualizowany do `{{amount}}`.",
+    "MENSAGEM10": "message",
+    "MENSAGEM11": "Proszę zgłosić wiadomość.",
+    "MENSAGEM12": "Licznik musi zawierać maksymalnie `2000`.",
+    "MENSAGEM13": "Wiadomość 'Auto-Message' dodatku została pomyślnie zaktualizowana."
+}

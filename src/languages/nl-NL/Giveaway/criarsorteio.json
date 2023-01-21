@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Start een weggeefactie",
+    "USAGE": "g-start <time> <number of winners> <prize>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "g-start <time> <number of winners> <prize>",
+    "EXAMPLE": "g-start 2h30m 3 nitro classic",
+    "CRIAR_SORTEIO": "De prijs moet minder dan 256 tekens lang zijn.",
+    "CRIAR_SORTEIO1": "startte een weggeefactie op de server:",
+    "CRIAR_SORTEIO2": "Oeps, vermeldingen zijn geen prijzen, probeer het opnieuw.",
+    "giveaway": "<:Sorteio 1:823004177064132658 > **GIVEAWAY** <: Sorteio 1:823004177064132658 >",
+    "giveawayEnded": "<:Sorteio 1:823004177064132658 > **GIVEAWAY EINDE** <:Sorteio 1:823004177064132658 >",
+    "timeRemaining": "<:Tempo:823004079831384074> Resterende tijd: **{duration}**!",
+    "inviteToParticipate": "Reageer met <:Sorteio:823004188292022303> om deel te nemen!",
+    "winMessage": "<:Confetti:823008227033350163> Gefeliciteerd, {winners}! Neem contact op met {this.hostedBy} om **{this.prize}** te ontvangen!\nweggeeflink: {messageURL}",
+    "noWinner": "Oh 😕 wat jammer! De trekking werd geannuleerd omdat er geen geldige inzendingen waren.\nHmm.. laten we het nog eens proberen?",
+    "hostedBy": "💳 Gehost door: {this.hostedBy}",
+    "winners": "🏆 {this.winnerCount} winnaar(s)",
+    "endedAt": "Eindigde op",
+    "CRIAR_SORTEIO3": "De prijs moet minder dan 256 tekens lang zijn.",
+    "FOOTER": "Sorteio"
+}

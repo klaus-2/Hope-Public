@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Paga i tuoi rispetti!",
+    "USAGE": "f\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "f",
+    "EXAMPLE": "f",
+    "F": "ha pagato i loro rispetti.",
+    "F1": "Premi F per pagare i tuoi rispetti.",
+    "F2": "ha pagato il loro rispetto a",
+    "F3": "Premi F per pagare i tuoi rispetti."
+}

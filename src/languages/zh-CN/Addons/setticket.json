@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "启用或禁用票证插件。",
+    "USAGE": "setticket <enable | disable>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "setticket <enable | disable>",
+    "EXAMPLE": "setticket 启用"
+}

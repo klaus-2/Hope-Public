@@ -1,0 +1,22 @@
+{
+    "DESCRIPTION": "開発者にバグを報告してください。",
+    "USAGE": "bug <message>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "バグ <message>",
+    "EXAMPLE": "バグテストコマンドを使おうとしていますが、うまくいっていません。",
+    "HBUG_DESC": "このコマンドを再び使用する前に 5 分待つ必要があります。",
+    "HBUG_DESC1": "名前:",
+    "HBUG_DESC2": "ID:",
+    "HBUG_DESC3": "にアカウントが作成されました",
+    "HBUG_DESC4": "メッセージ:",
+    "HBUG_DESC5": "以下のテンプレートを使用して返信してください",
+    "HBUG_DESC6": "> プライベートで答える",
+    "HBUG_DESC7": "  u.send (`**Re: Feedback/Bug**\nMESSAGE HERE `)`",
+    "HBUG_DESC8": "> チャンネルで応答",
+    "HBUG_DESC9": "Re: フィードバック/バグ**\nMESSAGE HERE",
+    "HBUG_DESC10": "サーバーから送信される",
+    "HBUG_DESC11": "で",
+    "HBUG_DESC12": "問題がありました。私のサポートサーバーで報告してください ```{{prefix}}support``",
+    "HBUG_DESC13": "ねえ {{author}}、すべてうまくいった！",
+    "HBUG_DESC14": "あなたのレポートはすでに私の開発者に届いており、彼はできるだけ早く返信します。しばらくお待ちください。",
+    "HBUG_DESC15": "これを悪用すると、このコマンドを使用できなくなります！\nああ、問題があった場合はご迷惑をおかけして申し訳ありません。<: HopeamOR: 823223048290172928>"
+}

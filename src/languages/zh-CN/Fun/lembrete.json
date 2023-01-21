@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "定义一段时间内要记住的东西。",
+    "USAGE": "提醒 <time> <message>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "提醒 <time> <message>",
+    "EXAMPLE": "提醒 1h 喂我的猫",
+    "FLEMBRETE_DESC": "你必须设定一个时间段才能记住！",
+    "FLEMBRETE_DESC1": "给定的时间",
+    "FLEMBRETE_DESC2": "超过了 31 天的限制",
+    "FLEMBRETE_DESC3": "你必须写一条消息才能记住！",
+    "FLEMBRETE_DESC4": "嘿，你好",
+    "FLEMBRETE_DESC5": "你可以指望我的帮助好的！我会从这里提醒你",
+    "FLEMBRETE_DESC6": "你可以相信我会记得的，~~* 我想 *~~"
+}

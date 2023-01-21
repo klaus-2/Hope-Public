@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Exibe uma lista com seus backups criados.",
+    "USAGE": "e-backup-lista\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "e-backup-lista",
+    "EXAMPLE": "e-backup-lista",
+    "E_BACKUP_LISTA": ":x: | **Não há nenhum backup criado por você.**",
+    "E_BACKUP_LISTA1": ":x: | **Não há backups criados por você.**",
+    "E_BACKUP_LISTA2": "Essa é a sua Lista de Backups",
+    "E_BACKUP_LISTA3": "Nome do servidor | ID do Backup | Quantidade de emoji",
+    "E_BACKUP_LISTA4": "Oi, {{author}}"
+}

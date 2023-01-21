@@ -1,0 +1,614 @@
+[
+  {
+    "id": 1,
+    "name": "Plano de fundo da Hope",
+    "description": "Plano de fundo Padrão para comando de perfil.",
+    "type": "planodefundo",
+    "deletable": false,
+    "giftable": false,
+    "price": 0,
+    "assets": {
+      "link": "https://i.imgur.com/RdDYvBZ.png"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Hope BG1",
+    "description": "Plano de fundo incomum para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 10000,
+    "assets": {
+      "link": "https://i.imgur.com/8E1YaTd.png"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Hope BG2",
+    "description": "Plano de fundo raro para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 16000,
+    "assets": {
+      "link": "https://i.imgur.com/HBFAREq.png"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Hope BG3",
+    "description": "Plano de fundo raro para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 16000,
+    "assets": {
+      "link": "https://i.imgur.com/KTHpu7t.png"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Hope BG4",
+    "description": "Super Raro plano de fundo para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": false,
+    "price": 22000,
+    "assets": {
+      "link": "https://i.imgur.com/MEQojqh.png"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Boruto de Preto",
+    "description": "Plano de fundo incomum para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 10000,
+    "assets": {
+      "link": "https://i.imgur.com/ihUUy81.png"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Garota do Gelo",
+    "description": "Plano de fundo raro para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 16000,
+    "assets": {
+      "link": "https://i.imgur.com/6XnvjHM.png"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Hokage ao amanhecer",
+    "description": "Plano de fundo incomum para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 10000,
+    "assets": {
+      "link": "https://i.imgur.com/vNpxJtf.png"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Hunter Cha Hae-In",
+    "description": "Plano de fundo raro para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 16000,
+    "assets": {
+      "link": "https://i.imgur.com/lHh6JTX.png"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Hunter Sung Jin-Woo",
+    "description": "Plano de fundo raro para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 16000,
+    "assets": {
+      "link": "https://i.imgur.com/qDij2SD.png"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Isla Plastic Memories",
+    "description": "Plano de fundo incomum para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 10000,
+    "assets": {
+      "link": "https://i.imgur.com/gpHh7Rj.png"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Kawaii Shoujo",
+    "description": "Plano de fundo incomum para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 10000,
+    "assets": {
+      "link": "https://i.imgur.com/dHZS2ko.png"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Ken Kaneki",
+    "description": "Plano de fundo raro para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 16000,
+    "assets": {
+      "link": "https://i.imgur.com/kHMAeb2.png"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Megumin",
+    "description": "Super Plano de fundo raro para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 22000,
+    "assets": {
+      "link": "https://i.imgur.com/lq4QeWB.png"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Mikasa Ackerman",
+    "description": "Plano de fundo raro para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 16000,
+    "assets": {
+      "link": "https://i.imgur.com/M4v5XyW.png"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Miku chapeusune 01",
+    "description": "Super Plano de fundo raro para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 22000,
+    "assets": {
+      "link": "https://i.imgur.com/Vx9euUN.png"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Miku chapeusune 02",
+    "description": "Super Plano de fundo raro para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 22000,
+    "assets": {
+      "link": "https://i.imgur.com/b62wIhR.png"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Moon Dive",
+    "description": "Plano de fundo raro para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 16000,
+    "assets": {
+      "link": "https://i.imgur.com/DV3ep4l.png"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Nekomimi",
+    "description": "Plano de fundo incomum para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 10000,
+    "assets": {
+      "link": "https://i.imgur.com/AWQ9krI.png"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Neon Lights Purple",
+    "description": "Plano de fundo raro para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 16000,
+    "assets": {
+      "link": "https://i.imgur.com/sjpzBNi.png"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Red Demon Girl",
+    "description": "Plano de fundo raro para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 16000,
+    "assets": {
+      "link": "https://i.imgur.com/5P1H76f.png"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Shadow Monarch's Pride",
+    "description": "Super Plano de fundo raro para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 22000,
+    "assets": {
+      "link": "https://i.imgur.com/kLw1PIj.png"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Shana to Tsuki",
+    "description": "Plano de fundo incomum para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 22000,
+    "assets": {
+      "link": "https://i.imgur.com/CwaB6XQ.png"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Shinobu Kocho",
+    "description": "Plano de fundo raro para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 16000,
+    "assets": {
+      "link": "https://i.imgur.com/miTkqJI.png"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Sukuna JJK",
+    "description": "Plano de fundo raro para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 16000,
+    "assets": {
+      "link": "https://i.imgur.com/b6o232P.png"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Swordswoman",
+    "description": "Super Plano de fundo raro para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 22000,
+    "assets": {
+      "link": "https://i.imgur.com/oFh8E17.png"
+    }
+  },
+  {
+    "id": 27,
+    "name": "Violet Evergarden",
+    "description": "Plano de fundo raro para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 16000,
+    "assets": {
+      "link": "https://i.imgur.com/qQ4bFJg.png"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Tamako e Anko",
+    "description": "Plano de fundo raro para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 16000,
+    "assets": {
+      "link": "https://i.imgur.com/IOeB3ne.png"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Dera aborrecendo Tamako",
+    "description": "Plano de fundo incomum para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 10000,
+    "assets": {
+      "link": "https://i.imgur.com/NeWCy4v.png"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Tamako Sorrindo",
+    "description": "Plano de fundo raro para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 15000,
+    "assets": {
+      "link": "https://i.imgur.com/hOblDlT.png"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Anko provocando",
+    "description": "Super Plano de fundo raro para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 22000,
+    "assets": {
+      "link": "https://i.imgur.com/ICE5VuD.png"
+    }
+  },
+  {
+    "id": 32,
+    "name": "Tamako de Óculos",
+    "description": "Plano de fundo incomum para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 12000,
+    "assets": {
+      "link": "https://i.imgur.com/VgRzdlL.png"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Tamako e Mochizou juntos",
+    "description": "Plano de fundo raro para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 15000,
+    "assets": {
+      "link": "https://i.imgur.com/D0YYFFd.png"
+    }
+  },
+  {
+    "id": 34,
+    "name": "Mochizou & Tamako",
+    "description": "Plano de fundo raro para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 18000,
+    "assets": {
+      "link": "https://i.imgur.com/oPLQgb5.png"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Violet evergarden",
+    "description": "Plano de fundo raro para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 15000,
+    "assets": {
+      "link": "https://i.imgur.com/b7SQkTJ.png"
+    }
+  },
+  {
+    "id": 36,
+    "name": "World End",
+    "description": "Plano de fundo incomum para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 10000,
+    "assets": {
+      "link": "https://i.imgur.com/MCb6UYl.png"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Shelter",
+    "description": "Plano de fundo raro para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 15000,
+    "assets": {
+      "link": "https://i.imgur.com/djQUKcd.png"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Rory Mercury Gate",
+    "description": "Plano de fundo raro para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 15000,
+    "assets": {
+      "link": "https://i.imgur.com/BxA2YSg.png"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Shiro NGNL",
+    "description": "Plano de fundo incomum para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 10000,
+    "assets": {
+      "link": "https://i.imgur.com/YFy1CAV.png"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Made in Abyss",
+    "description": "Plano de fundo raro para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 17000,
+    "assets": {
+      "link": "https://i.imgur.com/fT1MO8I.png"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Assassination classroom",
+    "description": "Plano de fundo incomum para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 12000,
+    "assets": {
+      "link": "https://i.imgur.com/LukCj9s.png"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Anohana",
+    "description": "Plano de fundo raro para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 15000,
+    "assets": {
+      "link": "https://i.imgur.com/EprdGpe.png"
+    }
+  },
+  {
+    "id": 43,
+    "name": "Taki e Mitsuha",
+    "description": "Plano de fundo raro para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 22000,
+    "assets": {
+      "link": "https://i.imgur.com/h8NIocv.png"
+    }
+  },
+  {
+    "id": 44,
+    "name": "Your Lie in april",
+    "description": "Plano de fundo raro para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 18000,
+    "assets": {
+      "link": "https://i.imgur.com/DrmbNka.png"
+    }
+  },
+  {
+    "id": 45,
+    "name": "Date a Live",
+    "description": "Plano de fundo incomum para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 12000,
+    "assets": {
+      "link": "https://i.imgur.com/78z5pAX.png"
+    }
+  },
+  {
+    "id": 46,
+    "name": "Angel Beats",
+    "description": "Plano de fundo raro para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 12000,
+    "assets": {
+      "link": "https://i.imgur.com/tpxTwp9.png"
+    }
+  },
+  {
+    "id": 47,
+    "name": "Tanya the Loli",
+    "description": "Plano de fundo raro para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 18000,
+    "assets": {
+      "link": "https://i.imgur.com/jFKGy5x.png"
+    }
+  },
+  {
+    "id": 48,
+    "name": "Garota olhando para o céu noturno",
+    "description": "Plano de fundo raro para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 20000,
+    "assets": {
+      "link": "https://i.imgur.com/IRfgxvl.png"
+    }
+  },
+  {
+    "id": 49,
+    "name": "Eclipse",
+    "description": "Plano de fundo raro para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 20000,
+    "assets": {
+      "link": "https://i.imgur.com/hl7VJ0I.png"
+    }
+  },
+  {
+    "id": 50,
+    "name": "Garota pintando",
+    "description": "Plano de fundo incomum para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 12000,
+    "assets": {
+      "link": "https://i.imgur.com/2qrW1rK.png"
+    }
+  },
+  {
+    "id": 51,
+    "name": "Espaço",
+    "description": "Plano de fundo raro para perfil.",
+    "type": "planodefundo",
+    "deletable": true,
+    "giftable": true,
+    "price": 18000,
+    "assets": {
+      "link": "https://i.imgur.com/899JaFT.png"
+    }
+  }
+]

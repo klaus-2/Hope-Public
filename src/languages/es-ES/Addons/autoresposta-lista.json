@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Da una lista de respuestas automáticas en un servidor",
+    "USAGE": "lista autoresponse-\n💡**Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "autoresponse-lista",
+    "EXAMPLE": "autoresponse-lista",
+    "LISTA_RESPOSTA": "<:cancel:855859391709577266> ¡El gremio actual no tiene comandos personalizados!",
+    "LISTA_RESPOSTA1": "Comandos personalizados",
+    "LISTA_RESPOSTA2": "¡La hermandad actual no tiene comandos personalizados!"
+}

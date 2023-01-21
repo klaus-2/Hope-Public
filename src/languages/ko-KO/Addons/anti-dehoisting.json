@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "자동 애드온 안티호이스팅 모듈을 구성합니다.",
+    "USAGE": "안티 디 호이 스팅\n💡 **실업**: {{EXAMPLE}}",
+    "USAGEE": "안티 - 디 호이 스팅",
+    "EXAMPLE": "안티 - 디 호이 스팅 2",
+    "DEHOISTING": "enable",
+    "DEHOISTING1": "`[AUTO-MOD]` 안티호이스팅이 성공적으로 활성화되었습니다.",
+    "DEHOISTING2": "disable",
+    "DEHOISTING3": "`[AUTO-MOD]` 안티호이스팅이 성공적으로 비활성화되었습니다."
+}

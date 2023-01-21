@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Reinicia um comando.",
+    "USAGE": "reiniciar <comando / evento>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "reiniciar <comando / evento>",
+    "EXAMPLE": "reiniciar ajuda",
+    "SUCCESS": "Commando: `{{NAME}}` is opnieuw geladen.",
+    "SUCCESS_EVENT": "Event: `{{NAME}}` is opnieuw geladen.",
+    "INCORRECT_DETAILS": "{{NAME}} is geen opdracht of gebeurtenis."
+}

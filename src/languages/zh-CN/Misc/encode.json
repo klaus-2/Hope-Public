@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "将消息编码为二进制文件。",
+    "USAGE": "编码 <message>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "编码 <message>",
+    "EXAMPLE": "编码 Hope 是一个 melhor 机器人 do mundo mundo <3"
+}

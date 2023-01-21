@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "活跃我们的讨人喜好或插件 delevel。",
+    "USAGE": "music adj <ativar | desativar>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "musicadj <ativar | desativar>",
+    "EXAMPLE": "musicdj 启用"
+}

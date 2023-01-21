@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "서버에서 사용자의 로그인 위치를 표시합니다.",
+    "USAGE": "포지션 <user>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "포지션 <user>",
+    "EXAMPLE": "포지션 @Hope",
+    "EPOS_DESC": "조인 위치",
+    "EPOS_DESC1": "이었습니다.",
+    "EPOS_DESC2": "사용자가 들어올"
+}

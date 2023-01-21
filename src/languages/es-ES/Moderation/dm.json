@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "enviar un mensaje directo a un usuario.",
+    "USAGE": "dm <user> <message>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "dev <message>",
+    "EXAMPLE": "dm @User Hola",
+    "DM": "Hola",
+    "DM1": "has recibido un mensaje del servidor:",
+    "DM2": "Presentado por:",
+    "DM3": "Asunto:",
+    "DM4": "Este mensaje se envió utilizando el bot de Hope, si sospechas de abuso, por favor, infórmalo usando el",
+    "DM5": "en el servidor",
+    "DM6": "Se ha enviado correctamente el mensaje directo a <@{{member}}>"
+}

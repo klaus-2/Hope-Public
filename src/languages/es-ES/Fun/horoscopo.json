@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "obtener información sobre el horóscopo hoy.",
+    "USAGE": "horóscopo <sign>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "horóscopo <sign>",
+    "EXAMPLE": "horóscopo tauro",
+    "FHOR_DESC": "¡Por favor, dame una señal para obtener su horóscopo!",
+    "FHOR_DESC1": "¡No es una señal válida!",
+    "FHOR_DESC2": "¡Lo siento! ¡Mi API (Horoscope Machine) no funciona!",
+    "FHOR_DESC3": "Humor",
+    "FHOR_DESC4": "Sin datos.",
+    "FHOR_DESC5": "Intensidad",
+    "FHOR_DESC6": "Palabras clave"
+}

@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Habilita o deshabilita el complemento de mensaje de bienvenida en privado.",
+    "USAGE": "bv-adprivate <enable | disable>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "bv-adprivate <enable | disable>",
+    "EXAMPLE": "bv-adprivate en"
+}

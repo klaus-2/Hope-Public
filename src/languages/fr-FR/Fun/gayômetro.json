@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Voyez comment vous êtes gay",
+    "USAGE": "gayrate [user]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "gayrate [user]",
+    "EXAMPLE": "gayrate @Hope",
+    "GAYOMETRO": "Machine à siphonner",
+    "GAYOMETRO1": "Vous êtes",
+    "GAYOMETRO2": "gais",
+    "GAYOMETRO3": "Machine à gais",
+    "GAYOMETRO4": "est",
+    "GAYOMETRO5": "gais"
+}

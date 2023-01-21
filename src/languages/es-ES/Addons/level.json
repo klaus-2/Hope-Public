@@ -1,0 +1,5 @@
+{
+    "DESCRIPTION": "Ativo o negativo para añadir niveles de deción.",
+    "USAGE": "level <ativar | desativar>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "nivel <ativar | desativar>"
+}

@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Controlla tutti i membri di una certa posizione! o forse tutti loro!",
+    "USAGE": "members < all <unk> role name <unk> @role >\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "members < all <unk> role name <unk> @role >",
+    "EXAMPLE": "members @role <unk> members all <unk> members role name",
+    "MEMBROS": "tutti",
+    "MEMBROS1": "Elenco",
+    "MEMBROS2": "Nessun membro con il",
+    "MEMBROS3": "Ruolo esistente!"
+}

@@ -1,0 +1,7 @@
+{
+    "MESSAGE_REACTION_REMOVE": "반응을 제거했습니다.",
+    "MESSAGE_REACTION_REMOVE1": "이 메시지의",
+    "MESSAGE_REACTION_REMOVE2": "사용자 ID:",
+    "MESSAGE_REACTION_REMOVE3": "메시지 ID:",
+    "MESSAGE_REACTION_REMOVE4": "[EVENT — 반응이 제거되었습니다]"
+}

@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Stel Hope-kanaal negeren in voor deze server.",
+    "USAGE": "level-ignorchannel <channelID>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "level-ignorkanaal <channelID>",
+    "EXAMPLE": "level-ignorkanaal 328328777266673",
+    "LVL_IGNCANAL": "Instellingen: `Level`",
+    "LVL_IGNCANAL1": "<:v_:855859391835799582>De configuratie van `level` is succesvol bijgewerkt.",
+    "LVL_IGNCANAL2": "Niveau instelling",
+    "LVL_IGNCANAL3": "Kanaal gewijzigd van"
+}

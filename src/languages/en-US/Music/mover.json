@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "move the specified song number to the specified position.",
+    "USAGE": "move <music position> <new position>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "move <music position> <new position>",
+    "EXAMPLE": "move 4 8",
+    "MOVER": "Cannot move a song that is already playing. To skip the current playing song type: `{{prefix}}skip`",
+    "MOVER1": "Uh-oh! Song not found. Please use the `{{prefix}}`**queue** command to check the correct **number and position** of the desired song and try again!",
+    "MOVER2": "Yayy! Moved **{{title}}** to the beginning of the queue.",
+    "MOVER3": "moved",
+    "MOVER4": "to the position",
+    "MOVER5": "from the queue.",
+    "MUSICA6": "Invalid number.",
+    "MOVER7": "Moved **{{title}}** to the position {{pos}}."
+}

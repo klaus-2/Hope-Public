@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Rimuovere gli avvisi da un utente.",
+    "USAGE": "clear-warnings <user>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "clear-warnings <user>",
+    "EXAMPLE": "clear-warnings @Hope",
+    "CLEARED_WARNINGS": "Gli avvisi per <@{{user}}> sono stati cancellati."
+}

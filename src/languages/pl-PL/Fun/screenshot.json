@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Pobierz zrzut ekranu strony internetowej.",
+    "USAGE": "zrzut ekranu <url>\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "zrzut ekranu <url>",
+    "EXAMPLE": "zrzut ekranu https://www.google.com/",
+    "FSS_DESC": "<a:loading:823004555884232724> Wykonywanie zrzutu ekranu witryny.",
+    "FSS_DESC1": "Brakujące dane",
+    "INVALID_URL": "To nie jest prawidłowy adres URL.",
+    "BLACKLIST_WEBSITE": "Nie można przeglądać tych stron internetowych w kanale non-NSFW.",
+    "SS": "Oto zrzut ekranu z żądanego [URL]({{urls}})",
+    "SS1": "Proszę podać adres URL"
+}

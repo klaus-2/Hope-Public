@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Geeft een lijst met automatische reacties op een server",
+    "USAGE": "autoresponse-list\n💡**Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "autoresponse-list",
+    "EXAMPLE": "autoresponse-list",
+    "LISTA_RESPOSTA": "<:cancel:855859391709577266> Het huidige gilde heeft geen aangepaste commando's!",
+    "LISTA_RESPOSTA1": "Aangepaste Commando's",
+    "LISTA_RESPOSTA2": "De huidige gilde heeft geen aangepaste commando's!"
+}

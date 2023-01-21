@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Poke einen Benutzer.",
+    "USAGE": "poke <user>",
+    "USAGEE": "poke <user>",
+    "CUTUCAR_DESCRIÇÃO": "\\❌ **<@{{author}}>**, wer soll ich schreiben?",
+    "CUTUCAR_DESCRIÇÃO1": "Ich bin schon da! Brauchst du etwas?",
+    "CUTUCAR_DESCRIÇÃO2": "\\❌ Ich werde das nicht tun, **<@{{author}}>**!",
+    "CUTUCAR_DESCRIÇÃO3": "geschockt"
+}

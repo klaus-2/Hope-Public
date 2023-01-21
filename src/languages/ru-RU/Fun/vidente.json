@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "получите ответ на все!",
+    "USAGE": "провидетель <question>\n💡 **Пример**: {{EXAMPLE}}",
+    "USAGEE": "провидца <question>",
+    "EXAMPLE": "провидца Сегодня будет дождь?",
+    "FVIDENTE_DESC": "./resources/other/8ball-en.json",
+    "FVIDENTE_DESC1": "Вопрос:",
+    "FVIDENTE_DESC2": "Вопрос по",
+    "FVIDENTE_DESC3": "Hope, провидца"
+}

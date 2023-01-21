@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Załaduj kopię zapasową z serwera.",
+    "USAGE": "s-backup-load <backupID>\n💡 **Przykład: {{EXAMPLE}}",
+    "USAGEE": "s-backup-load <backupID>",
+    "EXAMPLE": "s-backup-load 2334",
+    "S_BACKUP_CARREGAR": "Aah {{author}}, przepraszam: (",
+    "S_BACKUP_CARREGAR1": "Aby utworzyć kopię zapasową na tym serwerze, musisz mieć uprawnienia do zarządzania wiadomościami.",
+    "S_BACKUP_CARREGAR2": ":warning: Wszystkie kanały serwera, role i ustawienia zostaną wyczyszczone. Chcesz kontynuować? Wyślij `confirm` lub `cancel`!",
+    "S_BACKUP_CARREGAR3": "potwierdź",
+    "S_BACKUP_CARREGAR4": "anuluj",
+    "S_BACKUP_CARREGAR5": "Kopia zapasowa została załadowana",
+    "S_BACKUP_CARREGAR6": "Nie znaleziono kopii zapasowej dla ID: **{{backupID}}**",
+    "S_BACKUP_CARREGAR7": "Wystąpił błąd:",
+    "S_BACKUP_CARREGAR8": ":x: Anulowane.",
+    "S_BACKUP_CARREGAR9": ":x: Komenda przekroczył limit czasu! Proszę ponowić próbę."
+}

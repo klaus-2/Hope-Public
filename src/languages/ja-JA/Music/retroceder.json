@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "指定された値だけプレーヤーを巻き戻します。",
+    "USAGE": "巻き戻し <time>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "巻き戻し <time",
+    "EXAMPLE": "巻き戻し 1:00 | 巻き戻し 1:32:00",
+    "RETROCEDER": "曲の長さは 0 秒未満にすることはできません",
+    "RETROCEDER1": "巻き戻された",
+    "RETROCEDER2": "へ:",
+    "RETROCEDER3": "無効な形式の時刻"
+}

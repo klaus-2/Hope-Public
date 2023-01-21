@@ -1,0 +1,17 @@
+{
+    "DESCRIPTION": "搜索一个 YouTube 频道。",
+    "USAGE": "youtube 频道 <name>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "youtube-Channel <name>",
+    "EXAMPLE": "youtube 频道忍者",
+    "YOUTUBE_CANAL": "未知频道错误。",
+    "YOUTUBE_CANAL1": "没有频道结果。再试一次。",
+    "YOUTUBE_CANAL2": "未知的频道数据错误。",
+    "YOUTUBE_CANAL3": "频道名称",
+    "YOUTUBE_CANAL4": "频道描述",
+    "YOUTUBE_CANAL5": "订阅者数量",
+    "YOUTUBE_CANAL6": "总浏览量",
+    "YOUTUBE_CANAL7": "视频总数",
+    "YOUTUBE_CANAL8": "创建日期",
+    "YOUTUBE_CANAL9": "链接",
+    "YOUTUBE_CANAL10": "您不能在非 NSFW 频道上搜索这些术语。"
+}

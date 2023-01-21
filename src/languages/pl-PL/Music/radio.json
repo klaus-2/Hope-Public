@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Słuchaj radia.",
+    "USAGE": "radio <query>\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "radio <query>",
+    "EXAMPLE": "radiowy myśliwy | radio bbc",
+    "RADIO": "Nie znaleziono radia o tej nazwie",
+    "RADIO1": "Wyniki dla",
+    "RADIO2": "Wybierz liczbę z 1-10 lub anuluj.",
+    "RADIO3": "Nie wybrałeś piosenki na czas.",
+    "RADIO4": "anuluj",
+    "RADIO5": "Liczba podana przez Ciebie była zbyt mała lub zbyt duża (1-{{max}}).",
+    "RADIO6": "Dodano do kolejki:",
+    "RADIO7": "Anulowany wybór."
+}

@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Avança rapidamente o player pelo valor especificado.",
+    "USAGE": "avançar <tempo>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "avançar <tempo>",
+    "EXAMPLE": "avançar 1:00 | avançar 1:32:00",
+    "AVANÇAR": "Tudo certo, avancei `{{OLD}}` na música atual! Seu tempo atual agora é: `{{NEW}}`.",
+	"AVANÇAR1": "na musica atual.\nTempo atual:",
+	"AVANÇAR2": "A musica tem só"
+}

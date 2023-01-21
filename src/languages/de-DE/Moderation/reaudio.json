@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "reaktiviere das Audio eines Benutzers.",
+    "USAGE": "Untote <user>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "Unbekannt <user>",
+    "EXAMPLE": "unsichtbare @Hope",
+    "REAUDIO": "Ich kann jemanden nicht taub machen, der nicht auf einem Sprachkanal ist."
+}

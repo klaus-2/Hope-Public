@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "buscar uma musica pela internet.",
+    "USAGE": "search <link / song name>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "search <link / song name>",
+    "EXAMPLE": "search anchor - novo amor",
+    "BUSCAR": "You're not on a voice channel I can connect to.",
+    "BUSCAR1": "These are the results for",
+    "BUSCAR2": "Choose a number from 1 to 10 or cancel. (30s)",
+    "BUSCAR3": "<:SkyeTempo:823047534854668298> Ahhhhhh... you didn't pick a song in time.",
+    "BUSCAR4": "The search was successfully cancelled.",
+    "BUSCAR5": "The number you provided was either too small or too large (Choose between",
+    "BUSCAR6": "has been successfully added to the queue."
+}

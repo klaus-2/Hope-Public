@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Reproduz a música anterior da fila.",
+    "USAGE": "voltar\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "voltar",
+    "EXAMPLE": "voltar"
+}

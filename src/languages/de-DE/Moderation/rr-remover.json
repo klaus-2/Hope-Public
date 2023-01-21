@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Reaktionsrollen erstellen",
+    "USAGE": "reaktionroles <messagelink>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "reaktionRollen <messagelink>",
+    "EXAMPLE": "reaktionroles https://discord.com/channels/450822670105082938/451619652009787331/747357221053937082",
+    "RR_REMOVER": "Ungültiger Nachrichtenlink",
+    "RR_REMOVER1": "Reaktionsrolle erfolgreich gelöscht"
+}

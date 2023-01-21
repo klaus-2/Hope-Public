@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Establece los registros de aplicación del gremio",
+    "USAGE": "applylog <enable #channel | disable>\n💡**Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "applylog <enable #channel | disable>",
+    "EXAMPLE": "habilitar applylog #prueba"
+}

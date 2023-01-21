@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Antworten mit einer zufälligen Zahl.",
+    "USAGE": "zufällig\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "zufällig",
+    "EXAMPLE": "zufällig 2 10",
+    "FRANDOM_DESC": ":one: Warte, ich wähle eine Zahl...",
+    "FRANDOM_DESC1": "{{num}} Warte, ich wähle eine Zahl...",
+    "FRANDOM_DESC2": "🔢 Ihre Nummer ist **{{random}}**!"
+}

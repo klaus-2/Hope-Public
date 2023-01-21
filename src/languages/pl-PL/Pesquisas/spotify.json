@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Wyświetla bieżący utwór użytkownika.",
+    "USAGE": "spotify <user>\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "spotify <user>",
+    "EXAMPLE": "spotify @Hope",
+    "SPOTIFY": "Ten użytkownik nie słucha obecnie spotify."
+}

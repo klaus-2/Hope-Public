@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "특별한 사람과 손을 잡으십시오.",
+    "USAGE": "홀드핸즈 <user>",
+    "USAGEE": "홀드핸즈 <user>",
+    "MAOS_DESCRIÇÃO": "\\ ❌ **<@{{author}}>**, 누가 손을 잡고 싶습니까?",
+    "MAOS_DESCRIÇÃO1": "의 손을 잡고",
+    "MAOS_DESCRIÇÃO2": "\\ ❌ **<@{{author}}>**, 누구의 손을 잡고 싶은지 말해야 합니다"
+}

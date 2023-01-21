@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Cerca Wikipedia per il termine specificato.",
+    "USAGE": "wikipedia <term>\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "wikipedia <term>",
+    "EXAMPLE": "wikipedia pioggia",
+    "WIKIPEDIA": "Ohh! Non riuscivo a trovarlo su Wikipedia.\nMi chiedo se l'hai scritto correttamente?",
+    "WIKIPEDIA1": "Link",
+    "WIKIPEDIA2": "Questo paragrafo era troppo lungo per l'incorporato, si prega di fare clic sul link fornito.",
+    "WIKIPEDIA3": "it"
+}

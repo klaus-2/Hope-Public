@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "informeer over de Ticket add-on.",
+    "USAGE": "ticket\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "t-close",
+    "EXAMPLE": "t-close",
+    "TICKET_REAÇÃO": "reaction",
+    "TICKET_REAÇÃO1": "Secretaris Hope",
+    "TICKET_REAÇÃO2": "Hallo! Ik ben Hope en ik ben hier om je te helpen een kaartje te openen. Het is heel eenvoudig, klik gewoon op de onderstaande knop <:SkyeCorreta:823047534602616832>",
+    "TICKET_REAÇÃO3": "Hallo! Ik ben Hope en ik zal je hierbij helpen.\n\nLaten we eerst onthouden dat `<> noodzakelijk` e `[] is optioneel`!\n\nKom op, je hebt twee opties om een ticket te openen:\n De eerste optie is dat je naar het bericht dat ik heb verzonden in het Tickets-kanaal van deze server te gaan en erop te reageren met 🎟.\n\nDe tweede optie is om in chat het commando `{{prefix}}t-<create | open> [reason]` - in te typen om een ticket te openen.\n\n<a:sirene:823004235440062464> Onderstaande commando's zijn alleen beschikbaar voor het beheer van deze server, ok?!\n\n`{{prefix}}ticketreactie` - maak een reactie bericht om een ticket te openen.\n`{{prefix}}t-setup` - om het ticketcommando op deze server te configureren.",
+    "TICKET_REAÇÃO4": "Open een ticket"
+}

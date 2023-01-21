@@ -1,0 +1,18 @@
+{
+    "DESCRIPTION": "Exibe o status do usuario.",
+    "USAGE": "premium\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "premii",
+    "EXAMPLE": "premii",
+    "PREMIUM_AUTHOR": "Halo, {{author}}",
+    "PREMIUM_DESC": "To są informacje **Premium Subscription** dla serwera**{{guild}}**",
+    "PREMIUM_DESC1": "**Aktualny plan: ** {{plan}}",
+    "PREMIUM_DESC2": "Kod: ||**{{code}}**||",
+    "PREMIUM_DESC3": "Data wykupu: ** {{date}}",
+    "PREMIUM_DESC4": "**Wykorzystaj przez: ** <@{{user}}>",
+    "PREMIUM_DESC5": "**Identyfikator serwera: ** {{guild}}",
+    "PREMIUM_DESC6": "**Wygasa dnia: ** {{expires}}",
+    "PREMIUM_TITULO": "Halo, {{author}}",
+    "PREMIUM_FOOTER": "Pamiętaj, że po wygaśnięciu planu wszystkie funkcje premium zostaną automatycznie wyłączone na serwerze.",
+    "PREMIUM_DESC7": "Cieszę się, że jesteś zainteresowany staniem się premią!\n\nPremium to sposób użytkownika, aby dać mi z powrotem i uzyskać jakieś miłe korzyści ze mnie.\n\n**Stając się Hope PREMIUM będziesz w stanie: **\n• Trzymaj Hope na kanale głosowym 24/7\n• Wykonaj pełną kopię zapasową serwera (Poważnie, mogę zapisać wszystkie, kategorie, kanały, wiadomości, emotikony i pozycje)\n• Dostosuj dodatek osadza Bilet, Przyklejony i urodziny.\n• Zezwolenie na utworzenie więcej niż 2 playlisty na HopedJ <:SkyeouvinDomusica:823046654554144768>\n• Premia pieniężna dla globalnego systemu gospodarki Hope.\n• Usuń do 1000 wiadomości jednocześnie za pomocą polecenia clear.\n• Limit Addon Auto-Response zmieniono z 10 na Brak limitów.\n• Można utworzyć więcej niż 3 role reakcji.\n• Dodaj więcej niż 10 animacji w dodatku Auto-animes\n• Dodaj więcej niż 10 kanałów w dodatku Auto-YouTube\n• Dodaj więcej niż 2 kanały w dodatku Auto-Twitch\n\nTo dużo, prawda? Obraz, aby mieć dostęp do tego wszystkiego i za darmo? Nie możesz w to uwierzyć? hmmm... bo uwierz mi! Istnieją dwa sposoby, aby otrzymać premię:\n\n**1 - BOOST NA MOJE [SERVER WSPARCIE] ({{SupportServer}}) **\nTrochę doładowania nie zaszkodzi, prawda? Poza tym, że mój serwer wsparcia jest bardziej zaradny, pozwoli mi wysyłać naprawdę fajne emotikony w moich wiadomościach.\nPonadto, boost na serwerze wsparcia jest odpowiednikiem **30 dni PREMIUM**, i każdy użytkownik serwera lub znajomego, może zwiększyć mój serwer i aktywować premię na serwerze dla Ciebie, jeśli nie masz niezgody nitro.\n\n**2 - Hope VOTES**\nGłosując na mnie, pomożesz mi uzyskać większą widoczność, więc więcej fajnych ludzi jak ty może mieć mnie na swoich serwerach.\nMożesz sprawdzić listę botlistów dostępnych do nagrody za pomocą polecenia „{{prefix}}głosów „\nOh, a każdy głos jest równoważny **12 godzin PREMIUM** i możesz głosować co 12 godzin.",
+    "PREMIUM_FOOTER1": "Za każdym razem, gdy wspierasz Hope, udowadniasz, że jest na dobrej drodze i dajesz jej deweloperowi super zachętę, aby stała się lepsza."
+}

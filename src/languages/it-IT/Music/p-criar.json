@@ -1,0 +1,17 @@
+{
+    "DESCRIPTION": "Crea una playlist",
+    "USAGE": "p-create <playlist name> <search term/link>\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "p-create <playlist name> <search term/link>",
+    "EXAMPLE": "p-create Link di test",
+    "P_CRIAR": "Il titolo della scaletta deve essere inferiore a 32 caratteri!",
+    "P_CRIAR1": "Aggiunta canzone/i alla tua playlist (Questo potrebbe richiedere alcuni secondi)...",
+    "P_CRIAR2": "Premium consente di salvare fino a 3 playlist invece di 1.",
+    "P_CRIAR3": "Non puoi salvare più playlist. Max: 3",
+    "P_CRIAR4": "Esiste già una playlist con quel nome.",
+    "P_CRIAR5": "Creata una scaletta con nome:",
+    "P_CRIAR6": "Durata playlist:",
+    "P_CRIAR7": "Aggiunto",
+    "P_CRIAR8": "tracce) a",
+    "P_CRIAR9": "Canzoni:",
+    "P_CRIAR10": "non è una playlist"
+}

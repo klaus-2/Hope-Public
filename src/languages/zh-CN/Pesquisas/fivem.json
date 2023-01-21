@@ -1,0 +1,18 @@
+{
+    "DESCRIPTION": "在 FIVEM 中查看服务器上的信息。",
+    "USAGE": "五个 <IP:PORT>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "五个 <IP:PORT>",
+    "EXAMPLE": "五个 ger-h10.vibegames.net: 30196",
+    "FIVEM": "服务器统计",
+    "FIVEM1": "服务器状态：",
+    "FIVEM2": "目前有",
+    "FIVEM3": "连接的玩家。",
+    "FIVEM4": "玩家 ID",
+    "FIVEM5": "玩家姓名",
+    "FIVEM6": "尝试连接到服务器 (FIVEM) 失败。",
+    "FIVEM7": "不可用的",
+    "FIVEM8": "目前没有在线玩家。",
+    "FIVEM9": "无",
+    "FIVEM10": "Hope 提示",
+    "FIVEM11": "💡 * 服务器处于脱机状态或服务器的 IP: PORT 错误。*"
+}

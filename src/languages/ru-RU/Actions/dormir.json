@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Заводит пользователя в спящий режим.",
+    "USAGE": "спать [user]",
+    "USAGEE": "спать [user]",
+    "DORMIR_DESCRIÇÃO": "<@{{author}}> упал!",
+    "DORMIR_DESCRIÇÃO1": "спать с",
+    "DORMIR_DESCRIÇÃO2": "<@{{author}}>, я не спал..."
+}

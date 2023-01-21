@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "aplica el efecto de tono a la música.",
+    "USAGE": "pitch <value | off>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "tono <value | off>",
+    "EXAMPLE": "pitch off | pitch 6",
+    "PITCH": "Desactivación del efecto **pitch**. <:Skyeouvindomusica:823046654554144768> Eso puede tardar unos segundos...",
+    "PITCH1": "<:v_:855859391835799582> **pitch** se ha desactivado.",
+    "PITCH2": "La cantidad debe ser un número real.",
+    "PITCH3": "El tono debe estar entre 0 y 10.",
+    "PITCH4": "Ajuste de tono a",
+    "PITCH5": "Eso puede tardar unos segundos...",
+    "PITCH6": "Pitch ajustado a"
+}

@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Configura el complemento Autonick.",
+    "USAGE": "auto-nick",
+    "USAGEE": "auto-nick",
+    "EXAMPLE": "activar auto-nick\n💡**Ejemplo**: {{EXAMPLE}}",
+    "NICK": "enable",
+    "NICK1": "El complemento `Auto-nick` se ha activado correctamente.",
+    "NICK2": "disable",
+    "NICK3": "El complemento `Auto-nick` se ha desactivado correctamente.",
+    "NICK4": "nick",
+    "NICK5": "Por favor, introduzca un apodo.",
+    "NICK6": "¡Ups! El nick de usuario debe tener entre 2 y 32 caracteres.",
+    "NICK7": "El pre-nick del complemento `Auto-nick` se ha actualizado correctamente a `{{nick}}`."
+}

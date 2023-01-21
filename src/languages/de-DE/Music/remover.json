@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "ein Lied aus der Warteschlange entfernen.",
+    "USAGE": "entferne <position> [position]\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "entferne <position> [position]",
+    "EXAMPLE": "entferne 3 | entferne 3",
+    "REMOVER": "Du kannst einen Song nicht entfernen, der bereits abgespielt wird. Um das aktuell abgespielte Lied zu entfernen: `{{prefix}}skip`",
+    "REMOVER1": "Ich konnte diesen Song nicht finden.",
+    "REMOVER2": "**{{title}}** aus der Warteschlange entfernt.",
+    "REMOVER3": "Der Endwert muss größer als der ursprüngliche Wert sein.",
+    "REMOVER4": "Entfernt",
+    "REMOVER5": "Lieder in der Warteschlange.",
+    "REMOVER6": "Ungültige Nummer."
+}

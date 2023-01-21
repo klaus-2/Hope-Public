@@ -1,0 +1,4 @@
+{
+    "DESCRIPTION": "Borra una cierta cantidad de mensajes.",
+    "USAGE": "claro <Number> [member]"
+}

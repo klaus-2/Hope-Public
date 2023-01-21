@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Displays the previous tracks that have been played.",
+    "USAGE": "previous [pageNumber]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "previous [pageNumber]",
+    "EXAMPLE": "previous 2",
+    "ANTERIOR": "No previous tracks have been played",
+    "ANTERIOR1": "Previous Tracks",
+    "ANTERIOR2": "**Last Track**:",
+    "ANTERIOR3": "  Nothing",
+    "ANTERIOR4": "Page",
+    "ANTERIOR5": "song(s)",
+    "ANTERIOR6": "Page must be a number.",
+    "ANTERIOR7": "There are only",
+    "ANTERIOR8": "pages available."
+}

@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "显示播放列表",
+    "USAGE": "p-view <playlist name>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "p 视图 <playlist name>",
+    "EXAMPLE": "p 视图测试",
+    "P_VER": "您没有保存任何播放列表。",
+    "P_VER1": "可用的播放列表有：`{{playlists}}`。\n使用 `{{prefix}}p-view <playlist name>` 了解更多详细信息！",
+    "P_VER2": "Page",
+    "P_VER3": "歌曲",
+    "P_VER4": "总持续时间",
+    "P_VER5": "那不是你制作的播放列表。"
+}

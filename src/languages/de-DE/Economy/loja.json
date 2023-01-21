@@ -1,0 +1,19 @@
+{
+    "DESCRIPTION": "Überprüfen Sie, was Sie im Shop kaufen können.",
+    "USAGE": "shop\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "shop",
+    "EXAMPLE": "shop",
+    "LOJA": "Willkommen im Hope-Store",
+    "LOJA1": "Wähle dein Profil! <:Skyeawnnnt:823046654764515338>",
+    "LOJA2": "Sky-Shop",
+    "LOJA3": "Seite",
+    "LOJA4": "von",
+    "LOJA5": "Typ:",
+    "LOJA6": "Preis:",
+    "LOJA7": "skcoins",
+    "LOJA8": "Vorschau:",
+    "LOJA9": "viewitem",
+    "LOJA10": "Kaufen:",
+    "LOJA11": "kaufen",
+    "LOJA12": "[amount]"
+}

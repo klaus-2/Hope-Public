@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Krijg informatie over een gebruiker op Twitch.",
+    "USAGE": "twitch <user>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "twitch <user>",
+    "EXAMPLE": "twitch lijkwade",
+    "TWITCH": "Ja! Wacht even, ik verzamel wat informatie...",
+    "TWITCH1": "Biografie:",
+    "TWITCH2": "Deze gebruiker heeft geen biografie.",
+    "TWITCH3": "Totaal aantal weergaven",
+    "TWITCH4": "Volgers",
+    "TWITCH5": "naar",
+    "TWITCH6": "kijkers",
+    "TWITCH7": "Twitch-gebruiker niet gevonden."
+}

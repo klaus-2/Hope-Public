@@ -1,0 +1,21 @@
+{
+    "DESCRIPTION": "Exibe seus itens em seu inventario neste servidor.",
+    "USAGE": "inventario\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "inventario",
+    "EXAMPLE": "inventario",
+    "INV": "Oi {{author}} esse é o seu inventario!",
+    "INV1": "Abaixo estão todos itens que você possui atualmente no servidor {{guild}}.",
+    "INV2": "Loja da Hope",
+    "INV3": "Pagina",
+    "INV4": "de",
+    "INV5": "Tipo:",
+    "INV6": "Preço de venda:",
+    "INV7": "Ver:",
+    "INV8": "previa",
+    "INV9": "Usar:",
+    "INV10": "equipar",
+    "INV11": "Vender:",
+    "INV12": "vender",
+    "INV13": "[quantidade]",
+    "INV14": "seu inventário está vazio.\nAdquira itens na loja da Hope (**{{prefix}}loja**)"
+}

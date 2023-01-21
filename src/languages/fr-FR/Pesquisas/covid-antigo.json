@@ -1,0 +1,4 @@
+{
+    "DESCRIPTION": "obtenir des informations en temps réel sur le covid-19 dans un pays donné",
+    "USAGE": "covid <pais>"
+}

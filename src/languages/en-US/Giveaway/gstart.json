@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Start a Giveaway",
+    "USAGE": "g-start <time> <number of winners> <prize>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "g-start <time> <number of winners> <prize>",
+    "EXAMPLE": "g-start 2h30m 3 nitro classic",
+    "CRIAR_SORTEIO": "The prize must be less than 256 characters long.",
+    "CRIAR_SORTEIO1": "started a giveaway on the server:",
+    "CRIAR_SORTEIO2": "Oops, mentions are not prizes, try again.",
+    "giveaway": "<:Sorteio1:823004177064132658>\t**GIVEAWAY**\t<:Sorteio1:823004177064132658>",
+    "giveawayEnded": "<:Sorteio1:823004177064132658>\t**GIVEAWAY ENDED**\t<:Sorteio1:823004177064132658>",
+    "timeRemaining": "<:Tempo:823004079831384074> Time remaining: **{duration}**!",
+    "inviteToParticipate": "React with <:Sorteio:823004188292022303> to participate!",
+    "winMessage": "<:Confetti:823008227033350163> Congratulations, {winners}! Contact {this.hostedBy} to receive **{this.prize}**!\nGiveaway link: {messageURL}",
+    "noWinner": "Oh 😕 what a pity! The draw was cancelled because there were no valid entries.\nHmm.. let's try again?",
+    "hostedBy": "💳 Hosted by: {this.hostedBy}",
+    "winners": "🏆 {this.winnerCount} winner(s)",
+    "endedAt": "Ended at",
+    "CRIAR_SORTEIO3": "Prize must be less than 256 characters long.",
+    "FOOTER": "Sorteio"
+}

@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "verrouiller un canal pour une certaine durée.",
+    "USAGE": "lockdown <time>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "lockdown <time>",
+    "EXAMPLE": "verrou 1",
+    "CONFINAMENTO": "ATTENTION",
+    "CONFINAMENTO1": "Le canal",
+    "CONFINAMENTO2": "a été placé sous confinement pour",
+    "CONFINAMENTO3": "Le confinement du canal",
+    "CONFINAMENTO4": "a été abrogé."
+}

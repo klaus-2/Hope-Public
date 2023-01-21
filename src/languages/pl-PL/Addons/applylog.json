@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Ustaw dzienniki zastosowania gildii",
+    "USAGE": "applylog <enable #channel | disable>\n💡**Przykład**: {{EXAMPLE}}",
+    "USAGEE": "aplikuj <enable #channel | disable>",
+    "EXAMPLE": "applylog włącz #test"
+}

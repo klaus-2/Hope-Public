@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "得到这首歌的歌词。",
+    "USAGE": "歌词 [song]\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "歌词 [song]",
+    "EXAMPLE": "歌词主播-novo amor",
+    "LETRA": "我在搜索歌词，等一下 <: HopedetivE: 823259704443535450>",
+    "LETRA1": "找不到歌词"
+}

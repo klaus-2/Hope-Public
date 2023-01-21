@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "从我的世界服务器获取信息。",
+    "USAGE": "我的世界 <IP> [Port]\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "我的世界 <IP> [Port]",
+    "EXAMPLE": "mc eu.hypixel.net",
+    "MINECRAFT": "服务器信息",
+    "MINECRAFT1": "状态",
+    "MINECRAFT2": "线上",
+    "MINECRAFT3": "离线",
+    "MINECRAFT4": "在线玩家：",
+    "MINECRAFT5": "服务器 IP：",
+    "MINECRAFT6": "服务器版本：",
+    "MINECRAFT7": "我没找到这台服务器。"
+}

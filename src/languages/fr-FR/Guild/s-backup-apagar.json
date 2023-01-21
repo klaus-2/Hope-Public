@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Supprimer une sauvegarde du serveur.",
+    "USAGE": "s-backup-delete <backupID>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "s-backup-delete <backupID>",
+    "EXAMPLE": "s-backup-delete 2334",
+    "S_BACKUP_APAGAR": "Aah {{author}}, I'm sorry :(",
+    "S_BACKUP_APAGAR1": "Statut premium: :small_blue_diamond: **UTILISATEUR NORMAL** :small_blue_diamond:\nMalheureusement <:SkyeFoiMal:823046654374314044> vous ne pouvez pas utiliser cette commande car vous n'êtes pas un utilisateur premium sur **serveur de support Hope**.",
+    "S_BACKUP_APAGAR2": "💡 Premium est un avantage accordé aux utilisateurs qui boostent le serveur d'assistance de Hope. {{prefix}}Hope",
+    "S_BACKUP_APAGAR3": "Vous devez spécifier un ID de sauvegarde valide à supprimer",
+    "S_BACKUP_APAGAR4": "** SAUVEGARDE SUPPRIME**",
+    "S_BACKUP_APAGAR5": "** NOUVELLE BACKUP SUPPRIME**\n Auteur : {{author}}",
+    "S_BACKUP_APAGAR6": "Aucune sauvegarde trouvée pour {{backupID}}"
+}

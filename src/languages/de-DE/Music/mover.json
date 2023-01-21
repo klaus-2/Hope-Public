@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "verschieben Sie die angegebene Liednummer an die angegebene Position.",
+    "USAGE": "bewegen Sie <music position> <new position>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "verschiebe <music position> <new position>",
+    "EXAMPLE": "bewegen 4 8",
+    "MOVER": "Ein bereits abgespieltes Lied kann nicht verschoben werden. Um den aktuellen Titeltyp zu überspringen: `{{prefix}}skip`",
+    "MOVER1": "Song nicht gefunden.",
+    "MOVER2": "Yayy! Verschiebt **{{title}}** an den Anfang der Warteschlange.",
+    "MOVER3": "verschoben",
+    "MOVER4": "zur Position",
+    "MOVER5": "aus der Warteschlange.",
+    "MUSICA6": "Ungültige Nummer."
+}

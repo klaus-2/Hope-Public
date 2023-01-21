@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "een categorie commando's activeren of deactiveren.",
+    "USAGE": "commando's <category>\\n💡**Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "commando's <category>",
+    "EXAMPLE": "commando's muziek",
+    "COMANDOS": "Lijst van Hope commandocategorieën",
+    "COMANDOS1": "Beschikbare categorieën: `{{default}}`.",
+    "COMANDOS2": "Actieve categorieën: `{{active}}`.",
+    "COMANDOS3": "Yayy! Ik heb de opdrachtcategorie toegevoegd: **{{addons}}** op deze server.",
+    "COMANDOS4": "Yayy! Ik heb de opdrachtcategorie uitgeschakeld: **{{addons}}** op deze server.",
+    "COMANDOS5": "Het spijt me, maar dit is geen bestaande opdrachtcategorie."
+}

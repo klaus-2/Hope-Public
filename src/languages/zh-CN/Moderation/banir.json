@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "banir um usuario。",
+    "USAGE": "禁止 <user> [reason] [time]\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "禁止 <user> [reason] [time]",
+    "EXAMPLE": "禁令 Hope 在聊天 3d 中练习垃圾邮件 | 班 Hope 测试 | 班 Hope 测试 1D 10h 25m | 班 Hope 测试 30s",
+    "BAN": "被禁止！",
+    "BAN1": "<a:anibanned:823008288236765184> 您已被禁止使用 **{{guild}}**。",
+    "BAN2": "被禁止：",
+    "BAN3": "原因：",
+    "MISSING_USER": "我不能惩罚不在这台服务器上的人。"
+}

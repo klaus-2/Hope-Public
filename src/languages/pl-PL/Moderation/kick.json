@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "kopać użytkownika z serwera.",
+    "USAGE": "kopnięcie <user> [reason]\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "kopnąć <user> [reason]",
+    "EXAMPLE": "kopnąć Hope spamowania w czacie",
+    "KICK": "WYPĘDZIŁ!",
+    "KICK1": "Zostałeś wyrzucony z",
+    "KICK2": "Wykopany przez:",
+    "KICK3": "Powód:"
+}

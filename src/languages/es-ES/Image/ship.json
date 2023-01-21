@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "crear una imagen de barco con otro usuario.",
+    "USAGE": "ship <user1> [user2]\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "barco <user1> [user2]",
+    "EXAMPLE": "usuario de envío | usuario de envío <attachment>"
+}

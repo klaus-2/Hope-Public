@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Crea un comentario falso en PornHub.",
+    "USAGE": "pornhub <user> <message>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "pornhub <user> <message>",
+    "EXAMPLE": "usuario pornhub demasiado bueno"
+}

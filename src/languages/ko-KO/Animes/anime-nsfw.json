@@ -1,0 +1,19 @@
+{
+    "DESCRIPTION": "제공된 쿼리를 사용하여 임의의 nsfw 이미지를 생성합니다.이 명령에 사용 가능한 모든 범주를 반환하려면 `ansfw list`를 입력합니다.",
+    "USAGE": "애니메이션-nsfw <category>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "애니메이션-nsfw 리스트",
+    "EXAMPLE": "앤스프 리스트 | 앤스프 입으로 | 애니메이션 nsfw 클래식",
+    "ANSFW_AUTHOR": "랜덤 부루: NSFW",
+    "ANSFW_FIELD": "캐릭터",
+    "ANSFW_FIELD1": "저작권",
+    "ANSFW_FIELD2": "아티스트 (들)",
+    "ANSFW_FIELD3": "메타",
+    "ANSFW_FIELD4": "업로더",
+    "ANSFW_FIELD5": "태그",
+    "ANSFW_FIELD6": "태그, 무작위, 이미지, 헨타이, 전리품, 레딧",
+    "ANSFW_AUTHOR1": "애니메이션-NSFW 명령 범주입니다.",
+    "ANSFW_FIELD7": "죄송합니다.",
+    "ANSFW_FIELD8": "유효한 nsfw 카테고리가 아닙니다.입력",
+    "ANSFW_FIELD9": "를 사용하여 사용 가능한 카테고리를 확인합니다.",
+    "ANSFW_FIELD10": "이 명령을 올바르게 사용하려면 다음 예제를 따르십시오."
+}

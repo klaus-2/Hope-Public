@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Krijg informatie van een account in fortnite.",
+    "USAGE": "fortnite <kbm / gamepad / touch> <user>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "fortnite <kbm / gamepad / touch> <user>",
+    "EXAMPLE": "fortnite kbm ninja",
+    "FORTNITE": "<a:loading:823004555884232724> Houd vast... Ik ben aan het onderzoeken!",
+    "FORTNITE1": "Statistieken voor {{username}}",
+    "FORTNITE2": "Top plaatsingen",
+    "FORTNITE3": "Totaal aantal punten:",
+    "FORTNITE4": "Gespeelde wedstrijden:",
+    "FORTNITE5": "Overwinningen:",
+    "FORTNITE6": "Winrate:",
+    "FORTNITE7": "Doodt:",
+    "FORTNITE8": "AMA:"
+}

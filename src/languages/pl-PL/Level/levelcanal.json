@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Skonfiguruj automatyczne ładowanie Hope dla tego serwera.",
+    "USAGE": "levelchannel <channelID>\n💡 **Przykład: {{EXAMPLE}}",
+    "USAGEE": "levelchannel <channelID>",
+    "EXAMPLE": "levelchannel 7642332322",
+    "LVL_CANAL": "Ustawienia: `Level`",
+    "LVL_CANAL1": "<:v_:855859391835799582>Konfiguracja `level` została pomyślnie zaktualizowana.",
+    "LVL_CANAL2": "Ustawienie poziomu",
+    "LVL_CANAL3": "Zmieniono kanał z"
+}

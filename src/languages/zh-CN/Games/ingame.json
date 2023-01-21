@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "mostrar 信息来自 uma partida 没有英雄联盟。",
+    "USAGE": "游戏中 <nick>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "elo <nick>",
+    "EXAMPLE": "elo yassuo",
+    "INGAME": "<: 天空天文台:823223048060534833> 你好！稍等一下，我正在收集所有信息。",
+    "INGAME1": "找不到召唤师",
+    "INGAME2": "呐",
+    "INGAME3": "蓝队",
+    "INGAME4": "红队",
+    "INGAME5": "糟糕，我在这里进行了很好的搜索，发现 {{nom}} 当前不在匹配项中 😕"
+}

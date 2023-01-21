@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Ativa ou desativa o modo lento em um canal.",
+    "USAGE": "slowmode <tempo / desativar>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "slowmode <tempo / desativar>",
+    "EXAMPLE": "slowmode 20m | slowmode desativar"
+}

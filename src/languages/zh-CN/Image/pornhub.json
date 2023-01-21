@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "在 PornHub 中创建虚假评论。",
+    "USAGE": "pornhub <user> <message>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "pornhub <user> <message>",
+    "EXAMPLE": "pornhub 用户太好了"
+}

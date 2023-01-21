@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Poke a user.",
+    "USAGE": "poke <user>",
+    "USAGEE": "poke <user>",
+    "CUTUCAR_DESCRIÇÃO": "\\❌ **<@{{author}}>**, ฉันควรสะกิดใคร?",  
+    "CUTUCAR_DESCRIÇÃO1": "ฉันอยู่ที่นี่แล้ว! คุณต้องการอะไรไหม?",
+    "CUTUCAR_DESCRIÇÃO2": "\\❌ ฉันจะไม่ทําอย่างนั้น **<@{{author}}>**!",   
+    "CUTUCAR_DESCRIÇÃO3": "เขยิบ"
+}

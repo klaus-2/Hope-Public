@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "現在のサーバーのすべてのユーザーからロールを削除します。",
+    "USAGE": "removeroleall <role>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "removeroleall <role>",
+    "EXAMPLE": "removeoleall @role | ロールを追加すべて 43656543212",
+    "ROLE": "ボットに**{{role}}** を正常に追加しました",
+    "ROLE1": "**{{role}}** をメンバーに正常に追加しました",
+    "ROLE2": "全員から **{{role}}** を正常に削除しました"
+}

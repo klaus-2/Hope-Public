@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Remove the warnings from a user.",
+    "USAGE": "clear-warnings <user>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "clear-warnings <user>",
+    "EXAMPLE": "clear-warnings @Hope",
+    "CLEARED_WARNINGS": "คําเตือนสําหรับ> <@{{user}} ถูกล้างแล้ว"
+}

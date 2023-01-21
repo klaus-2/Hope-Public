@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "pokaż rangę zaproszenia serwera.",
+    "USAGE": "rankinvites\n💡 **Przykład: {{EXAMPLE}}",
+    "USAGEE": "rankinwitów",
+    "EXAMPLE": "rankinwitów",
+    "ERANKC_DESC": "<:SkyeComvergonha:823248929508032513> Ohhhh, wydaje się, że nie mam uprawnień do oglądania zaproszeń na tym serwerze... Powiadom administrację i spróbuj ponownie.",
+    "ERANKC_DESC1": "zaproszenia",
+    "ERANKC_DESC2": "🏆 Ranking zaproszeń 🏆"
+}

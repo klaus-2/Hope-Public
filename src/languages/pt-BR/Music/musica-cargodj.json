@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Configure o cargo de DJ do addon HopeDJ para este servidor.",
+    "USAGE": "musica-cargodj <ID do novo cargo>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "musica-cargodj <ID do novo cargo>",
+    "EXAMPLE": "musica-cargoj 8390082271902",
+    "MUSICA_CARGODJ": "Configurações: `Musica`",
+    "MUSICA_CARGODJ1": "<:v_:855859391835799582>O `DJ cargo` foi atualizado com sucesso.",
+    "MUSICA_CARGODJ2": "DJ cargo",
+    "MUSICA_CARGODJ3": "alterado de"
+}

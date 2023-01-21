@@ -1,0 +1,10 @@
+{
+    "MESSAGE_DELETE_BULK": "ข้อความหลายข้อความถูกลบใน",
+    "MESSAGE_DELETE_BULK1": "รหัสช่องสัญญาณ:",
+    "MESSAGE_DELETE_BULK2": "[เหตุการณ์ — ข้อความที่ถูกลบ]",
+    "MESSAGE_DELETE_BULK3": "จํานวนข้อความ:",
+    "MESSAGE_DELETE_BULK4": "ข้อความที่ถูกลบ:",
+    "MESSAGE_DELETE_BULK5": "เห็น",
+    "MESSAGE_DELETE_BULK6": "บนเซิร์ฟเวอร์",
+    "MESSAGE_DELETE_BULK7": "ลบเอกสารที่ถูกลบ.txt"
+}

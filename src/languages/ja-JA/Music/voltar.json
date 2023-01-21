@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "キューの前の行を再生します。",
+    "USAGE": "back\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "戻ります",
+    "EXAMPLE": "戻る | 前へ | 前へ"
+}

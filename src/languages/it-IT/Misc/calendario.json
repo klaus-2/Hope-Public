@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "mostra un piccolo calendario.",
+    "USAGE": "calendario\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "calendario",
+    "EXAMPLE": "calendario",
+    "ECALEN_DESC": ":calendario: <unk> CALENDARIO",
+    "ECALEN_DESC1": "Data Di Oggi:",
+    "ECALEN_DESC2": "cioè,",
+    "ECALEN_DESC3": "Giorno della settimana:",
+    "ECALEN_DESC4": "Pianificazione:",
+    "ECALEN_DESC5": "Data di 10 giorni fa:",
+    "ECALEN_DESC6": "Dieci giorni da ora:"
+}

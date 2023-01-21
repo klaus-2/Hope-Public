@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "¡Crea una respuesta automática que se activa sin un prefijo!",
+    "USAGE": "autoresponse <command> <response>\n💡**Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "autoresponse <command> <response>",
+    "EXAMPLE": "autoresponse hi Hello!",
+    "AUTO_RESPOSTA": "<:cancel:855859391709577266> ¡Tu nombre de autoresponse es superior a 30 caracteres!",
+    "AUTO_RESPOSTA1": "<:cancel:855859391709577266> ¡Tu contenido de autoresponse tiene más de 2000 caracteres!",
+    "AUTO_RESPOSTA2": "<:cancel:855859391709577266> Auto responder límite alcanzado **(10)**\n\n[Actualiza Premium aquí para comandos ilimitados]({{config}})",
+    "AUTO_RESPOSTA3": "Auto-Respuesta añadida:",
+    "AUTO_RESPOSTA4": "Eliminar la siguiente respuesta automática usando",
+    "AUTO_RESPOSTA5": "borrado <autoresponse-name>",
+    "AUTO_RESPOSTA6": "¡El siguiente autoresponse ya es un comando existente!"
+}

@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "wyświetl czas światowy.",
+    "USAGE": "worldtime\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "światoterminowy",
+    "EXAMPLE": "światoterminowy",
+    "EFUSO_DESC": "Zegar światowy - strefy czasowe"
+}

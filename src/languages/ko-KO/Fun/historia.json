@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "오늘의 역사적 사실을 얻을 수 있습니다.",
+    "USAGE": "히스토리\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "역사",
+    "EXAMPLE": "역사",
+    "FHIST_DESC": "오늘의 역사적 사실 - 출처: 위키백과",
+    "FHIST_DESC1": "죄송합니다. 현재 API가 작동하지 않습니다!",
+    "FHIST_DESC2": "연도:"
+}

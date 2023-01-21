@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Check all the members of a certain position! or maybe all of them!",
+    "USAGE": "members < all | role name | @role >\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "members < all | role name | @role >",
+    "EXAMPLE": "members @role | members all | members role name",
+    "MEMBROS": "all",
+	"MEMBROS1": "รายการ",
+	"MEMBROS2": "ไม่มีสมาชิกที่มี",
+	"MEMBROS3": "มีบทบาท!"
+}

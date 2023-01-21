@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Globale Sperrliste aktualisieren",
+    "USAGE": "blacklist <add / remove> <userID> [reason]",
+    "MISSING_USER": "Falsche Benutzer-ID.",
+    "AUTHOR": "{{TAG}} wurde weltweit gesperrt",
+    "DESC": "**Grund:** {{REASON}}",
+    "ALRDY_BAN": "Benutzer: {{ID}} ist bereits gesperrt.",
+    "SUCC_UNBAN": "Benutzer erfolgreich entbannt."
+}

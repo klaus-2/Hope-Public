@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "configurar o auto cargo da Hope para este servidor.",
+    "USAGE": "mod-roles <newRoleID>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "mod-roles <newRoleID>",
+    "EXAMPLE": "mod-roles 865493021322177",
+    "MOD_CARGOS": "การตั้งค่า: `Servidor`",
+    "MOD_CARGOS1": "<:v_:855859391835799582>O `Cargo de moderação` ได้รับการปรับปรุงเสร็จเรียบร้อยแล้ว",
+    "MOD_CARGOS2": "Cargo de moderação",
+    "MOD_CARGOS3": "เปลี่ยนจาก"
+}

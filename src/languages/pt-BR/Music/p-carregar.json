@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Carregar uma playlist.",
+    "USAGE": "p-carregar <nome da playlist>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "p-carregar <nome da playlist>",
+    "EXAMPLE": "p-carregar Teste",
+    "P_CARREGAR": "Carregando a playlist (Isto pode demorar alguns segundos)...",
+    "P_CARREGAR1": "Na fila",
+    "P_CARREGAR2": "músicas** de",
+    "P_CARREGAR3": "Nenhuma playlist encontrada"
+}

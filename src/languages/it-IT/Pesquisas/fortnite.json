@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Ricevi informazioni da un account a fortnite.",
+    "USAGE": "fortnite <kbm / gamepad / touch> <user>\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "fortnite <kbm / gamepad / touch> <user>",
+    "EXAMPLE": "fortnite kbm ninja",
+    "FORTNITE": "<a:loading:823004555884232724> Attenersi... Sto cercando!",
+    "FORTNITE1": "Statistiche per {{username}}",
+    "FORTNITE2": "Posizioni superiori",
+    "FORTNITE3": "Totale punti:",
+    "FORTNITE4": "Partite giocate:",
+    "FORTNITE5": "Vittorie:",
+    "FORTNITE6": "Winrate:",
+    "FORTNITE7": "Uccisioni:",
+    "FORTNITE8": "AMA:"
+}

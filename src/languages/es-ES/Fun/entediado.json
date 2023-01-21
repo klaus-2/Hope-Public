@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Te ofrece una sugerencia para deshacerte del aburrimiento.",
+    "USAGE": "aburrido\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "aburrido",
+    "EXAMPLE": "aburrido",
+    "FTEDIO_DESC": "./resources/other/bored-en.json",
+    "FTEDIO_DESC1": "¿Te aburres?"
+}

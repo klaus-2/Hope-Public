@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Schakelt de Anti Vervuiling modus in of uit.",
+    "USAGE": "anti-vervuiling <enable | disable>\n💡**Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "anti-vervuiling <enable | disable>",
+    "EXAMPLE": "anti-vervuiling inschakelen",
+    "ANTI": "De `Anti-Pollution` modus is succesvol geactiveerd!",
+    "ANTI1": "De `Anti-Pollution` modus is met succes gedeactiveerd!"
+}

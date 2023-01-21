@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "erhalten Sie ein motivierendes Angebot, um Ihren Tag zu verbessern.",
+    "USAGE": "motivation\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "motivation",
+    "EXAMPLE": "motivation",
+    "FMOT_DESC": "./resources/quotes/motivational-en.json",
+    "FMOT_DESC1": "Motivationsangebot"
+}

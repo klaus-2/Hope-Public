@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "要求施舍并获得少量资金。",
+    "USAGE": "alms\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "施舍",
+    "EXAMPLE": "施舍",
+    "ESMOLA": "<: 取消:855859391709577266> 你最近有没有乞求过",
+    "ESMOLA1": "再来乞求",
+    "ESMOLA2": "和",
+    "ESMOLA3": "<: v_: 855859391835799582> 你乞求并收到",
+    "ESMOLA4": "skcoins"
+}

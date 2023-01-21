@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Equipa um item em seu perfil.",
+    "USAGE": "equipar <id do item>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "equipar <id do item>",
+    "EXAMPLE": "equipar 22",
+    "EQUIPAR": "você não possui este item no seu inventário!",
+    "EQUIPAR1": "peço desculpas, mas este item não pode mais ser usado!",
+    "EQUIPAR2": "você equipou",
+    "EQUIPAR3": "com sucesso!"
+}

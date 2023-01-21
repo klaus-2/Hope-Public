@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Usuń rolę od wszystkich użytkowników bieżącego serwera.",
+    "USAGE": "removeroleall <role>\n💡 **Przykład: {{EXAMPLE}}",
+    "USAGEE": "removeroleall <role>",
+    "EXAMPLE": "removeroleall @role | addroleall 43656543212",
+    "ROLE": "Pomyślnie dodano **{{role}}** do Bot",
+    "ROLE1": "Pomyślnie dodano **{{role}}** do członka",
+    "ROLE2": "Pomyślnie usunięto **{{role}}** ze wszystkich"
+}

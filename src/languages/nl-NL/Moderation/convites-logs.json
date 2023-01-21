@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Toont uitnodigingsrecords van een gebruiker.",
+    "USAGE": "invite-tracker <user>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "invite-tracker <user>",
+    "EXAMPLE": "invite-tracker @User",
+    "CONVITE": "Bots kunnen iemand niet uitnodigen, maar het wordt niet meegeteld.",
+    "CONVITE1": "ik heb niemand uitgenodigd voor de server!",
+    "CONVITE2": "Tracker uitnodigen",
+    "CONVITE3": "Informatie over uitnodigingen van",
+    "CONVITE4": "**Uitnodigde personen: **",
+    "CONVITE5": "Uitnodigingscodes\n\n"
+}

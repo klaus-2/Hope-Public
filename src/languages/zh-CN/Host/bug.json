@@ -1,0 +1,22 @@
+{
+    "DESCRIPTION": "向我的开发者报告错误。",
+    "USAGE": "错误 <message>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "错误 <message>",
+    "EXAMPLE": "错误我正在尝试使用测试命令，但它不起作用。",
+    "HBUG_DESC": "您必须等待 5 分钟才能再次使用此命令！",
+    "HBUG_DESC1": "姓名：",
+    "HBUG_DESC2": "ID:",
+    "HBUG_DESC3": "账户创建于",
+    "HBUG_DESC4": "消息：",
+    "HBUG_DESC5": "请使用下面的模板回复",
+    "HBUG_DESC6": "> 私下回答",
+    "HBUG_DESC7": "  u.send (`** Re: 反馈 /Bug **\n此处留言 `)`",
+    "HBUG_DESC8": "> 在频道上回复",
+    "HBUG_DESC9": "回复：反馈 /Bug **\n在这里留言",
+    "HBUG_DESC10": "从服务器发送",
+    "HBUG_DESC11": "在",
+    "HBUG_DESC12": "出现了问题，请在我的支持服务器上报告 ```{{prefix}}support```",
+    "HBUG_DESC13": "嘿 {{author}}，一切都很好！",
+    "HBUG_DESC14": "我的开发者已收到您的报告，他会尽快回复，请耐心等待。",
+    "HBUG_DESC15": "如果你滥用这个命令，你将无法使用这个命令！\n哦，如果你有问题，很抱歉给你带来不便。<: HopeAMORS: 82322304829292928>"
+}

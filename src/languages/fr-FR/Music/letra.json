@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "obtenez les paroles de la chanson.",
+    "USAGE": "lyrics [song]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "paroles [song]",
+    "EXAMPLE": "lyrics anchor - novo amor",
+    "LETRA": "Je recherche les paroles, maintenez sur <:SkyeDetetive:823259704443535450>",
+    "LETRA1": "Aucune parole trouvée"
+}

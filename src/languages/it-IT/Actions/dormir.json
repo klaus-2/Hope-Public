@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Mette l'utente a dormire.",
+    "USAGE": "sospensione [user]",
+    "USAGEE": "sospensione [user]",
+    "DORMIR_DESCRIÇÃO": "<@{{author}}> si è addormentato!",
+    "DORMIR_DESCRIÇÃO1": "addormentato con",
+    "DORMIR_DESCRIÇÃO2": "<@{{author}}>, non sono sonno...."
+}

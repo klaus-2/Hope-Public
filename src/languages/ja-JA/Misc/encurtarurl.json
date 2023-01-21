@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "送信する URL を短くします。",
+    "USAGE": "shorturl <link>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "ショートトゥール <link>",
+    "EXAMPLE": "shorturl https://www.google.com",
+    "EURL_DESC": "こんにちは、",
+    "EURL_DESC1": "の短縮版をリクエストしました",
+    "EURL_DESC2": "ここにあります:"
+}

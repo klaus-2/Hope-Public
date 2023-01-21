@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "現在再生中の曲を表示する。",
+    "USAGE": "np\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "NP",
+    "EXAMPLE": "NP",
+    "MUSICA": "🔴 ライブ",
+    "MUSICA1": "» 再生中:",
+    "MUSICA2": "アクセスするためのリンク",
+    "MUSICA3": "ここをクリック",
+    "MUSICA4": "リクエスト者",
+    "MUSICA5": "期間"
+}

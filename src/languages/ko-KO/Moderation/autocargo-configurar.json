@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Hope에서 이 서버까지 자동 화물을 구성하십시오.",
+    "USAGE": "자동 롤 설정 <roleID>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "자동 역할 설정 <roleID>",
+    "EXAMPLE": "자동 롤 설정 8973263628081",
+    "AC_CONFIG": "설정: `Server`",
+    "AC_CONFIG1": "<:v_:855859391835799582>O '자동 역할'이 성공적으로 업데이트되었습니다.",
+    "AC_CONFIG2": "자동 역할",
+    "AC_CONFIG3": "에서 변경됨"
+}

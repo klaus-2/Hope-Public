@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Wyświetla rekordy zaproszeń użytkownika.",
+    "USAGE": "invite-tracker <user>\n💡 **Przykład: {{EXAMPLE}}",
+    "USAGEE": "invite-tracker <user>",
+    "EXAMPLE": "zapraszanie-tracker @User",
+    "CONVITE": "Boty nie mogą kogoś zaprosić, ale to się nie liczy.",
+    "CONVITE1": "nikogo nie zaprosiła na serwer!",
+    "CONVITE2": "Zaproś moduł śledzenia",
+    "CONVITE3": "Informacje o zaproszeniach",
+    "CONVITE4": "**Zaproszone osoby: **",
+    "CONVITE5": "Kody zaproszeń\n\n"
+}

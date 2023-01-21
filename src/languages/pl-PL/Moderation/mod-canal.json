@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "configurar o auto cargo da Hope para este servidor.",
+    "USAGE": "mod-channel <channelID>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "mod-channel <channelID>",
+    "EXAMPLE": "kanał mod-8654930377",
+    "MOD_CANAL": "Ustawienia: `Server`",
+    "MOD_CANAL1": "<:v_:855859391835799582>Konfiguracja `level` została pomyślnie zaktualizowana.",
+    "MOD_CANAL2": "Ustawienie poziomu",
+    "MOD_CANAL3": "Zmieniono kanał z"
+}

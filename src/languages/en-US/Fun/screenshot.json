@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Get a screenshot of a website.",
+    "USAGE": "screenshot <url>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "screenshot <url>",
+    "EXAMPLE": "screenshot https://www.google.com/",
+    "FSS_DESC": "<a:loading:823004555884232724> Taking a screenshot of the site.",
+	"FSS_DESC1": "Missing data",
+    "INVALID_URL": "This is not a valid URL.",
+	"BLACKLIST_WEBSITE": "You can not view this websites in a non-NSFW channel.",
+    "SS": "Here is a screenshot from requested [URL]({{urls}})",
+    "SS1": "Please specify the url"
+}

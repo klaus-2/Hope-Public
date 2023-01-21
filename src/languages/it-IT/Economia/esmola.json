@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Chiedi elemosina e ricevi una piccola quantità di denaro.",
+    "USAGE": "alms\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "elemosina",
+    "EXAMPLE": "elemosina",
+    "ESMOLA": "<:cancel:855859391709577266> Hai mai pregato di recente",
+    "ESMOLA1": "Iniziare di nuovo in",
+    "ESMOLA2": "e",
+    "ESMOLA3": "<:v_:855859391835799582> Hai pregato e ricevuto",
+    "ESMOLA4": "skcoins"
+}

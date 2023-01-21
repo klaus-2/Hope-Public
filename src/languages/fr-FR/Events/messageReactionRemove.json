@@ -1,0 +1,7 @@
+{
+    "MESSAGE_REACTION_REMOVE": "a supprimé la réaction",
+    "MESSAGE_REACTION_REMOVE1": "de ce message",
+    "MESSAGE_REACTION_REMOVE2": "Identifiant de l'utilisateur:",
+    "MESSAGE_REACTION_REMOVE3": "ID du message :",
+    "MESSAGE_REACTION_REMOVE4": "[ÉVÉNEMENT — UNE REACTION A ÉTÉ SUPPRIMÉE]"
+}

@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "om een historisch feit van vandaag te verkrijgen.",
+    "USAGE": "geschiedenis\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "geschiedenis",
+    "EXAMPLE": "geschiedenis",
+    "FHIST_DESC": "Historisch feit vandaag - Bron: wikipedia.org",
+    "FHIST_DESC1": "Sorry, de API werkt momenteel niet!",
+    "FHIST_DESC2": "Jaar:"
+}

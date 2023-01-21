@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Faça cócegas no usuário mencionado.",
+    "USAGE": "cocegas [user]\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "cocegas [user]",
+    "EXAMPLE": "beijar @Hope",
+    "COCEGAS_DESCRIÇÃO": "Pare <@{{author}}>! Faz cócegas~",  
+    "COCEGAS_DESCRIÇÃO1": "\\❌ Divirta-se fazendo cócegas em si mesmo **<@{{author}}>**!",
+    "COCEGAS_DESCRIÇÃO2": "fez cócegas em"
+}

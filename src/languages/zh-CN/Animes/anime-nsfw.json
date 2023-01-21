@@ -1,0 +1,19 @@
+{
+    "DESCRIPTION": "使用提供的查询生成随机的 nsfw 映像。键入 `ansfw list` 以返回此命令的所有可用类别。",
+    "USAGE": "动漫-nsfw <category>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "动漫 nsfw 列表",
+    "EXAMPLE": "ansfw 列表 | ansfw 口交 | 动漫-nsfw 经典",
+    "ANSFW_AUTHOR": "随机 Booru：NSFW",
+    "ANSFW_FIELD": "角色",
+    "ANSFW_FIELD1": "版权",
+    "ANSFW_FIELD2": "艺术家",
+    "ANSFW_FIELD3": "Meta",
+    "ANSFW_FIELD4": "上传者",
+    "ANSFW_FIELD5": "標籤",
+    "ANSFW_FIELD6": "标签，随机，图片，无尽的，战利品，reddit",
+    "ANSFW_AUTHOR1": "Anime-NSFW 命令类别。",
+    "ANSFW_FIELD7": "对不起，",
+    "ANSFW_FIELD8": "它不是有效的 nsfw 类别。输入",
+    "ANSFW_FIELD9": "以查看可用的类别。",
+    "ANSFW_FIELD10": "要正确使用此命令，请按照以下示例操作："
+}

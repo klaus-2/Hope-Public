@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "从 Hope 那里得到一些随机的建议。",
+    "USAGE": "建议\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "建议",
+    "EXAMPLE": "建议",
+    "FCONSELHO_DESC": "./resources/other/conselhos-en.json",
+    "FCONSELHO": "来自 {{bot}}的建议"
+}

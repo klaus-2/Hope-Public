@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "imposta il prefisso di Hope per questo server.",
+    "USAGE": "prefisso <new prefix>\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "prefisso <new prefix>",
+    "EXAMPLE": "prefisso !",
+    "PREFIXO": "<:SkyeOla1:823223308744130580> Whoa! Purtroppo il prefisso non può essere più lungo di 3 caratteri.",
+    "PREFIXO1": "Impostazioni: `Server`",
+    "PREFIXO2": "<:v_:855859391835799582> Il `prefisso` è stato aggiornato correttamente.",
+    "PREFIXO3": "Prefisso",
+    "PREFIXO4": "Cambiato da"
+}

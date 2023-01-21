@@ -1,0 +1,8 @@
+{
+    "CHANNEL_CREATE": "텍스트 채널",
+    "CHANNEL_CREATE1": "보이스 채널",
+    "CHANNEL_CREATE2": "카테고리",
+    "CHANNEL_CREATE3": "신규",
+    "CHANNEL_CREATE4": "생성:",
+    "CHANNEL_CREATE5": "[이벤트 — 채널 생성됨]"
+}

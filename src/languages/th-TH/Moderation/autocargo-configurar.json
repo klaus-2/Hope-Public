@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "configurar o auto cargo da Hope para este servidor.",
+    "USAGE": "autorole-setup <roleID>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "autorole-setup <roleID>",
+    "EXAMPLE": "autorole-setup 8973263628081",
+    "AC_CONFIG": "การตั้งค่า: `Server`",
+    "AC_CONFIG1": "<:v_:855859391835799582>O `auto role` ได้รับการปรับปรุงเสร็จเรียบร้อยแล้ว",
+    "AC_CONFIG2": "Auto role",
+    "AC_CONFIG3": "เปลี่ยนจาก"
+}

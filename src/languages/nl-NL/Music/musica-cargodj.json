@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "configurar of auto cargo da Hope para este servidor.",
+    "USAGE": "musica-cargodj <ID do novo cargo>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "verplaatsen <music position> <new position>",
+    "EXAMPLE": "verplaatsen 4 8",
+    "MUSICA_CARGODJ": "Instellingen: `Music`",
+    "MUSICA_CARGODJ1": "<:v_:855859391835799582>O `DJ role` is succesvol bijgewerkt.",
+    "MUSICA_CARGODJ2": "DJ-rol",
+    "MUSICA_CARGODJ3": "veranderd van"
+}

@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Hinterlassen Sie Feedback auf Hopes Server über sie.",
+    "USAGE": "Feedback <stars> <comment>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "Feedback <stars> <comment>",
+    "EXAMPLE": "feedback 5 Hope ist ein ausgezeichneter Bot, der alle Anforderungen auf meinem Server erfüllt",
+    "EFEED_DESC": "Neues Feedback erhalten",
+    "EFEED_DESC1": "Sterne:",
+    "EFEED_DESC2": "Kommentar:",
+    "EFEED_DESC3": "Eingereicht von",
+    "EFEED_DESC4": "Hinterlassen Sie Hope Feedback mit dem Befehl {{prefix}}Feedback",
+    "EFEED_DESC5": "<:SkyeOi:823047534577975366> Dein Feedback wurde erfolgreich an Hopes Support-Server gesendet!"
+}

@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Fornisce una lista di risposte automatiche su un server",
+    "USAGE": "autoresponse-list\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "autoresponse-list",
+    "EXAMPLE": "autoresponse-list",
+    "LISTA_RESPOSTA": "<:cancel:855859391709577266> La gilda attuale non ha comandi personalizzati!",
+    "LISTA_RESPOSTA1": "Comandi Personalizzati",
+    "LISTA_RESPOSTA2": "La gilda attuale non ha comandi personalizzati!"
+}

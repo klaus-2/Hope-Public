@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "등급/레벨을 표시합니다.",
+    "USAGE": "경험치 [user]\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "경험치 [user]",
+    "EXAMPLE": "특급 @Hope",
+    "NO_MESSAGES": "아직 순위가 매겨지지 않았습니다.먼저 메시지를 보낸 다음 다시 시도하십시오."
+}

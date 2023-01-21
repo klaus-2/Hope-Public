@@ -1,0 +1,19 @@
+{
+    "DESCRIPTION": "Modifier le statut d'une suggestion.",
+    "USAGE": "sugestões <AGUARDANDO | APROVADO | NEGADO>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "ajoute-suggestions",
+    "EXAMPLE": "ajoute-suggestions",
+    "SUGESTÕES": "Oups ! {{status}} est un **Statut inconnu**\nVeuillez utiliser l'une des options suivantes : `{{var}}`.",
+    "SUGESTÕES1": "Veuillez utiliser",
+    "SUGESTÕES2": "Une erreur est survenue, veuillez le signaler dans {{prefix}}bogue",
+    "SUGESTÕES3": "Le canal de suggestion n'existe plus",
+    "SUGESTÕES4": "Ce message n'existe plus",
+    "SUGESTÕES5": "suggérés",
+    "SUGESTÕES6": "Voulez-vous suggérer quelque chose ? Tapez simplement dans ce salon",
+    "SUGESTÕES7": "Statut",
+    "SUGESTÕES8": "Commentaire de l'administration",
+    "SUGESTÕES9": "Le statut de suggestion a été mis à jour avec succès !",
+    "SUGESTÕES10": "<:Informao:823004619805294643> En attente de commentaires de la communauté, veuillez voter!",
+    "SUGESTÕES11": "<:v_:855859391835799582> Suggestion acceptée! Attendez bientôt.",
+    "SUGESTÕES12": "<:cancel:855859391709577266> Merci pour cette suggestion, mais elle ne nous intéresse pas pour le moment."
+}

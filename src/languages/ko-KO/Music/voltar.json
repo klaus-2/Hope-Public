@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "대기열의 이전 줄을 재생합니다.",
+    "USAGE": "뒤로\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "뒤로",
+    "EXAMPLE": "뒤로 | 이전 | 이전"
+}

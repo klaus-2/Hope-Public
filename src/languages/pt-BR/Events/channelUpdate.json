@@ -1,0 +1,20 @@
+{
+    "CHANNEL_UPDATE": "A Categoria",
+    "CHANNEL_UPDATE1": "O Canal",
+    "CHANNEL_UPDATE2": "teve seu nome alterado",
+    "CHANNEL_UPDATE3": "[EVENTO — NOME ALTERADO]",
+    "CHANNEL_UPDATE4": "Antigo nome:",
+    "CHANNEL_UPDATE5": "Novo nome:",
+    "CHANNEL_UPDATE6": "teve seu tópico alterado",
+    "CHANNEL_UPDATE7": "[EVENTO — TÓPICO ALTERADO]",
+    "CHANNEL_UPDATE8": "De:",
+    "CHANNEL_UPDATE9": "Para:",
+    "CHANNEL_UPDATE10": "*tópico vazio*",
+    "CHANNEL_UPDATE11": "teve suas permissões alteradas**\n*nota:* veja a [documentação](https://discordapp.com/developers/docs/topics/permissions) para saber o que os números significam",
+    "CHANNEL_UPDATE12": "[EVENTO — TÓPICO ALTERADO]",
+    "CHANNEL_UPDATE13": "Perms permitidos:",
+    "CHANNEL_UPDATE14": "Perms negados:",
+    "CHANNEL_UPDATE15": "A substituição foi excluída",
+    "CHANNEL_UPDATE16": "[EVENTO — REGIÃO ALTERADA]",
+    "CHANNEL_UPDATE17": "teve sua região alterada"
+}

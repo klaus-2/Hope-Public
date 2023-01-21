@@ -1,0 +1,19 @@
+{
+    "DESCRIPTION": "Alteración del estatus de uma sugestão.",
+    "USAGE": "sugestões <AGUARDANDO | APROVADO | NEGADO>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "sugerencias de set",
+    "EXAMPLE": "sugerencias de set",
+    "SUGESTÕES": "¡Vaya! {{status}} es un **Estado desconocido**\nUtilice una de las siguientes opciones: `{{var}}`.",
+    "SUGESTÕES1": "Por favor usa",
+    "SUGESTÕES2": "Se ha producido un error, por favor informe de esto en {{prefix}}bug",
+    "SUGESTÕES3": "El canal de sugerencias ya no existe",
+    "SUGESTÕES4": "Este mensaje ya no existe",
+    "SUGESTÕES5": "sugirió",
+    "SUGESTÕES6": "¿Te gustaría sugerir algo? Simplemente escribe este canal",
+    "SUGESTÕES7": "Estado",
+    "SUGESTÕES8": "Comentario de Administración",
+    "SUGESTÕES9": "El estado de la sugerencia se ha actualizado correctamente.",
+    "SUGESTÕES10": "<:Informao:823004619805294643> ¡Esperando comentarios de la comunidad, voten!",
+    "SUGESTÕES11": "<:v_:855859391835799582> ¡Sugerencia aceptada! Esperamos que llegue pronto.",
+    "SUGESTÕES12": "<:cancel:855859391709577266> Gracias por la sugerencia, pero no nos interesa en este momento."
+}

@@ -1,0 +1,8 @@
+{
+    "CHANNEL_CREATE": "Canal de texto",
+    "CHANNEL_CREATE1": "Canal de voz",
+    "CHANNEL_CREATE2": "Categoría",
+    "CHANNEL_CREATE3": "Nuevo",
+    "CHANNEL_CREATE4": "creado:",
+    "CHANNEL_CREATE5": "[EVENTO — CANAL CREADO]"
+}

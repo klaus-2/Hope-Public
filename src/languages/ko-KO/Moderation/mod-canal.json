@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Hope에서 이 서버까지 자동 화물을 구성하십시오.",
+    "USAGE": "모드 채널 <channelID>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "모드 채널 <channelID>",
+    "EXAMPLE": "모드 채널 8654930377",
+    "MOD_CANAL": "설정: `Server`",
+    "MOD_CANAL1": "<:V_:855859391835799582>`레벨'의 구성이 성공적으로 업데이트되었습니다.",
+    "MOD_CANAL2": "레벨 설정",
+    "MOD_CANAL3": "채널이 변경됨"
+}

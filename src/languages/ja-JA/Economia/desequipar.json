@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "特定のアイテムを装備解除する。",
+    "USAGE": "unequip <type>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "装備解除 <type>",
+    "EXAMPLE": "unequip planodefundo",
+    "DESEQUIPAR": "次のいずれかのオプションを選択してください。",
+    "DESEQUIPAR1": "装備が解除されてるんだな",
+    "DESEQUIPAR2": "成功しました！"
+}

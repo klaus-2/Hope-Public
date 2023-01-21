@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Aplica a ordem aleatória na lista de reprodução.",
+    "USAGE": "oa\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "oa",
+    "EXAMPLE": "oa",
+    "OA": "<:v_:855859391835799582> Lista de reprodução foi embaralhada com sucesso."
+}

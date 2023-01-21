@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "repetir a música ou fila.",
+    "USAGE": "loop [queue/song]\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "loop [wachtrij/nummer]",
+    "EXAMPLE": "repeat queue | loop song | loop",
+    "REPETIR": "lied",
+    "ENABLED": "ingeschakeld",
+    "DISABLED": "uitgeschakeld",
+    "REPETIR3": "{{trackRepeat}} track herhalen.",
+    "REPETIR4": "wachtrij",
+    "REPETIR7": "{{queueRepeat}} wachtrij herhalen."
+}

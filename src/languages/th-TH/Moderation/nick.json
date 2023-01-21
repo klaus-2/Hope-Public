@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "change a user's nickname.",
+    "USAGE": "nick <user> <newNick>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "nick <user> <newNick>",
+    "EXAMPLE": "nick @Hope @Hope <3",
+    "ENTER_NICKNAME": "โปรดใส่ชื่อเล่น",
+    "LONG_NICKNAME": "ชื่อเล่นต้องสั้นกว่า 32 อักขระ"
+}

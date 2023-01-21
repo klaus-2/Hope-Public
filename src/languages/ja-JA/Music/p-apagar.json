@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "プレイリストを削除する",
+    "USAGE": "p-delete <playlist name>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "p 削除 <playlist name>",
+    "EXAMPLE": "p 削除テスト",
+    "P_DEL": "** {{name}} ** という名前のプレイリストが見つかりませんでした。",
+    "P_DEL1": "正常に削除されました"
+}

@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Gibt eine Liste der automatischen Antworten auf einem Server",
+    "USAGE": "Autoresponse-Liste\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "Autoresponse-Liste",
+    "EXAMPLE": "Autoresponse-Liste",
+    "LISTA_RESPOSTA": "<:cancel:855859391709577266> Die aktuelle Gilde hat keine eigenen Befehle!",
+    "LISTA_RESPOSTA1": "Eigene Befehle",
+    "LISTA_RESPOSTA2": "Die aktuelle Gilde hat keine eigenen Befehle!"
+}

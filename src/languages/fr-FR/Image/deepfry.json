@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Faire frire une image.",
+    "USAGE": "deepfry [file]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "frire profonde [file]",
+    "EXAMPLE": "frit profond <attachment> | frit profond <user>"
+}

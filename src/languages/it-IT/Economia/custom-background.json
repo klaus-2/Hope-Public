@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Personalizza lo sfondo del tuo profilo con un'immagine a tua scelta.",
+    "USAGE": "custom-background [attachment <unk> url]\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "custom-background [attachment <unk> url]",
+    "EXAMPLE": "custom-background https://i.imgur.com/ru3E3zd.png",
+    "BG": "Ciao {{author}}",
+    "BG1": "Acquisto riuscito!\n$",
+    "BG2": "skcoin sono stati detratti dal tuo portafoglio per completare la transazione!\nIl tuo nuovo sfondo è [{{url}}](link)",
+    "BG3": "Per vedere come appare, usa il profilo comando {{prefix}}",
+    "BG4": "skcoin sono stati detratti dal tuo portafoglio per completare la transazione!\nIl tuo nuovo sfondo è [{{args}}](link)",
+    "BG5": "è necessario allegare un'immagine o inserire il link per impostare un nuovo sfondo!",
+    "BG6": "Non hai abbastanza soldi!\nManca",
+    "BG7": "per cambiare sfondo"
+}

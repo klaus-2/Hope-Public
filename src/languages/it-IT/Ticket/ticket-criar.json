@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "criar um ticket.",
+    "USAGE": "ticket-criar [motivo]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "impostazione-ticket",
+    "EXAMPLE": "impostazione-ticket",
+    "TICKET_CRIAR": "L'utente ha creato un ticket",
+    "TICKET_CRIAR1": "Ticket creato con successo!",
+    "TICKET_CRIAR2": "<:v_:855859391835799582> Puoi vederlo sul canale: <#{{channel}}>",
+    "TICKET_CRIAR3": "Hello {{author}}, I'm Hope",
+    "TICKET_CRIAR4": "Si accetta un ☕ mentre si aspetta qualcuno dal",
+    "TICKET_CRIAR5": "Sono venuto a parlare con te?\n\nHmmm.... Ci stanno impiegando troppo tempo, appendo, li chiamerò!\n📢 OOOOOOH",
+    "TICKET_CRIAR6": "è ora di lavorare!",
+    "TICKET_CRIAR7": "sei qui per la ragione:",
+    "TICKET_CRIAR8": "Biglietto aperto!",
+    "TICKET_CRIAR9": "Ticket",
+    "TICKET_CRIAR10": "Utente",
+    "TICKET_CRIAR11": "Motivo",
+    "TICKET_CRIAR12": "Aperto da",
+    "COOLDOWN": "Puoi aprire un biglietto in {{NUM}} minuti."
+}

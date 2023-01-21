@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Размытые изображения.",
+    "USAGE": "размывание [user] | [attached]\n💡 **Пример**: {{EXAMPLE}}",
+    "USAGEE": "размывать [user] | [attached]",
+    "EXAMPLE": "размывать @Hope | размывать [attached]"
+}

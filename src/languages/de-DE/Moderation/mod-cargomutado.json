@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "stellt Skys automatische Position für diesen Server ein.",
+    "USAGE": "mod-mutedrole <newRoleID>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "mod-mutedrole <newRoleID>",
+    "EXAMPLE": "mod-channel 865493021377",
+    "MOD_CARGOMUTADO": "Einstellungen: `Server`",
+    "MOD_CARGOMUTADO1": "<:v_:855859391835799582>O `auto role` wurde erfolgreich aktualisiert.",
+    "MOD_CARGOMUTADO2": "Automatische Rolle",
+    "MOD_CARGOMUTADO3": "Geändert von"
+}

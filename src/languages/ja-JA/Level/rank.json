@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "サーバレベルのスコアを表示します。",
+    "USAGE": "rank\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "ランク",
+    "EXAMPLE": "ランク userId | lb @mention | リーダーボードのユーザー名",
+    "LVL_RANK": "サーバー ",
+    "LVL_RANK1": "レベル:",
+    "LEADERBOARD_TITLE": "Níveisランキング — スカイ 👸",
+    "LEADERBOARD_FIELDT": "データが見つかりません",
+    "LEADERBOARD_FIELDDESC": "チャットを入力して経験を積んでください。"
+}

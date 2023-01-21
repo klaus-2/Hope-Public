@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "制作一个用户的机器人，让他说出你预定义的文字。",
+    "USAGE": "克隆 <user> <message>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "克隆 <user> <message>",
+    "EXAMPLE": "clone @Hope test"
+}

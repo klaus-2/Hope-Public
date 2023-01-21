@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "私下启用或禁用欢迎消息插件。",
+    "USAGE": "bv-adprivate <enable | disable>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "bv-adprivate <enable | disable>",
+    "EXAMPLE": "bv-adprivate 开"
+}

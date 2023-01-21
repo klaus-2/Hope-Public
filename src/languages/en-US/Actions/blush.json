@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Express a set of shame/blush.",
+    "USAGE": "blush [user]",
+    "USAGEE": "blush [user]",
+    "VERGONHA_DESCRIÇÃO": "<@{{author}}> is ashamed",  
+    "VERGONHA_DESCRIÇÃO1": "is ashamed of"
+}

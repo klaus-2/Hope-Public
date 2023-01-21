@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Zastosuj efekt vaporwave w muzyce.",
+    "USAGE": "vaporwave\n💡 **Przykład: {{EXAMPLE}}",
+    "USAGEE": "fala parowa",
+    "EXAMPLE": "fala parowa | fala parowa wyłączone",
+    "OFF": "Dezaktywacja efektu **Vaporwave**. <:Skyeouvindomusica:823046654554144768> To może potrwać kilka sekund...",
+    "VAPOR_WAVE1": "<:v_:855859391835799582> **Vaporwave** został dezaktywowany.",
+    "ON": "Aktywacja efektu **Vaporwave**. <:Skyedana:823046653371482114> To może potrwać kilka sekund...",
+    "VAPOR_WAVE2": "<:v_:855859391835799582> **Vaporwave** został aktywowany."
+}

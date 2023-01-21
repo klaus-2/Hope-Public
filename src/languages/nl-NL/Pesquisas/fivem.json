@@ -1,0 +1,18 @@
+{
+    "DESCRIPTION": "Bekijk informatie van een server in FIVEM.",
+    "USAGE": "fivem <IP:PORT>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "vijf m <IP:PORT>",
+    "EXAMPLE": "fivem ger-h10.vibeggames.net:30196",
+    "FIVEM": "Server-statistieken",
+    "FIVEM1": "Serverstatus:",
+    "FIVEM2": "Momenteel zijn er",
+    "FIVEM3": "verbonden spelers.",
+    "FIVEM4": "Speler-ID",
+    "FIVEM5": "Naam speler",
+    "FIVEM6": "Er is een mislukte poging om verbinding te maken met een server (FIVEM).",
+    "FIVEM7": "niet beschikbaar",
+    "FIVEM8": "Er zijn momenteel geen spelers online.",
+    "FIVEM9": "geen",
+    "FIVEM10": "Hope Tip",
+    "FIVEM11": "💡 *De server is offline of het IP:PORT van de server is verkeerd. *"
+}

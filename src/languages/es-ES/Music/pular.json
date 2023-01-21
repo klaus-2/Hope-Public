@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "omite la canción actual.",
+    "USAGE": "skip\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "omitir",
+    "EXAMPLE": "omitir"
+}

@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "¡Bate al usuario(s) que has mencionado!",
+    "USAGE": "beso [user]",
+    "USAGEE": "beso [user]",
+    "BEIJAR_DESCRIÇÃO": "¡No puedes besar, pero déjame besarte en su lugar? <@{{member}}>!",
+    "BEIJAR_Hope": " **Y**",
+    "BEIJAR_DESCRIÇÃO1": "besado",
+    "BEIJAR_HopeFRASE": "No es como yo quiero que me beso o nada.:*(simultáneamente.",
+    "BEIJAR_DESC": " y ",
+    "BEIJAR_DESC1": ", y "
+}

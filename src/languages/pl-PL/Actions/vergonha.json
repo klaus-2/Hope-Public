@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Wyraź wstyd / niebieski.",
+    "USAGE": "blush [user]",
+    "USAGEE": "blush [user]",
+    "VERGONHA_DESCRIÇÃO": "<@{{author}}> jest wstyd",
+    "VERGONHA_DESCRIÇÃO1": "jest wstyd"
+}

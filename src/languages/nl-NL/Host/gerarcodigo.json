@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Genereer een code voor het inwisselen.",
+    "USAGE": "generatecode <month | year>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "genereercode <month | year>",
+    "EXAMPLE": "generatecode mês",
+    "NOVO_PREMIUM": "maand",
+    "NOVO_PREMIUM1": "jaar",
+    "NOVO_PREMIUM2": "Zorg voor een plan!",
+    "NOVO_PREMIUM3": "Gegenereerd",
+    "NOVO_PREMIUM4": "Premium code (s)",
+    "NOVO_PREMIUM5": "Type:",
+    "NOVO_PREMIUM6": "Verloopt:"
+}

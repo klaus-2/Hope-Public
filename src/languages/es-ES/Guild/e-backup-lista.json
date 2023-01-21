@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "mostrar la lista de copias de seguridad creadas.",
+    "USAGE": "e-backup-list\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "lista de copia de seguridad electrónica",
+    "EXAMPLE": "lista de copia de seguridad electrónica",
+    "E_BACKUP_LISTA": ":x: | **No hay ninguna copia de seguridad creada por ti. **",
+    "E_BACKUP_LISTA1": ":x: | **No hay copias de seguridad creadas por ti. **",
+    "E_BACKUP_LISTA2": "Esta es tu lista de copias de seguridad",
+    "E_BACKUP_LISTA3": "Nombre del servidor | ID de copia de seguridad | Cantidad de emoji",
+    "E_BACKUP_LISTA4": "Hola, {{author}}"
+}

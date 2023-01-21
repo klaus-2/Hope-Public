@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Imposta la carica automatica Hope per questo server.",
+    "USAGE": "levelmsg <message>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "levelmsg <message>",
+    "EXAMPLE": "levelmsg GG {user}, hai avanzato al Livello {Level}!",
+    "LVL_MSG": "Impostazioni: `Level`",
+    "LVL_MSG1": "<:v_:855859391835799582>La configurazione di `level` è stata aggiornata con successo.",
+    "LVL_MSG2": "Impostazioni Livello",
+    "LVL_MSG3": "Mensagem changed from"
+}

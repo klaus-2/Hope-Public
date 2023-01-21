@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Carrega um backup criado.",
+    "USAGE": "e-backup-carregar <codigo>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "e-backup-carregar <codigo>",
+    "EXAMPLE": "e-backup-carregar ExOBdl",
+    "E_BACKUP_CARREGAR": "Tem certeza?",
+    "E_BACKUP_CARREGAR1": "Oi, {{author}}",
+    "E_BACKUP_CARREGAR2": "Tem certeza de que deseja carregar o backup?\n\n<:Informao:823004619805294643> Observação: Só adicionará emojis enquanto houve espaço suficiente no servidor.\nPortanto certifique de que se houver mais emojis no backup do que espaço no servidor, não é um bug, e sim, falta de espaço.",
+    "E_BACKUP_CARREGAR3": "**Carregamento do backup foi cancelado.**",
+    "E_BACKUP_CARREGAR4": ":x: | **Esse codigo de backup não foi encontrado**\nVerifique se está usando o codigo correto e tente novamente.",
+    "E_BACKUP_CARREGAR5": ":x: | **Não há emojis nesse backup!**",
+    "E_BACKUP_CARREGAR6": "Não há mais espaço suficiente para novos emojis.",
+    "E_BACKUP_CARREGAR7": "<:v_:855859391835799582> **O backup foi carregado com sucesso.**",
+    "E_BACKUP_CARREGAR8": ":x: | **O backup não foi encontrado!**"
+}

@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Gelöschte Nachrichten erhalten.",
+    "USAGE": "schreibe\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "schneiden",
+    "EXAMPLE": "schneiden",
+    "SNIPE": "Es gibt keine gelöschten Nachrichten in diesem Kanal!",
+    "SNIPE1": ":Zwischenablage:Snipe Nachricht löschen:Zwischenablage:",
+    "SNIPE2": "=> Autor: ```{{author}}```\n=> Nachricht Delete:```{{content}}```\nClink :x: , um diese Nachricht zu löschen"
+}

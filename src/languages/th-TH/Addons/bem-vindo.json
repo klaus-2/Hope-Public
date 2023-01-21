@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Enable or disable the welcome addon.",
+    "USAGE": "welcome <enable | disable>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "welcome <enable | disable>",
+    "EXAMPLE": "welcome enable"
+}

@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "スロットゲーム | 9倍-レア | 3倍-共通",
+    "USAGE": "スロット <bet amount>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "スロット <bet amount>",
+    "EXAMPLE": "スロット 5000",
+    "SLOTS": "Yaayy！<: Hopecomemorando:828375859832160286> おめでとう、勝ったね",
+    "SLOTS1": "スコイン",
+    "SLOTS2": "<: Hopeaff:823057603135012874> ああ... なんて恥だ、負けたな",
+    "SLOTS3": "<: cancel: 855859391709577266> Você está apostando mais do que você tem",
+    "SLOTS4": "値を指定する必要があります。",
+    "SLOTS5": "$",
+    "SLOTS6": "スコイン"
+}

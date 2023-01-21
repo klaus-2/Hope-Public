@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "激活或停用一个类别的命令。",
+    "USAGE": "命令 <category>\\n💡**示例**: {{EXAMPLE}}",
+    "USAGEE": "命令 <category>",
+    "EXAMPLE": "命令音乐",
+    "COMANDOS": "Hope 命令类别列表",
+    "COMANDOS1": "可用类别：`{{default}}`。",
+    "COMANDOS2": "活动类别：`{{active}}`",
+    "COMANDOS3": "是的！我在这个服务器上添加了命令类别：**{{addons}}**",
+    "COMANDOS4": "是的！我在这个服务器上禁用了命令类别：**{{addons}}** 。",
+    "COMANDOS5": "对不起，这不是一个现有的命令类别。"
+}

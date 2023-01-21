@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Eat something with the user(s) you mentioned!",
+    "USAGE": "feed [user]",
+    "USAGEE": "feed [user]",
+    "COMER_DESCRIÇÃO": "<@{{member}}> you're going to eat... alone even?!",
+    "COMER_Hope": " **me**",
+    "COMER_DESCRIÇÃO1": "is eating with",
+    "COMER_DESCRIÇÃO2": "fed me",    
+    "COMER_HopeFRASE": "Nyaa~ s-senpai... (´Å'∗)...",
+    "COMER_HopeFRASE1": "Don't feed on me! I'm not going to show you any pictures!",
+    "COMER_APIOFF": "hmmm, api is down, sorry!",
+    "COMER_DESC": " and ",
+    "COMER_DESC1": ", and "
+}

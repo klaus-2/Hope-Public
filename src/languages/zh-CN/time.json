@@ -1,0 +1,23 @@
+{
+    "ONE_DAY": "1天",
+    "DAYS": "{{amount}} 天",
+    "ONE_HOUR": "1 小时",
+    "HOURS": "{{amount}} 小时",
+    "ONE_MINUTE": "1 分钟",
+    "MINUTES": "{{amount}} 分钟",
+    "ONE_SECOND": "1 秒",
+    "SECONDS": "{{amount}} 秒",
+    "NOT_NUMBER": "必须是一个数字。",
+    "INCORRECT_DELIMITERS": "请使用以下时间分隔符之一：`d`、`h`、`m`、`s`。",
+    "MAX_TIME": "不能超过 10 天。",
+    "INVALID_TIME": "输入的数字无效。(例如：1m或16h)",
+    "dia": "天",
+    "dias": "天",
+    "hora": "小时",
+    "horas": "小时",
+    "minuto": "分钟",
+    "minutos": "分钟",
+    "segundo": "秒",
+    "segundos": "秒",
+    "e": "和"
+}

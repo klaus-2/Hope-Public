@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Sprzedaj swoje przedmioty za gotówkę.",
+    "USAGE": "sprzedać <item id>\n💡 **przykład**: {{EXAMPLE}}",
+    "USAGEE": "sprzedam <item id>",
+    "EXAMPLE": "sprzedać 3 | sprzedać 8 2",
+    "VENDER": "nie można znaleźć przedmiotu z dostarczonym przez **ID**!\nUpewnij się, że wprowadź poprawny **ID** i spróbuj ponownie.",
+    "VENDER1": "nie masz niezbędnej ilości",
+    "VENDER2": "aby dokonać tej sprzedaży.",
+    "VENDER3": "Niestety,",
+    "VENDER4": "nie mogą być sprzedawane.",
+    "VENDER5": "nie masz konta bankowego w Hope Economy Addon.\nZarejestruj się za pomocą polecenia",
+    "VENDER6": "rejestr",
+    "VENDER7": "zostały sprzedane pomyślnie",
+    "VENDER8": "za **$",
+    "VENDER9": "skcoins"
+}

@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "maak een back-up van de emoji's op die server.",
+    "USAGE": "e-backup-create\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "e-backup-creeer",
+    "EXAMPLE": "e-backup-creeer",
+    "E_BACKUP_CRIAR": "Hallo, {{author}}",
+    "E_BACKUP_CRIAR1": "**Er zijn geen emoji's op deze server voor back-up. ** ",
+    "E_BACKUP_CRIAR2": "Hallo, je back-upcode is:",
+    "E_BACKUP_CRIAR3": ":x: | **Ik kon dm niet naar je sturen, zorg ervoor dat je privé is ingeschakeld. **",
+    "E_BACKUP_CRIAR4": "**De back-up is met succes gemaakt! **Ik heb de back-upid al naar je privé gestuurd, oké?"
+}

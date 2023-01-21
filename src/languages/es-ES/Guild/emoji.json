@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "muestra la lista de gestos de este servidor.",
+    "USAGE": "emoji\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "emoji",
+    "EXAMPLE": "emoji",
+    "EMOJI": "<:Skyechoro 1:823047534498938880 > no hay emoji en este servidor.",
+    "EMOJI1": "Lista de emojis de {{guild}}",
+    "EMOJI2": "Página",
+    "EMOJI3": "de",
+    "EMOJI4": "total de",
+    "EMOJI5": "emojis",
+    "EMOJI6": "Tu tiempo ha caducado."
+}

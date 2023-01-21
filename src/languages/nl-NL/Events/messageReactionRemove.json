@@ -1,0 +1,7 @@
+{
+    "MESSAGE_REACTION_REMOVE": "verwijderde de reactie",
+    "MESSAGE_REACTION_REMOVE1": "van dit bericht",
+    "MESSAGE_REACTION_REMOVE2": "Gebruikers-ID:",
+    "MESSAGE_REACTION_REMOVE3": "Bericht-ID:",
+    "MESSAGE_REACTION_REMOVE4": "[EVENT — EEN REACTIE IS VERWIJDERD]"
+}

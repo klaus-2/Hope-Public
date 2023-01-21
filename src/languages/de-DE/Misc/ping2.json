@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Ruft den Status des Bots ab.",
+    "USAGE": "ping2",
+    "PING": "Ping:",
+    "CLIENT": "Client-API:",
+    "MONGO": "MongoDB:"
+}

@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Daje listę automatycznych odpowiedzi na serwerze",
+    "USAGE": "lista autoresponse-\n💡**Przykład**: {{EXAMPLE}}",
+    "USAGEE": "lista autoodpowiedzi",
+    "EXAMPLE": "lista autoodpowiedzi",
+    "LISTA_RESPOSTA": "<:cancel:855859391709577266> Bieżąca gildia nie ma niestandardowych poleceń!",
+    "LISTA_RESPOSTA1": "Niestandardowe polecenia",
+    "LISTA_RESPOSTA2": "Bieżąca gildia nie ma niestandardowych poleceń!"
+}

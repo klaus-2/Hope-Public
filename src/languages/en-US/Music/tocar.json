@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "play a song.",
+    "USAGE": "play <link / song name>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "play <link / song name>",
+    "EXAMPLE": "play palaye royale | play <attachment> | play https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "TOCAR": "Queue",
+    "TOCAR1": "songs",
+    "TOCAR2": "has been added to the current play queue.",
+    "TOCAR3": "Please enter a song name/url",
+    "TOCAR4": "Queued **{{num}}** tracks",
+    "TOCAR5": "Added to queue: [{{title}}]({{url}})"
+}

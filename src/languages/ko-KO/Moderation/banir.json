@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "바니르 움 사용자입니다.",
+    "USAGE": "반 <user> [reason] [time]\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "반 <user> [reason] [time]",
+    "EXAMPLE": "채팅에서 스팸을 연습하는 반 스카이 3d | 반 스카이 테스트 | 반 스카이 테스트 1D 10h 25m | 반 스카이 테스트 30s",
+    "BAN": "금지!",
+    "BAN1": "<a:anibanned:823008288236765184> ** {{guild}} **에서 금지되었습니다.",
+    "BAN2": "금지:",
+    "BAN3": "이유:",
+    "MISSING_USER": "이 서버에 없는 사람을 처벌할 수 없어요"
+}

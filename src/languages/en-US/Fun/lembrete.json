@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "define something to be remembered in a while.",
+    "USAGE": "reminder <time> <message>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "reminder <time> <message>",
+    "EXAMPLE": "reminder 1h feed my cat",
+    "FLEMBRETE_DESC": "You must set a time period to be remembered!",
+	"FLEMBRETE_DESC1": "The time given",
+	"FLEMBRETE_DESC2": "exceeded the 31-day limit",
+	"FLEMBRETE_DESC3": "You must write a message to be remembered!",
+	"FLEMBRETE_DESC4": "Hey",
+	"FLEMBRETE_DESC5": "you can count on my help okaaay! I'll remind you from here",
+	"FLEMBRETE_DESC6": "You can trust that I'll remember, ~~*I think*~~"
+}

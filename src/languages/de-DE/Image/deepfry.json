@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Ein Bild deepfren.",
+    "USAGE": "deepfry [file]\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "deepfry [file]",
+    "EXAMPLE": "deepfry <attachment> | deepfry <user>"
+}

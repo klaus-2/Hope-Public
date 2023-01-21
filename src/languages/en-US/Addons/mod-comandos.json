@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Enables or disables Hope's command addon on the server.",
+    "USAGE": "mod-commands <enable | disable>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "mod-commands <enable | disable>",
+    "EXAMPLE": "mod-comandos enable"
+}

@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Configure el canal del complemento de verificación de mensajes.",
+    "USAGE": "vf-channel <channelID>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "vf-canal <channelID>",
+    "EXAMPLE": "canal vf 98789623672631",
+    "VF_CANAL": "El canal se ha actualizado correctamente a: `{{channel}}`"
+}

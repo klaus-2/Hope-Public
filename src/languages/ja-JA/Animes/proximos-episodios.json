@@ -1,0 +1,23 @@
+{
+    "DESCRIPTION": "特定のアニメの次のエピソードの残り時間を表示します。アニメが指定されていない場合は、この日のスケジュールに戻ります。",
+    "USAGE": "nextep [anime]\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "nextep",
+    "EXAMPLE": "nextairing | nextair Boruto | nextep ブラッククローバー | nextepisode 進撃の巨人 | pep tensura",
+    "APEP_DESC": "何も見つかりませんでした！",
+    "APEP_DESC2": "レスポンスエラー",
+    "APEP_DESC3": "**{{member}}**、予期しないエラーが発生しました！\n\n",
+    "APEP_DESC4": "数分後にもう一度お試しください。これは通常、サーバーのダウンタイムが原因です。",
+    "APEP_DESC5": "** {{member}} **、このアニメは既に**放映終了**、 ",
+    "APEP_DESC6": "は**次のEPの日付が未知**ですか、そのアニメは**存在しなかった**かもしれません！",
+    "APEP_DESC7": "エピソード",
+    "APEP_DESC8": "最終話",
+    "APEP_DESC9": "の",
+    "APEP_DESC10": "おおよその空気で流れます",
+    "APEP_DESC11": "次のエピソードの放送日",
+    "APEP_DESC12": "は現在不明である。",
+    "APEP_DESC13": "次のプレミア",
+    "APEP_DESC14": "オンエアします",
+    "APEP_DESC15": "次のエピソードの日付は現在**不明**。\n",
+    "APEP_DESC16": "あとで空気になるよ",
+    "APEP_DESC17": "次の7日間、アニメは見つかりませんでした。\n"
+}

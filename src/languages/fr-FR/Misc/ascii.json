@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "retourne le texte fourni au format ascii.",
+    "USAGE": "ascii <text>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "ascii <text>",
+    "EXAMPLE": "ascii Hope",
+    "EASCII_DESC": "Échec de la génération de l'ASCII",
+    "ASCII": "Veuillez saisir un texte de 20 caractères ou moins pour que la conversion soit réussie!"
+}

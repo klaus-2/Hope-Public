@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Get deleted messages.",
+    "USAGE": "snipe\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "snipe",
+    "EXAMPLE": "snipe",
+    "SNIPE": "There are no deleted messages in this channel!",
+    "SNIPE1": "📋Snipe Message Delete📋",
+    "SNIPE2": "=> Author: ```{{author}}```\n=> Message Delete:```{{content}}```\nClink :x: to clear this message"
+}

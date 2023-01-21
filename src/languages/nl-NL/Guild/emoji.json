@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "geef de lijst met emotes voor deze server weer.",
+    "USAGE": "emoji\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "emoji",
+    "EXAMPLE": "emoji",
+    "EMOJI": "<:SkyeChoro 1:823047534498938880 > er zijn geen emoji's op deze server.",
+    "EMOJI1": "Lijst met emoji's van {{guild}}",
+    "EMOJI2": "Pagina",
+    "EMOJI3": "van",
+    "EMOJI4": "totaal",
+    "EMOJI5": "emoji's",
+    "EMOJI6": "Je tijd is verstreken."
+}

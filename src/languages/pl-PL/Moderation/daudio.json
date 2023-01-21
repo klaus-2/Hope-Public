@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Wyłącz dźwięk użytkownika.",
+    "USAGE": "deafen <user> [time]\n💡 **Przykład: {{EXAMPLE}}",
+    "USAGEE": "głucha <user> [time]",
+    "EXAMPLE": "deafen @Hope | głucha @Hope 5m",
+    "DAUDIO": "Nie mogę ogłuszać kogoś, kto nie jest na kanale głosowym."
+}

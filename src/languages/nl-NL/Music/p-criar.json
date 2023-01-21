@@ -1,0 +1,17 @@
+{
+    "DESCRIPTION": "Maak een afspeellijst",
+    "USAGE": "p-create <playlist name> <search term/link>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "p-create <playlist name> <search term/link>",
+    "EXAMPLE": "p-create Testlink",
+    "P_CRIAR": "De titel van de afspeellijst moet minder dan 32 tekens bevatten!",
+    "P_CRIAR1": "Nummers toevoegen aan je afspeellijst (dit kan een paar seconden duren.)...",
+    "P_CRIAR2": "Met Premium kun je maximaal 3 afspeellijsten opslaan in plaats van 1.",
+    "P_CRIAR3": "Je kunt afspeellijsten niet meer opslaan. Max: 3",
+    "P_CRIAR4": "Er bestaat al een afspeellijst met die naam.",
+    "P_CRIAR5": "Een afspeellijst gemaakt met naam:",
+    "P_CRIAR6": "Duur afspeellijst:",
+    "P_CRIAR7": "Toegevoegd",
+    "P_CRIAR8": "tracks) naar",
+    "P_CRIAR9": "Liedjes:",
+    "P_CRIAR10": "is geen afspeellijst"
+}

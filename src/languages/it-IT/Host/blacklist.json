@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Aggiorna elenco bandi globali",
+    "USAGE": "blacklist <add / remove> <userID> [reason]",
+    "MISSING_USER": "Id utente errato.",
+    "AUTHOR": "{{TAG}} è stato bandito globalmente",
+    "DESC": "**Motivo:** {{REASON}}",
+    "ALRDY_BAN": "Utente: {{ID}} è già bandito.",
+    "SUCC_UNBAN": "Utente sbloccato con successo."
+}

@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "ウェルカムアドオンを有効または無効にします。",
+    "USAGE": "welcome <enable | disable>\n💡**例**: {{EXAMPLE}}",
+    "USAGEE": "ようこそ <enable | disable>",
+    "EXAMPLE": "welcomeenable"
+}

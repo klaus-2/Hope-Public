@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Stel de afspeelsnelheid van de speler in.",
+    "USAGE": "snelheid <value>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "snelheid <value>",
+    "EXAMPLE": "snelheid 4",
+    "ON_SPD": "De afspeelsnelheid bijwerken. Dit kan een paar seconden duren...",
+    "VELOCIDADE": "De snelheid is veranderd naar {{num}}"
+}

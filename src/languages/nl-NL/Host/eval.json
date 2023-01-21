@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Eval um código JS.",
+    "USAGE": "Eval <code>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "eval <code>",
+    "EXAMPLE": "Evaluatie bot.users.cache.get (`184376969016639488`)",
+    "EVAL": "Wat moet ik evalueren?",
+    "EVAL1": "Te groot om weer te geven.",
+    "EVAL2": "Brh, je probeert mijn token te stelen, hè?"
+}

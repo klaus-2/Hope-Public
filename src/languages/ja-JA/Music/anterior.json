@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "以前に再生されたトラックが表示されます。",
+    "USAGE": "previous [pageNumber]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "前の [pageNumber]",
+    "EXAMPLE": "前のページ 2",
+    "ANTERIOR": "以前のトラックは再生されていません",
+    "ANTERIOR1": "前のトラック",
+    "ANTERIOR2": "**最後のトラック**:",
+    "ANTERIOR3": "  何もない",
+    "ANTERIOR4": "[ページ]",
+    "ANTERIOR5": "ソング",
+    "ANTERIOR6": "ページは数字でなければなりません。",
+    "ANTERIOR7": "しかありません",
+    "ANTERIOR8": "ページが利用可能です。"
+}

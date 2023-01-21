@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Wpłać kwotę pieniędzy z Addon Economy na swoje konto bankowe.",
+    "USAGE": "depozyt <value>\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "depozyt <value>",
+    "EXAMPLE": "depozyt 5000",
+    "DEPOSITAR": "wszyscy",
+    "DEPOSITAR1": "<:cancel:855859391709577266> Nie masz pieniędzy na wpłatę",
+    "DEPOSITAR2": "<:v_:855859391835799582> Wszystkie monety zostały zdeponowane w banku",
+    "DEPOSITAR3": "<:cancel:855859391709577266> Określ kwotę do wpłaty",
+    "DEPOSITAR4": "<:cancel:855859391709577266> Twoja wartość nie jest liczbą!",
+    "DEPOSITAR5": "<:cancel:855859391709577266> Nie można wpłacić ujemnych pieniędzy",
+    "DEPOSITAR6": "nie masz tej kwoty dostępnej do wpłaty w banku.",
+    "DEPOSITAR7": "<:v_:855859391835799582> Zostałeś zdeponowany",
+    "DEPOSITAR8": "skcoins na konto bankowe"
+}

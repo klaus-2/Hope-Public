@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "제출하는 URL을 줄입니다.",
+    "USAGE": "쇼트럴 <link>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "쇼트럴 <link>",
+    "EXAMPLE": "쇼트럴 https://www.google.com",
+    "EURL_DESC": "안녕하세요,",
+    "EURL_DESC1": "단축 버전을 요청했습니다.",
+    "EURL_DESC2": "여기 있습니다:"
+}

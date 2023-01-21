@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Ajusta la velocidad de reproducción del reproductor.",
+    "USAGE": "speed <value>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "velocidad <value>",
+    "EXAMPLE": "velocidad 4",
+    "ON_SPD": "Actualización de la velocidad de reproducción. Esto puede tardar unos segundos...",
+    "VELOCIDADE": "La velocidad se ha cambiado a {{num}}"
+}

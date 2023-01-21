@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "删除赠品",
+    "USAGE": "g-删除 <messageID>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "g-删除 <messageID>",
+    "EXAMPLE": "g-删除 81882143625255895612",
+    "SUCCESS_GIVEAWAY": "<: v_: 855859391835799582> 成功！赠品已删除！",
+    "UNKNOWN_GIVEAWAY": "没有找到带有消息 ID：“{{message}}” 的赠品，请检查并重试，好吗？我等着 😊"
+}

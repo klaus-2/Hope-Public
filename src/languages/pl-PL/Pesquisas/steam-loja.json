@@ -1,0 +1,21 @@
+{
+    "DESCRIPTION": "Wyszukaj grę lub aplikację na Steam.",
+    "USAGE": "sklep parowy <game>\n💡 **przykład**: {{EXAMPLE}}",
+    "USAGEE": "sklep parowy <game>",
+    "EXAMPLE": "sklep parowy Conan Exiles",
+    "STEAM_LOJA": "Nie można znaleźć **{{query}}** na <:steam:767062357952167946> pary",
+    "STEAM_LOJA1": "$",
+    "STEAM_LOJA2": "Bezpłatny",
+    "STEAM_LOJA3": "* **Dodatkowe uwagi:",
+    "STEAM_LOJA4": "Wymagania systemowe",
+    "STEAM_LOJA5": "Cena",
+    "STEAM_LOJA6": "Metascore",
+    "STEAM_LOJA7": "Zalecenia",
+    "STEAM_LOJA8": "Data wydania",
+    "STEAM_LOJA9": "Dewelo",
+    "STEAM_LOJA10": "Wydawcy",
+    "STEAM_LOJA11": "Kategorie",
+    "STEAM_LOJA12": "Gatunki",
+    "STEAM_LOJA13": "Ilość DLC",
+    "STEAM_LOJA14": "obsługiwane języki"
+}

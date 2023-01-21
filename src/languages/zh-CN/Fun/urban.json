@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "获取一个单词的城市词典。",
+    "USAGE": "城市 <word>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "城市 <word>",
+    "EXAMPLE": "城市 <word>",
+    "INCORRECT_URBAN": "短语：在城市词典中找不到 “{{phrase}}”。",
+    "URBAN_TITLE": "{{word}}的定义",
+    "URBAN_DESCRIPTION": "{{definition}}\n** 示例：**\n{{examples}}"
+}

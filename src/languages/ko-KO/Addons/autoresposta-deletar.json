@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "자동 응답을 삭제합니다.",
+    "USAGE": "삭제자동 응답 <command>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "삭제자동 응답 <command>",
+    "EXAMPLE": "삭제자동 응답 hi",
+    "DELETAR_RESPOSTA": "<:취소: 855859391709577266> 명령 이름이 30자 이상입니다!",
+    "DELETAR_RESPOSTA1": "자동 응답 삭제",
+    "DELETAR_RESPOSTA2": "이 (가) 삭제되었습니다.",
+    "DELETAR_RESPOSTA3": "오!죄송합니다. 이 명령을 찾을 수 없습니다!맞습니까?"
+}

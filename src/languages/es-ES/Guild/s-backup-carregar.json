@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Carga una copia de seguridad desde el servidor.",
+    "USAGE": "s-backup-load <backupID>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "s-backup-carga <backupID>",
+    "EXAMPLE": "s-backup-carga 2334",
+    "S_BACKUP_CARREGAR": "Aah {{author}}, lo siento :(",
+    "S_BACKUP_CARREGAR1": "Debe tener los permisos de administración de mensajes para crear una copia de seguridad en este servidor.",
+    "S_BACKUP_CARREGAR2": ":warning: Se borrarán todos los canales, roles y configuraciones del servidor. ¿Quieres continuar? ¡Envía `confirm` o `cancel`!",
+    "S_BACKUP_CARREGAR3": "confirmar",
+    "S_BACKUP_CARREGAR4": "cancelar",
+    "S_BACKUP_CARREGAR5": "Copia de seguridad cargada correctamente",
+    "S_BACKUP_CARREGAR6": "No se ha encontrado ninguna copia de seguridad para el ID: **{{backupID}}**",
+    "S_BACKUP_CARREGAR7": "Se ha producido un error:",
+    "S_BACKUP_CARREGAR8": ":x: Cancelado.",
+    "S_BACKUP_CARREGAR9": ":x: Se agotó el tiempo de espera del comando Vuelve a intentarlo."
+}

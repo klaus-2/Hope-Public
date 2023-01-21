@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Configure a opção da função do addon Level.",
+    "USAGE": "levelopção <0-2>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "levelopção <0-2>",
+    "EXAMPLE": "levelopção 2",
+    "LVL_OPC": "Configurações: `Level`",
+    "LVL_OPC1": "<:v_:855859391835799582>A configuração de `level` foi atualizado com sucesso.",
+    "LVL_OPC2": "Configuração de Level",
+    "LVL_OPC3": "alterado de"
+}

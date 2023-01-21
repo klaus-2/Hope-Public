@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "copia un emoji de otro servidor y agrégalo a tu servidor.",
+    "USAGE": "copyemoji <emoji>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "copiar emoji <emoji>",
+    "EXAMPLE": "copiar emoji <emoji>",
+    "ECOE_DESC": "Emoji añadido al servidor correctamente",
+    "ECOE_DESC1": "Nombre:",
+    "ECOE_DESC2": "Vista previa: [Haga clic para ver] ({{Link}})",
+    "EURL_DESC": "Hola,",
+    "EMOJI_INVALIDO": "Por favor, se requiere un emoji válido!",
+    "EMOJI_PADRÃO": "Los emojis estándar no se pueden convertir para descargar."
+}

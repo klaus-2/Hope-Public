@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "スカイを音声チャンネルに載せて",
+    "USAGE": "join\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "参加します",
+    "EXAMPLE": "参加します",
+    "ENTRAR": "チャンネルには正常に参加しました。"
+}

@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "从 Instagram 账户获取信息。",
+    "USAGE": "instagram <user>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "instagram <user>",
+    "EXAMPLE": "instagram 不和谐",
+    "INSTAGRAM": "<a:loading:823004555884232724> 等一下...我正在研究！",
+    "INSTAGRAM1": "用户名：",
+    "INSTAGRAM2": "全名：",
+    "INSTAGRAM3": "传记：",
+    "INSTAGRAM4": "无",
+    "INSTAGRAM5": "出版物：",
+    "INSTAGRAM6": "关注者：",
+    "INSTAGRAM7": "以下内容：",
+    "INSTAGRAM8": "私人账户：",
+    "INSTAGRAM9": "是的 🔒",
+    "INSTAGRAM10": "不 🔓",
+    "INSTAGRAM11": "已验证账户：",
+    "INSTAGRAM12": "是的 ✅",
+    "INSTAGRAM13": "不 ❌"
+}

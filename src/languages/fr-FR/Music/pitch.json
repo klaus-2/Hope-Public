@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "appliquer l'effet de pitch à la musique.",
+    "USAGE": "pitch <value | off>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "pas <value | off>",
+    "EXAMPLE": "pitch off | pas 6",
+    "PITCH": "Désactivation de l'effet **pitch**. <:SkyeOuvindoMusica:823046654554144768> Cela peut prendre quelques secondes...",
+    "PITCH1": "<:v_:855859391835799582> **pitch** a été désactivé.",
+    "PITCH2": "La quantité doit être un nombre réel.",
+    "PITCH3": "La hauteur doit être comprise entre 0 et 10.",
+    "PITCH4": "Réglage du Pitch à",
+    "PITCH5": "Cela peut prendre quelques secondes...",
+    "PITCH6": "Pitch réglé sur"
+}

@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "repetir a música ou fila.",
+    "USAGE": "loop [kolejka/piosenka]\n💡 **przykład**: {{EXAMPLE}}",
+    "USAGEE": "pętla [kolejka/piosenka]",
+    "EXAMPLE": "repeat queue | loop song | loop",
+    "REPETIR": "piosenka",
+    "ENABLED": "włączone",
+    "DISABLED": "wyłączone",
+    "REPETIR3": "{{trackRepeat}} powtórz utwór.",
+    "REPETIR4": "kolejki",
+    "REPETIR7": "Powtórz kolejkę{{queueRepeat}}."
+}

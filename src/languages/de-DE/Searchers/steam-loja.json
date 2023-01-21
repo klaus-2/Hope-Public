@@ -1,0 +1,21 @@
+{
+    "DESCRIPTION": "Suche nach einem Spiel / App auf Steam.",
+    "USAGE": "dampf-store <game>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "dampf-store <game>",
+    "EXAMPLE": "dampf-Store Conan Verbannte",
+    "STEAM_LOJA": "Konnte **{{query}}** auf <:steam:767062357952167946> Dampf nicht finden",
+    "STEAM_LOJA1": "$",
+    "STEAM_LOJA2": "Kostenlos",
+    "STEAM_LOJA3": "* **Zusätzliche Notizen:",
+    "STEAM_LOJA4": "Systemanforderungen",
+    "STEAM_LOJA5": "Preis",
+    "STEAM_LOJA6": "Metascore",
+    "STEAM_LOJA7": "Empfehlungen",
+    "STEAM_LOJA8": "Freigabedatum",
+    "STEAM_LOJA9": "Entwickler",
+    "STEAM_LOJA10": "Herausgeber",
+    "STEAM_LOJA11": "Kategorien",
+    "STEAM_LOJA12": "Genres",
+    "STEAM_LOJA13": "Anzahl der DLC",
+    "STEAM_LOJA14": "Unterstützte Sprachen"
+}

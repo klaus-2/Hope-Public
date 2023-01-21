@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Stel Hope automatisch opladen in voor deze server.",
+    "USAGE": "levelchannel <channelID>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "levelchannel <channelID>",
+    "EXAMPLE": "niveau kanaal 7642332322",
+    "LVL_CANAL": "Instellingen: `Level`",
+    "LVL_CANAL1": "<:v_:855859391835799582>De configuratie van `level` is succesvol bijgewerkt.",
+    "LVL_CANAL2": "Niveau instelling",
+    "LVL_CANAL3": "Kanaal gewijzigd van"
+}

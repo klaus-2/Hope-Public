@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "buscar uma musica pela internet.",
+    "USAGE": "search <link / song name>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "buscar <link / song name>",
+    "EXAMPLE": "anclaje de búsqueda - novo amor",
+    "BUSCAR": "No estás en un canal de voz al que pueda conectarme.",
+    "BUSCAR1": "Estos son los resultados de",
+    "BUSCAR2": "Elige un número del 1 al 10 o cancela. (30s)",
+    "BUSCAR3": "<:Skyetempo:823047534854668298> Ahhhhhh... no elegiste una canción a tiempo.",
+    "BUSCAR4": "La búsqueda se ha cancelado correctamente.",
+    "BUSCAR5": "El número que proporcionaste era demasiado pequeño o demasiado grande (elige entre",
+    "BUSCAR6": "se ha añadido correctamente a la cola."
+}

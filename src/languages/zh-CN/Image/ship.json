@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "与其他用户一起创建船舶图像。",
+    "USAGE": "发货 <user1> [user2]\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "船 <user1> [user2]",
+    "EXAMPLE": "船舶用户用户 | 船舶用户 <attachment>"
+}

@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Configurer le canal de vérification du message Addon.",
+    "USAGE": "vf-channel <channelID>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "vf-channel <channelID>",
+    "EXAMPLE": "vf-channel 98789623672631",
+    "VF_CANAL": "Canal mis à jour avec succès à : `{{channel}}`"
+}

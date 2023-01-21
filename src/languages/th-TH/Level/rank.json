@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Displays the server level score.",
+    "USAGE": "rank\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "rank",
+    "EXAMPLE": "rank userID | lb @mention | leaderboard username",
+    "LVL_RANK": "Server ",
+    "LVL_RANK1": "Level:",
+    "LEADERBOARD_TITLE": "การจัดอันดับระดับ — Hope 👸",
+    "LEADERBOARD_FIELDT": "ไม่พบข้อมูล",
+    "LEADERBOARD_FIELDDESC": "กรุณาพิมพ์แชทเพื่อรับประสบการณ์"
+}

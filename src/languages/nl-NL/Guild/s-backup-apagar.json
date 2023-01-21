@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Verwijder een serverback-up.",
+    "USAGE": "s-backup-verwijder <backupID>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "s-backup-verwijderen <backupID>",
+    "EXAMPLE": "s-back-up-verwijderen 2334",
+    "S_BACKUP_APAGAR": "Aah {{author}}, het spijt me :(",
+    "S_BACKUP_APAGAR1": "Status premium: :small_blue_diamond: **NORMAL GEBRUIKER** :small_blue_diamond:\nHelaas <:SkyeFoiMal:823046654374314044> u kunt deze opdracht niet gebruiken omdat u geen premium gebruiker bent op **Hope Support Server**.",
+    "S_BACKUP_APAGAR2": "💡 Premium is een voordeel voor gebruikers die de ondersteuningsserver van Hope een boost geven. {{prefix}}Hope",
+    "S_BACKUP_APAGAR3": "U moet een geldige back-up-ID opgeven om te verwijderen",
+    "S_BACKUP_APAGAR4": "** BACK-UP VERWIJDEREN**",
+    "S_BACKUP_APAGAR5": "** NIEUWE BACK-UP VERLET**\n Auteur: {{author}}",
+    "S_BACKUP_APAGAR6": "Geen back-up gevonden voor {{backupID}}"
+}

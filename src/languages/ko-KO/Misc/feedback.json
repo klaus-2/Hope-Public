@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Hope의 서버에 그녀에 대한 피드백을 남겨주세요.",
+    "USAGE": "피드백 <stars> <comment>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "피드백 <stars> <comment>",
+    "EXAMPLE": "피드백 5 Hope는 서버의 모든 요구 사항을 충족하는 훌륭한 봇입니다.",
+    "EFEED_DESC": "새 피드백 수신",
+    "EFEED_DESC1": "별:",
+    "EFEED_DESC2": "코멘트:",
+    "EFEED_DESC3": "제출자",
+    "EFEED_DESC4": "명령 {{prefix}}피드백을 사용하여 Hope 피드백 남기기",
+    "EFEED_DESC5": "<:스카이:823047534577975366> 귀하의 피드백이 스카이 서포트 서버로 성공적으로 전송되었습니다!"
+}

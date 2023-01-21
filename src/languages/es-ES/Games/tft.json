@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Muestra la clasificación de un usuario en TFT.",
+    "USAGE": "tft <nick>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "tft <nick>",
+    "EXAMPLE": "tft yassuo"
+}

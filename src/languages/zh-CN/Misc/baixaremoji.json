@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "从某台服务器下载 PNG 或 GIF 格式的表情符号！",
+    "USAGE": "下载表情符号 <emoji>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "下载表情符号 <emoji>",
+    "EXAMPLE": "下载 emoji 表情符号",
+    "EBEM_DESC": "表情符号已成功转换为链接！",
+    "EBEM_DESC1": "链接：",
+    "EBEM_DESC2": "[点击这里下载] ({{Link}})",
+    "EMOJI_INVALIDO": "请提供有效的表情符号！",
+    "EMOJI_PADRÃO": "标准表情符号无法转换为下载。"
+}

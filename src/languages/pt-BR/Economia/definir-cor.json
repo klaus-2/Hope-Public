@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Define a cor usada em seu perfil.",
+    "USAGE": "definir-cor <hex>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "definir-cor <hex>",
+    "EXAMPLE": "definir-cor #e567da",
+    "COR": "**<@{{author}}>**, por favor forneça um HEX válido para a cor.\nVocê pode ir em [Google Color Picker](https://www.google.com/search?q=color+picker) para obter o hex desejado.\nAlém disso, você também pode digitar `default` para reverter a cor para padrão.",
+    "COR1": "a cor de seu perfil foi atualizada para"
+}

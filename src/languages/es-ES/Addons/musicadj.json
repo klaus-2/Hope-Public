@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Ativo o negativo para añadir niveles de deción.",
+    "USAGE": "musicadj <ativar | desativar>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "musicadj <ativar | desativar>",
+    "EXAMPLE": "musicdj habilitar"
+}

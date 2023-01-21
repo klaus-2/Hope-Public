@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Geeft de rangorde weer van de rijkste mensen op de server.",
+    "USAGE": "moneylb\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "moneylb",
+    "EXAMPLE": "moneylb",
+    "MAIS_RICOS7": "🏆 Rang van de rijkste",
+    "MAIS_RICOS8": "<User unknown>",
+    "MAIS_RICOS9": "is gerangschikt als de rijkste met",
+    "MAIS_RICOS10": "skcoins in totaal!"
+}

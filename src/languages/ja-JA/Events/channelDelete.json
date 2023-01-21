@@ -1,0 +1,8 @@
+{
+    "CHANNEL_CREATE": "テキストチャンネル",
+    "CHANNEL_CREATE1": "ボイスチャンネル",
+    "CHANNEL_CREATE2": "カテゴリー",
+    "CHANNEL_DELETE": "ザの",
+    "CHANNEL_DELETE1": "は削除されました",
+    "CHANNEL_DELETE2": "[イベント — チャンネルが削除されました]"
+}

@@ -1,0 +1,23 @@
+{
+    "DESCRIPTION": "详细获取上述用户的所有状态活动。",
+    "USAGE": "用户活动\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "用户活动 [user]",
+    "EXAMPLE": "用户活动 @Hope",
+    "EUAT_DESC": "** 没有状态 **",
+    "EUAT_DESC1": "此用户没有自定义状态！",
+    "EUAT_DESC2": "** 状态 **",
+    "EUAT_DESC3": "** 个性化状态 **",
+    "EUAT_DESC4": "没有 Emoji",
+    "EUAT_DESC5": "当前活动为 {{user}}",
+    "EUAT_DESC6": "** 类型 **",
+    "EUAT_DESC7": "正在玩",
+    "EUAT_DESC8": "** 应用程序 **",
+    "EUAT_DESC9": "** 详情 **",
+    "EUAT_DESC10": "没有细节",
+    "EUAT_DESC11": "** 在工作 **",
+    "EUAT_DESC12": "Spotify | 歌曲信息",
+    "EUAT_DESC13": "这首歌的名字",
+    "EUAT_DESC14": "专辑",
+    "EUAT_DESC15": "作者",
+    "EUAT_DESC16": "听音乐"
+}

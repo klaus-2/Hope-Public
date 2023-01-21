@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Verwischt ein Bild.",
+    "USAGE": "verwischt [user] | [attached]\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "verschwommen [user] | [attached]",
+    "EXAMPLE": "verschwommen @Hope | verwischt [attached]"
+}

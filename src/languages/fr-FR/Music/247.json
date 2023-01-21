@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Restez sur le salon vocal même si personne ne s'y trouve.",
+    "USAGE": "247\n💡**Exemple**: {{EXAMPLE}}",
+    "USAGEE": "247",
+    "EXAMPLE": "247",
+    "VINTEQUATRO": "Le mode 24/7 est maintenant {{toggle}}.",
+    "VINTEQUATRO1": "on",
+    "VINTEQUATRO2": "désactivée"
+}

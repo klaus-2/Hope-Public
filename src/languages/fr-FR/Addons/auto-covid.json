@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Configure l'extension Auto-Covid.",
+    "USAGE": "auto-covid | <channelID>",
+    "USAGEE": "auto-covid | <channelID>",
+    "EXAMPLE": "auto-covid 62349322567745\n💡**Example**: {{EXAMPLE}}",
+    "CAC_TITULO": "Paramètres: `Auto-Covid`",
+    "CAC_FIELD": "<:Informao:823004619805294643> Addon de publication automatique pour des informations mises à jour sur covid-19 toutes les 1 heure.",
+    "CAC_FIELD1": "Chaîne",
+    "CAC_FIELD2": "Statut",
+    "CAC_FIELD3": "`Configurer l'extension`",
+    "CORONA_DESCRIÇÃO": "La permission `ADMINISTRATOR` est nécessaire pour utiliser cette commande.",
+    "CORONA_DESCRIÇÃO1": "L'Addon **AUTO-COVID** a été réinitialisé car aucun canal n'a été fourni.",
+    "CORONA_DESCRIÇÃO2": "Le module **AUTO-CORONA** a été défini avec succès sur <#{{channel}}>"
+}

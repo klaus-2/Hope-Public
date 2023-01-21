@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "informatie over Hope.",
+    "USAGE": "Hope\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "Hope",
+    "EXAMPLE": "Hope",
+    "Hope": "Hallo, ik ben {{user}}",
+    "Hope1": "Hieronder is een beetje over mij",
+    "Hope2": "{{user}} is een volledig uitgeruste en aanpasbare Bot voor Discord. Ze heeft **15 categorieën** commando's met een som van meer dan **350 commando's ** in totaal, met muzieksysteem, moderatie, een compleet logsysteem, een anti-raid systeem en nog veel meer.\n\nDus voel je vrij om Hope om hulp te vragen wanneer je het nodig hebt, oké?"
+}

@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "réinitialiser le robot.",
+    "USAGE": "re\n💡**Exemple**: {{EXAMPLE}}",
+    "USAGEE": "re",
+    "EXAMPLE": "re",
+    "HRE_DESC": ":white_check_mark: **Redémarrage du Ciel !**",
+    "HRE_DESC1": "Cela peut prendre quelques secondes...",
+    "HRE_DESC2": ":white_check_mark: Redémarrage du Ciel !\nCela peut prendre quelques secondes..."
+}

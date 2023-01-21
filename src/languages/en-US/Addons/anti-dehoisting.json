@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Configures the Auto-Addon Anti-Dehoisting module.",
+    "USAGE": "anti-dehoisting\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "anti-dehoisting",
+    "EXAMPLE": "anti-dehoisting 2",
+    "DEHOISTING": "enable",
+    "DEHOISTING1": "`[AUTO-MOD]` Anti-Dehoisting has been successfully activated.",
+    "DEHOISTING2": "disable",
+    "DEHOISTING3": "`[AUTO-MOD]` Anti-Dehoisting has been successfully disabled."
+}

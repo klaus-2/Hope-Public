@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "verkrijg de tekst van het nummer.",
+    "USAGE": "songtekst [song]\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "songtekst [song]",
+    "EXAMPLE": "songtekst anker - novo amor",
+    "LETRA": "Ik ben op zoek naar de teksten, houd <:SkyeDetetive:823259704443535450>",
+    "LETRA1": "Geen songtekst gevonden"
+}

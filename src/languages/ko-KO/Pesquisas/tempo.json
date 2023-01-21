@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "를 사용하여 도시의 기상 정보 검색이 가능합니다.",
+    "USAGE": "날씨 <localization>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "날씨 <localization>",
+    "EXAMPLE": "날씨 뉴욕 | 날씨 뉴욕",
+    "TEMPO": "열 센세이션:",
+    "TEMPO1": "도",
+    "TEMPO2": "시간대:",
+    "TEMPO3": "학위 유형:",
+    "TEMPO4": "위도 및 경도:",
+    "TEMPO5": "잘못된 위치",
+    "TEMPO_TITULO": "날씨 - {{place}}",
+    "TEMPO_DESCRIÇÃO": "온도 단위는 약간의 시간이 다를 수 있습니다.",
+    "TEMPO6": "온도:",
+    "TEMPO7": "스카이 텍스트:",
+    "TEMPO8": "습도:",
+    "TEMPO9": "풍속:",
+    "TEMPO10": "관측 시간:",
+    "TEMPO11": "바람 디스플레이:"
+}

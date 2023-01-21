@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "사용자를 때립니다.",
+    "USAGE": "슬랩 [user]",
+    "USAGEE": "슬랩 [user]",
+    "TAPA_DESCRIÇÃO": "<@{{member}}>, 제발 자신을 때리지 마세요!",
+    "TAPA_DESCRIÇÃO1": "**나**",
+    "TAPA_DESCRIÇÃO2": "때렸다",
+    "TAPA_HopeFRASE": "(；；✿) 죄송합니다.그들을 때릴 수는 있지만 제발 날 때리지 마세요...",
+    "TAPA_DESC": " 과 ",
+    "TAPA_DESC1": ", 그리고 ",
+    "TAPA_DESC2": "나를"
+}

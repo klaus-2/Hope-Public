@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "ユーザーと結婚する。",
+    "USAGE": "marry <user>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "marry <user>",
+    "EXAMPLE": "marry @Hope",
+    "FCASAR_DESC": "🙁 | <@{{author}}>、お前は独身だ。",
+    "FCASAR_DESC1": "結婚するには{{prefix}}marry <user>を使います。",
+    "FCASAR_DESC2": "君はと結婚している",
+    "FCASAR_DESC3": "以来 ({{date}})",
+    "FCASAR_DESC4": "ただの人は見つからなかった",
+    "FCASAR_DESC5": "結婚したいですか",
+    "FCASAR_DESC6": "で答える:``はい`` または ``いいえ``",
+    "FCASAR_DESC7": "君はの提案を拒否した",
+    "FCASAR_DESC8": "おめでとう結婚してる、ずっと君を愛してる 💕"
+}

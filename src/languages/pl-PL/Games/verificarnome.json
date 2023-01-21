@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Sprawdź, czy w League of Legends jest imię przywoływacza.",
+    "USAGE": "verifyname\n💡 **Przyklad**: {{EXAMPLE}}",
+    "USAGEE": "verifyname <nick>",
+    "EXAMPLE": "verifyname yassuo",
+    "VERFNOME": "Sprawdzanie pseudonimu: {{arg}}",
+    "VERFNOME1": "Ten pseudonim jest dostępny.",
+    "VERFNOME2": "Ten pseudonim jest już w użyciu."
+}

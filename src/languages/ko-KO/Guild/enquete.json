@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "사용자가 응답할 수 있는 설문 조사를 작성합니다.",
+    "USAGE": "투표 <question>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "투표 <question>",
+    "EXAMPLE": "설문 조사 오늘은 비가 올 건가요?",
+    "POLL_TITLE": "투표 작성자 {{username}}",
+    "POLL_FOOTER": "투표에 반응하십시오."
+}

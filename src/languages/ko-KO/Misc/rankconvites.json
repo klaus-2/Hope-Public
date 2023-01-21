@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "서버의 초대 순위를 표시합니다.",
+    "USAGE": "랭크 인비츠\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "랭킨브라이트",
+    "EXAMPLE": "랭킨브라이트",
+    "ERANKC_DESC": "<:SkyeComvergonha:823248929508032513> 오, 이 서버에서 초대장을 볼 수 있는 권한이 없는 것 같습니다... 관리부에 알리고 다시 시도하십시오.",
+    "ERANKC_DESC1": "초대장",
+    "ERANKC_DESC2": "🏆 초대장 랭킹 🏆"
+}

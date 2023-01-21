@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "segnala un utente.",
+    "USAGE": "report <user> [reason]\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "relazione <user> [reason]",
+    "EXAMPLE": "rapporto @Hope test",
+    "REPORTAR": "{{author}} ha segnalato un utente",
+    "REPORTAR1": "<:Utente:823004014055522326> Membro:",
+    "REPORTAR2": "<:Moderao:823004537756844073> Segnalato da:",
+    "REPORTAR3": "<:Proxima:823004353316126721> Segnalato in:",
+    "REPORTAR4": "<:Frase:823004814551810068> Motivo:",
+    "REPORTAR5": "<@{{user}}> è stato segnalato con successo."
+}

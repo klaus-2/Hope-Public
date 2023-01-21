@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "erhalten Sie die Uptime des Bots.",
+    "USAGE": "Uptime\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "uptime",
+    "EXAMPLE": "uptime",
+    "EUP_DESC": "Himmel | Uptime",
+    "EUP_DESC1": "Online seit"
+}

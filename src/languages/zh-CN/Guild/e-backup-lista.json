@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "显示已创建备份的列表。",
+    "USAGE": "电子备份列表\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "电子备份清单",
+    "EXAMPLE": "电子备份清单",
+    "E_BACKUP_LISTA": ":x: | ** 您没有创建任何备份。**",
+    "E_BACKUP_LISTA1": ":x: | ** 您没有创建任何备份。**",
+    "E_BACKUP_LISTA2": "这是你的备份清单",
+    "E_BACKUP_LISTA3": "服务器名称 | 备份 ID | 表情符号数量",
+    "E_BACKUP_LISTA4": "你好， {{author}}"
+}

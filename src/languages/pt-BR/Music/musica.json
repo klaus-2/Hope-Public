@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Mostra a música que está tocando no momento.",
+    "USAGE": "musica\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "musica",
+    "EXAMPLE": "musica | ta",
+    "MUSICA": "🔴 AO VIVO",
+    "MUSICA1": "» Tocando agora:",
+    "MUSICA2": "Link de acesso",
+    "MUSICA3": "clique aqui",
+    "MUSICA4": "Solicitado por",
+    "MUSICA5": "Duração"
+}

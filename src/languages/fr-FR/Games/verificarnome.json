@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Vérifiez s'il y a un nom d'invocateur dans la Ligue des Légendes.",
+    "USAGE": "verifyname\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "verifyname <nick>",
+    "EXAMPLE": "verifyname yassuo",
+    "VERFNOME": "Vérification du pseudo : {{arg}}",
+    "VERFNOME1": "Ce pseudo est disponible.",
+    "VERFNOME2": "Ce pseudo est déjà utilisé."
+}

@@ -1,0 +1,56 @@
+const { Schema, model } = require('mongoose');
+
+const welcomeDBSchema = Schema({
+    _id: String,
+	jsonCode: { type: String, default: null },
+	jsonCodeLeave: { type: String, default: null },
+    welcomeToggle: { type: Boolean, default: true },
+    leaveToggle: { type: Boolean, default: true },
+    leavePrivateToggle: { type: Boolean, default: false },
+    welcomePrivateToggle: { type: Boolean, default: false },
+    welcomeMessageToggle: { type: Boolean, default: false },
+    welcomeEmbedToggle: { type: Boolean, default: false },
+    leaveEmbedToggle: { type: Boolean, default: false },
+    welcomeRoleToggle: { type: Boolean, default: false },
+    welcomeGoodbyeToggle: { type: Boolean, default: false },
+	welcomeRoleGive: { type: String, default: null },
+	leaveGoodbyeText: { type: String, default: '**{user}** just left the server.' },
+    welcomeMessageChannel: { type: String, default: '00' },
+    leaveChannel: { type: String, default: '00' },
+    welcomeMessageText: { type: String, default: 'Hello {user}, Welcome to **{guild}**!' },
+    welcomeEmbed: {
+		title: { type: String, default: `Welcome!` },
+		titleURL: { type: String, default: `` },
+		description: { type: String, default: `Welcome {user} to {guild}, we now have {memberCount} Members!` },
+		footer: { type: String, default: `` },
+		footerIcon: { type: String, default: `` },
+		color: { type: Number, default: 4321431 },
+		timestamp: { type: String, default: false },
+		thumbnail: { type: String, default: `` },
+		image: { type: String, default: `` },
+		author: {
+			name: { type: String, default: `` },
+			url: { type: String, default: `` },
+			icon: { type: String, default: `` },
+		},
+	},
+    leaves: { type: Array, default: [] },
+    leaveEmbed: {
+		title: { type: String, default: `Welcome!` },
+		titleURL: { type: String, default: `` },
+		description: { type: String, default: `Welcome {user} to {guild}, we now have {memberCount} Members!` },
+		footer: { type: String, default: `` },
+		footerIcon: { type: String, default: `` },
+		color: { type: Number, default: 4321431 },
+		timestamp: { type: String, default: false },
+		thumbnail: { type: String, default: `` },
+		image: { type: String, default: `` },
+		author: {
+			name: { type: String, default: `` },
+			url: { type: String, default: `` },
+			icon: { type: String, default: `` },
+		},
+	},
+});
+
+module.exports = model('welcome', welcomeDBSchema);

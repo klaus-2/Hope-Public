@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "オートカーゴダスカイのエステサービス業のコンフィギュラー。",
+    "USAGE": "musica-cargodj <ID do novo cargo>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "move <music position> <new position>",
+    "EXAMPLE": "4 8を動かす",
+    "MUSICA_CARGODJ": "設定: `Music`",
+    "MUSICA_CARGODJ1": "<: v_: 855859391835799582> O `DJロール`が正常に更新されました。",
+    "MUSICA_CARGODJ2": "DJロール",
+    "MUSICA_CARGODJ3": "から変更されました"
+}

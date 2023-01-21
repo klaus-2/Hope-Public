@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Pok een gebruiker.",
+    "USAGE": "Pok <user>",
+    "USAGEE": "Pok <user>",
+    "CUTUCAR_DESCRIÇÃO": "\\❌ **<@{{author}}>**, wie moet ik nou poken?",
+    "CUTUCAR_DESCRIÇÃO1": "Ik ben er al! Heb je iets nodig?",
+    "CUTUCAR_DESCRIÇÃO2": "\\❌ Dat ga ik niet doen, **<@{{author}}>**!",
+    "CUTUCAR_DESCRIÇÃO3": "naadde"
+}

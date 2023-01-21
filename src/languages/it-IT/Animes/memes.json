@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Genera un meme anime casuale dai subreddits selezionati.",
+    "USAGE": "memes\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "memes",
+    "EXAMPLE": "memes <unk> animeme <unk> ameme <unk> animememe",
+    "AMEMES_DESC": "Fallito a"
+}

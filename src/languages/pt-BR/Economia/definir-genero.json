@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Definir o genero do usuario no perfil.",
+    "USAGE": "definir-genero <genero>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "definir-genero <genero>",
+    "EXAMPLE": "definir-cor masculino",
+    "GEN": "masculino",
+    "GEN1": "feminino",
+    "GEN2": "Seu genero foi atualizado para `Masculino` com sucesso!",
+    "GEN3": "Seu genero foi atualizado para `Feminino` com sucesso!"
+}

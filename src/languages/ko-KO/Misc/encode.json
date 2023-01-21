@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "메시지를 바이너리로 인코딩합니다.",
+    "USAGE": "인코딩 <message>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "인코딩 <message>",
+    "EXAMPLE": "스카이를 인코딩하는 것은 세계 유수의 봇입니다. <3"
+}

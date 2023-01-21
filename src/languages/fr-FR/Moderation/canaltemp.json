@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "créer un canal de texte temporaire.",
+    "USAGE": "temp-channel <categoryID> <temps en minutes>\n💡**Exemple** : {{EXAMPLE}}",
+    "USAGEE": "canal temp- <categoryID> <time in minutes>",
+    "EXAMPLE": "canal temp-804851508944306237 1",
+    "CANALTEMP": "Vous avez déjà un canal temporaire.",
+    "CANALTEMP1": "Vous avez été tagué dans un canal, veuillez vérifier.",
+    "CANALTEMP2": "canal-temporal-temporaire",
+    "CANALTEMP3": "Ce salon est un salon temporaire.\nIl sera supprimé dans {{expire}} minute(s)"
+}

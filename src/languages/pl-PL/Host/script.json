@@ -1,0 +1,4 @@
+{
+    "DESCRIPTION": "Uruchamia plik skryptu.",
+    "USAGE": "skrypt <file name> [...params]"
+}

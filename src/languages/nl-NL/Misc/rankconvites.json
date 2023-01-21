@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "toon de uitnodigingsrang van de server.",
+    "USAGE": "rankinvites\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "rankinvites",
+    "EXAMPLE": "rankinvites",
+    "ERANKC_DESC": "<:SkyeComVergonha:823248929508032513> Ohhh, het lijkt erop dat ik geen machtigingen heb om uitnodigingen op deze server te zien... informeer de administratie en probeer het opnieuw.",
+    "ERANKC_DESC1": "uitnodigingen",
+    "ERANKC_DESC2": "🏆 Ranglijst uitnodigingen 🏆"
+}

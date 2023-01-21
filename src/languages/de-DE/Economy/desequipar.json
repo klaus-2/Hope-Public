@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Rüste einen bestimmten Gegenstand aus.",
+    "USAGE": "entrüsten <type>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "unequip <type>",
+    "EXAMPLE": "unequip planodefundo",
+    "DESEQUIPAR": "bitte wählen Sie eine der folgenden Optionen:",
+    "DESEQUIPAR1": "du hast nicht ausgerüstet",
+    "DESEQUIPAR2": "erfolgreich!"
+}

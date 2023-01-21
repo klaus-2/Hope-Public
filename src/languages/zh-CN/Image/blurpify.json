@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "模糊图片。",
+    "USAGE": "模糊 [user] | [attached]\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "模糊 [user] | [attached]",
+    "EXAMPLE": "模糊 @Hope | 模糊 [attached]"
+}

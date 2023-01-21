@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Desativa o audio de um usuário.",
+    "USAGE": "daudio <user> [tempo]\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "daudio <user> [tempo]",
+    "EXAMPLE": "daudio @Hope | daudio @Hope 5m",
+    "DAUDIO": "Eu não posso ensurdecer alguém que não esteja em um canal de voz."
+}

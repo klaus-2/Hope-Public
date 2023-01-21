@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Riattiva un utente.",
+    "USAGE": "unmute <user> \n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "disattiva <user>",
+    "EXAMPLE": "unmute Hope"
+}

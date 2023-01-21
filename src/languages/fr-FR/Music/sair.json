@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "déconnecte le bot du salon vocal.",
+    "USAGE": "dc\n💡**Exemple**: {{EXAMPLE}}",
+    "USAGEE": "dc",
+    "EXAMPLE": "dc"
+}

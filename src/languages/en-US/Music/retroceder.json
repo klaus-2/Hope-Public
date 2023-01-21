@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "rewind the player by the specified value.",
+    "USAGE": "rewind <time>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "rewind <time",
+    "EXAMPLE": "rewind 1:00 | rewind 1:32:00",
+    "RETROCEDER": "A song cannot be less than 0 seconds long",
+    "RETROCEDER1": "Rewinded",
+    "RETROCEDER2": "to:",
+    "RETROCEDER3": "Time in invalid format"
+}

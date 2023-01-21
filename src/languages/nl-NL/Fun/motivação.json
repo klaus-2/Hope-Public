@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "ontvang een motiverende offerte om je dag te verbeteren.",
+    "USAGE": "motivatie\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "motivatie",
+    "EXAMPLE": "motivatie",
+    "FMOT_DESC": "./resources/quotes/motivational-en.json",
+    "FMOT_DESC1": "Motiverende offerte"
+}

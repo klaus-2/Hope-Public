@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Reabrir um bilet.",
+    "USAGE": "bilet-reabrir\n💡 **Przykład: {{EXAMPLE}}",
+    "USAGEE": "t-close",
+    "EXAMPLE": "t-close"
+}

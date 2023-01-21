@@ -1,0 +1,19 @@
+{
+    "DESCRIPTION": "Genereer een willekeurige nsfw-afbeelding met behulp van de meegeleverde query. Typ `ansfw list` om alle beschikbare categorieën voor dit commando terug te geven.",
+    "USAGE": "anime-nsfw <category>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "anime-nsfw lijst",
+    "EXAMPLE": "ansfw list | ansfw blowjob | anime-nsfw classic",
+    "ANSFW_AUTHOR": "Willekeurige boru: NSFW",
+    "ANSFW_FIELD": "Karakter",
+    "ANSFW_FIELD1": "auteursrechtelijk",
+    "ANSFW_FIELD2": "Artiest (en)",
+    "ANSFW_FIELD3": "Meta",
+    "ANSFW_FIELD4": "Uploader",
+    "ANSFW_FIELD5": "Tags",
+    "ANSFW_FIELD6": "Tags, Willekeurig, Afbeeldingen, Hentai, Buit, reddit",
+    "ANSFW_AUTHOR1": "Anime-NSFW-opdrachtcategorieën.",
+    "ANSFW_FIELD7": "Sorry,",
+    "ANSFW_FIELD8": "het is geen geldige categorie nsfw. Enter",
+    "ANSFW_FIELD9": "om beschikbare categorieën te bekijken.",
+    "ANSFW_FIELD10": "volg dit voorbeeld om dit commando correct te gebruiken:"
+}

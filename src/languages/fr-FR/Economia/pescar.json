@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Faites une excursion de pêche.",
+    "USAGE": "poisson\n💡**Exemple**: {{EXAMPLE}}",
+    "USAGEE": "fish",
+    "EXAMPLE": "fish",
+    "PESCAR": "<:cancel:855859391709577266> Oh! Depuis que vous avez libéré une ligne, les poissons sont toujours effrayés.\nPeut-être en quelques uns",
+    "PESCAR1": "et",
+    "PESCARR": "ils sont déjà calmes pour vous de les pécher à nouveau <:SkyeIssoai2:823248929700446228>",
+    "PESCAR2": "🎣 Vous avez lancé votre ligne et pris un",
+    "PESCAR3": "Après l'avoir vendu chez les poissonniers de votre Pierre, vous avez obtenu **$",
+    "PESCAR4": "skcoins!",
+    "PESCAR5": "list",
+    "PESCAR6": "rewards",
+    "PESCAR7": "Liste des noms de poissons et des récompenses que vous pouvez obtenir",
+    "PESCAR8": "```\n🔧Poubelle      :: Récompense maximale: 5, Récompense minimale: 1\n🐟Common    :: Récompense maximale: 25, Récompense minimale: 10\n🐠Uncommon  :: Récompense maximale: 50, Récompense minimale: 18\n🦑Rare      :: Récompense maximale: 75, Récompense minimale: 30\n🐋Légendaire :: Récompense maximale: 100, Récompense minimale: 50```\n**Toutes les récompenses sont aléatoires de max / min **​"
+}

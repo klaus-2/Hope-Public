@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Remove uma música do playlist.",
+    "USAGE": "p-remover <nome da playlist> <posição> [posição]\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "p-remover <nome da playlist> <posição> [posição]",
+    "EXAMPLE": "p-remover Teste 3 | p-remover Teste 3 5",
+    "P_REMOVER": "Não é uma opção.",
+    "P_REMOVER1": "A Musica foi removida da playlist com sucesso.",
+    "P_REMOVER2": "Nenhuma playlist encontrada."
+}

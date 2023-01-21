@@ -1,0 +1,18 @@
+{
+    "DESCRIPTION": "Ver información de un servidor en FIVEM.",
+    "USAGE": "fivem <IP:PORT>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "cinco <IP:PORT>",
+    "EXAMPLE": "cinco ger-h10.vibegames.net:30196",
+    "FIVEM": "Estadísticas del servidor",
+    "FIVEM1": "Estado del servidor:",
+    "FIVEM2": "Actualmente hay",
+    "FIVEM3": "jugadores conectados.",
+    "FIVEM4": "ID de jugador",
+    "FIVEM5": "Nombre del jugador",
+    "FIVEM6": "Se ha producido un error al intentar conectarse a un servidor (FIVEM).",
+    "FIVEM7": "no disponible",
+    "FIVEM8": "Actualmente no hay jugadores online.",
+    "FIVEM9": "Ninguna",
+    "FIVEM10": "Consejo Hope",
+    "FIVEM11": "💡 *El servidor está desconectado o la IP:PORT del servidor es incorrecta. *"
+}

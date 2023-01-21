@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "whowouldwin イメージを作成します。",
+    "USAGE": "whowouldwin <user1> [user2]\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "whowouldwin <user1> [user2]",
+    "EXAMPLE": "誰に勝つだろう @user @user | 誰が勝つだろう @user <attachment>"
+}

@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Разорвать пользователя.",
+    "USAGE": "порезать [user]",
+    "USAGEE": "порезать [user]",
+    "TAPA_DESCRIÇÃO": "<@{{member}}>, Пожалуйста, не ударите!",
+    "TAPA_DESCRIÇÃO1": "**меня**",
+    "TAPA_DESCRIÇÃO2": "скрещен",
+    "TAPA_HopeFRASE": "(;<unk> ;<unk> ) Мне жаль. Вы можете побить их, но пожалуйста, не нажимайте меня...",
+    "TAPA_DESC": " и ",
+    "TAPA_DESC1": ", и ",
+    "TAPA_DESC2": "я"
+}

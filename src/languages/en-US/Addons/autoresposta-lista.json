@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Gives a list of automatic responses on a server",
+    "USAGE": "autoresponse-list\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "autoresponse-list",
+    "EXAMPLE": "autoresponse-list",
+    "LISTA_RESPOSTA": "<:cancel:855859391709577266> The current guild has no Custom Commands!",
+	"LISTA_RESPOSTA1": "Custom Commands",
+	"LISTA_RESPOSTA2": "The current guild has no Custom Commands!"
+}

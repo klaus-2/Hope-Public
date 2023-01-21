@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Maak een QR-code aan.",
+    "USAGE": "qrcode <text / file>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "qrcode <text / file>",
+    "EXAMPLE": "qrcode https://www.google.com/ | qrcode <attachment> | qrcode hi, wat is er aan de hand",
+    "QR1": "Hallo",
+    "QR2": "Je hebt omgezet:",
+    "QR3": "in QRCODE succesvol."
+}

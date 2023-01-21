@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "显示用户的个人资料横幅。",
+    "USAGE": "横幅 <user>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "横幅 <user>",
+    "EXAMPLE": "旗帜 @User",
+    "BANNER": "嗨，我是 Hope。",
+    "BANNER1": "以下是 <@{{user}}> 横幅。",
+    "BANNER2": "哎呀！此用户没有横幅。",
+    "BANNER3": "如果你想下载它，[点击这里] ({{banner}})。"
+}

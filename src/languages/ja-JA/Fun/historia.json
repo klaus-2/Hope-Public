@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "今日の歴史的事実を得るためである。",
+    "USAGE": "history\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "歴史",
+    "EXAMPLE": "歴史",
+    "FHIST_DESC": "今日の歴史的事実-出典:wikipedia.org",
+    "FHIST_DESC1": "申し訳ありませんが、API は現在動作していません！",
+    "FHIST_DESC2": "年:"
+}

@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "przewiń odtwarzacz o określoną wartość.",
+    "USAGE": "przewijanie <time>\n💡 **Przyklad**: {{EXAMPLE}}",
+    "USAGEE": "przewiń <czas",
+    "EXAMPLE": "przewijanie 1:00 | przewijanie 1:32:00",
+    "RETROCEDER": "Piosenka nie może być krótsza niż 0 sekund",
+    "RETROCEDER1": "Przewijany",
+    "RETROCEDER2": "do:",
+    "RETROCEDER3": "Czas w nieprawidłowym formacie"
+}

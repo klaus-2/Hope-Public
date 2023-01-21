@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Placez un pari sur la roulette pour de l'argent.",
+    "USAGE": "roulette\n💡**Exemple**: {{EXAMPLE}}",
+    "USAGEE": "roulette",
+    "EXAMPLE": "roulette",
+    "ROLETA": "<:cancel:855859391709577266> Spécifiez un montant à jouer | {{prefix}}roulette <color> <quantity>",
+    "ROLETA1": "<:cancel:855859391709577266> Vous pariez plus que ce que vous avez",
+    "ROLETA2": "<:cancel:855859391709577266> Spécifiez une couleur | Rouge [1.5x] (normal) Noir [2x] (dur) Bleu [15x](rare)",
+    "ROLETA3": "noir",
+    "ROLETA4": "rouge",
+    "ROLETA5": "bleu",
+    "ROLETA6": "🔵 Vous avez gagné {{dinheiro}} skcoins\n\nMultiplié par : 15x",
+    "ROLETA7": "🔴 Vous avez gagné {{dinheiro}} skcoins\n\nMultiplié par : 1.5x",
+    "ROLETA8": "⬛ Vous avez gagné {{dinheiro}} skcoins\n\nMultiplié par : 2x",
+    "ROLETA9": "<:cancel:855859391709577266> Vous avez perdu des skcoins {{dinheiro}}.\n\nMultiplié par : 0x"
+}

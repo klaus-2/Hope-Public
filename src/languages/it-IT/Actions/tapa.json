@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Schiaffia un utente.",
+    "USAGE": "schiaffo [user]",
+    "USAGEE": "schiaffo [user]",
+    "TAPA_DESCRIÇÃO": "<@{{member}}>, Per favore non colpiti!",
+    "TAPA_DESCRIÇÃO1": "**me**",
+    "TAPA_DESCRIÇÃO2": "schiaffeggiato",
+    "TAPA_HopeFRASE": "(;<unk> ;<unk> ) Mi dispiace. Puoi schiaffeggiarli, ma per favore n-non mi colpisci...",
+    "TAPA_DESC": " e ",
+    "TAPA_DESC1": ", e ",
+    "TAPA_DESC2": "me"
+}

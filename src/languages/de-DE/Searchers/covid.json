@@ -1,0 +1,17 @@
+{
+    "DESCRIPTION": "Erhalten Sie Echtzeitinformationen über Covid-19 in einem Land.",
+    "USAGE": "covid [country]\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "covid [country]",
+    "EXAMPLE": "covid united States | covid",
+    "COVID": "Coronavirus Statistik",
+    "COVID1": "Bestätigte Fälle",
+    "COVID2": "Heutige Fälle",
+    "COVID3": "Heute Tode",
+    "COVID4": "Aktiv",
+    "COVID5": "Wiederhergestellt",
+    "COVID6": "Tode",
+    "COVID7": "Tests",
+    "COVID8": "Fälle pro Mil",
+    "COVID9": "Tode pro Meile",
+    "COVID10": "Zuletzt aktualisiert"
+}

@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Stay on the voice channel even if no one is on it.",
+    "USAGE": "247\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "247",
+    "EXAMPLE": "247",
+    "VINTEQUATRO": "{{toggle}} __24/7__ mode.",
+    "VINTEQUATRO1": "<:defaultdisabled:1025607277736112248><:enabled:1025606172272762972> **Enabled**",
+    "VINTEQUATRO2": "<:disabled:1025606174986469446><:defaultenabled:1025606173673672734> **Disabled**"
+}

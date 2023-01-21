@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Desactivar el silencio de un usuario.",
+    "USAGE": "activar silencio <user> \n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "activar silencio <user>",
+    "EXAMPLE": "activar el sonido de Hope"
+}

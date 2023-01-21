@@ -1,0 +1,23 @@
+{
+    "DESCRIPTION": "Muestra el rango más alto de un usuario en League of Legends.",
+    "USAGE": "elo <nick>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "elo <nick>",
+    "EXAMPLE": "elo yassuo",
+    "ELO": "se encuentra actualmente en el nivel",
+    "ELO1": "Elo",
+    "ELO2": "W/L",
+    "ELO3": "Índice de victorias",
+    "ELO4": "LP",
+    "ELO5": "na1",
+    "ELO6": "GRAN MAESTRO",
+    "ELO7": "BRONCE",
+    "ELO8": "HIERRO",
+    "ELO9": "PLATA",
+    "ELO10": "ORO",
+    "ELO11": "PLATINO",
+    "ELO12": "DIAMANTE",
+    "ELO13": "MAESTRO",
+    "ELO14": "DESAFIADOR",
+    "ELO15": "Perfil de League of Legends",
+    "ELO16": "Foi mal, mas esse invocador no existe.\nVerifique se escreveu o nome corretamente e tente outra vez."
+}

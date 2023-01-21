@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "사용자를 절전 모드로 전환합니다.",
+    "USAGE": "슬립 [user]",
+    "USAGEE": "슬립 [user]",
+    "DORMIR_DESCRIÇÃO": "<@{{author}}> 잠들었습니다!",
+    "DORMIR_DESCRIÇÃO1": "함께 잠들었다.",
+    "DORMIR_DESCRIÇÃO2": "<@{{author}}>, 나는 졸린 게 아니야..."
+}

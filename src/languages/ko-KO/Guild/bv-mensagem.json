@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "서버에 가입할 때 채널에서 사용자에게 전송될 메시지를 구성합니다.",
+    "USAGE": "bv-메시지 <message>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "bv-메시지 <message>",
+    "EXAMPLE": "bv-message Hello {user}, Welcome to **{server}**!",
+    "BV_MENSAGEM": "<:v_:855859391835799582> 메시지가 다음 (으) 로 업데이트되었습니다."
+}

@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "音楽を再開する。",
+    "USAGE": "resume\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "再開します",
+    "EXAMPLE": "再開します"
+}

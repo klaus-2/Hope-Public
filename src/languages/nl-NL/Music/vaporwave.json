@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Breng het vaporwave-effect aan in muziek.",
+    "USAGE": "vaporwave\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "dampgolf",
+    "EXAMPLE": "vaporwave | vaporwave off",
+    "OFF": "Deactivering van het effect **Vaporwave**. <:SkyeOuvindoMusica:823046654554144768> Dat kan een paar seconden duren...",
+    "VAPOR_WAVE1": "<:v_:855859391835799582> **Vaporwave** is gedeactiveerd.",
+    "ON": "Activeer het effect **Vaporwave**. <:SkyeDana:823046653371482114> Dat kan een paar seconden duren...",
+    "VAPOR_WAVE2": "<:v_:855859391835799582> **Vaporwave** is geactiveerd."
+}

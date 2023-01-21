@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Fala dla kogoś.",
+    "USAGE": "fala [user]",
+    "USAGEE": "fala [user]",
+    "ACENAR_DESCRIÇÃO1": "<@{{author}}> porażony!",
+    "ACENAR_DESCRIÇÃO2": "<@{{user}}> wymknął z powrotem",
+    "ACENAR_DESCRIÇÃO3": " falowany do "
+}

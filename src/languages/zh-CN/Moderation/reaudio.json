@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "重新激活用户的音频。",
+    "USAGE": "undeafen <user>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "Undeafen <user>",
+    "EXAMPLE": "Undeafen @Hope",
+    "REAUDIO": "我不能震耳不在语音频道上的人。"
+}

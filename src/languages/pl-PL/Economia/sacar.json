@@ -1,0 +1,23 @@
+{
+    "DESCRIPTION": "Wypłacaj pieniądze bezpośrednio z konta bankowego.",
+    "USAGE": "wycofać <value> | [all]\n💡 **Przykład: {{EXAMPLE}}",
+    "USAGEE": "wycofać <value> | [all]",
+    "EXAMPLE": "wycofać 5000 | wycofać wszystkie",
+    "SACAR": "wszyscy",
+    "SACAR1": "<:cancel:855859391709577266> **Nie masz pieniędzy do rysowania! **",
+    "SACAR2": "<:v_:855859391835799582> Wypłacono wszystkie pieniądze ze swojego konta bankowego. <:Skyetimida:823046655632211989> Uważaj na obrabowanie!",
+    "SACAR3": "<:cancel:855859391709577266> Określ kwotę do wypłaty!",
+    "SACAR4": "<:cancel:855859391709577266> Twoja wartość nie jest liczbą!",
+    "SACAR5": "<:cancel:855859391709577266> Nie można wypłacić ujemnych pieniędzy!",
+    "SACAR6": "<:cancel:855859391709577266> Nie masz dużo pieniędzy w banku! `użyj salda {{prefix}}”, aby dowiedzieć się, ile posiadasz.",
+    "SACAR7": "Masz to.",
+    "SACAR8": "skcoins z konta bankowego!",
+    "SACAR9": "vou nie mają wystarczająco dużo pieniędzy w banku, aby kontynuować tę transakcję.",
+    "SACAR10": "Masz tylko **R $",
+    "SACAR11": "skcoins** na Twoim koncie.\nNadal pozostało **$",
+    "SACAR12": "skcoins**, aby dokończyć transakcję.\n(**Pamiętaj, że wliczono opłatę transakcyjną w wysokości 5%)",
+    "SACAR13": "Aby wypłacić wszystkie pieniądze na raz, wpisz",
+    "SACAR14": "narysuj wszystkie",
+    "SACAR15": "nie możesz wypłacić tej dużej kwoty pieniędzy! \n(Możesz mieć tylko do 50 tysięcy skcoins w portfelu, dla bezpieczeństwa).",
+    "SACAR16": "(** +5% opłaty transakcyjnej wliczone**)."
+}

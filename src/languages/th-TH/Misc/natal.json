@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "say how many days till Christmas arrives.",
+    "USAGE": "xmas\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "xmas",
+    "EXAMPLE": "xmas",
+    "ENATAL_DESC": "🎅  โฮ้โฮ้โฮ้! หายไป **{{days}}** วันถึงคริสต์มาส!"
+}

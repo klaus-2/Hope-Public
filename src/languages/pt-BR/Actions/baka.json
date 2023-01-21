@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Chame alguém de idiota.",
+    "USAGE": "idiota [user]\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "idiota [user]",
+    "EXAMPLE": "idiota @Hope",
+    "IDIOTA_DESCRIÇÃO": "\\❌ Não **<@{{author}}>**, você não é idiota!"
+}

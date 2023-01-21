@@ -1,0 +1,5 @@
+{
+    "DESCRIPTION": "Activez ou désactivez le module complémentaire de niveau.",
+    "USAGE": "level <ativar | desativar>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "niveau <ativar | desativar>"
+}

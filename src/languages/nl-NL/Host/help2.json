@@ -1,0 +1,4 @@
+{
+    "DESCRIPTION": "Stuurt informatie over alle commando's die ik kan doen.",
+    "USAGE": "help [command | plugin]"
+}

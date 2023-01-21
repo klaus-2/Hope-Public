@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "为您的 Economia 卡设置颜色。",
+    "USAGE": "设置颜色 <hex>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "setcolor <hex>",
+    "EXAMPLE": "setcolor #e567da",
+    "COR": "**<@{{author}}>**，请为颜色提供有效的 HEX。\n你可以去 [谷歌拾色器] (https://www.google.com/search?q=color+picker) 获取所需的十六进制。\n此外，您还可以键入 `default `将颜色恢复为默认值。",
+    "COR1": "您的个人资料颜色已更新为"
+}

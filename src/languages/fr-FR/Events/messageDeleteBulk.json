@@ -1,0 +1,10 @@
+{
+    "MESSAGE_DELETE_BULK": "Plusieurs messages ont été supprimés dans",
+    "MESSAGE_DELETE_BULK1": "ID du canal :",
+    "MESSAGE_DELETE_BULK2": "[ÉVÉNEMENT — MESSAGES SUPPRIMÉES]",
+    "MESSAGE_DELETE_BULK3": "Nombre de messages :",
+    "MESSAGE_DELETE_BULK4": "Messages supprimés :",
+    "MESSAGE_DELETE_BULK5": "voir",
+    "MESSAGE_DELETE_BULK6": "sur le serveur",
+    "MESSAGE_DELETE_BULK7": "Supprimé.txt"
+}

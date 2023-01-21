@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Active ou désactive l'extension de commande Hope sur le serveur.",
+    "USAGE": "mod-commands <enable | disable>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "commandes mod <enable | disable>",
+    "EXAMPLE": "mod-comandos enable"
+}

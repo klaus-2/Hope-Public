@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Música ou filaを繰り返す。",
+    "USAGE": "loop [queue/song]\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "ループ [キュー/曲]",
+    "EXAMPLE": "繰り返しキュー | ループ曲 | ループ",
+    "REPETIR": "歌",
+    "ENABLED": "有効",
+    "DISABLED": "無効になっています",
+    "REPETIR3": "{{trackRepeat}} トラックリピート。",
+    "REPETIR4": "キュー",
+    "REPETIR7": "{{queueRepeat}} キュー繰り返し。"
+}

@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "根据所选主题查找图像。",
+    "USAGE": "图片 <theme>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "图片 <theme>",
+    "EXAMPLE": "图片太阳"
+}

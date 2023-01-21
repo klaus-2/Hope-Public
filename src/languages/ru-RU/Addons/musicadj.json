@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Возбудитель или уровень аддона.",
+    "USAGE": "musicadj <ativar | desativar>\n💡 **Пример**: {{EXAMPLE}}",
+    "USAGEE": "мюзикади <ativar | desativar>",
+    "EXAMPLE": "musicdj включить"
+}

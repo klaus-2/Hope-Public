@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Habilita o deshabilita el complemento de ticket.",
+    "USAGE": "setticket <enable | disable>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "setticket <enable | disable>",
+    "EXAMPLE": "setticket habilitar"
+}

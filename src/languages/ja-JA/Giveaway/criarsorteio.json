@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "ギブアウェイを始める",
+    "USAGE": "g-start <time> <number of winners> <prize>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "g-start <time> <number of winners> <prize>",
+    "EXAMPLE": "g-start 2h30m 3 ニトロクラシック",
+    "CRIAR_SORTEIO": "賞品は256文字未満である必要があります。",
+    "CRIAR_SORTEIO1": "サーバーでギブアウェイを開始しました。",
+    "CRIAR_SORTEIO2": "おっと、メンションは賞品じゃない、もう一度やり直して。",
+    "giveaway": "<: sorteio 1:823004177064132658 > **GIVEAWAY** <: Sorteio 1:823004177064132658 >",
+    "giveawayEnded": "<: Sorteio 1:823004177064132658 > **GIVEAウェイは終了しました** <: sorteio 1:823004177064132658 >",
+    "timeRemaining": "<:Tempo:823004079831384074> 残り時間:**{duration}**！",
+    "inviteToParticipate": "<: sorteio: 823004188292022303> と反応して参加しよう！",
+    "winMessage": "<: Confetti:823008227033350163> おめでとう、{winners}！{this.hostedBy} に連絡して、**{this.prize}** を受け取る！\nプレゼントリンク: {messageURL}",
+    "noWinner": "ああ 😕 なんて残念だ！有効なエントリーがないため、抽選はキャンセルされました。\nうーん。。もう一度やってみよう？",
+    "hostedBy": "💳 主催: {this.hostedBy}",
+    "winners": "🏆 {this.winnerCount} 優勝者",
+    "endedAt": "終了日時",
+    "CRIAR_SORTEIO3": "賞品は256文字未満である必要があります。",
+    "FOOTER": "ソルテイオ"
+}

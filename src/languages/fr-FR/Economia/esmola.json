@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Demandez des aumônes et recevez une petite somme d'argent.",
+    "USAGE": "alms\n💡**Exemple**: {{EXAMPLE}}",
+    "USAGEE": "aumône",
+    "EXAMPLE": "aumône",
+    "ESMOLA": "<:cancel:855859391709577266> Avez-vous déjà mendié récemment",
+    "ESMOLA1": "Recommencer dans",
+    "ESMOLA2": "et",
+    "ESMOLA3": "<:v_:855859391835799582> Vous avez supplié et reçu",
+    "ESMOLA4": "skcoins"
+}

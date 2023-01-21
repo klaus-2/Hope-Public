@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "将用户静音。",
+    "USAGE": "静音 <user> [time]\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "静音 <user> [time]",
+    "EXAMPLE": "静音 @Hope 3h"
+}

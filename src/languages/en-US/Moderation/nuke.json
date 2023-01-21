@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "erase all messages from a channel at once.",
+    "USAGE": "nuke\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "nuke",
+    "EXAMPLE": "nuke",
+    "LIMPAR": "This channel cannot be cleared! What are you thinking?",
+    "LIMPAR1": "BAM! <#{{channel}}> **has been wiped clean.**"
+}

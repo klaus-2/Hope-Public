@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "특정 헨타이에 대해서는 hanime.tv를 참조하십시오.최대 10개의 결과를 반환합니다.",
+    "USAGE": "하니메 <name>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "하니니 <anime>",
+    "EXAMPLE": "하니메 | 검색 헨타이 만키츠 해프닝 | 하니검색 드롭 아웃 | 하니 타마시이 삽입물",
+    "AHENTAI_DESC": "에 대한 결과를 찾을 수 없습니다.",
+    "AHENTAI_DESC1": "페이지",
+    "AHENTAI_DESC2": "...에서",
+    "AHENTAI_DESC3": "명령",
+    "AHENTAI_DESC4": "출시",
+    "AHENTAI_DESC5": "순위",
+    "AHENTAI_DESC6": "다운로드",
+    "AHENTAI_DESC7": "좋아요",
+    "AHENTAI_DESC8": "관심사",
+    "AHENTAI_DESC9": "조회수",
+    "AHENTAI_DESC10": "시계",
+    "AHENTAI_DESC11": "비난을 받는",
+    "AHENTAI_DESC12": "무검열",
+    "AHENTAI_DESC13": "에서"
+}

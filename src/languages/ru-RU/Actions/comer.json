@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Съешьте что-нибудь с упомянутым пользователем!",
+    "USAGE": "канал [user]",
+    "USAGEE": "канал [user]",
+    "COMER_DESCRIÇÃO": "<@{{member}}> вы собираетесь съедать... один вечер?!",
+    "COMER_Hope": " **меня**",
+    "COMER_DESCRIÇÃO1": "едят с",
+    "COMER_DESCRIÇÃO2": "кормил меня",
+    "COMER_HopeFRASE": "*Nom Nom Nom* Arigatoo~",
+    "COMER_HopeFRASE1": "Не кормите меня! Я не буду показывать вам никаких фотографий!",
+    "COMER_APIOFF": "hmmm, api вниз, извините!",
+    "COMER_DESC": " и ",
+    "COMER_DESC1": ", и "
+}

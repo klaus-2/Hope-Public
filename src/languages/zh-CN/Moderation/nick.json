@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "更改用户的昵称。",
+    "USAGE": "nick <user> <newNick>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "nick <user> <newNick>",
+    "EXAMPLE": "nick @Hope @Hope <3",
+    "ENTER_NICKNAME": "请输入昵称。",
+    "LONG_NICKNAME": "昵称必须短于 32 个字符。"
+}

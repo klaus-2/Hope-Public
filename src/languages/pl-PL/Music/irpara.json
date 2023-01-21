@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Ustaw pozycję odtwarzanego utworu na określoną pozycję.",
+    "USAGE": "seek <time>\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "szukać <time>",
+    "EXAMPLE": "szukać 01:00",
+    "IRPARA": "Czas jest krótszy niż bieżąca długość utworu: `{{time}}`"
+}

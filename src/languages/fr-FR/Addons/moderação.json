@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Activer ou désactiver l'extension de modération.",
+    "USAGE": "moderation <enable | disable>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "modération <enable | disable>",
+    "EXAMPLE": "modération activée"
+}

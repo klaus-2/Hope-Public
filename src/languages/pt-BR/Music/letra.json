@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Obtem a letra da musica.",
+    "USAGE": "letra [musica]\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "letra [musica]",
+    "EXAMPLE": "letra anchor - novo amor",
+    "LETRA": "Estou pesquisando pela letra, guenta aê <:SkyeDetetive:823259704443535450>",
+    "LETRA1": "Nenhuma letra encontrada!"
+}

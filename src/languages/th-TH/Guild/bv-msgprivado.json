@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "configure the message to be sent in the user's private when logging in the server.",
+    "USAGE": "bv-msgprivate <mensagem>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "bv-msgprivate <message>",
+    "EXAMPLE": "bv-msgprivate Have a great time here at **{server}**!",
+    "BV_MENSAGEMPRIVADO": "<:v_:855859391835799582> อัปเดตช่องสำเร็จเป็น:"
+}

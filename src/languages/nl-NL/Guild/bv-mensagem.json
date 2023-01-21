@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "configureer het bericht dat naar de gebruiker in het kanaal moet worden verzonden wanneer hij lid wordt van de server.",
+    "USAGE": "bv-message <message>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "bv-bericht <message>",
+    "EXAMPLE": "bv-message Hallo {user}, Welkom bij **{server}**!",
+    "BV_MENSAGEM": "<:v_:855859391835799582> Bericht succesvol bijgewerkt naar:"
+}

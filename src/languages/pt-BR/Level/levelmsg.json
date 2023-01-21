@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Configure a mensagem de progressão enviada pelo addon Level.",
+    "USAGE": "levelmsg <mensagem>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "levelmsg <mensagem>",
+    "EXAMPLE": "levelmsg GG {user}, você avançou para o nível {Level}!",
+    "LVL_MSG": "Configurações: `Level`",
+    "LVL_MSG1": "<:v_:855859391835799582>A configuração de `level` foi atualizado com sucesso.",
+    "LVL_MSG2": "Configuração de Level",
+    "LVL_MSG3": "Mensagem alterado de"
+}

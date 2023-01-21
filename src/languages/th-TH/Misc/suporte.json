@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "receive invitation from Hope support server.",
+    "USAGE": "support\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "support",
+    "EXAMPLE": "support",
+    "ESUP_DESC": "เซิร์ฟเวอร์สนับสนุน Hope",
+    "ESUP_DESC1": "คลิก [ที่นี่](https://discord.gg/KCjWHUf4zV) ในการป้อนเซิร์ฟเวอร์การสนับสนุน!",
+    "ESUP_DESC2": "ลิงค์อื่น ๆ",
+    "ESUP_DESC3": "**[เชิญ Hope](https://discord.com/oauth2/authorize?client_id=901243176814276680&permissions=1644971949559&scope=applications.commands%20bot) | ",
+    "ESUP_DESC4": "[Twitter](#)**"
+}

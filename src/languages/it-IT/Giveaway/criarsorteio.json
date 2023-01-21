@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Inizia un Giveaway",
+    "USAGE": "g-start <time> <number of winners> <prize>\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "g-start <time> <number of winners> <prize>",
+    "EXAMPLE": "g-start 2h30m 3 nitro classic",
+    "CRIAR_SORTEIO": "Il premio deve essere di meno di 256 caratteri.",
+    "CRIAR_SORTEIO1": "ha avviato un giveaway sul server:",
+    "CRIAR_SORTEIO2": "Oops, le menzioni non sono premi, riprova.",
+    "giveaway": "<:Sorteio1:823004177064132658>\t**GIVEAWAY**\t<:Sorteio1:823004177064132658>",
+    "giveawayEnded": "<:Sorteio1:823004177064132658><unk> **GIVEAWAY ENDE**<unk> <:Sorteio1:823004177064132658>",
+    "timeRemaining": "<:Tempo:823004079831384074> Tempo rimanente: **{duration}**!",
+    "inviteToParticipate": "Reagire con <:Sorteio:823004188292022303> per partecipare!",
+    "winMessage": "<:Confetti:823008227033350163> Congratulazioni, {winners}! Contatta {this.hostedBy} per ricevere **{this.prize}**!\nLink regalo: {messageURL}",
+    "noWinner": "Oh 😕 che peccato! Il sorteggio è stato cancellato perché non c'erano voci valide.\nHmm.. riproviamo?",
+    "hostedBy": "💳 Ospitato da: {this.hostedBy}",
+    "winners": "🏆 {this.winnerCount} vincitore(i)",
+    "endedAt": "Terminato il",
+    "CRIAR_SORTEIO3": "Il premio deve essere di meno di 256 caratteri.",
+    "FOOTER": "Sorteio"
+}

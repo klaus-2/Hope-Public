@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "show the login position of a user on the server.",
+    "USAGE": "position <user>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "position <user>",
+    "EXAMPLE": "position @Hope",
+    "EPOS_DESC": "ตําแหน่งการรวม",
+    "EPOS_DESC1": "คือ",
+    "EPOS_DESC2": "ผู้ใช้ที่จะเข้ามา"
+}

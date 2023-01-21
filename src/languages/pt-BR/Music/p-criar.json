@@ -1,0 +1,17 @@
+{
+    "DESCRIPTION": "Cria uma playlist.",
+    "USAGE": "p-criar <nome da playlist> <termo de pesquisa / link>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "p-criar <nome da playlist> <termo de pesquisa / link>",
+    "EXAMPLE": "p-criar Teste link",
+    "P_CRIAR": "O título da lista de reprodução deve ter menos de 32 caracteres!",
+    "P_CRIAR1": "Adicionando música(s) à sua lista de reprodução (isso pode demorar alguns segundos.) ...",
+    "P_CRIAR2": "O Premium permite que você salve até 3 listas de reprodução em vez de 1.",
+    "P_CRIAR3": "Você não pode salvar mais playlist. Max: 3",
+    "P_CRIAR4": "Uma playlist já existe com esse nome.",
+    "P_CRIAR5": "Criei uma playlist com nome:",
+    "P_CRIAR6": "Duração da playlist:",
+    "P_CRIAR7": "Adicionado",
+    "P_CRIAR8": "musicas) para",
+    "P_CRIAR9": "Musicas:",
+    "P_CRIAR10": "não é uma playlist"
+}

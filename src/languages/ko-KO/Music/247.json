@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "아무도 없더라도 음성 채널에 계속 머물러 있습니다.",
+    "USAGE": "247\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "247",
+    "EXAMPLE": "247",
+    "VINTEQUATRO": "연중무휴 모드가 이제 {{toggle}} 입니다.",
+    "VINTEQUATRO1": "...에",
+    "VINTEQUATRO2": "떨어져서"
+}

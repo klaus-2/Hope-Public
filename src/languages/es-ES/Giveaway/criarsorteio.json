@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Empezar un sorteo",
+    "USAGE": "g-start <time> <number of winners> <prize>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "g-start <time> <number of winners> <prize>",
+    "EXAMPLE": "g-start 2h30m 3 nitro classic",
+    "CRIAR_SORTEIO": "El premio debe tener menos de 256 caracteres.",
+    "CRIAR_SORTEIO1": "inició un sorteo en el servidor:",
+    "CRIAR_SORTEIO2": "Vaya, las menciones no son premios, inténtalo de nuevo.",
+    "giveaway": "<:Sorteio 1:823004177064132658 >> **SORTEIO** <:Sorteio 1:823004177064132658 >",
+    "giveawayEnded": "<:Sorteio 1:823004177064132658 > **SORTEO HA final** <:Sorteio 1:823004177064132658 >",
+    "timeRemaining": "<:Tempo:823004079831384074> Tiempo restante: **{duration}**!",
+    "inviteToParticipate": "¡Reacciona con <:Sorteio:823004188292022303> para participar!",
+    "winMessage": "<:Confetti:823008227033350163> ¡Felicidades, {winners}! ¡Póngase en contacto con {this.hostedBy} para recibir **{this.prize}**!\nEnlace sorteo: {messageURL}",
+    "noWinner": "Oh 😕 ¡qué lástima! El sorteo se canceló porque no había participaciones válidas.\nHmm.. vamos a intentarlo de nuevo?",
+    "hostedBy": "💳 Alojado por: {this.hostedBy}",
+    "winners": "🏆 {this.winnerCount} ganador(s)",
+    "endedAt": "Finalizó en",
+    "CRIAR_SORTEIO3": "El premio debe tener menos de 256 caracteres.",
+    "FOOTER": "Sorteio"
+}

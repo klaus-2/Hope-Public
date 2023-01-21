@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "돈을 위해 룰렛에 베팅하십시오.",
+    "USAGE": "룰렛\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "룰렛",
+    "EXAMPLE": "룰렛",
+    "ROLETA": "<:취소: 855859391709577266> 재생할 금액을 지정하십시오. | {{prefix}}룰렛 <color> <quantity>",
+    "ROLETA1": "<:취소:855859391709577266> 보유한 것보다 더 많이 베팅하고 있습니다.",
+    "ROLETA2": "<:취소: 855859391709577266> 색상 지정 | 빨간색 [1.5x] (일반) 검정 [2x] (하드) 파란색 [15x](희귀)",
+    "ROLETA3": "블랙",
+    "ROLETA4": "빨간색",
+    "ROLETA5": "블루",
+    "ROLETA6": "🔵 {{dinheiro}} skcoins을 획득했습니다\n\n곱하기: 15x",
+    "ROLETA7": "🔴 {{dinheiro}} skcoins을 획득했습니다\n\n곱하기: 1.5x",
+    "ROLETA8": "⬛ {{dinheiro}} skcoins을 획득했습니다\n\n곱하기: 2x",
+    "ROLETA9": "<:취소: 855859391709577266> 당신은 {{dinheiro}} 스코인을 잃었습니다\n\n곱한: 0x"
+}

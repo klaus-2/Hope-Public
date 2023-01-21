@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "effacer tous les messages d'un canal à la fois.",
+    "USAGE": "nuke\n💡**Exemple**: {{EXAMPLE}}",
+    "USAGEE": "nuke",
+    "EXAMPLE": "nuke",
+    "LIMPAR": "Ce canal ne peut pas être effacé ! Que pensez-vous?",
+    "LIMPAR1": "BAM! <#{{channel}}> **a été nettoyé.**"
+}

@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Establece la posición de la pista que se está reproduciendo en la posición especificada.",
+    "USAGE": "seek <time>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "buscar <time>",
+    "EXAMPLE": "semana 01:00",
+    "IRPARA": "El tiempo es más corto que la duración actual de la canción: `{{time}}`"
+}

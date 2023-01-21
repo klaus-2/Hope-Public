@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "三目並べのゲームを始める。",
+    "USAGE": "tictactoe\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "tictactoe <user>",
+    "EXAMPLE": "tictactoe @User",
+    "VELHA": "tictactoeでチャレンジしたい相手を言ってください。"
+}

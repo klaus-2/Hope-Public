@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Muestra las pistas anteriores que se han reproducido.",
+    "USAGE": "anterior [pageNumber]\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "anterior [pageNumber]",
+    "EXAMPLE": "anterior 2",
+    "ANTERIOR": "No se han reproducido pistas anteriores",
+    "ANTERIOR1": "Pistas anteriores",
+    "ANTERIOR2": "**Última pista**:",
+    "ANTERIOR3": "  Nada",
+    "ANTERIOR4": "Página",
+    "ANTERIOR5": "canción (s)",
+    "ANTERIOR6": "La página debe ser un número.",
+    "ANTERIOR7": "Solo hay",
+    "ANTERIOR8": "páginas disponibles."
+}

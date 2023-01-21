@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Geeft de vorige nummers weer die zijn afgespeeld.",
+    "USAGE": "vorige [pageNumber]\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "vorige [pageNumber]",
+    "EXAMPLE": "vorige 2",
+    "ANTERIOR": "Er zijn geen eerdere nummers gespeeld",
+    "ANTERIOR1": "Vorige tracks",
+    "ANTERIOR2": "**Laatste track**:",
+    "ANTERIOR3": "  Niets",
+    "ANTERIOR4": "Pagina",
+    "ANTERIOR5": "lied (s)",
+    "ANTERIOR6": "Pagina moet een nummer zijn.",
+    "ANTERIOR7": "Er zijn er alleen",
+    "ANTERIOR8": "pagina's beschikbaar."
+}

@@ -1,0 +1,4 @@
+{
+    "DESCRIPTION": "Envoie des informations sur toutes les commandes que je peux faire.",
+    "USAGE": "aide [commande | plugin]"
+}

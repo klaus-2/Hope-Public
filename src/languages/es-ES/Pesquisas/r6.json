@@ -1,0 +1,22 @@
+{
+    "DESCRIPTION": "Obtenga estadísticas de una cuenta de Rainbews.",
+    "USAGE": "r6 <user> [pc/xbox/ps4] [eu/na/as]\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "r6 <user> [pc/xbox/ps4] [eu/na/as]",
+    "EXAMPLE": "r6 Ese tipo de jengibre 02 | r6 Ese tipo de jengibre 02 pc eu",
+    "R6": "Especifique un nombre de usuario para buscar",
+    "R6_1": "<a:loading:823004555884232724> Aguanta... ¡Estoy investigando!",
+    "R6_2": "Estadísticas de",
+    "R6_3": "región en",
+    "R6_4": "Información general:",
+    "R6_5": "Estadísticas:",
+    "R6_6": "Victorias:",
+    "R6_7": "Pérdidas:",
+    "R6_8": "Relación ganancias/pérdidas:",
+    "R6_9": "Mata",
+    "R6_10": "Muertes:",
+    "R6_11": "Relación K/D",
+    "R6_12": "Tiempo de juego:",
+    "R6_13": "horas",
+    "R6_14": "Caza terrorista:",
+    "R6_15": "Datos de jugadores que faltan"
+}

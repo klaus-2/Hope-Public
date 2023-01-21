@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Coma algo com o(s) usuário(s) que você mencionou!",
+    "USAGE": "comer [user]\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "comer [user]",
+    "EXAMPLE": "comer @Hope | comer @user1 @User2",
+    "COMER_DESCRIÇÃO": "<@{{member}}> vai comer... sozinho mesmo?!",
+    "COMER_Hope": " **comigo**",
+    "COMER_DESCRIÇÃO1": "está comendo com",
+    "COMER_DESCRIÇÃO2": "me alimentou",    
+    "COMER_HopeFRASE": "Nyaa~ s-senpai... (´Å`∗)...",
+    "COMER_HopeFRASE1": "Não se alimente de mim! Não vou te mostrar nenhuma imagem!",
+    "COMER_APIOFF": "ummm, api está fora do ar, desculpe!",
+    "COMER_DESC": " e ",
+    "COMER_DESC1": ", e "
+}

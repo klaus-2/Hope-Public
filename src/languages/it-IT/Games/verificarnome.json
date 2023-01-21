@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Controlla se c'è un nome evocatore nella Lega delle Leggende.",
+    "USAGE": "verifyname\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "verifyname <nick>",
+    "EXAMPLE": "verifyname yassuo",
+    "VERFNOME": "Controllo del soprannome: {{arg}}",
+    "VERFNOME1": "Questo nick è disponibile.",
+    "VERFNOME2": "Questo soprannome è già in uso."
+}

@@ -1,0 +1,22 @@
+{
+    "DESCRIPTION": "Obtem estatísticas sobre uma conta RainbowSix.",
+    "USAGE": "r6 <user> [pc / xbox / ps4] [eu / na / as]\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "r6 <user> [pc / xbox / ps4] [eu / na / as]",
+    "EXAMPLE": "r6 ThatGingerGuy02 | r6 ThatGingerGuy02 pc eu",
+    "R6": "Please specify a username to search",
+    "R6_1": "<a:loading:823004555884232724> Gueeenta aê... estou pesquisando!",
+    "R6_2": "Estatísticas para o",
+    "R6_3": "região em",
+    "R6_4": "Geral:",
+    "R6_5": "Estatisticas:",
+    "R6_6": "Wins:",
+    "R6_7": "Losses:",
+    "R6_8": "Win/Loss ratio:",
+    "R6_9": "Kills",
+    "R6_10": "Deaths:",
+    "R6_11": "K/D Ratio",
+    "R6_12": "Playtime:",
+    "R6_13": "hours",
+    "R6_14": "Terrorist Hunt:",
+    "R6_15": "Mising player data"
+}

@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "언급한 사용자를 간지럽히십시오.",
+    "USAGE": "간지럼 [user]",
+    "USAGEE": "간지럼 [user]",
+    "COCEGAS_DESCRIÇÃO": "<@{{author}}> 그만!간질~",
+    "COCEGAS_DESCRIÇÃO1": "\\ ❌ 자신을 간지럽 히는 재미**<@{{author}}>**!",
+    "COCEGAS_DESCRIÇÃO2": "간지럼"
+}

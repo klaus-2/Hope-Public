@@ -1,0 +1,4 @@
+{
+    "DESCRIPTION": "Wyczyść pewną ilość wiadomości.",
+    "USAGE": "jasne <Number> [member]"
+}

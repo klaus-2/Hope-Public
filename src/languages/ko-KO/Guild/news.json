@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "스카이의 최신 뉴스를 보여주세요.",
+    "USAGE": "뉴스\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "뉴스",
+    "EXAMPLE": "뉴스",
+    "NEWS": "스카이 뉴스",
+    "NEWS1": "게시 날짜:"
+}

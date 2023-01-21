@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "um eine historische Tatsache des heutigen Tages zu erhalten.",
+    "USAGE": "Verlauf\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "verlauf",
+    "EXAMPLE": "verlauf",
+    "FHIST_DESC": "Historischer Fakt heute - Quelle: wikipedia.org",
+    "FHIST_DESC1": "Entschuldigung, die API funktioniert momentan nicht!",
+    "FHIST_DESC2": "Jahr:"
+}

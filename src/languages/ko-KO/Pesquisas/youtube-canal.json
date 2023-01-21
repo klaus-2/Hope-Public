@@ -1,0 +1,17 @@
+{
+    "DESCRIPTION": "유튜브 채널을 검색합니다.",
+    "USAGE": "유튜브 채널 <name>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "유튜브 채널 <name>",
+    "EXAMPLE": "유튜브 채널 닌자",
+    "YOUTUBE_CANAL": "알 수 없는 채널 오류.",
+    "YOUTUBE_CANAL1": "채널 결과가 없습니다.다시 시도해 보세요.",
+    "YOUTUBE_CANAL2": "알 수 없는 채널 데이터 오류.",
+    "YOUTUBE_CANAL3": "채널 이름",
+    "YOUTUBE_CANAL4": "채널 설명",
+    "YOUTUBE_CANAL5": "구독자 수",
+    "YOUTUBE_CANAL6": "총 조회수",
+    "YOUTUBE_CANAL7": "총 비디오",
+    "YOUTUBE_CANAL8": "생성 날짜",
+    "YOUTUBE_CANAL9": "링크",
+    "YOUTUBE_CANAL10": "NSFW가 아닌 채널에서는 이러한 용어를 검색할 수 없습니다."
+}

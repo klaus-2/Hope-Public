@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "配置自动附加组件反卸载模块。",
+    "USAGE": "anti-dehoisting\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "anti-dehoisting",
+    "EXAMPLE": "anti-dehoisting 2",
+    "DEHOISTING": "enable",
+    "DEHOISTING1": "[AUTO-MOD]' Anti-Dehoisting 已成功激活。",
+    "DEHOISTING2": "disable",
+    "DEHOISTING3": "[AUTO-MOD]已成功禁用了' Anti-Dehoisting。"
+}

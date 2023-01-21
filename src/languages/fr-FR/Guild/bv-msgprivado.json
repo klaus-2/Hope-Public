@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "configure le message à envoyer dans le privé de l'utilisateur lors de la connexion au serveur.",
+    "USAGE": "bv-msgprivate <mensagem>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "bv-msgprivate <message>",
+    "EXAMPLE": "bv-msgprivate Passez un bon moment ici à **{server}**!",
+    "BV_MENSAGEMPRIVADO": "<:v_:855859391835799582> Canal mis à jour avec succès à:"
+}

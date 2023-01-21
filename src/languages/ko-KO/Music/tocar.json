@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "노래를 연주합니다.",
+    "USAGE": "플레이 <link / song name>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "플레이 <link / song name>",
+    "EXAMPLE": "play palaye royale | play <attachment> | play https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "TOCAR": "대기열",
+    "TOCAR1": "노래",
+    "TOCAR2": "이 (가) 현재 재생 대기열에 추가되었습니다.",
+    "TOCAR3": "노래 이름/URL을 입력하십시오.",
+    "TOCAR4": "대기열에 추가되었습니다** {{num}} ** 트랙",
+    "TOCAR5": "대기열에 추가됨: [{{title}}] ({{url}})"
+}

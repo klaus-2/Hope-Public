@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Gera um gif de sua escolha.",
+    "USAGE": "gifs <tema>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "gifs <tema>",
+    "EXAMPLE": "gifs goku"
+}

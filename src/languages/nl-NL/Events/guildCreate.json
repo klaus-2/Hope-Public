@@ -1,0 +1,6 @@
+{
+    "GUILD_CREATE": "[EVENT — SERVER TOEGEVOEGD]",
+    "GUILD_CREATE1": "Naam van de server",
+    "GUILD_CREATE2": "Eigenaar van de server",
+    "GUILD_CREATE3": "Aantal leden"
+}

@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "kick a user from the server.",
+    "USAGE": "kick <user> [reason]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "kick <user> [reason]",
+    "EXAMPLE": "kick Hope สแปมในแชท",
+    "KICK": "ถูกไล่ออก!",
+    "KICK1": "คุณถูกไล่ออก",
+    "KICK2": "เตะโดย:",
+    "KICK3": "เหตุผล:"
+}

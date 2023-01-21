@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "configureer het bericht dat naar het kanaal moet worden verzonden wanneer een gebruiker de server verlaat.",
+    "USAGE": "bv-leavemsg <message>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "bv-bladeren <message>",
+    "EXAMPLE": "bv-leavemsg **{user}** heeft zojuist de server afgemeld.",
+    "BV_SAIRMENSAGEM": "<:v_:855859391835799582> Kanaal succesvol bijgewerkt naar:"
+}

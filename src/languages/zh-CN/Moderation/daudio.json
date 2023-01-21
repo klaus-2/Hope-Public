@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "禁用用户的音频。",
+    "USAGE": "聋人 <user> [time]\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "震聋 <user> [time]",
+    "EXAMPLE": "聋人 @Hope | 聋人 @Hope 5m",
+    "DAUDIO": "我不能震耳不在语音频道上的人。"
+}

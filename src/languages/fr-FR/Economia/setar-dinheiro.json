@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "ajouter de l'argent à un utilisateur. Utilisez un signe négatif (**-**) pour retirer de l'argent à l'utilisateur !",
+    "USAGE": "set-money <user> <value>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "set-money <user> <value>",
+    "EXAMPLE": "set-money @Hope 5000 | set-money @Hope -5000",
+    "SETAR_DINHEIRO": "La valeur informée n'est pas un nombre !\nVeuillez vous assurer que l'argument après la mention de l'utilisateur est un **NUMBER**.",
+    "SETAR_DINHEIRO1": "J'ai supprimé avec succès **$",
+    "SETAR_DINHEIRO2": "**Veuillez entrer un utilisateur valide!**",
+    "SETAR_DINHEIRO3": "du portefeuille de",
+    "SETAR_DINHEIRO4": "Solde actuel :",
+    "SETAR_DINHEIRO5": "$",
+    "SETAR_DINHEIRO6": "skcoins",
+    "SETAR_DINHEIRO7": "J'ai ajouté **$ avec succès"
+}

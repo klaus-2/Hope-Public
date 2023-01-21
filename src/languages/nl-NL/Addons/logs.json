@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Aanpassen of toevoegen van de logboeken.",
+    "USAGE": "logboeken <option> [data]\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "logboeken <option> [data]",
+    "LOG": "Hieronder vindt u de lijst met logboeken die beschikbaar zijn in elke categorie.\n\nU kunt op de onderstaande knoppen klikken om alle logboeken in die categorie te activeren of als u dat wilt, kunt u de volgende opdrachten gebruiken om ze handmatig te configureren.\n\n__Een evenement inschakelen/uitschakelen:__\n__Zet het logboekkanaal in op Moderation Logging:__\n`{{prefix}}`**logs modchannel <channel>**\n__ Stel het kanaal Logs in op Server Events:__\n`{{prefix}}`**logs serverchannel <channel>**\n`{{prefix}}`**logs memberchannel <channel>**\n__Zet het logboekkanaal op Message Events:__\n`{{prefix}}`**logs msgchannel <channel>**\n",
+    "LOG1": "Nog niet gedefinieerd",
+    "LOG2": "enable",
+    "LOG3": "disable"
+}

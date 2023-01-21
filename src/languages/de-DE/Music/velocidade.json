@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Legt die Wiedergabegeschwindigkeit des Players fest.",
+    "USAGE": "Geschwindigkeit <value>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "geschwindigkeit <value>",
+    "EXAMPLE": "Geschwindigkeit 4",
+    "ON_SPD": "Aktualisiere Wiedergabegeschwindigkeit. Dies kann einige Sekunden dauern...",
+    "VELOCIDADE": "Die Geschwindigkeit wurde auf {{num}} geändert"
+}

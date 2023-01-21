@@ -1,0 +1,18 @@
+{
+    "DESCRIPTION": "Hope lit dans votre esprit et vous dit à quel personnage vous pensez en vous posant quelques questions.",
+    "USAGE": "Hopenator\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "Hopenator",
+    "EXAMPLE": "Hopenator",
+    "FNATOR_DESC": "<:SkyeDetetive:823259704443535450> Invoquant mes dons divins...",
+    "FNATOR_DESC1": "<:SkyeSuperPutassa:823259704519163934> Grrr.... pensait pouvoir tromper la super-magnifique et puissante Hope ?\nJe suis déjà en train de prédire un personnage pour toi, finis-le avant d'en essayer un autre..",
+    "FNATOR_DESC2": "non à ma question.",
+    "FNATOR_DESC3": "est",
+    "FNATOR_DESC4": "Réagir en fonction des emotes ci-dessous:",
+    "FNATOR_DESC5": "Est-ce votre personnage ?",
+    "FNATOR_DESC6": "Classé comme",
+    "FNATOR_DESC7": "Répondez avec [yes (**y**) si c'est votre personnage et non (**n**) si ce n'est pas le cas]",
+    "FNATOR_DESC8": "Excellent! Je l'ai bien compris.",
+    "FNATOR_DESC9": "Euh... <:SkyeChoro2:823057602853863425> alors vous êtes le gagnant",
+    "FNATOR_DESC10": "J'ai aimé jouer avec vous ! <:SkyeIssoai2:840703746278948916>",
+    "FNATOR_DESC11": "fr"
+}

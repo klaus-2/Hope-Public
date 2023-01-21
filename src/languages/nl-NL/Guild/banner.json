@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Hiermee wordt de profielbanner van een gebruiker weergegeven.",
+    "USAGE": "banner <user>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "banner <user>",
+    "EXAMPLE": "banner @User",
+    "BANNER": "Hallo, ik ben Hope.",
+    "BANNER1": "Hieronder vindt u de banner <@{{user}}>.",
+    "BANNER2": "Oeps! Deze gebruiker heeft geen banner.",
+    "BANNER3": "Als je het wilt downloaden, [klik hier] ({{banner}})."
+}

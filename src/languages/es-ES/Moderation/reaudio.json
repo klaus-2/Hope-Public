@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "reactivar el audio de un usuario.",
+    "USAGE": "unsordeafen <user>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "insordo <user>",
+    "EXAMPLE": "unsordofen @Hope",
+    "REAUDIO": "No puedo sordera a alguien que no está en un canal de voz."
+}

@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Displays the rank of the richest people on the server.",
+    "USAGE": "moneylb\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "moneylb",
+    "EXAMPLE": "moneylb",
+    "MAIS_RICOS7": "🏆 อันดับที่ร่ำรวยที่สุดใน",
+    "MAIS_RICOS8": "<ไม่ทราบผู้ใช้>",
+    "MAIS_RICOS9": "อยู่ในอันดับที่รวยที่สุดด้วย",
+    "MAIS_RICOS10": "skcoins รวม!"
+}

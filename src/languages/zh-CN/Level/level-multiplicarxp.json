@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "为此服务器设置 Hope 自动充电。",
+    "USAGE": "等级乘法 xp <0-1000>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "等级乘法 xp <0-1000>",
+    "EXAMPLE": "等级乘法 XP 2",
+    "LVL_XPMULT": "设置：`Level `",
+    "LVL_XPMULT1": "<: v_: 855859391835799582> “关卡” 的配置已成功更新。",
+    "LVL_XPMULT2": "级别设置",
+    "LVL_XPMULT3": "乘数已从"
+}

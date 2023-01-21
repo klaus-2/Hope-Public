@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Aktivieren oder deaktivieren Sie das Willkommensnachrichten-Addon.",
+    "USAGE": "bv-addon <enable | disable>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "bv-addon <enable | disable>",
+    "EXAMPLE": "bv-addon aktivieren"
+}

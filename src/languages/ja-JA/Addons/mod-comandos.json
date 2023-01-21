@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "サーバー上で Hopeのコマンドアドオンを有効または無効にします。",
+    "USAGE": "mod-commands <enable | disable>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "MODコマンド <enable | disable>",
+    "EXAMPLE": "mod-comandos有効"
+}

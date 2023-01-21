@@ -1,0 +1,21 @@
+{
+    "DESCRIPTION": "获取有关 IP 地址的信息",
+    "USAGE": "ip-info <IP>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "ip-info <IP>",
+    "EXAMPLE": "ip-info 54.167.249.213",
+    "EIP_DESC": "IP 信息",
+    "EIP_DESC1": "移动设备：",
+    "EIP_DESC2": "代理：",
+    "EIP_DESC3": "互联网服务提供商：",
+    "EIP_DESC4": "AS 编号和组织：",
+    "EIP_DESC5": "大陆：",
+    "EIP_DESC6": "国家：",
+    "EIP_DESC7": "城市：",
+    "EIP_DESC8": "时区：",
+    "EIP_DESC9": "Lat & Long：",
+    "EIP_DESC10": "拉特：",
+    "EIP_DESC11": "长：",
+    "EIP_DESC12": "货币：",
+    "EIP_DESC13": "请输入有效的 IP 地址！",
+    "EIP_DESC14": "糟糕，发生了错误。稍后再试吧！"
+}

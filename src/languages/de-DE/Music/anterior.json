@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Zeigt die zuvor abgespielten Tracks an.",
+    "USAGE": "vorige [pageNumber]\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "vorheriger [pageNumber]",
+    "EXAMPLE": "vorige 2",
+    "ANTERIOR": "Es wurden keine vorherigen Titel abgespielt",
+    "ANTERIOR1": "Vorherige Tracks",
+    "ANTERIOR2": "**Letzter Track**:",
+    "ANTERIOR3": "  Nichts",
+    "ANTERIOR4": "Seite",
+    "ANTERIOR5": "song(s)",
+    "ANTERIOR6": "Seite muss eine Zahl sein.",
+    "ANTERIOR7": "Es gibt nur",
+    "ANTERIOR8": "Seiten verfügbar."
+}

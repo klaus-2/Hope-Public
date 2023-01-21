@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Deleta um ticket.",
+    "USAGE": "ticket-deletar\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "ticket-deletar",
+    "EXAMPLE": "ticket-deletar",
+    "TICKET": "Este ticket será deletado em **10** segundos."
+}

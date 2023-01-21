@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Gere uma reação de estar convencido.",
+    "USAGE": "convencido\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "convencido",
+    "EXAMPLE": "convencido",
+    "CONVENCIDO_DESCRIÇÃO": "<@{{member}}> está convencido(a)."
+}

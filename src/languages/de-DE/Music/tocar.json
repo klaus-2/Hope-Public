@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "spiele einen Song.",
+    "USAGE": "spiele <link / song name>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "spiele <link / song name>",
+    "EXAMPLE": "spiele palaye royale | spiele <attachment> | spiele https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "TOCAR": "Warteschlange",
+    "TOCAR1": "lieder",
+    "TOCAR2": "wurde zur aktuellen Warteschlange hinzugefügt.",
+    "TOCAR3": "Bitte geben Sie einen Titelname/URL ein",
+    "TOCAR4": "Warteschlange **{{num}}** Tracks",
+    "TOCAR5": "Zur Warteschlange hinzugefügt: [{{title}}]({{url}})"
+}

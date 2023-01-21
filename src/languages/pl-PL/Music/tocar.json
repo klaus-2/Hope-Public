@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Zagraj piosenkę.",
+    "USAGE": "grać <link / song name>\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "grać <link / song name>",
+    "EXAMPLE": "grać palaye royale | grać <attachment> | grać https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "TOCAR": "Kolejka",
+    "TOCAR1": "piosenki",
+    "TOCAR2": "została dodana do bieżącej kolejki odtwarzania.",
+    "TOCAR3": "Podaj nazwę utworu/adres URL",
+    "TOCAR4": "W kolejce **{{num}}** utwory",
+    "TOCAR5": "Dodano do kolejki: [{{title}}] ({{url}})"
+}

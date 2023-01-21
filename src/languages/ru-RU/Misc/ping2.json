@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Получает статус бота.",
+    "USAGE": "пинг 2",
+    "PING": "Пинг:",
+    "CLIENT": "Клиентский API:",
+    "MONGO": "MongoDB:"
+}

@@ -1,0 +1,4 @@
+{
+    "DESCRIPTION": "Запускает файл сценария.",
+    "USAGE": "скрипт <file name> [...params]"
+}

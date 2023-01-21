@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "取消对用户的封禁。",
+    "USAGE": "unban <userID> [reason]\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "unban <userID> [reason]",
+    "EXAMPLE": "取消禁止 432567667533123 测试"
+}

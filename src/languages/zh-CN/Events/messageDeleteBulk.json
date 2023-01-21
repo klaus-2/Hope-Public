@@ -1,0 +1,10 @@
+{
+    "MESSAGE_DELETE_BULK": "已在中删除了多封邮件",
+    "MESSAGE_DELETE_BULK1": "频道 ID：",
+    "MESSAGE_DELETE_BULK2": "[事件 — 已删除的消息]",
+    "MESSAGE_DELETE_BULK3": "消息数量：",
+    "MESSAGE_DELETE_BULK4": "已删除的消息：",
+    "MESSAGE_DELETE_BULK5": "看到",
+    "MESSAGE_DELETE_BULK6": "在服务器上",
+    "MESSAGE_DELETE_BULK7": "DeletedMessages.txt"
+}

@@ -1,0 +1,7 @@
+{
+    "MESSAGE_REACTION_REMOVE": "リアクションを取り除いた",
+    "MESSAGE_REACTION_REMOVE1": "このメッセージの",
+    "MESSAGE_REACTION_REMOVE2": "ユーザー ID:",
+    "MESSAGE_REACTION_REMOVE3": "メッセージ ID:",
+    "MESSAGE_REACTION_REMOVE4": "[イベント — リアクションが削除されました]"
+}

@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Reinicia um comando。",
+    "USAGE": "reiniciar <comando / evento>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "reiniciar <comando / evento>",
+    "EXAMPLE": "reiniciar ajuda",
+    "SUCCESS": "命令：`{{NAME}}` 已重新加载。",
+    "SUCCESS_EVENT": "事件：`{{NAME}}` 已重新加载。",
+    "INCORRECT_DETAILS": "{{NAME}} 不是命令也不是事件。"
+}

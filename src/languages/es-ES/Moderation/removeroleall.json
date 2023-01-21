@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Quita un rol de todos los usuarios del servidor actual.",
+    "USAGE": "removeroleall <role>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "eliminar rol todos <role>",
+    "EXAMPLE": "eliminar roleall @role | agregar rol all 43656543212",
+    "ROLE": "Se ha añadido correctamente **{{role}}** al bot",
+    "ROLE1": "Se ha añadido correctamente **{{role}}** al miembro",
+    "ROLE2": "Se ha eliminado correctamente **{{role}}** de todos"
+}

@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "configurar o auto cargo da Hope para este servidor.",
+    "USAGE": "mod-channel <channelID>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "mod-channel <channelID>",
+    "EXAMPLE": "mod-channel 8654930377",
+    "MOD_CANAL": "Settings: `Server`",
+    "MOD_CANAL1": "<:v_:855859391835799582> อัพเดตการตั้งค่าคอนฟิก `Level` เสร็จเรียบร้อยแล้ว",
+    "MOD_CANAL2": "การตั้งค่าระดับ",
+    "MOD_CANAL3": "ช่องทางที่เปลี่ยนจาก"
+}

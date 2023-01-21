@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "로그 애드온을 사용합니다.",
+    "USAGE": "logs <option> [data]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "logs <option> [data]",
+    "LOG": "아래는 각 카테고리에서 사용할 수 있는 로그 목록입니다.\n\n아래 버튼을 클릭하여 해당 범주의 모든 로그를 활성화하거나 원하는 경우 다음 명령을 사용하여 수동으로 구성할 수 있습니다.\n\n__이벤트 활성화/비활성화: __\n__로그 채널을 중재 로깅으로 설정:__\n`{{prefix}}`**logs modchannel <channel>**\n__로그 채널을 서버 이벤트로 설정: __\n`{{prefix}}`**logs serverchannel <channel>**\n`{{prefix}}`**logs memberchannel <channel>**\n__로그 채널을 메시지 이벤트로 설정: __\n`{{prefix}}`**logs msgchannel <channel>**\n",
+    "LOG1": "아직 정의되지 않음",
+    "LOG2": "enable",
+    "LOG3": "disable"
+}

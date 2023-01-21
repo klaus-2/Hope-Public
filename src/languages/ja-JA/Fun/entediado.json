@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "退屈を取り除くための提案を提供します。",
+    "USAGE": "bored\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "退屈",
+    "EXAMPLE": "退屈",
+    "FTEDIO_DESC": "./resources/other/bored-en.json",
+    "FTEDIO_DESC1": "飽きてる？"
+}

@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "서버 수준 점수를 표시합니다.",
+    "USAGE": "랭크\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "계급",
+    "EXAMPLE": "랭크 사용자 ID | lb @mention | 리더보드 사용자 이름",
+    "LVL_RANK": "서버 ",
+    "LVL_RANK1": "레벨:",
+    "LEADERBOARD_TITLE": "니베이스 — 스카이 👸 의 순위",
+    "LEADERBOARD_FIELDT": "데이터를 찾을 수 없음",
+    "LEADERBOARD_FIELDDESC": "채팅을 입력하여 경험을 쌓으세요."
+}

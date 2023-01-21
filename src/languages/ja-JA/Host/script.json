@@ -1,0 +1,4 @@
+{
+    "DESCRIPTION": "スクリプトファイルを実行します。",
+    "USAGE": "スクリプト <file name> [...params]"
+}

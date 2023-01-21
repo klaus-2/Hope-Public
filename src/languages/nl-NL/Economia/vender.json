@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Verkoop je objecten voor contant geld.",
+    "USAGE": "verkopen <item id>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "verkopen <item id>",
+    "EXAMPLE": "verkopen 3 | verkoop 8 2",
+    "VENDER": "kon het item met **ID** niet vinden!\nZorg ervoor dat je de juiste **ID** invoert en probeer het opnieuw.",
+    "VENDER1": "je hebt niet de benodigde hoeveelheid",
+    "VENDER2": "om die verkoop te maken.",
+    "VENDER3": "helaas",
+    "VENDER4": "kan niet verkocht worden.",
+    "VENDER5": "je hebt geen bankrekening in Hope's Economy add-on.\nGelieve te registreren met de opdracht",
+    "VENDER6": "registreren",
+    "VENDER7": "je succesvol hebt verkocht",
+    "VENDER8": "voor **$",
+    "VENDER9": "skcoins"
+}

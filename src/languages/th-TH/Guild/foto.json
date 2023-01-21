@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "display the user avatar",
+    "USAGE": "avatar [user]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "avatar [user]",
+    "EXAMPLE": "avatar userID | avatar @mention | avatar username",
+    "AVATAR_TITLE": "อวตารสำหรับ {{user}}",
+    "AVATAR_DESCRIPTION": "**ลิงค์:**",
+    "FOTO": "นี่คือรูปถ่ายที่ร้องขอ",
+    "FOTO1": "**5 ภาพถ่ายก่อนหน้าล่าสุด:**"
+}

@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Applicare l'effetto vaporwave nella musica.",
+    "USAGE": "vaporwave\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "vaporwave",
+    "EXAMPLE": "vaporwave <unk> vaporwave off",
+    "OFF": "Disattivazione dell'effetto **Vaporwave**. <:SkyeOuvindoMusica:823046654554144768> Potrebbe richiedere alcuni secondi...",
+    "VAPOR_WAVE1": "<:v_:855859391835799582> **Vaporwave** è stato disattivato.",
+    "ON": "Attivando l'effetto **Vaporwave**. <:SkyeDana:823046653371482114> Potrebbe volerci qualche secondo...",
+    "VAPOR_WAVE2": "<:v_:855859391835799582> **Vaporwave** è stato attivato."
+}

@@ -1,0 +1,13 @@
+{
+    "EMOJI_UPDATE": "yes",
+    "EMOJI_UPDATE1": "no",
+    "EMOJI_UPDATE2": "[EVENT — EMOJI UPDATED]",
+    "EMOJI_UPDATE3": "Emoji Name",
+    "EMOJI_UPDATE4": "Changed from",
+    "EMOJI_UPDATE5": "Animated emoji",
+    "EMOJI_UPDATE6": "Emoji Preview",
+    "EMOJI_UPDATE7": "Emoji roles updated",
+    "EMOJI_UPDATE8": "**Added roles**",
+    "EMOJI_UPDATE9": "**Removed Roles**",
+    "EMOJI_UPDATE10": "*None*"
+}

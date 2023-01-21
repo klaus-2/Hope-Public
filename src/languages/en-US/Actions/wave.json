@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Wave for someone.",
+    "USAGE": "wave [user]",
+    "USAGEE": "wave [user]",
+    "ACENAR_DESCRIÇÃO1": "<@{{author}}> waved!",
+    "ACENAR_DESCRIÇÃO2": "<@{{user}}> waved back",
+    "ACENAR_DESCRIÇÃO3": " waved to "
+}

@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "点一个用户。",
+    "USAGE": "饮料 <user>",
+    "USAGEE": "饮料 <user>",
+    "CUTUCAR_DESCRIÇÃO": "\\❌ **<@{{author}}>**, 我应该把谁打？",
+    "CUTUCAR_DESCRIÇÃO1": "我已经在这里了！你需要做什么吗？",
+    "CUTUCAR_DESCRIÇÃO2": "\\:cross_mark：我不会这样做，**<@{{author}}>**！",
+    "CUTUCAR_DESCRIÇÃO3": "正在休眠"
+}

@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "aktywuj lub dezaktywuj kategorię poleceń.",
+    "USAGE": "komendy <category>\\n💡**Przykład**: {{EXAMPLE}}",
+    "USAGEE": "komendy <category>",
+    "EXAMPLE": "komendy muzyka",
+    "COMANDOS": "Lista kategorii poleceń Hope",
+    "COMANDOS1": "Dostępne kategorie: `{{default}}`.",
+    "COMANDOS2": "Aktywne kategorie: `{{active}}`.",
+    "COMANDOS3": "Yay! Dodałem kategorię poleceń: **{{addons}}** na tym serwerze.",
+    "COMANDOS4": "Yay! Wyłączyłem kategorię poleceń: **{{addons}}** na tym serwerze.",
+    "COMANDOS5": "Przepraszam, ale to nie jest istniejąca kategoria poleceń."
+}

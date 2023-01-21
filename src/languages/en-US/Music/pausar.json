@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "pause the current song.",
+    "USAGE": "pause\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "pause",
+    "EXAMPLE": "pause"
+}

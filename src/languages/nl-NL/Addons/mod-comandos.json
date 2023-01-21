@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Hiermee schakelt u de opdrachtadd-on van Hope in of uit op de server.",
+    "USAGE": "mod-commando's <enable | disable>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "mod-commando's <enable | disable>",
+    "EXAMPLE": "mod-comandos inschakelen"
+}

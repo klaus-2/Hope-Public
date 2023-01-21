@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Définit la couleur de votre carte Economia.",
+    "USAGE": "setcolor <hex>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "définir la couleur <hex>",
+    "EXAMPLE": "setcolor #e567da",
+    "COR": "**<@{{author}}>**, veuillez fournir un HEX valide pour la couleur.\nVous pouvez aller sur [Google Color Picker](https://www.google. om/search?q=color+picker) pour obtenir le hexadécimal souhaité.\nDe plus, vous pouvez également taper `default` pour revenir à la couleur par défaut.",
+    "COR1": "la couleur de votre profil a été mise à jour à"
+}

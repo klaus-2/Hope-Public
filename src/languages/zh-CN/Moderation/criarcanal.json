@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "创建文字频道。",
+    "USAGE": "创建频道 <name>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "创建频道 <name>",
+    "EXAMPLE": "创建渠道测试"
+}

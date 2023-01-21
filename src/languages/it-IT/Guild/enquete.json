@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "creare un sondaggio per gli utenti a cui rispondere.",
+    "USAGE": "poll <question>\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "sondaggio <question>",
+    "EXAMPLE": "Sondaggio Pioverà oggi?",
+    "POLL_TITLE": "Sondaggio creato da {{username}}",
+    "POLL_FOOTER": "Reagire per votare.."
+}

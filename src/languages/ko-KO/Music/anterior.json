@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "재생된 이전 트랙을 표시합니다.",
+    "USAGE": "이전 [pageNumber]\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "이전 [pageNumber]",
+    "EXAMPLE": "이전 2",
+    "ANTERIOR": "이전 트랙이 재생되지 않았습니다.",
+    "ANTERIOR1": "이전 트랙",
+    "ANTERIOR2": "**마지막 트랙**:",
+    "ANTERIOR3": "  아무것도 없음",
+    "ANTERIOR4": "페이지",
+    "ANTERIOR5": "노래",
+    "ANTERIOR6": "페이지는 숫자여야 합니다.",
+    "ANTERIOR7": "그곳에는",
+    "ANTERIOR8": "페이지를 사용할 수 있습니다."
+}

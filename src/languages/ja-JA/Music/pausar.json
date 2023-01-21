@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "現在の曲を一時停止します。",
+    "USAGE": "pause\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "一時停止します",
+    "EXAMPLE": "一時停止します"
+}

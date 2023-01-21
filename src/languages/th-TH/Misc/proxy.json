@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Sends a list of proxies (updates every hour)",
+    "USAGE": "proxy\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "proxy",
+    "EXAMPLE": "proxy",
+    "EPROXY_DESC": "รายการพร็อกซี",
+    "EPROXY_DESC1": "💡 รายการนี้อัพเดททุกชั่วโมง"
+}

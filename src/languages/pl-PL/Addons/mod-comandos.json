@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Włącza lub wyłącza dodatek poleceń Hope na serwerze.",
+    "USAGE": "mod-commands <enable | disable>\n💡**Przykład**: {{EXAMPLE}}",
+    "USAGEE": "polecenia modu <enable | disable>",
+    "EXAMPLE": "włącz mod-comandos"
+}

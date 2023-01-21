@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "ottieni il testo della canzone.",
+    "USAGE": "testo [song]\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "testo [song]",
+    "EXAMPLE": "testo ancora - novo amor",
+    "LETRA": "Sto cercando i testi, tieni premuto <:SkyeDetetive:823259704443535450>",
+    "LETRA1": "Nessun testo trovato"
+}

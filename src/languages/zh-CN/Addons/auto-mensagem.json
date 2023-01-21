@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "配置自动消息插件。",
+    "USAGE": "自动消息",
+    "USAGEE": "自动消息",
+    "EXAMPLE": "自动消息启用\n💡**Exemplo**: {{EXAMPLE}}",
+    "MENSAGEM": "enable",
+    "MENSAGEM1": "\"自动消息\" 插件已成功激活。",
+    "MENSAGEM2": "disable",
+    "MENSAGEM3": "“自动消息”插件已被成功禁用。",
+    "MENSAGEM4": "channel",
+    "MENSAGEM5": "\"自动消息\" 添加频道已成功更新到 <#{{channel}}>。",
+    "MENSAGEM6": "counter",
+    "MENSAGEM7": "请输入消息计数器的数字。",
+    "MENSAGEM8": "计数器应介于 1-100 条消息之间。",
+    "MENSAGEM9": "\"自动消息\" 插件的消息计数器已成功更新到 \"{{amount}}\"。",
+    "MENSAGEM10": "message",
+    "MENSAGEM11": "请报告一条消息。",
+    "MENSAGEM12": "计数器必须最多包含 `2000` 字符。",
+    "MENSAGEM13": "插件“自动消息”消息已成功更新。"
+}

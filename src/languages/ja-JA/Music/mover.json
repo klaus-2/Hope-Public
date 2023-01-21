@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "指定した曲番号を指定した位置に移動します。",
+    "USAGE": "move <music position> <new position>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "move <music position> <new position>",
+    "EXAMPLE": "4 8を動かす",
+    "MOVER": "すでに再生中の曲は移動できません。現在再生中の曲をスキップするには:`{{prefix}}skip`",
+    "MOVER1": "曲が見つかりません。",
+    "MOVER2": "Yayy！**{{title}}** をキューの先頭に移動しました。",
+    "MOVER3": "動いた",
+    "MOVER4": "その位置に",
+    "MOVER5": "キューから。",
+    "MUSICA6": "番号が無効です。"
+}

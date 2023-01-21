@@ -1,0 +1,23 @@
+{
+    "ONE_DAY": "하루",
+    "DAYS": "{{amount}} 일",
+    "ONE_HOUR": "1시간",
+    "HOURS": "{{amount}} 시간",
+    "ONE_MINUTE": "1분",
+    "MINUTES": "{{amount}} 분",
+    "ONE_SECOND": "1초",
+    "SECONDS": "{{amount}} 초",
+    "NOT_NUMBER": "숫자여야 합니다.",
+    "INCORRECT_DELIMITERS": "다음 시간 구분 기호 중 하나를 사용하십시오: `d`, `h`, `m`, `s`.",
+    "MAX_TIME": "10일을 초과할 수 없습니다.",
+    "INVALID_TIME": "잘못된 번호를 입력했습니다.(예: 1m 또는 16시간)",
+    "dia": "하루",
+    "dias": "일",
+    "hora": "시간",
+    "horas": "시간",
+    "minuto": "분",
+    "minutos": "분",
+    "segundo": "둘째",
+    "segundos": "초",
+    "e": "과"
+}

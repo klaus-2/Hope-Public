@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Zeigt den Serverlevel Punktestand an.",
+    "USAGE": "Rang\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "Rang",
+    "EXAMPLE": "rank userID | lb @mention | Rangliste Benutzername",
+    "LVL_RANK": "Server ",
+    "LVL_RANK1": "Ebene:",
+    "LEADERBOARD_TITLE": "Ranking de Níveis — Hope 👸",
+    "LEADERBOARD_FIELDT": "Keine Daten gefunden",
+    "LEADERBOARD_FIELDDESC": "Bitte gib den Chat ein, um Erfahrungen zu sammeln."
+}

@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Déposez une somme d'argent de l'addon Économie sur votre compte bancaire.",
+    "USAGE": "deposit <value>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "déposer <value>",
+    "EXAMPLE": "deposit 5000",
+    "DEPOSITAR": "all",
+    "DEPOSITAR1": "<:cancel:855859391709577266> Vous n'avez pas d'argent à déposer",
+    "DEPOSITAR2": "<:v_:855859391835799582> Vous avez déposé toutes vos pièces dans votre banque",
+    "DEPOSITAR3": "<:cancel:855859391709577266> Spécifiez un montant à déposer",
+    "DEPOSITAR4": "<:cancel:855859391709577266> Votre valeur n'est pas un nombre !",
+    "DEPOSITAR5": "<:cancel:855859391709577266> Vous ne pouvez pas déposer d'argent négatif",
+    "DEPOSITAR6": "vous n'avez pas ce montant disponible pour déposer dans votre banque.",
+    "DEPOSITAR7": "<:v_:855859391835799582> Vous avez déposé",
+    "DEPOSITAR8": "skcoins sur votre compte bancaire"
+}

@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "cargar una copia de seguridad.",
+    "USAGE": "e-backup-load <code>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "carga de copia de seguridad electrónica <code>",
+    "EXAMPLE": "e-backup-load exOBDL",
+    "E_BACKUP_CARREGAR": "¿Estás segura?",
+    "E_BACKUP_CARREGAR1": "Hola, {{author}}",
+    "E_BACKUP_CARREGAR2": "¿Estás seguro de que quieres cargar la copia de seguridad?\n\n<:Informao:823004619805294643> Nota: Solo añadirá emojis cuando haya espacio suficiente en el servidor.\nAsí que asegúrate de que si hay más emojis en la copia de seguridad que en el espacio del servidor, no se trata de un error, sino de falta de espacio.",
+    "E_BACKUP_CARREGAR3": "**Se ha cancelado la carga de la copia de seguridad. **",
+    "E_BACKUP_CARREGAR4": ":x: | **No se ha encontrado este código de respaldo** \nCompruebe si está utilizando el código correcto e inténtelo de nuevo.",
+    "E_BACKUP_CARREGAR5": ":x: | ** ¡No hay emojis en esa copia de seguridad! **",
+    "E_BACKUP_CARREGAR6": "Ya no hay espacio para nuevos emojis.",
+    "E_BACKUP_CARREGAR7": "<:v_:855859391835799582> **La copia de seguridad se ha cargado correctamente. **",
+    "E_BACKUP_CARREGAR8": ":x: | **No se ha encontrado la copia de seguridad. **"
+}

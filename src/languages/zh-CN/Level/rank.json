@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "显示服务器级别得分。",
+    "USAGE": "等级\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "排名",
+    "EXAMPLE": "排名 userId | lb @mention | 排行榜用户名",
+    "LVL_RANK": "伺服器 ",
+    "LVL_RANK1": "级别：",
+    "LEADERBOARD_TITLE": "排名 níveis — Hope 👸",
+    "LEADERBOARD_FIELDT": "找不到数据",
+    "LEADERBOARD_FIELDDESC": "请输入聊天以获取经验。"
+}

@@ -1,0 +1,4 @@
+{
+    "DESCRIPTION": "Ativa ou desativa o Addon de Reputação.",
+    "USAGE": "reputação <ativar | desativar>"
+}

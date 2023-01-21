@@ -1,0 +1,15 @@
+{
+    "WARNING_SYSTEM": "UWAGA",
+    "WARNING_SYSTEM1": "Otrzymałeś ostrzeżenie w {{guild}}.",
+    "WARNING_SYSTEM2": "Doradztwo przez:",
+    "WARNING_SYSTEM3": "Powód:",
+    "WARNING_SYSTEM4": "Ostrzeżenie:",
+    "WARNING_SYSTEM5": "1/3",
+    "WARNING_SYSTEM6": "Otrzymałeś kolejne ostrzeżenie w {{guild}}.",
+    "WARNING_SYSTEM7": "2/3",
+    "WARNING_SYSTEM8": "[KICK]",
+    "WARNING_SYSTEM10": "[WARN]",
+    "WARNING_SYSTEM11": "Użytkownik:",
+    "WARNING_SYSTEM12": "Moderator:",
+    "WARNING_SYSTEM13": "Ostrzeżenia:"
+}

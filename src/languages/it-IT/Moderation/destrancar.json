@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "sblocca un canale.",
+    "USAGE": "sblocca\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "sblocca",
+    "EXAMPLE": "sblocca",
+    "DESTRANCAR": "🔓 Il canale <#{{channel}}> è stato sbloccato.",
+    "DESTRANCAR1": "ATTENZIONE"
+}

@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "사용자에게 DM을 보냅니다.",
+    "USAGE": "dm <user> <message>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "개발자 <message>",
+    "EXAMPLE": "dm @User 헬로",
+    "DM": "여보세요",
+    "DM1": "서버에서 메시지를 받았습니다.",
+    "DM2": "제출자:",
+    "DM3": "제목:",
+    "DM4": "이 메시지는 Hope 봇을 사용하여 전송되었습니다. 악용이 의심되는 경우",
+    "DM5": "서버에서",
+    "DM6": "DM을 <@{{member}}>에 성공적으로 보냈습니다."
+}

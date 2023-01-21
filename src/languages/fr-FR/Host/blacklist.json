@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Mettre à jour la liste globale des bannissements",
+    "USAGE": "liste noire <add / remove> <userID> [reason]",
+    "MISSING_USER": "ID d'utilisateur incorrect.",
+    "AUTHOR": "{{TAG}} a été banni globalement",
+    "DESC": "**Raison :** {{REASON}}",
+    "ALRDY_BAN": "L'utilisateur : {{ID}} est déjà banni.",
+    "SUCC_UNBAN": "A réussi à débannir l'utilisateur."
+}

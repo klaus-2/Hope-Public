@@ -1,0 +1,10 @@
+{
+    "MESSAGE_DELETE_BULK": "Várias mensagens foram excluídas em",
+    "MESSAGE_DELETE_BULK1": "ID do canal:",
+    "MESSAGE_DELETE_BULK2": "[EVENTO — MENSAGENS DELETADAS]",
+    "MESSAGE_DELETE_BULK3": "Quantidade de mensagens:",
+    "MESSAGE_DELETE_BULK4": "Mensagens excluídas:",
+    "MESSAGE_DELETE_BULK5": "ver",
+    "MESSAGE_DELETE_BULK6": "no servidor",
+    "MESSAGE_DELETE_BULK7": "MensagensExcluidas.txt"
+}

@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "상환을 위한 코드를 생성합니다.",
+    "USAGE": "제네레이트코드 <month | year>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "제너레이트코드 <month | year>",
+    "EXAMPLE": "제네레이트코드 메스",
+    "NOVO_PREMIUM": "월",
+    "NOVO_PREMIUM1": "연도",
+    "NOVO_PREMIUM2": "플랜 제공!",
+    "NOVO_PREMIUM3": "생성됨",
+    "NOVO_PREMIUM4": "프리미엄 코드",
+    "NOVO_PREMIUM5": "유형:",
+    "NOVO_PREMIUM6": "만료:"
+}

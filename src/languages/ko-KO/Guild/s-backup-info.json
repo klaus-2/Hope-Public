@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "서버 백업에서 정보를 가져옵니다.",
+    "USAGE": "s 백업 정보 <backupID>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "s 백업 정보 <backupID>",
+    "EXAMPLE": "s 백업 정보 2334",
+    "S_BACKUP_INFO": "유효한 백업 ID를 지정해야 합니다.",
+    "S_BACKUP_INFO1": "** 백업 정보**\n 백업 ID:",
+    "S_BACKUP_INFO2": "서버 ID:",
+    "S_BACKUP_INFO3": "백업 크기:",
+    "S_BACKUP_INFO4": "mb \n 백업 생성 위치:"
+}

@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Adicione um cargo a todos os usuários do servidor atual.",
+    "USAGE": "addroleall <role>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "addroleall <role>",
+    "EXAMPLE": "addroleall @role | addroleall 43656543212",
+    "ROLE": "O meu cargo não é mais alto que o cargo **{{role}}**! Por favor, corrija isto, movendo a posição do meu cargo para o topo.",
+    "ROLE1": "Por favor, informe um cargo válido",
+    "ROLE2": "O cargo **{{role}}** foi adicionado com sucesso a todos membros do servidor."
+}

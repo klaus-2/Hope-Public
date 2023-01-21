@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "supprimer une chanson de la file d'attente.",
+    "USAGE": "remove <position> [position]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "supprimer <position> [position]",
+    "EXAMPLE": "supprimer 3 | supprimer 3 7",
+    "REMOVER": "Vous ne pouvez pas supprimer une chanson qui est déjà en cours de lecture. Pour supprimer la chanson en cours de lecture: `{{prefix}}skip`",
+    "REMOVER1": "Je n'ai pas pu trouver cette chanson.",
+    "REMOVER2": "Enlevé **{{title}}** de la file d'attente.",
+    "REMOVER3": "La valeur finale doit être supérieure à la valeur initiale.",
+    "REMOVER4": "Supprimé",
+    "REMOVER5": "chansons dans la file d'attente.",
+    "REMOVER6": "Numéro non valide."
+}

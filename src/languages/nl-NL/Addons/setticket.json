@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Schakel de ticketadd-on in of uit.",
+    "USAGE": "setticket <enable | disable>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "setticket <enable | disable>",
+    "EXAMPLE": "setticket inschakelen"
+}

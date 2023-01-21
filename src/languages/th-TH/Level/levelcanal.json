@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Set up Hope auto charge for this server.",
+    "USAGE": "levelchannel <channelID>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "levelchannel <channelID>",
+    "EXAMPLE": "levelchannel 7642332322",
+    "LVL_CANAL": "การตั้งค่า: `Level`",
+    "LVL_CANAL1": "<:v_:855859391835799582>อัพเดตการตั้งค่าคอนฟิก `Level` เสร็จเรียบร้อยแล้ว",
+    "LVL_CANAL2": "การตั้งค่าระดับ",
+    "LVL_CANAL3": "ช่องทางที่เปลี่ยนจาก"
+}

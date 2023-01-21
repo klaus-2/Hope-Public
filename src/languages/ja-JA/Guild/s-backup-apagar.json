@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "サーバーバックアップを削除します。",
+    "USAGE": "s-backup-delete <backupID>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "s-backup-delete <backupID>",
+    "EXAMPLE": "s-backup-delete 2334",
+    "S_BACKUP_APAGAR": "ああ {{author}}、ごめんなさい :(",
+    "S_BACKUP_APAGAR1": "ステータスプレミアム: :small_blue_diamond: **通常ユーザー** :small_blue_diamond:\n残念ながら <: Hopefoimal:823046654374314044> **スカイサポートサーバー**のプレミアムユーザーではないため、このコマンドは使用できません。",
+    "S_BACKUP_APAGAR2": "💡 プレミアムは、スカイのサポートサーバーをブーストしたユーザーに与えられる特典です。 {{prefix}}スカイ",
+    "S_BACKUP_APAGAR3": "削除するには有効なバックアップ ID を指定する必要があります",
+    "S_BACKUP_APAGAR4": "** バックアップ削除**",
+    "S_BACKUP_APAGAR5": "** 新しいバックアップが削除されました**\n 作成者: {{author}}",
+    "S_BACKUP_APAGAR6": "{{backupID}}のバックアップが見つかりません"
+}

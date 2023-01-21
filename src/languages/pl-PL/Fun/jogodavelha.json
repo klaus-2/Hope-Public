@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Rozpocznij grę w kółko i krzyżyk.",
+    "USAGE": "tictactoe\n💡 **Przykład: {{EXAMPLE}}",
+    "USAGEE": "tictactoe <user>",
+    "EXAMPLE": "tictactoe @User",
+    "VELHA": "Proszę wspomnieć, kogo chcesz rzucić wyzwanie na tictactoe."
+}

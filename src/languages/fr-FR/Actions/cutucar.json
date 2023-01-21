@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Frappez un utilisateur.",
+    "USAGE": "poke <user>",
+    "USAGEE": "poke <user>",
+    "CUTUCAR_DESCRIÇÃO": "\\❌ **<@{{author}}>**, qui dois-je empocher ?",
+    "CUTUCAR_DESCRIÇÃO1": "Je suis déjà là ! Vous avez besoin de quelque chose ?",
+    "CUTUCAR_DESCRIÇÃO2": "\\❌ Je ne vais pas faire ça, **<@{{author}} >** !",
+    "CUTUCAR_DESCRIÇÃO3": "nu"
+}

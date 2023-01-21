@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Faz a Hope entrar no seu canal de voz.",
+    "USAGE": "entrar\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "entrar",
+    "EXAMPLE": "entrar",
+    "ENTRAR": "Eu entrei com sucesso no canal de voz."
+}

@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "删除自动回复。",
+    "USAGE": "deleteautoresponse <command>\n💡**示例**: {{EXAMPLE}}",
+    "USAGEE": "deleteautoresponse <command>",
+    "EXAMPLE": "deleteautoresponse hi",
+    "DELETAR_RESPOSTA": "<:cancel:855859391709577266> 你的命令名称高于30个字符！",
+    "DELETAR_RESPOSTA1": "删除自动响应",
+    "DELETAR_RESPOSTA2": "已成功删除。",
+    "DELETAR_RESPOSTA3": "哎呀！抱歉，但我找不到这个命令！你确定这是正确的吗？"
+}

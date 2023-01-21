@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Configurer l'extension de vérification Hope pour ce serveur.",
+    "USAGE": "vf-option <0-2>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "vf-option <0-2>",
+    "EXAMPLE": "option vf-1",
+    "VF_OP": "Paramètres: `Serveur`",
+    "VF_OP1": "<:v_:855859391835799582>L'`option` a été mis à jour avec succès.",
+    "VF_OP2": "Option de vérification",
+    "VF_OP3": "changé de",
+    "VF_OP4": "Verify",
+    "VF_OP5": "Système de vérification",
+    "VF_OP6": "Cliquez sur le __button__ ci-dessous pour **vérifier** et accéder à ce serveur.",
+    "VF_OP7": "Oui ! Vous avez vérifié avec succès et maintenant vous avez accès au serveur.\nBienvenue <:Skye_Welcome:890355726625697813>",
+    "VF_OP8": "Veuillez demander à l'administrateur de ce serveur de configurer le **rôle de vérification** en utilisant `settings vf`."
+}

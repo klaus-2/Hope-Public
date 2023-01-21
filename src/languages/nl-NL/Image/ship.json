@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "maak een scheepsafbeelding aan met een andere gebruiker.",
+    "USAGE": "schip <user1> [user2]\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "schip <user1> [user2]",
+    "EXAMPLE": "gebruiker verzenden | gebruiker verzenden <attachment>"
+}

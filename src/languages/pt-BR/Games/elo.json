@@ -1,0 +1,23 @@
+{
+    "DESCRIPTION": "Exibe o maior elo de um usuario no League of Legends.",
+    "USAGE": "elo <nick>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "elo <nick>",
+    "EXAMPLE": "elo esA",
+    "ELO": "atualmente está no nível",
+    "ELO1": "Elo",
+    "ELO2": "V/D",
+    "ELO3": "Win Rate",
+    "ELO4": "PDL",
+    "ELO5": "br1",
+    "ELO6": "GRÃO-MESTRE",
+    "ELO7": "BRONZE",
+    "ELO8": "FERRO",
+    "ELO9": "PRATA",
+    "ELO10": "OURO",
+    "ELO11": "PLATINA",
+    "ELO12": "DIAMANTE",
+    "ELO13": "MESTRE",
+    "ELO14": "DESAFIANTE",
+    "ELO15": "Perfil do League of Legends",
+    "ELO16": "Foi mal, mas esse invocador não existe.\nVerifique se escreveu o nome corretamente e tente outra vez."
+}

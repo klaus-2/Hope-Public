@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Abraça o(s) usuário(s) que você mencionou!",
+    "USAGE": "abraçar [user]\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "abraçar [user]",
+    "EXAMPLE": "abraçar @Hope | abraçar @User1 @User2",
+    "ABRAÇAR_DESCRIÇÃO": "Você não pode se abraçar, mas deixe-me <:abrao:826270761475768381> abraçá-lo ao invés disso, <@{{member}}>!",
+    "ABRAÇAR_Hope": " **eu**",
+    "ABRAÇAR_DESCRIÇÃO1": "abraçou",
+    "ABRAÇAR_HopeFRASE": "ల(*´= ◡ =｀*) Um abraço tão caloroso... obrigada~~ Nyaa~~",
+    "ABRAÇAR_DESC": " e ",
+    "ABRAÇAR_DESC1": ", e "
+}

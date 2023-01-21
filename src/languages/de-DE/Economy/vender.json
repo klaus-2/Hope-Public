@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Verkaufe deine Artikel gegen Bargeld.",
+    "USAGE": "verkaufen <item id>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "verkaufe <item id>",
+    "EXAMPLE": "verkaufen 3 | verkaufen 2",
+    "VENDER": "konnte den Artikel mit **ID** nicht finden!\nBitte gib die richtige **ID** ein und versuche es erneut.",
+    "VENDER1": "du hast nicht die erforderliche Menge von",
+    "VENDER2": "um diesen Verkauf zu machen.",
+    "VENDER3": "leider",
+    "VENDER4": "kann nicht verkauft werden.",
+    "VENDER5": "Sie haben kein Bankkonto im Hope's Economy Addon.\nBitte registrieren Sie sich mit dem Befehl",
+    "VENDER6": "registrieren",
+    "VENDER7": "du hast erfolgreich verkauft",
+    "VENDER8": "für **$",
+    "VENDER9": "skcoins"
+}

@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Aplica o efeito pitch na musica.",
+    "USAGE": "pitch <valor | desativar>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "pitch <valor | desativar>",
+    "EXAMPLE": "pitch desativar | pitch 6",
+    "PITCH": "Desativando  o efeito **pitch**. <:SkyeOuvindoMusica:823046654554144768> Isso pode demorar alguns segundos...",
+    "PITCH1": "<:v_:855859391835799582> **pitch** foi desativado.",
+    "PITCH2": "A quantidade deve ser um número real.",
+    "PITCH3": "Pitch deve ser entre 0 e 10.",
+    "PITCH4": "Configurando Pitch para",
+    "PITCH5": "Isso pode demorar alguns segundos...",
+    "PITCH6": "Pitch configurado para"
+}

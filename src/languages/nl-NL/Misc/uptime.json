@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "krijg de uptime van de bot.",
+    "USAGE": "uptime\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "uptime",
+    "EXAMPLE": "uptime",
+    "EUP_DESC": "Hope | Uptime",
+    "EUP_DESC1": "Sindsdien online"
+}

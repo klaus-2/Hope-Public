@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "het voorvoegsel van Hope voor deze server instellen.",
+    "USAGE": "prefix <new prefix>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "voorvoegsel <new prefix>",
+    "EXAMPLE": "voorvoegsel!",
+    "PREFIXO": "<:Skye Ola 1:823223308744130580 > Whoa! Helaas kan het voorvoegsel niet langer zijn dan 3 tekens.",
+    "PREFIXO1": "Instellingen: `Server`",
+    "PREFIXO2": "<:v_:855859391835799582> Het `prefix` is succesvol bijgewerkt.",
+    "PREFIXO3": "Voorvoegsel",
+    "PREFIXO4": "Gewijzigd van"
+}

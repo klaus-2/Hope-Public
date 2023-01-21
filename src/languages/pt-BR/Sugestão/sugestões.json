@@ -1,0 +1,19 @@
+{
+    "DESCRIPTION": "Altere o status de uma sugestão.",
+    "USAGE": "sugestões <ID da mensagem> <AGUARDANDO | APROVADO | NEGADO>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "sugestões <ID da mensagem> <AGUARDANDO | APROVADO | NEGADO>",
+    "EXAMPLE": "sugestões 9876633091723 APROVADO",
+    "SUGESTÕES": "Oops! {{status}} é um **Status desconhecido**\nPor favor, use uma das seguintes opções: `{{var}}`.",
+    "SUGESTÕES1": "Por favor, use",
+    "SUGESTÕES2": "Ocorreu um erro, por favor relate isto em {{prefix}}bug",
+    "SUGESTÕES3": "O canal de sugestão não existe mais",
+    "SUGESTÕES4": "Essa mensagem não existe mais",
+    "SUGESTÕES5": "sugeriu",
+    "SUGESTÕES6": "Quer sugerir algo? Basta digitar neste canal",
+    "SUGESTÕES7": "Status",
+    "SUGESTÕES8": "Comentario da Administração",
+    "SUGESTÕES9": "O Status da sugestão foi atualizado com sucesso!",
+    "SUGESTÕES10": "<:Informao:823004619805294643> Aguardando feedback da comunidade, por favor vote!",
+    "SUGESTÕES11": "<:v_:855859391835799582> Sugestão aceita! Aguarde por ela em breve.",
+    "SUGESTÕES12": "<:cancel:855859391709577266> Obrigado pela sugestão, mas não estamos interessados nela neste momento."
+}

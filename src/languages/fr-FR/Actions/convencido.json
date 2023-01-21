@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Générer une réaction à convaincre.",
+    "USAGE": "smug",
+    "USAGEE": "smug",
+    "CONVENCIDO_DESCRIÇÃO": "<@{{member}}> est convaincu."
+}

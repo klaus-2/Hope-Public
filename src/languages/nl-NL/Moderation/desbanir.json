@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "ongedaan maken van een gebruiker.",
+    "USAGE": "unban <userID> [reason]\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "onban <userID> [reason]",
+    "EXAMPLE": "unban 432567667533123 test"
+}

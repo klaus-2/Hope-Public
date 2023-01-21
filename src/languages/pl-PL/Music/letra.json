@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "dostać teksty do piosenki.",
+    "USAGE": "teksty piosenek [song]\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "teksty piosenek [song]",
+    "EXAMPLE": "teksty kotwicy - novo amor",
+    "LETRA": "Szukam tekstu, przytrzymaj <:SkyeDetetive:8232597044435450>",
+    "LETRA1": "Nie znaleziono tekstów"
+}

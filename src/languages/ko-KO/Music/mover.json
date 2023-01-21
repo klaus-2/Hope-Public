@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "지정된 곡 번호를 지정된 위치로 이동합니다.",
+    "USAGE": "이동 <music position> <new position>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "이동 <music position> <new position>",
+    "EXAMPLE": "이동 4 8",
+    "MOVER": "이미 재생 중인 곡을 이동할 수 없습니다.현재 재생 중인 곡 유형을 건너뛰려면: `{{prefix}}skip`",
+    "MOVER1": "노래를 찾을 수 없습니다.",
+    "MOVER2": "야이!** {{title}} **을 (를) 대기열의 시작 부분으로 이동했습니다.",
+    "MOVER3": "이동되었습니다",
+    "MOVER4": "직책으로",
+    "MOVER5": "대기열에서.",
+    "MUSICA6": "잘못된 번호입니다."
+}

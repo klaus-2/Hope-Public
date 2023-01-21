@@ -1,0 +1,18 @@
+{
+    "DESCRIPTION": "スカイでロック、紙、はさみをプレイしてください。",
+    "USAGE": "rps <rock / paper / scissors>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "RPS <rock / paper / scissors>",
+    "EXAMPLE": "RPS",
+    "FPPT_DESC": "岩",
+    "FPPT_DESC1": "論文",
+    "FPPT_DESC2": "はさみ",
+    "FPPT_DESC3": "ロック-紙-はさみ",
+    "FPPT_DESC4": "オプションを選ぶ",
+    "FPPT_DESC5": "スカイと一緒に描いた",
+    "FPPT_DESC6": "勝ちました",
+    "FPPT_DESC7": "失われた",
+    "FPPT_DESC8": "次のものを選択しました。",
+    "FPPT_DESC9": "スカイが選んだ",
+    "FPPT_DESC10": "結果:おまえら",
+    "FPPT_DESC11": "時間がかかりすぎた！"
+}

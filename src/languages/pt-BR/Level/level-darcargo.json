@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Configure o cargo recebido quando avançar de nível",
+    "USAGE": "level-darcargo <ID do novo cargo>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "level-darcargo <ID do novo cargo>",
+    "EXAMPLE": "level-darcargo 328328777266673",
+    "LVL_CARGO": "`Nenhum`",
+    "LVL_CARGO1": "Configurações: `Level`",
+    "LVL_CARGO2": "<:v_:855859391835799582>O `auto cargo` foi atualizado com sucesso.",
+    "LVL_CARGO3": "Auto cargo",
+    "LVL_CARGO4": "Alterado de"
+}

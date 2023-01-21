@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Muestra una lista de reproducción",
+    "USAGE": "p-view <playlist name>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "vista p <playlist name>",
+    "EXAMPLE": "p-view Prueba",
+    "P_VER": "No tienes ninguna lista de reproducción guardada.",
+    "P_VER1": "Las listas de reproducción disponibles son: `{{playlists}}`.\n¡Usa `{{prefix}}p-view <playlist name>` para obtener más detalles!",
+    "P_VER2": "Página",
+    "P_VER3": "canciones",
+    "P_VER4": "duración total",
+    "P_VER5": "Esa no es una lista de reproducción hecha por ti."
+}

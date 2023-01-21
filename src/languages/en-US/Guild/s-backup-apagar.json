@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Delete a server backup.",
+    "USAGE": "s-backup-delete <backupID>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "s-backup-delete <backupID>",
+    "EXAMPLE": "s-backup-delete 2334",
+    "S_BACKUP_APAGAR": "Aah {{author}}, I'm sorry :(",
+    "S_BACKUP_APAGAR1": "Status premium: :small_blue_diamond: **NORMAL USER** :small_blue_diamond:\nUnfortunately <:SkyeFoiMal:823046654374314044> you cannot use this command because you are not a premium user on **Hope Support Server**.",
+    "S_BACKUP_APAGAR2": "💡 Premium is a benefit given to users who boost Hope's Support Server. {{prefix}}Hope",
+    "S_BACKUP_APAGAR3": "You must specify a valid backup ID To Remove",
+    "S_BACKUP_APAGAR4": "** BACKUP DELETE**",
+    "S_BACKUP_APAGAR5": "** NEW BACKUP DELETED**\n Author: {{author}}",
+    "S_BACKUP_APAGAR6": "No Backup Found For {{backupID}}"
+}

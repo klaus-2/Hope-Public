@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "锁定频道。",
+    "USAGE": "lock\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "锁",
+    "EXAMPLE": "锁",
+    "TRANCAR": "🔒 <{{channel}}> 已被锁定。",
+    "TRANCAR1": "注意",
+    "TRANCAR_PERMISSÃO": "你不能这样做。"
+}

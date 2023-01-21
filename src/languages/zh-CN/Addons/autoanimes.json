@@ -1,0 +1,22 @@
+{
+    "DESCRIPTION": "设置自动动画插件。",
+    "USAGE": "自动动画 <add | remove >\n💡**示例**: {{EXAMPLE}}",
+    "USAGEE": "自动动画 <add | remove >",
+    "EXAMPLE": "添加自动动画",
+    "ANIMES": "enable",
+    "ANIMES1": "\"自动动画\" 插件已成功激活。",
+    "ANIMES2": "禁用",
+    "ANIMES3": "已成功禁用了 \"自动动画\" 插件。",
+    "ANIMES4": "channel",
+    "ANIMES5": "哎呀！我看来没有访问此频道的权限，或者它在这个服务器上不存在。请检查并再试一次！",
+    "ANIMES6": "该频道已成功更新到 <#{{channel}}> 在 \"自动动画\" 插件中。",
+    "ANIMES7": "add",
+    "ANIMES8": "哎呀！在这里发生了一些错误。\n1-输入的动作名称可能是错误的，在这种情况下，你只需检查然后再试一次。\n2- 剧情已经不再在展览中，在这种情况下，请在展览中检查当前的动画和他们的正确姓名[此链接](https://anilist)。 o/search/anime?year=2021&airing%20status=RELEASING) 然后重试。",
+    "ANIMES9": "哎呀！抱歉，但您已经达到了10个动画限制！让这个服务器高级以添加无限的动物。",
+    "ANIMES10": "哎呀！这个动画似乎已经添加到 \"自动动画\" 插件。请检查当前列表在 **{{prefix}}autoanimes list**。",
+    "ANIMES11": "哎呀！看来您已达到最大限额999。",
+    "ANIMES12": "Anime {{title}} 已成功添加到 \"自动动画\" 插件。",
+    "ANIMES13": "remove",
+    "ANIMES14": "Anime {{search}} 已成功从 \"自动动画\" 插件中移除。",
+    "ANIMES15": "哎呀！这个动画看起来没有添加到 \"自动动画\" 插件。要检查当前的动画列表, 请使用 **{{prefix}}autoanimes list**。"
+}

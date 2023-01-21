@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Esprime una reazione di felicità.",
+    "USAGE": "felice",
+    "USAGEE": "felice",
+    "FELIZ_DESCRIÇÃO": "<@{{author}}> è felice."
+}

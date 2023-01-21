@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Konfiguriere das Hope Verifizierungs-Addon für diesen Server.",
+    "USAGE": "vf-Option <0-2>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "vf-Option <0-2>",
+    "EXAMPLE": "vf-Option 1",
+    "VF_OP": "Einstellungen: `Server`",
+    "VF_OP1": "<:v_:855859391835799582>Die `Option` wurde erfolgreich aktualisiert.",
+    "VF_OP2": "Verifizierungsoption",
+    "VF_OP3": "geändert von",
+    "VF_OP4": "Verfiy",
+    "VF_OP5": "Verifizierungssystem",
+    "VF_OP6": "Klicke auf die __button__ unten, um **zu überprüfen** und erhalte Zugriff auf diesen Server.",
+    "VF_OP7": "Yayy! Sie haben erfolgreich verifiziert und haben nun Zugriff auf den Server.\nWillkommen <:Skye_Welcome:890355726625697813>",
+    "VF_OP8": "Bitte fragen Sie den Administrator dieses Servers, die **Rolle überprüfen** mit `settings vf` zu konfigurieren."
+}

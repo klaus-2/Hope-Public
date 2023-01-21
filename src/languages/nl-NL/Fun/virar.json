@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "draai een munt om.",
+    "USAGE": "flip\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "flippen",
+    "EXAMPLE": "flippen",
+    "FLIP_CHOICE": "['Hoofd', 'Tails'] [{{choice}}]"
+}

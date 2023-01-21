@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Load a playlist",
+    "USAGE": "p-load <playlist name>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "p-load <playlist name>",
+    "EXAMPLE": "p-load Test",
+    "P_CARREGAR": "Loading playlist (This might take a few seconds)...",
+    "P_CARREGAR1": "Queued",
+    "P_CARREGAR2": "songs** from",
+    "P_CARREGAR3": "No playlist found"
+}

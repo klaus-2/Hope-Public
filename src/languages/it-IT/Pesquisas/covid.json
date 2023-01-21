@@ -1,0 +1,17 @@
+{
+    "DESCRIPTION": "Ottieni informazioni in tempo reale su Covid-19 in un paese.",
+    "USAGE": "covid [country]\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "merluzzo bianco [country]",
+    "EXAMPLE": "covid stati uniti <unk> covid",
+    "COVID": "Statistiche Coronavirus",
+    "COVID1": "Casi Confermati",
+    "COVID2": "Casi Di Oggi",
+    "COVID3": "Morti Di Oggi",
+    "COVID4": "Attivo",
+    "COVID5": "Recuperato",
+    "COVID6": "Morti",
+    "COVID7": "Prove",
+    "COVID8": "Casi Per Mil",
+    "COVID9": "Morti Per Mil",
+    "COVID10": "Ultimo Aggiornamento"
+}

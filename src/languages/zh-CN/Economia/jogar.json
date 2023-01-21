@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "玩一些游戏来赚取积分。",
+    "USAGE": "游戏 <game name>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "游戏 <game name>",
+    "EXAMPLE": "游戏刽子手",
+    "JOGAR": "请提供以下你想玩的游戏之一。",
+    "JOGAR1": "不是可玩的游戏。请从以下选项之一中进行选择："
+}

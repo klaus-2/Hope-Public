@@ -1,0 +1,6 @@
+{
+    "GUILD_CREATE": "[ÉVÉNEMENT — SERVEUR AJOUTÉ]",
+    "GUILD_CREATE1": "Nom du serveur",
+    "GUILD_CREATE2": "Propriétaire du serveur",
+    "GUILD_CREATE3": "Nombre de membres"
+}

@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "스카이에서 무작위로 조언을 구하십시오.",
+    "USAGE": "조언\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "조언",
+    "EXAMPLE": "조언",
+    "FCONSELHO_DESC": "./resources/other/conselhos-en.json",
+    "FCONSELHO": "{{bot}} 의 조언"
+}

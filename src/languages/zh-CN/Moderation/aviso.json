@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "向用户应用警告。",
+    "USAGE": "警告 <user> [time] [reason]\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "警告 <user> [time] [reason]",
+    "EXAMPLE": "警告 @Hope 1h 测试"
+}

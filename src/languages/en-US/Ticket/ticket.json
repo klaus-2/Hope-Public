@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "inform about the Ticket addon.",
+    "USAGE": "ticket\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "t-close",
+    "EXAMPLE": "t-close",
+    "TICKET_REAÇÃO": "reaction",
+	"TICKET_REAÇÃO1": "Secretary Hope",
+	"TICKET_REAÇÃO2": "Hello! I'm Hope and I'm here to help you open a ticket. It's very simple, just click the button below <:SkyeCorreta:823047534602616832>",
+	"TICKET_REAÇÃO3": "Hello! I am Hope and I will assist you in this process.\n\nFirst, let's remember that `<> is necessary` e `[] is optional`!\n\nCome on, you have two options to open a ticket:\n The first option is for you to go to the message sent by me in the Tickets channel of this server and react to it with 🎟.\n\nThe second option is to type in chat the command `{{prefix}}t-<create | open> [reason]` - to open a ticket.\n\n<a:sirene:823004235440062464> The commands below are available only to the Administration of this server, ok?!\n\n`{{prefix}}ticket reaction` - create a reaction message to open a ticket.\n`{{prefix}}t-setup` - to configure the ticket command on this server.",
+    "TICKET_REAÇÃO4": "Open a ticket"
+}

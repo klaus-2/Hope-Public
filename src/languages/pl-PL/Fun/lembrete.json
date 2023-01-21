@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "zdefiniować coś do zapamiętania w jakiś czas.",
+    "USAGE": "przypomnienie <time> <message>\n💡 **Przykład: {{EXAMPLE}}",
+    "USAGEE": "przypomnienie <time> <message>",
+    "EXAMPLE": "przypomnienie 1h nakarmić mój kot",
+    "FLEMBRETE_DESC": "Musisz ustawić okres czasu, aby być zapamiętany!",
+    "FLEMBRETE_DESC1": "Czas podany",
+    "FLEMBRETE_DESC2": "przekroczył limit 31-dniowy",
+    "FLEMBRETE_DESC3": "Musisz napisać wiadomość, aby być zapamiętany!",
+    "FLEMBRETE_DESC4": "Hej",
+    "FLEMBRETE_DESC5": "Możesz liczyć na moją pomoc, okaaay! Przypomnę ci stąd",
+    "FLEMBRETE_DESC6": "Możecie ufać, że zapamiętam, myślę,"
+}

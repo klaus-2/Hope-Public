@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "geef je lijst met gemaakte back-ups weer.",
+    "USAGE": "e-backup-list\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "e-back-up-lijst",
+    "EXAMPLE": "e-back-up-lijst",
+    "E_BACKUP_LISTA": ":x: | **Er is geen back-up gemaakt door u. **",
+    "E_BACKUP_LISTA1": ":x: | **Er zijn geen back-ups gemaakt door jou. **",
+    "E_BACKUP_LISTA2": "Dit is je back-uplijst",
+    "E_BACKUP_LISTA3": "Servernaam | Back-up-ID | Hoeveelheid emoji",
+    "E_BACKUP_LISTA4": "Hallo, {{author}}"
+}

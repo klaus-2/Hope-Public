@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "문장을 모든 언어로 번역하십시오! 목록을 보려면 <prefix>translate languages.",
+    "USAGE": "translate <language> <text>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "translate <language> <text>",
+    "EXAMPLE": "언어 번역",
+    "ETRA_DESC": "현재 사용 가능한 언어",
+    "ETRA_DESC1": "🇧🇬 -불가리아어 사용 `{{prefix}}`translate bg <text>`\n🇵🇱 -폴란드어 사용 `{{prefix}}`translate pl <text>`\n🇳🇱 -네덜란드어 사용 `{{prefix}}`translate nl <text>`\n🇩🇰 -덴마크어 사용 `{{prefix}}`translate da <text>`\n🇩🇪 -독일어 사용 `{{prefix}}`translate de <text>`\n🇮🇹 -이탈리아어 사용 `{{prefix}}`translate it <text>`\n🇷🇺 -러시아어 사용 `{{prefix}}`translate ru <text>`\n🇪🇸 -스페인어 사용 `{{prefix}}`translate es <text>`\n🇹🇷 -터키어 사용 `{{prefix}}`translate tr <text>`\n🇫🇷 -프랑스어 사용 `{{prefix}}`translate fr <text>`",
+    "ETRA_DESC2": "안녕하세요, 저는 {{user}} 입니다.",
+    "ETRA_DESC3": "알고 계셨나요?",
+    "ETRA_DESC4": "...에서",
+    "ETRA_DESC5": "방법",
+    "ETRA_DESC6": "<:태국:823047534670774303> 와우!흥미롭군요, 응?"
+}

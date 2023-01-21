@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "재생목록 삭제",
+    "USAGE": "p-삭제 <playlist name>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "p-삭제 <playlist name>",
+    "EXAMPLE": "p-삭제 테스트",
+    "P_DEL": "이름이 ** {{name}} **인 재생 목록을 찾을 수 없습니다.",
+    "P_DEL1": "성공적으로 삭제됨"
+}

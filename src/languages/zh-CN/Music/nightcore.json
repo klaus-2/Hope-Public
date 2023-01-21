@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "将 nightcore 效果应用于音乐。",
+    "USAGE": "nightcore\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "nightcore",
+    "EXAMPLE": "nightcore | 夜间核心off",
+    "OFF": "停用 ** Nightcore ** 的效果。<: HopeouvindomusicA: 823046654554144768> 这可能需要几秒钟...",
+    "NIGHTCORE2": "<: v_: 855859391835799582> ** 夜间核心 ** 已停用。",
+    "ON": "激活 ** Nightcore** 效果。<: Hopedana: 82304665337141482114> 这可能需要几秒钟...",
+    "NIGHTCORE1": "** Nightcore** 已被激活。"
+}

@@ -1,0 +1,112 @@
+// Dependencies
+const translate = require('@vitalets/google-translate-api'),
+    Optiic = require('optiic'),
+    optiic = new Optiic({ apiKey: '4zbKT3m73E9jEa5xcnzvRXANRAdvDwJUZqgSoxaijXzj' }),
+    { Collection } = require('discord.js'),
+    { ChannelType } = require('discord-api-types/v10'),
+    Event = require('../../structures/Event');
+
+class ClickMenu extends Event {
+    constructor(...args) {
+        super(...args, {
+            dirname: __dirname,
+        });
+    }
+
+	// Exec event
+    async run(bot, interaction) {
+        const guild = bot.guilds.cache.get(interaction.guildId),
+            channel = bot.channels.cache.get(interaction.channelId);
+
+        // Check to see if user is in 'cooldown'
+        if (!bot.cooldowns.has(interaction.commandName)) {
+            bot.cooldowns.set(interaction.commandName, new Collection());
+        }
+
+        const now = Date.now(),
+            timestamps = bot.cooldowns.get(interaction.commandName),
+            cooldownAmount = (interaction.user.premium ? 2250 : 3000);
+
+        if (timestamps.has(interaction.user.id)) {
+            const expirationTime = timestamps.get(interaction.user.id) + cooldownAmount;
+
+            if (now < expirationTime) {
+                const timeLeft = (expirationTime - now) / 1000;
+                return interaction.reply({ embeds: [channel.error('events/message:COMMAND_COOLDOWN', { NUM: timeLeft.toFixed(1) }, true)], ephemeral: true });
+            }
+        }
+
+        // Run context menu
+        if (bot.config.debug) bot.logger.debug(`Context menu: ${interaction.commandName} was ran by ${interaction.user.username}.`);
+        setTimeout(() => timestamps.delete(interaction.user.id), cooldownAmount);
+
+        switch (interaction.commandName) {
+            case 'Avatar':
+                bot.commands.get('avatar').reply(bot, interaction, channel, interaction.targetId);
+                break;
+            case 'Translate': {
+                // Only allow this to show in server channels
+                if (channel.type == ChannelType.DM) return interaction.reply({ embeds: [channel.error('events/message:GUILD_ONLY', {}, true)], ephemeral: true });
+
+                // fetch message and check if message has content
+                const message = await channel.messages.fetch(interaction.targetId);
+                if (!message.content) return interaction.reply({ embeds: [channel.error('There is no content on this message for me to translate.', {}, true)], ephemeral: true });
+
+                // translate message to server language
+                // translate message to server language
+                try {
+                    const bar = await translate(message.content, { to: guild.settings.Language.split('-')[0] });
+                    interaction.reply({
+                        content: `Translated to \`${bot.languages.find(lan => lan.name == guild.settings.Language).nativeName}\`: ${bar.text}`,
+                        allowedMentions: { parse: [] }
+                    });
+                } catch (err) {
+                    bot.logger.error(`Command: '${this.help.name}' has error: ${err.message}.`);
+                    interaction.reply({ embeds: [channel.error('misc:ERROR_MESSAGE', { err: err.message }, true)], ephemeral: true });
+                }
+                break;
+            }
+            case 'OCR': {
+                // fetch message and check if message has attachments
+                const message = await channel.messages.fetch(interaction.targetId);
+                if (!message.attachments.first()?.url) return interaction.reply({ embeds: [channel.error('That message had no attachments', {}, true)], ephemeral: true });
+
+                // Get text from image
+                const res = await optiic.process({
+                    image: message.attachments.first().url,
+                    mode: 'ocr',
+                });
+
+                // Make sure text was actually retrieved
+                if (!res.text) {
+                    interaction.reply({ embeds: [channel.error('No text was found from the attachment.', {}, true)], ephemeral: true });
+                } else {
+                    interaction.reply({ content: `Text from image: ${res.text}` });
+                }
+                break;
+            }
+            case 'Add to Queue': {
+                // Only allow this to show in server channels
+                if (channel.type == ChannelType.DM) return interaction.reply({ embeds: [channel.error('events/message:GUILD_ONLY', {}, true)], ephemeral: true });
+
+                const message = await channel.messages.fetch(interaction.targetId);
+                const args = new Map().set('track', { value: message.content });
+                bot.commands.get('play').callback(bot, interaction, guild, args);
+                break;
+            }
+            case 'Screenshot': {
+                // fetch message and check if message has content
+                const message = await channel.messages.fetch(interaction.targetId);
+                if (!message.content) return interaction.reply({ embeds: [channel.error('No link was found from the message.', {}, true)], ephemeral: true });
+
+                bot.commands.get('screenshot').reply(bot, interaction, channel, message);
+                break;
+            }
+            default:
+                interaction.reply({ content: 'Something went wrong' });
+        }
+        timestamps.set(interaction.user.id, now);
+    }
+}
+
+module.exports = ClickMenu;

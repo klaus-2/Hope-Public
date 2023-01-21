@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "ottieni l'uptime del bot.",
+    "USAGE": "uptime\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "uptime",
+    "EXAMPLE": "uptime",
+    "EUP_DESC": "Hope <unk> Uptime",
+    "EUP_DESC1": "Online dal"
+}

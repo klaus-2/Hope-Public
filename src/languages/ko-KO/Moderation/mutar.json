@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "사용자를 음소거합니다.",
+    "USAGE": "음소거 <user> [time]\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "음소거 <user> [time]",
+    "EXAMPLE": "뮤트 @Hope 3시간"
+}

@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Gerar uma imagem customizada.",
+    "USAGE": "<option> [user]\nを生成する 💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "<option> [user]を生成する",
+    "EXAMPLE": "generate 3000years user | generate beautiful <attachment>",
+    "GENERATE_DESC": "**1 画像が必要です**:\n`{{IMG_1}}`. \n**2枚の画像が必要です**:\n`{{IMG_2}}`.",
+    "NEED_TWOIMG": "2 つのファイルをアップロードするか、2 人のユーザーをメンションします。"
+}

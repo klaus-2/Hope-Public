@@ -1,0 +1,18 @@
+{
+    "DESCRIPTION": "Przeszukiwanie postaci na MyAnimeList.net",
+    "USAGE": "znak <name>\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "znak <name>",
+    "EXAMPLE": "postać mai sakurajima | anichar Mai Sakurajima | char Mai-san | charakter mai",
+    "APERSO_DESC": "Szuka znaku o nazwie **{{query}}** w <:myAnimeList:827773575112425472> [MyAnimeList](https://myanimelist.net 'Site').",
+    "APERSO_DESC1": "Nie znaleziono wyników dla **{{query}}**!\n\nJeśli uważasz, że ta postać istnieje, spróbuj ich alternatywnych nazw.",
+    "APERSO_DESC2": "Mam ograniczoną stawkę na {{badge}}. Proszę spróbować ponownie później.",
+    "APERSO_DESC3": "Nie można uzyskać dostępu do {{badge}}. Witryna może być w tej chwili nieobecna.",
+    "APERSO_DESC4": "Nic nie znaleziono",
+    "APERSO_DESC5": "Błąd odpowiedzi",
+    "APERSO_DESC6": "odpowiedział kodem błędu HTTP",
+    "APERSO_DESC7": "Czytaj więcej",
+    "APERSO_DESC8": "wizualizacje",
+    "APERSO_DESC9": "Brak",
+    "APERSO_DESC10": "W przypadku gdy państwo członkowskie lub Szwajcaria stwierdzi, że dane państwo członkowskie lub Szwajcaria spełniają warunki określone w art. 4 ust. 1 lit. a) i b) oraz w art. 5 ust. 1 lit. b) i c) rozporządzenia (WE) nr 207/2009 oraz w art. 5 ust. 1 lit. b) i c) rozporządzenia (WE) nr 207/2009 oraz w art. 5 ust. 1 lit. b) tego rozporządzenia i art. 6 ust. 1 lit. b) tego rozporządzenia i c) tego rozporządzenia stosuje się od dnia 1 stycznia 2018 r.",
+    "APERSO_DESC11": "więcej!"
+}

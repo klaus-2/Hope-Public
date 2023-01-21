@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Enable or disable the welcome message addon.",
+    "USAGE": "bv-addon <enable | disable>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "bv-addon <enable | disable>",
+    "EXAMPLE": "bv-addon enable"
+}

@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "为此服务器设置 Hope 自动角色。",
+    "USAGE": "级别吉维罗尔 <new roleID>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "级别吉维罗尔 <new roleID>",
+    "EXAMPLE": "级别吉维罗尔 328328777266673",
+    "LVL_CARGO": "`None`",
+    "LVL_CARGO1": "设置：`Level `",
+    "LVL_CARGO2": "<: v_: 855859391835799582>o “自动角色” 已成功更新。",
+    "LVL_CARGO3": "自动角色",
+    "LVL_CARGO4": "已更改自"
+}

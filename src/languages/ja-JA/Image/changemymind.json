@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "チェンジ・マイ・マインド・イメージを作りましょう。",
+    "USAGE": "changemymind <text>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "changemymind <text>",
+    "EXAMPLE": "changemymind スカイは世界一のボットです<3"
+}

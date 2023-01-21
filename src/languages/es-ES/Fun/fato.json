@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Obtén un hecho aleatorio.",
+    "USAGE": "fact\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "hecho",
+    "EXAMPLE": "hecho",
+    "FFATO_DESC": ". /assets/json/hechos aleatorios-es.json",
+    "FACT_TITLE": "Hecho aleatorio:"
+}

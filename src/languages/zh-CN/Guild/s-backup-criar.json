@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "创建完整的服务器备份。",
+    "USAGE": "s 备份创建者\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "s 备份创建 <backupID>",
+    "EXAMPLE": "s-备份-创建 2334",
+    "S_BACKUP_CRIAR": "** 缺少权限 **",
+    "S_BACKUP_CRIAR1": "你必须有 [管理员，MANAGE_GUILD] Perms 才能使用此命令！",
+    "S_BACKUP_CRIAR2": "正在创建备份... ",
+    "S_BACKUP_CRIAR3": "已创建新备份\n ** 备份 ID **:",
+    "S_BACKUP_CRIAR4": "** 公会名称 **：",
+    "S_BACKUP_CRIAR5": "备份已创建 ",
+    "S_BACKUP_CRIAR6": "** 已创建新备份 **\n备份 ID：",
+    "S_BACKUP_CRIAR7": "备份作者：",
+    "S_BACKUP_CRIAR8": "公会："
+}

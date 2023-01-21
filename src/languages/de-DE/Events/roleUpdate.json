@@ -1,0 +1,19 @@
+{
+    "ROLE_UPDATE": "Die Rolle:",
+    "ROLE_UPDATE1": "hatte seinen Namen geändert",
+    "ROLE_UPDATE2": "[EVENT — ROLE NAME CHANGED]",
+    "ROLE_UPDATE3": "Alter Name:",
+    "ROLE_UPDATE4": "Neuer Name:",
+    "ROLE_UPDATE5": "Die Farbe der Rolle:",
+    "ROLE_UPDATE6": "wurde geändert",
+    "ROLE_UPDATE7": "[EVENT — ROLE COLOR CHANGED]",
+    "ROLE_UPDATE8": "Alte Farbe:",
+    "ROLE_UPDATE9": "Neue Farbe:",
+    "ROLE_UPDATE10": "Die Berechtigungen der Rolle:",
+    "ROLE_UPDATE11": "wurden geändert",
+    "ROLE_UPDATE12": "hier klicken",
+    "ROLE_UPDATE13": "und verstehen, was diese Zahlen bedeuten",
+    "ROLE_UPDATE14": "[EVENT — ROLE PERMISSIONS CHANGED]",
+    "ROLE_UPDATE15": "Vorherige Berechtigungen:",
+    "ROLE_UPDATE16": "Neue Berechtigungen:"
+}

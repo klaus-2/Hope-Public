@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "获取有关角色的信息。",
+    "USAGE": "roleinfo <role>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "roleinfo <role>",
+    "EXAMPLE": "roleinfo @role",
+    "ROLE_NAME": "角色 | {{roleName}}",
+    "ROLE_MEMBERS": "成员：",
+    "ROLE_COLOR": "颜色：",
+    "ROLE_POSITION": "职位：",
+    "ROLE_MENTION": "提及：",
+    "ROLE_HOISTED": "已吊起：",
+    "ROLE_MENTIONABLE": "值得一提的：",
+    "ROLE_PERMISSION": "关键权限：",
+    "ROLE_CREATED": "创建于：",
+    "ROLE_FOOTER": "请求者 {{MEMBER}} | 角色 ID： {{ID}}"
+}

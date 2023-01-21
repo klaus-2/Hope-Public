@@ -1,0 +1,19 @@
+{
+    "DESCRIPTION": "Verandering van status de uma sugestão.",
+    "USAGE": "sugestões <AGUARDANDO | APROVADO | NEGADO>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "set-suggesties",
+    "EXAMPLE": "set-suggesties",
+    "SUGESTÕES": "Oeps! {{status}} is een **Status onbekend**\nGebruik een van de volgende opties: `{{var}}`.",
+    "SUGESTÕES1": "Gebruik alsjeblieft",
+    "SUGESTÕES2": "Er is een fout opgetreden, meld dit alstublieft in {{prefix}}bug",
+    "SUGESTÕES3": "Het suggestiekanaal bestaat niet meer",
+    "SUGESTÕES4": "Dit bericht bestaat niet meer",
+    "SUGESTÕES5": "voorgesteld",
+    "SUGESTÕES6": "Wil je iets voorstellen? Typ gewoon dit kanaal",
+    "SUGESTÕES7": "status",
+    "SUGESTÕES8": "Commentaar van Administration",
+    "SUGESTÕES9": "De status van de suggestie is succesvol bijgewerkt!",
+    "SUGESTÕES10": "<:Informao:823004619805294643> In afwachting van feedback van de community, stem alstublieft!",
+    "SUGESTÕES11": "<:v_:855859391835799582> Suggestie geaccepteerd! Kijk er snel naar uit.",
+    "SUGESTÕES12": "<:cancel:855859391709577266> Bedankt voor de suggestie, maar we zijn er momenteel niet in geïnteresseerd."
+}

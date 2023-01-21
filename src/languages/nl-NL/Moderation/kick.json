@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "schop een gebruiker van de server.",
+    "USAGE": "kick <user> [reason]\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "kick <user> [reason]",
+    "EXAMPLE": "schop Hope spammen in de chat",
+    "KICK": "VERDRIJVEN!",
+    "KICK1": "Je werd weggegooid.",
+    "KICK2": "Getrapt door:",
+    "KICK3": "Reden:"
+}

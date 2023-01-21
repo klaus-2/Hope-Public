@@ -1,0 +1,17 @@
+{
+    "DESCRIPTION": "Obtém as estatisticas detalhadas de um canal no youtube.",
+    "USAGE": "youtube-canal <nome>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "youtube-canal <nome>",
+    "EXAMPLE": "youtube-canal alanzoka",
+    "YOUTUBE_CANAL": "Erro de canal desconhecido.",
+    "YOUTUBE_CANAL1": "Nenhum resultado de canal. Tente novamente.",
+    "YOUTUBE_CANAL2": "Erro de dados de canal desconhecido.",
+    "YOUTUBE_CANAL3": "Nome do canal",
+    "YOUTUBE_CANAL4": "Descrição do canal",
+    "YOUTUBE_CANAL5": "Número de inscritos",
+    "YOUTUBE_CANAL6": "Total de visualizações",
+    "YOUTUBE_CANAL7": "Total de Video(s)",
+    "YOUTUBE_CANAL8": "Data Criada",
+    "YOUTUBE_CANAL9": "Link",
+    "YOUTUBE_CANAL10": "Você não pode pesquisar este termos em um canal não-NSFW."
+}

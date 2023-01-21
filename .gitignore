@@ -1,0 +1,21 @@
+node_modules
+Lavalink/logs
+src/commands/Host/test.js
+src/utils/logs/roll-????.??.??.log
+src\utils\logs
+*.traineddata
+transcript-Hope.txt
+transcript-Hope.txt
+node-canvas/
+cmd-addons
+docs
+databases
+pm2.config.js
+json.sqlite
+snippets.js
+package-lock.json
+snippets.js
+src\Api
+src\config.js
+src\config - Copia.js
+start.bat

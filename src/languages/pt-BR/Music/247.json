@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Fica no canal de voz mesmo que ninguém esteja nele.",
+    "USAGE": "247\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "247",
+    "EXAMPLE": "247",
+    "VINTEQUATRO": "O modo 24/7 está {{toggle}}.",
+    "VINTEQUATRO1": "ativado",
+    "VINTEQUATRO2": "desativado"
+}

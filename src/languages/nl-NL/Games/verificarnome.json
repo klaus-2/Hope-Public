@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Controleer of er een naam van de summoner staat in de League of Legends.",
+    "USAGE": "verify name\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "naam <nick>verifiëren",
+    "EXAMPLE": "naam yassuo verifiëren",
+    "VERFNOME": "De bijnaam controleren: {{arg}}",
+    "VERFNOME1": "Deze nickis beschikbaar.",
+    "VERFNOME2": "Deze bijnaam is al in gebruik."
+}

@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Edita um sorteio ativo.",
+    "USAGE": "g-edit <messageID> <AddedTime> <newWinnerCount> <NewPrize>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "g-delete <messageID>",
+    "EXAMPLE": "g-delete 818821436255895612",
+    "EDIT_GIVEAWAY": "<: v_: 855859391835799582> 成功！Giveaway は {{time}} 秒以内に更新されます。",
+    "INCORRECT_WINNER_COUNT": "おい、勝者カウントは0〜100の数字にすべきだ。\n しっ... うん、誰にも言わないよ、約束する 🤞"
+}

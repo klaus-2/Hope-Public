@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "このサーバーの Hope 自動課金を設定します。",
+    "USAGE": "level-multiplicarxp <0-1000>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "レベル multiplyxp <0-1000>",
+    "EXAMPLE": "レベル multiplyxp 2",
+    "LVL_XPMULT": "設定: `Level`",
+    "LVL_XPMULT1": "<: v_: 855859391835799582> `level` の設定が正常に更新されました。",
+    "LVL_XPMULT2": "レベル設定",
+    "LVL_XPMULT3": "乗数がから変更されました"
+}

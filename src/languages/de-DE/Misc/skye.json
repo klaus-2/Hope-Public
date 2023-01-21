@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Informationen über Hope.",
+    "USAGE": "Hope\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "himmel",
+    "EXAMPLE": "himmel",
+    "Hope": "Hi, I'm {{user}}",
+    "Hope1": "Unten ist ein wenig über mich",
+    "Hope2": "{{user}} ist ein voll ausgestatteter und anpassbarer Bot für Discord. Sie hat **15 Kategorien** von Befehlen mit einer Summe von mehr als **350 Befehlen** insgesamt, mit Musiksystem, Moderation, einem kompletten Logging-System, Anti-Raid-System und vielem mehr.\n\nAlso zögern Sie nicht Hope um Hilfe zu bitten, wann immer Sie es brauchen, ok?"
+}

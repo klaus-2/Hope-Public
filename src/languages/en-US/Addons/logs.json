@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Atualize o addon de logs.",
+    "USAGE": "logs <option> [data]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "logs <option> [data]",
+    "LOG": "Below is the list of Logs available from each Category.\n\nYou can click the buttons below to activate all logs in that category or if you prefer, you can use the following commands to configure them manually.\n\n__Enable/Disable an Event:__\n__Set the Logs channel to Moderation Logging:__\n`{{prefix}}`**logs modchannel <channel>**\n__Set the Logs channel to Server Events:__\n`{{prefix}}`**logs serverchannel <channel>**\n`{{prefix}}`**logs memberchannel <channel>**\n__Set the Logs channel to Message Events:__\n`{{prefix}}`**logs msgchannel <channel>**\n",
+	"LOG1": "Not yet defined",
+	"LOG2": "enable",
+	"LOG3": "disable"
+}

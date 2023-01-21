@@ -1,0 +1,17 @@
+{
+    "DESCRIPTION": "Playlist erstellen",
+    "USAGE": "p-create <playlist name> <search term/link>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "p-create <playlist name> <search term/link>",
+    "EXAMPLE": "p-Erstellungs-Testlink",
+    "P_CRIAR": "Der Titel der Playlist muss weniger als 32 Zeichen lang sein!",
+    "P_CRIAR1": "Lied(e) zu deiner Wiedergabeliste hinzufügen (Dies kann ein paar Sekunden dauern.)...",
+    "P_CRIAR2": "Mit Premium können Sie bis zu 3 Playlisten anstelle von 1 speichern.",
+    "P_CRIAR3": "Du kannst keine Wiedergabelisten mehr speichern. Max: 3",
+    "P_CRIAR4": "Eine Wiedergabeliste mit diesem Namen existiert bereits.",
+    "P_CRIAR5": "Playlist mit Namen erstellt:",
+    "P_CRIAR6": "Playlist-Dauer:",
+    "P_CRIAR7": "Hinzugefügt",
+    "P_CRIAR8": "spurs) an",
+    "P_CRIAR9": "Songs:",
+    "P_CRIAR10": "ist keine Playlist"
+}

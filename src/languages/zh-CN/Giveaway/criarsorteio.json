@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "开始赠品",
+    "USAGE": "g-start <time> <number of winners> <prize>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "g-开始 <time> <number of winners> <prize>",
+    "EXAMPLE": "g-start 2h30m 3 硝基经典",
+    "CRIAR_SORTEIO": "奖品长度必须少于 256 个字符。",
+    "CRIAR_SORTEIO1": "在服务器上开始了赠品活动：",
+    "CRIAR_SORTEIO2": "糟糕，提及不是奖品，请再试一次。",
+    "giveaway": "<: Sorteio 1:823004177064132658 > ** 赠品 ** <: Sorteio 1:823004177064132658 >",
+    "giveawayEnded": "<: Sorteio 1:823004177064132658 > ** 赠品活动已结束 ** <: Sorteio 1:823004177064132658 >",
+    "timeRemaining": "<: 时间:823004079831384074> 剩余时间:**{duration}**!",
+    "inviteToParticipate": "用 <: sorteio: 823004188292022303> 做出反应参与！",
+    "winMessage": "<: 五彩纸屑:823008227033350163> 恭喜你， {winners}！联系 {this.hostedBy} 接收 **{this.prize}**！\n赠品链接： {messageURL}",
+    "noWinner": "哦 😕 真可惜！抽奖被取消，因为没有有效的参赛作品。\n嗯.. 让我们再试一次？",
+    "hostedBy": "💳 主办方： {this.hostedBy}",
+    "winners": "🏆 {this.winnerCount} 获胜者",
+    "endedAt": "结束于",
+    "CRIAR_SORTEIO3": "奖品长度必须少于 256 个字符。",
+    "FOOTER": "Sorteio"
+}

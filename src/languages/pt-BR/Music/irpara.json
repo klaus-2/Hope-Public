@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Define a posição da faixa em reprodução para a posição especificada.",
+    "USAGE": "irpara <tempo>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "irpara <tempo>",
+    "EXAMPLE": "irpara 01:00",
+    "IRPARA": "O tempo é menor que a duração atual da musica: `{{time}}`"
+}

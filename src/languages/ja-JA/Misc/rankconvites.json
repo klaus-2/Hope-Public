@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "サーバーの招待ランクを表示します。",
+    "USAGE": "rankinvites\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "ランクインビテス",
+    "EXAMPLE": "ランクインビテス",
+    "ERANKC_DESC": "<: HopeComvergonHA: 823248929508032513> ああ、このサーバーで招待を見る権限がないようだ... 管理者に通知してやり直してください。",
+    "ERANKC_DESC1": "招待状",
+    "ERANKC_DESC2": "🏆 招待ランキング 🏆"
+}

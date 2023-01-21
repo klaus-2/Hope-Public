@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "このサーバーのエモートの一覧を表示します。",
+    "USAGE": "emoji\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "絵文字",
+    "EXAMPLE": "絵文字",
+    "EMOJI": "<: Hopechoro 1:823047534498938880 > このサーバーには絵文字がありません。",
+    "EMOJI1": "{{guild}} の絵文字一覧",
+    "EMOJI2": "[ページ]",
+    "EMOJI3": "の",
+    "EMOJI4": "の合計",
+    "EMOJI5": "絵文字",
+    "EMOJI6": "お時間の有効期限が切れました。"
+}

@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Haal informatie op via een serverback-up.",
+    "USAGE": "s-backup-info <backupID>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "s-back-up-info <backupID>",
+    "EXAMPLE": "s-back-up-info 2334",
+    "S_BACKUP_INFO": "U moet een geldige back-upid opgeven",
+    "S_BACKUP_INFO1": "** BACK-UPINFO **\n Back-upID",
+    "S_BACKUP_INFO2": "Server-ID:",
+    "S_BACKUP_INFO3": "Grootte van de back-up:",
+    "S_BACKUP_INFO4": "mb \n back-up gemaakt op:"
+}

@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "adicionar dinheiro a um usuário. Use um sinal negativo (**-**) para remover dinheiro do usuário!",
+    "USAGE": "setar-dinheiro <user> <valor>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "setar-dinheiro <user> <valor>",
+    "EXAMPLE": "setar-dinheiro @Hope 5000 | setar-dinheiro @Hope -5000",
+    "SETAR_DINHEIRO": "O Valor informado não é um número!\nPor favor, certifique-se que o argumento após a menção do úsuario seja um **NÚMERO**.",
+    "SETAR_DINHEIRO1": "Eu removi com sucesso **R$",
+    "SETAR_DINHEIRO2": "**Por favor, insira um usuário valido!**",
+    "SETAR_DINHEIRO3": "da carteira de",
+    "SETAR_DINHEIRO4": "Saldo atual:",
+    "SETAR_DINHEIRO5": "R$",
+    "SETAR_DINHEIRO6": "skcoins",
+    "SETAR_DINHEIRO7": "Eu adicionei com sucesso **R$"
+}

@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "buscar uma musica pela internet.",
+    "USAGE": "zoeken <link / song name>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "zoek <link / song name>",
+    "EXAMPLE": "zoekanker - novo amor",
+    "BUSCAR": "Je bent niet in een spraakkanaal waarmee ik verbinding kan maken.",
+    "BUSCAR1": "Dit zijn de resultaten voor",
+    "BUSCAR2": "Kies een nummer van 1 tot 10 of annuleer. (30s)",
+    "BUSCAR3": "<:SkyeTempo:823047534854668298> Ahhhhhh... je hebt niet op tijd een nummer gekozen.",
+    "BUSCAR4": "De zoekopdracht is met succes geannuleerd.",
+    "BUSCAR5": "Het nummer dat je hebt opgegeven was te klein of te groot (Kies tussen",
+    "BUSCAR6": "is met succes toegevoegd aan de wachtrij."
+}

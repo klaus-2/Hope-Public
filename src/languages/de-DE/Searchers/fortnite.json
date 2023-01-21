@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Erhalten Sie in zwei Wochen Informationen von einem Konto.",
+    "USAGE": "vierzehn <kbm / gamepad / touch> <user>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "vierzehn Tage <kbm / gamepad / touch> <user>",
+    "EXAMPLE": "vierzehn kbm ninja",
+    "FORTNITE": "<a:loading:823004555884232724> Halte... Ich arbeite ein!",
+    "FORTNITE1": "Statistiken für {{username}}",
+    "FORTNITE2": "Top Platzierungen",
+    "FORTNITE3": "Gesamte Punkte:",
+    "FORTNITE4": "Gespielte Spiele:",
+    "FORTNITE5": "Sieg:",
+    "FORTNITE6": "Winrate:",
+    "FORTNITE7": "Tötet:",
+    "FORTNITE8": "AMA:"
+}

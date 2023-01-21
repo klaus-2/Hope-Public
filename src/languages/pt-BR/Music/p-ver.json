@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Ver uma playlist.",
+    "USAGE": "p-ver <nome da playlist>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "p-ver <nome da playlist>",
+    "EXAMPLE": "p-ver Teste",
+    "P_VER": "Você não tem playlist salvas.",
+    "P_VER1": "As playlists disponíveis são: `{{playlists}}`.\nUse `{{prefix}}p-ver <playlist name>` para obter mais detalhes!",
+    "P_VER2": "Página",
+    "P_VER3": "músicas",
+    "P_VER4": "duração total",
+    "P_VER5": "Essa não é uma playlist criada por você."
+}

@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Play the previous line of the queue.",
+    "USAGE": "back\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "back",
+    "EXAMPLE": "back | prev | previous"
+}

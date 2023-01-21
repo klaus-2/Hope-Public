@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Sets the suggestion channel in the database.",
+    "USAGE": "set-suggestions\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "set-suggestions",
+    "EXAMPLE": "set-suggestions",
+    "SETAR_SUGESTÕES": "The suggestion channel was defined in <#{{channel}}>",
+    "SETAR_SUGESTÕES1": "The suggestion channel has been reset and deactivated."
+}

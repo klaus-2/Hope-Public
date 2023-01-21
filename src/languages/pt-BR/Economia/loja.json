@@ -1,0 +1,19 @@
+{
+    "DESCRIPTION": "Mostra os itens disponiveis para compra com dinheiro do addon Economia.",
+    "USAGE": "loja\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "loja",
+    "EXAMPLE": "loja",
+    "LOJA": "Bem-vindo(a) a Loja da Hope",
+    "LOJA1": "Escolha, compre e personalize seu perfil! <:Skyeawnnnt:823046654764515338>",
+    "LOJA2": "Loja da Hope",
+    "LOJA3": "Pagina",
+    "LOJA4": "de",
+    "LOJA5": "Tipo:",
+    "LOJA6": "Preço:",
+    "LOJA7": "skcoins",
+    "LOJA8": "Ver:",
+    "LOJA9": "previa",
+    "LOJA10": "Comprar:",
+    "LOJA11": "comprar",
+    "LOJA12": "[quantidade]"
+}

@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "empieza una partida de verdugo.",
+    "USAGE": "hangman\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "verdugo",
+    "EXAMPLE": "verdugo"
+}

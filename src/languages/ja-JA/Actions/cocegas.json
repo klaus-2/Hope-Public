@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "メンションされたユーザーをくすぐります。",
+    "USAGE": "tickle [user]",
+    "USAGEE": "tickle [user]",
+    "COCEGAS_DESCRIÇÃO": "<@{{author}}>を停止! くすぐり~",
+    "COCEGAS_DESCRIÇÃO1": "\\❌ くすぐりを楽しんでください **<@{{author}}>**!",
+    "COCEGAS_DESCRIÇÃO2": "くすぐったところ"
+}

@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "开始赚取积分。注册以跟踪您获得的积分！",
+    "USAGE": "注册\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "注册",
+    "EXAMPLE": "注册",
+    "REGISTRAR": "好吧！<: Hopeissoai 1:823223048701739028 > 你已经注册了。\n使用 {{prefix}}个 “个人资料” 查看您的个人资料，或使用 {{prefix}}个 `bal` 查看余额",
+    "REGISTRAR1": "你已经成功注册了 Hope 的数据库！\n作为注册的礼貌，我给你作为礼物 **$",
+    "REGISTRAR2": "skcoins**！\n要查看余额，请输入 `{{prefix}}bal`"
+}

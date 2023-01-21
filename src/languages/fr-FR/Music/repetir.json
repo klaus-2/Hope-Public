@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "répéter une musique ou un fil.",
+    "USAGE": "boucle [file d'attente / chanson]\n💡**Exemple**: {{EXAMPLE}}",
+    "USAGEE": "boucle [file d'attente / chanson]",
+    "EXAMPLE": "répéter la file d'attente | la chanson en boucle | la boucle",
+    "REPETIR": "song",
+    "ENABLED": "enabled",
+    "DISABLED": "désactivée",
+    "REPETIR3": "{{trackRepeat}} répétition du suivi.",
+    "REPETIR4": "file d'attente",
+    "REPETIR7": "{{queueRepeat}} file d'attente répétée."
+}

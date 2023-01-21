@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Ein Geschenk starten",
+    "USAGE": "g-start <time> <number of winners> <prize>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "g-Start <time> <number of winners> <prize>",
+    "EXAMPLE": "g-Start 2h30m 3 Nitro Klassiker",
+    "CRIAR_SORTEIO": "Der Preis muss weniger als 256 Zeichen lang sein.",
+    "CRIAR_SORTEIO1": "hat ein Giveaway auf dem Server gestartet:",
+    "CRIAR_SORTEIO2": "Hoppla, Erwähnungen sind keine Preise, versuchen Sie es erneut.",
+    "giveaway": "<:Sorteio1:823004177064132658>\t**GIVEAWAY**\t<:Sorteio1:823004177064132658>",
+    "giveawayEnded": "<:Sorteio1:823004177064132658>**GIVEAWAY ENDED**<:Sorteio1:823004177064132658>",
+    "timeRemaining": "<:Tempo:823004079831384074> Zeit verbleibend: **{duration}**!",
+    "inviteToParticipate": "Reagiere mit <:Sorteio:823004188292022303> um teilzunehmen!",
+    "winMessage": "<:Confetti:823008227033350163> Herzlichen Glückwunsch, {winners}! Kontaktieren Sie {this.hostedBy} , um **{this.prize}**!\nGiveaway Link: {messageURL}",
+    "noWinner": "Oh 😕 Was für ein Schmerz! Die Verlosung wurde abgebrochen, weil keine gültigen Einträge vorhanden waren.\nHmm.. Versuchen wir es erneut?",
+    "hostedBy": "💳 Gehostet von: {this.hostedBy}",
+    "winners": ":trophäe: {this.winnerCount} Sieger(n)",
+    "endedAt": "Endet am",
+    "CRIAR_SORTEIO3": "Preis muss weniger als 256 Zeichen lang sein.",
+    "FOOTER": "Sorteio"
+}

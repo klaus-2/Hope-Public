@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "play a song.",
+    "USAGE": "play <link / song name>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "play <link / song name>",
+    "EXAMPLE": "play palaye royale | play <attachment> | play https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "TOCAR": "คิว",
+    "TOCAR1": "เพลง",
+    "TOCAR2": "ถูกเพิ่มไปยังคิวการเล่นในปัจจุบันแล้ว",
+    "TOCAR3": "กรุณาใส่ชื่อเพลง/url",
+    "TOCAR4": "queued **{{num}}** ติดตาม",
+    "TOCAR5": "เพิ่มในคิว: [{{title}}]({{url}})"
+}

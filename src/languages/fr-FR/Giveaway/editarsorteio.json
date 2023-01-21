@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Modifier un dessin actif.",
+    "USAGE": "g-edit <messageID> <AddedTime> <newWinnerCount> <NewPrize>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "g-supprimer <messageID>",
+    "EXAMPLE": "g-delete 818821436255895612",
+    "EDIT_GIVEAWAY": "<:v_:855859391835799582> Succès ! Giveaway sera mis à jour dans moins de {{time}} secondes.",
+    "INCORRECT_WINNER_COUNT": "Hé, le nombre de gagnants devrait être un nombre de 0 à 100.\n Shhh...ouais je ne le dirai à personne, je promets 🤞"
+}

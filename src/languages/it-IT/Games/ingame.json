@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "mostrar informac<unk> o<unk> es de uma partida no League of Legends.",
+    "USAGE": "ingame <nick>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "elo <nick>",
+    "EXAMPLE": "elo yassuo",
+    "INGAME": "<:SkyeObservando:823223048060534833> Ciao! Aspetta un po', sto raccogliendo tutte le informazioni.",
+    "INGAME1": "Evocatore non trovato",
+    "INGAME2": "na",
+    "INGAME3": "Squadra blu",
+    "INGAME4": "Squadra rossa",
+    "INGAME5": "Oops, ho fatto una buona ricerca qui e ho trovato che {{nom}} non è attualmente in una partita 😕"
+}

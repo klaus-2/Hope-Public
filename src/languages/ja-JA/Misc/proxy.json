@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "プロキシのリストを送信 (毎時更新)",
+    "USAGE": "proxy\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "代理人",
+    "EXAMPLE": "代理人",
+    "EPROXY_DESC": "プロキシリスト",
+    "EPROXY_DESC1": "💡 このリストは1時間ごとに更新されます。"
+}

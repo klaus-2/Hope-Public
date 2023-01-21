@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Change le volume de la musique.",
+    "USAGE": "volume <number>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "volume <number>",
+    "EXAMPLE": "vol 50"
+}

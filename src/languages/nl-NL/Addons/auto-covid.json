@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Configureert de Auto-Covid addon.",
+    "USAGE": "auto-covid /h <channelID>",
+    "USAGEE": "auto-covid /h <channelID>",
+    "EXAMPLE": "auto-covid 62349322567745\n💡**Voorbeeld**: {{EXAMPLE}}",
+    "CAC_TITULO": "Instellingen: `Auto-Covid`",
+    "CAC_FIELD": "<:Informao:8234619805294643> Auto-Posting Addon voor bijgewerkte informatie over covid-19 per uur",
+    "CAC_FIELD1": "Kanaal",
+    "CAC_FIELD2": "status",
+    "CAC_FIELD3": "`addon instellen`",
+    "CORONA_DESCRIÇÃO": "`ADMINISTRATOR` permissie is vereist om dit commando te gebruiken.",
+    "CORONA_DESCRIÇÃO1": "De Addon **AUTO-CORONA** is gereset omdat er geen kanalen zijn verstrekt.",
+    "CORONA_DESCRIÇÃO2": "Addon **AUTO-CORONA** is succesvol ingesteld op <#{{channel}}>"
+}

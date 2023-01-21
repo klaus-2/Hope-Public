@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Définit la position de la piste en cours de lecture à la position spécifiée.",
+    "USAGE": "seek <time>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "chercher <time>",
+    "EXAMPLE": "chercher 01:00",
+    "IRPARA": "Le temps est plus court que la longueur de la chanson actuelle: `{{time}}`"
+}

@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "チャンネルのロックを解除します。",
+    "USAGE": "unlock\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "ロック解除",
+    "EXAMPLE": "ロック解除",
+    "DESTRANCAR": "🔓 チャンネル <{{channel}}> のロックが解除されました。",
+    "DESTRANCAR1": "注意"
+}

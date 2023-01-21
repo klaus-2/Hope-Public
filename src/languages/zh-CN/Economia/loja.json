@@ -1,0 +1,19 @@
+{
+    "DESCRIPTION": "检查你可以从商店买什么。",
+    "USAGE": "商店\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "商店",
+    "EXAMPLE": "商店",
+    "LOJA": "欢迎来到 Hope 商店",
+    "LOJA1": "选择、购买和自定义您的个人资料！<: 天空:823046654764515338>",
+    "LOJA2": "斯凯的商店",
+    "LOJA3": "Page",
+    "LOJA4": "的",
+    "LOJA5": "类型：",
+    "LOJA6": "价格：",
+    "LOJA7": "skcoins",
+    "LOJA8": "预览：",
+    "LOJA9": "vieitem",
+    "LOJA10": "买：",
+    "LOJA11": "买",
+    "LOJA12": "[amount]"
+}

@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "오늘 별자리에 대한 정보를 얻으십시오.",
+    "USAGE": "별자리 <sign>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "별자리 <sign>",
+    "EXAMPLE": "별자리 황소 자리",
+    "FHOR_DESC": "그의 별자리를 구하기 위해 사인을 주세요!",
+    "FHOR_DESC1": "이는 유효한 표시가 아닙니다!",
+    "FHOR_DESC2": "죄송합니다!내 API (별자리 기계) 가 작동하지 않습니다!",
+    "FHOR_DESC3": "기분",
+    "FHOR_DESC4": "데이터가 없습니다.",
+    "FHOR_DESC5": "강도",
+    "FHOR_DESC6": "키워드"
+}

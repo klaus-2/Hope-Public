@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "チャンネルでスローモードを有効にします。",
+    "USAGE": "slowmode <time / off>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "スローモード <time / off>",
+    "EXAMPLE": "スローモード 20m | スローモードオフ"
+}

@@ -1,0 +1,4 @@
+{
+    "DESCRIPTION": "Mai を強制的にサーバーを離れる",
+    "USAGE": "sair-server <ID do servidor>"
+}

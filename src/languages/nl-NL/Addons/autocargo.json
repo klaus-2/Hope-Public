@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "In- of uitschakelen van de autorole addon.",
+    "USAGE": "autorole <enable | disable>\n💡**Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "autorol <enable | disable>",
+    "EXAMPLE": "autorole inschakelen"
+}

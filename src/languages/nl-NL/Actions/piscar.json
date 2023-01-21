@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Flashes voor een gebruiker.",
+    "USAGE": "knipoogt <user>",
+    "USAGEE": "knipoogt <user>",
+    "PISCAR_DESCRIÇÃO": "<@{{author}}> geflasht!",
+    "PISCAR_DESCRIÇÃO1": "geflashed naar"
+}

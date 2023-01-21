@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "재생 목록을 표시합니다.",
+    "USAGE": "p-뷰 <playlist name>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "p-뷰 <playlist name>",
+    "EXAMPLE": "p-뷰 테스트",
+    "P_VER": "저장된 재생 목록이 없습니다.",
+    "P_VER1": "사용 가능한 재생 목록은 `{{playlists}}`입니다.\n자세한 내용은 `{{prefix}}p-view <playlist name>`를 사용하십시오!",
+    "P_VER2": "페이지",
+    "P_VER3": "노래",
+    "P_VER4": "총 기간",
+    "P_VER5": "이것은 여러분이 만든 플레이리스트가 아닙니다."
+}

@@ -1,0 +1,21 @@
+{
+    "DESCRIPTION": "Search for a game / app on Steam.",
+    "USAGE": "steam-store <game>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "steam-store <game>",
+    "EXAMPLE": "steam-store Conan Exiles",
+    "STEAM_LOJA": "Could not find **{{query}}** on <:steam:767062357952167946> steam",
+    "STEAM_LOJA1": "$",
+    "STEAM_LOJA2": "Free",
+    "STEAM_LOJA3": "* **Additional Notes:",
+    "STEAM_LOJA4": "System Requirements",
+    "STEAM_LOJA5": "Price",
+    "STEAM_LOJA6": "Metascore",
+    "STEAM_LOJA7": "Recommendations",
+    "STEAM_LOJA8": "Release Date",
+    "STEAM_LOJA9": "Developers",
+    "STEAM_LOJA10": "Publishers",
+    "STEAM_LOJA11": "Categories",
+    "STEAM_LOJA12": "Genres",
+    "STEAM_LOJA13": "Amount of DLC",
+    "STEAM_LOJA14": "Supported Languages"
+}

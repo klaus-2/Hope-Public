@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Hiermee stelt u de kleur in voor uw Economia-kaart.",
+    "USAGE": "setcolor <hex>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "setkleur <hex>",
+    "EXAMPLE": "setcolor #e567da",
+    "COR": "**<@{{author}}>**, geef een geldige HEX op voor de kleur.\nU kunt naar [Google Color Picker] (https://www.google.com/search?q=color+picker) gaan om de gewenste hex te krijgen.\nDaarnaast kun je ook `default` typen om de kleur terug te zetten naar standaard.",
+    "COR1": "de kleur van je profiel is bijgewerkt"
+}

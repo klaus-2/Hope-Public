@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "バックアップコードを削除します。",
+    "USAGE": "e-backup-delete <code>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "電子バックアップ削除 <code>",
+    "EXAMPLE": "e-backup-delete Cg267T",
+    "E_BACKUP_APAGAR": "こんにちは、 {{author}}",
+    "E_BACKUP_APAGAR1": ":x: | **バックアップが見つかりません**",
+    "E_BACKUP_APAGAR2": "**バックアップは正常に削除されました。** ",
+    "E_BACKUP_APAGAR3": ":x: | **このバックアップは見つかりませんでした。**"
+}

@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "entbanne einen Benutzer.",
+    "USAGE": "entbanne <userID> [reason]\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "entbanne <userID> [reason]",
+    "EXAMPLE": "432567667533123 Test nicht verbieten"
+}

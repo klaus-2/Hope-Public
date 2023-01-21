@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "自動nick アドオンを設定します。",
+    "USAGE": "auto-nick",
+    "USAGEE": "auto-nick",
+    "EXAMPLE": "auto-nick enable\n💡**Excrew**: {{EXAMPLE}}",
+    "NICK": "enable",
+    "NICK1": "「自動ニック」アドオンが有効になりました。",
+    "NICK2": "disable",
+    "NICK3": "「自動ニック」アドオンは正常に無効化されました。",
+    "NICK4": "nick",
+    "NICK5": "ニックネームを入力してください。",
+    "NICK6": "ユーザーニックネームは2〜32文字以内でなければなりません。",
+    "NICK7": "`Auto-nick` addon の前のニックネームは `{{nick}}` に正常に更新されました。"
+}

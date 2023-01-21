@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "启用或禁用审核插件。",
+    "USAGE": "审核 <enable | disable>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "审核 <enable | disable>",
+    "EXAMPLE": "启用审核"
+}

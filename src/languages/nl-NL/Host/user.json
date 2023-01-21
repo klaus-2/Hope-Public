@@ -1,0 +1,8 @@
+{
+  "DESCRIPTION": "De gegevens van een gebruiker bewerken",
+  "USAGE": "gebruiker <id> [premium/banned] [true/false]",
+  "SUCCESS_PREM": "De premium van de gebruiker is succesvol bijgewerkt.",
+  "SUCCESS_BAN": "Het wereldwijde verbod van de gebruiker is succesvol bijgewerkt.",
+  "SUCCESS_RANK": "De rangachtergrond van de gebruiker is succesvol bijgewerkt",
+  "SUCCESS_RESET": "Reset de gegevens van de gebruiker met succes."
+}

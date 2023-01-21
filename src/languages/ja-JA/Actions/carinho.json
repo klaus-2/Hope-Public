@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Faça carinho no(s) usuário(s) que você mencionou!",
+    "USAGE": "carinho [user]",
+    "USAGEE": "carinho [user]",
+    "CARINHO_DESCRIÇÃO": "自分をペットにすることはできません。><@{{member}} >に任せてください！",
+    "CARINHO_Hope": " **me**",
+    "CARINHO_Hope1": " **me** で",
+    "CARINHO_DESCRIÇÃO1": "♪愛情を込めて♪",
+    "CARINHO_HopeFRASE": "H-Ha. (<unk> <unk> <unk> `) 止めないでください...",
+    "CARINHO_DESC": " と ",
+    "CARINHO_DESC1": "と "
+}

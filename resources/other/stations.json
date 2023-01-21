@@ -1,0 +1,37 @@
+{
+    "japanradio": {
+      "name": "Japanim Radio",
+      "alias": ["japanim"],
+      "image": "https://static-media.streema.com/media/cache/7c/0e/7c0e69c2d8a0801260eb0a5c6d2816f9.jpg",
+      "link": "https://streema.com/radios/Japanimradio_the_japanese_radio",
+      "stream": "http://streamingv2.shoutcast.com/japanimradio?lang=en-US%2cen%3bq%3d0.9"
+    },
+    "aewenreadio": {
+      "name": "Aewen Radio",
+      "alias": ["aewen"],
+      "image": "https://static-media.streema.com/media/cache/92/46/9246fb43c21af618fac9eae511689228.jpg",
+      "link": "http://streema.com/radios/play/Aewen_Radio_Kpop_Jpop",
+      "stream": "http://209.58.145.135:8031/stream"
+    },
+    "jsakura": {
+      "name": "J-Sakura Radio",
+      "alias": ["jsakura"],
+      "image": "https://static-media.streema.com/media/cache/cc/37/cc3793d10149607fa0724b8c6b5e75ce.jpg",
+      "link": "https://streema.com/radios/J_Sakura",
+      "stream": "https://igor.torontocast.com:1710/;"
+    },
+    "977music": {
+      "name": "997-Ladies Radio",
+      "alias": ["997"],
+      "image": "https://static-media.streema.com/media/cache/0a/ec/0aec66c770fc2c6ee30ada6fa0b83974.jpg",
+      "link": "http://streema.com/radios/play/977_Oldies",
+      "stream": "https://19763.live.streamtheworld.com/977_OLDIES.mp3"
+    },
+    "pinoyradio1":{
+      "name": "94.3 DZRH News",
+      "alias": ["dzrh"],
+      "image": "https://static-media.streema.com/media/cache/64/19/6419736977c75fe93202e73d2fc460a8.jpg",
+      "link": "https://streema.com/radios/Yes_FM_General_Santos_94.3",
+      "stream": "http://streamingv2.shoutcast.com/dzrhnewsfmgeneralsantos?type=.mp3/;"
+    }
+  }

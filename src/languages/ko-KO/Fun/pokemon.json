@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "포켓몬에 대한 정보를 얻으십시오.",
+    "USAGE": "포켓몬 <pokemon>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "포켓몬 <pokemon>",
+    "EXAMPLE": "포켓몬 리자드",
+    "FPOKE_DESC": "이 포켓몬의 종류는",
+    "FPOKE_DESC1": "포켓몬 약점"
+}

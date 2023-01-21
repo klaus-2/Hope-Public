@@ -1,0 +1,18 @@
+{
+    "DESCRIPTION": "마이애니멜리스트 넷에서 캐릭터 검색",
+    "USAGE": "character <name>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "character <name>",
+    "EXAMPLE": "캐릭터 마이 사쿠라지마 | 아니차 마이 사쿠라지마 | 차 마이 상 | 캐릭터 마이",
+    "APERSO_DESC": "<:MyAnimeList:827773575112425472> [MyAnimeList](https://myanimelist.net '사이트') 에서** {{query}} **라는 이름의 문자를 찾고 있습니다.",
+    "APERSO_DESC1": "**{{query}}**에 대한 결과를 찾을 수 없습니다!\n\n이 캐릭터가 존재한다고 생각되면 대체 이름을 사용해보십시오.",
+    "APERSO_DESC2": "{{badge}} 에 대한 요금이 제한되어 있습니다. 나중에 다시 시도하십시오.",
+    "APERSO_DESC3": "{{badge}} 에 액세스할 수 없습니다. 현재 사이트가 다운되었을 수 있습니다.",
+    "APERSO_DESC4": "찾을 수 없음",
+    "APERSO_DESC5": "응답 오류",
+    "APERSO_DESC6": "HTTP 오류 코드로 응답했습니다.",
+    "APERSO_DESC7": "더 읽어보기",
+    "APERSO_DESC8": "영상",
+    "APERSO_DESC9": "없음",
+    "APERSO_DESC10": "과",
+    "APERSO_DESC11": "더 많이!"
+}

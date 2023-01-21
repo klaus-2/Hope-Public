@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "이미지를 흐릿하게 만듭니다.",
+    "USAGE": "블러피 [user] | [attached]\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "블러피 [user] | [attached]",
+    "EXAMPLE": "블러피 @Hope | 블러프 [attached]"
+}

@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "laat het nummer zien dat momenteel wordt afgespeeld.",
+    "USAGE": "np\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "np",
+    "EXAMPLE": "np",
+    "MUSICA": "🔴 LIVE",
+    "MUSICA1": "» Speelt nu:",
+    "MUSICA2": "Link voor toegang",
+    "MUSICA3": "klik hier",
+    "MUSICA4": "Aangevraagd door",
+    "MUSICA5": "Duur"
+}

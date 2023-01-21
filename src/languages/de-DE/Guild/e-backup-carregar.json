@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "lade ein Backup.",
+    "USAGE": "e-backup-load <code>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "e-backup-load <code>",
+    "EXAMPLE": "e-backup-load ExOBdl",
+    "E_BACKUP_CARREGAR": "Bist du sicher?",
+    "E_BACKUP_CARREGAR1": "Hallo, {{author}}",
+    "E_BACKUP_CARREGAR2": "Bist du sicher, dass du die Sicherung laden möchtest?\n\n<:Informao:823004619805294643> Hinweis: Es wird nur Emojis hinzufügen, solange genügend Speicherplatz auf dem Server vorhanden war.\nStellen Sie also sicher, dass, wenn es mehr Emojis in der Sicherung gibt als Serverplatz, es ist kein Fehler, sondern ein Mangel an Platz.",
+    "E_BACKUP_CARREGAR3": "**Backup-Laden wurde abgebrochen.**",
+    "E_BACKUP_CARREGAR4": ":x: | **Dieser Backup-Code wurde nicht gefunden** \nÜberprüfen Sie, ob Sie den korrekten Code verwenden und versuchen Sie es erneut.",
+    "E_BACKUP_CARREGAR5": ":x: | **Es gibt keine Emojis in diesem Backup!**",
+    "E_BACKUP_CARREGAR6": "Es gibt keinen Platz mehr für neue Emojis.",
+    "E_BACKUP_CARREGAR7": "<:v_:855859391835799582> **Das Backup wurde erfolgreich geladen.**",
+    "E_BACKUP_CARREGAR8": ":x: | **Die Sicherung wurde nicht gefunden!**"
+}

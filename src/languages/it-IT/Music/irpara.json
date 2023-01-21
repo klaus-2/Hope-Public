@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Imposta la posizione della traccia in riproduzione alla posizione specificata.",
+    "USAGE": "cerca <time>\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "cerca <time>",
+    "EXAMPLE": "cerca 01:00",
+    "IRPARA": "Il tempo è più breve della lunghezza del brano corrente: `{{time}}`"
+}

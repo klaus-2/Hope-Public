@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Cutuque um usuario.",
+    "USAGE": "cutucar [user]\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "cutucar [user]",
+    "EXAMPLE": "cutucar @Hope",
+    "CUTUCAR_DESCRIÇÃO": "\\❌ **<@{{author}}>**, quem devo cutucar?",  
+    "CUTUCAR_DESCRIÇÃO1": "Eu já estou aqui! Precisa de algo?",
+    "CUTUCAR_DESCRIÇÃO2": "Não vou fazer isso, **<@{{author}}>**!",   
+    "CUTUCAR_DESCRIÇÃO3": "cutucou"
+}

@@ -1,0 +1,21 @@
+{
+    "DESCRIPTION": "MyAnimelist.netで最高のアニメの1つを検索するか、ランダムなアニメを返します。",
+    "USAGE": "anitop [number]\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "anitop",
+    "EXAMPLE": "anitop OU topanimes 5 ou bestanime 50",
+    "ATOP_DESC": "15件までの検索制限があります",
+    "ATOP_DESC1": "sfwチャンネルで同人誌は見れない！これを見るにはnsfwチャンネルに移動してください。",
+    "ATOP_DESC2": "スコア",
+    "ATOP_DESC3": "お気に入り",
+    "ATOP_DESC4": "記念日",
+    "ATOP_DESC5": "エピソード",
+    "ATOP_DESC6": "ボリューム",
+    "ATOP_DESC7": "アニメ地理学",
+    "ATOP_DESC8": "不明",
+    "ATOP_DESC9": "メンバー",
+    "ATOP_DESC10": "マンガオグラフィー",
+    "ATOP_DESC11": "開始日",
+    "ATOP_DESC12": "終了日",
+    "ATOP_DESC13": "[ページ]",
+    "ATOP_DESC14": "の"
+}

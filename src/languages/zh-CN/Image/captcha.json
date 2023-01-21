@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "创建验证码图像。",
+    "USAGE": "验证码 [user]\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "验证码 [user]",
+    "EXAMPLE": "验证码 userId | 验证码 @mention | 验证码用户名"
+}

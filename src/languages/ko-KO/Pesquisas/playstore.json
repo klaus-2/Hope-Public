@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Playstore의 게임/앱의 정보를 표시합니다.",
+    "USAGE": "플레이스토어 <game/app>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "플레이스토어 <game/app>",
+    "EXAMPLE": "플레이 스토어 프리 파이어",
+    "PLAYSTORE": "가격",
+    "PLAYSTORE1": "개발자",
+    "PLAYSTORE2": "점수"
+}

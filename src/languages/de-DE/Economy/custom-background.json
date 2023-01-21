@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Passen Sie Ihren Profilhintergrund mit einem Bild Ihrer Wahl an.",
+    "USAGE": "custom-background [Anhang | url]\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "individueller Hintergrund [Anhang | url]",
+    "EXAMPLE": "custom-background https://i.imgur.com/ru3E3zd.png",
+    "BG": "Hallo {{author}}",
+    "BG1": "Ihr Kauf war erfolgreich!\n$",
+    "BG2": "skcoins wurden von deiner Brieftasche abgezogen, um die Transaktion abzuschließen!\nDein neuer Hintergrund ist [{{url}}](link)",
+    "BG3": "Um zu sehen, wie es aussieht, verwenden Sie den Befehl {{prefix}}Profil",
+    "BG4": "skcoins wurden von deiner Brieftasche abgezogen, um die Transaktion abzuschließen!\nDein neuer Hintergrund ist [{{args}}](link)",
+    "BG5": "Sie müssen ein Bild anhängen oder Ihren Link einfügen, um einen neuen Hintergrund zu setzen!",
+    "BG6": "Du hast nicht genug Geld!\nfehlt",
+    "BG7": "um Hintergrund zu ändern"
+}

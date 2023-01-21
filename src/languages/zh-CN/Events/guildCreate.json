@@ -1,0 +1,6 @@
+{
+    "GUILD_CREATE": "[事件 — 已添加服务器]",
+    "GUILD_CREATE1": "服务器名",
+    "GUILD_CREATE2": "服务器主",
+    "GUILD_CREATE3": "成员人数"
+}

@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "rimuovi un brano dalla coda.",
+    "USAGE": "remove <position> [position]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "rimuovi <position> [position]",
+    "EXAMPLE": "rimuovi 3 <unk> rimuovi 3 7",
+    "REMOVER": "Non puoi rimuovere una canzone che è già in riproduzione. Per rimuovere la canzone in riproduzione: `{{prefix}}skip`",
+    "REMOVER1": "Non riuscivo a trovare quella canzone.",
+    "REMOVER2": "Rimosso **{{title}}** dalla coda.",
+    "REMOVER3": "Il valore finale deve essere maggiore del valore iniziale.",
+    "REMOVER4": "Rimosso",
+    "REMOVER5": "canzoni in coda.",
+    "REMOVER6": "Numero non valido."
+}

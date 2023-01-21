@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Bassboost エフェクトを音楽に適用します。",
+    "USAGE": "bassboost [value] | [off]\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "バスブースト [value] | [off]",
+    "EXAMPLE": "bassboost 8 | bb -4 | bassboost off",
+    "ON": "エフェクトをアクティブにする **bassboost**。<: Hopedana: 823046653371482114> それには数秒かかるかも...",
+    "BASSBOOST1": "<: v_: 855859391835799582> **bassboost**が発動しました。",
+    "OFF": "エフェクトを無効にする **bassboost**。<: HopeouVindomusica: 823046654554144768>\nそれは数秒かかるかもしれません...",
+    "BASSBOOST2": "<: cancel: 855859391709577266> **bassboost** は無効化されました。",
+    "BASSBOOST4": "数量は実数でなければなりません。",
+    "BASSBOOST5": "bassboostをに設定する",
+    "BASSBOOST6": "これには数秒かかるかもしれません...",
+    "BASSBOOST7": "Bassboostを以下に設定します。"
+}

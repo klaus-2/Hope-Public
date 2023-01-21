@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Zeigt Einladungsdateien eines Benutzers an.",
+    "USAGE": "invite-tracker <user>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "invite-tracker <user>",
+    "EXAMPLE": "invite-tracker @User",
+    "CONVITE": "Bots können jemanden nicht einladen. Er kann aber nicht zählen.",
+    "CONVITE1": "hat niemanden zum Server eingeladen!",
+    "CONVITE2": "Tracker einladen",
+    "CONVITE3": "Informationen über Einladungen von",
+    "CONVITE4": "**Eingeladene Personen:**",
+    "CONVITE5": "Einladungscodes\n\n"
+}

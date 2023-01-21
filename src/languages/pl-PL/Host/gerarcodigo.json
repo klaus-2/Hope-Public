@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Wygeneruj kod do wykupu.",
+    "USAGE": "generatecode <month | year>\n💡 **Przykład: {{EXAMPLE}}",
+    "USAGEE": "generatecode <month | year>",
+    "EXAMPLE": "ggeneratecode mês",
+    "NOVO_PREMIUM": "miesiąc",
+    "NOVO_PREMIUM1": "rok",
+    "NOVO_PREMIUM2": "Zapewnienie planu!",
+    "NOVO_PREMIUM3": "Generowane",
+    "NOVO_PREMIUM4": "Kod (-y) premium",
+    "NOVO_PREMIUM5": "Typ:",
+    "NOVO_PREMIUM6": "Wygasa:"
+}

@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "누군가를 죽이는 반응을 표현하십시오.",
+    "USAGE": "킬 [user]",
+    "USAGEE": "킬 [user]",
+    "MATAR_DESCRIÇÃO": "<@{{member}}> 그만!날 죽일 수 없어!",
+    "MATAR_DESCRIÇÃO1": "방금 죽인"
+}

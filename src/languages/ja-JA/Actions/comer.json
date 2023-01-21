@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "あなたが言及したユーザーと何かを食べる!",
+    "USAGE": "フィード [user]",
+    "USAGEE": "フィード [user]",
+    "COMER_DESCRIÇÃO": "<@{{member}}> 1人で食べるんですか？",
+    "COMER_Hope": " **me**",
+    "COMER_DESCRIÇÃO1": "一緒に食べることです",
+    "COMER_DESCRIÇÃO2": "私に与えてくれた",
+    "COMER_HopeFRASE": "*Nom Nom Nom* Arigatoo~",
+    "COMER_HopeFRASE1": "私を食べないで！写真は見せませんよ！",
+    "COMER_APIOFF": "うーん。apiが倒れてます。 すいません!",
+    "COMER_DESC": " と ",
+    "COMER_DESC1": "と "
+}

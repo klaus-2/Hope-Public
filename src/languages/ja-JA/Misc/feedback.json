@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "スカイのサーバーに彼女についてのフィードバックを残す。",
+    "USAGE": "feedback <stars> <comment>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "フィードバック <stars> <comment>",
+    "EXAMPLE": "フィードバック 5 スカイは私のサーバーのすべての要件を満たす優れたボットです",
+    "EFEED_DESC": "新しいフィードバックを受け取りました",
+    "EFEED_DESC1": "星:",
+    "EFEED_DESC2": "コメント:",
+    "EFEED_DESC3": "送信者による",
+    "EFEED_DESC4": "コマンド {{prefix}}feedback を使用してスカイフィードバックを残す",
+    "EFEED_DESC5": "<: Hopeoi: 823047534577975366> あなたのフィードバックはスカイのサポートサーバーに正常に送信されました！"
+}

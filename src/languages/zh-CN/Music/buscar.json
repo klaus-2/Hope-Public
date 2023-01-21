@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "buscar uma musica pela 互联网。",
+    "USAGE": "搜索 <link / song name>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "搜索 <link / song name>",
+    "EXAMPLE": "搜索主播-novo amor",
+    "BUSCAR": "您不在我可以连接的语音频道上。",
+    "BUSCAR1": "这些是的结果",
+    "BUSCAR2": "从 1 到 10 之间选择一个数字或取消。(30s)",
+    "BUSCAR3": "<: Hopetempo: 823047534854668298> 啊... 你没有及时挑选一首歌。",
+    "BUSCAR4": "搜索已成功取消。",
+    "BUSCAR5": "您提供的数字太小或太大（选择",
+    "BUSCAR6": "已成功添加到队列中。"
+}

@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Flasht für einen Benutzer.",
+    "USAGE": "winken <user>",
+    "USAGEE": "winken <user>",
+    "PISCAR_DESCRIÇÃO": "<@{{author}}> blinkt!",
+    "PISCAR_DESCRIÇÃO1": "geblasen auf"
+}

@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Machen Sie eine Angelreise.",
+    "USAGE": "fish\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "fisch",
+    "EXAMPLE": "fisch",
+    "PESCAR": "<:cancel:855859391709577266> Whoa! Da es nicht lange her ist, dass du eine Linie freigesetzt hast, haben die Fische immer noch Angst.\nVielleicht in ein paar",
+    "PESCAR1": "und",
+    "PESCARR": "sie sind bereits ruhig, um sie erneut zu sündigen <:SkyeIssoai2:823248929700446228>",
+    "PESCAR2": "🎣 Du hast deine Linie gestartet und hast eine",
+    "PESCAR3": "Nachdem du es bei deinen Fischmongern verkauft hast, hast du **$ bekommen",
+    "PESCAR4": "skins!",
+    "PESCAR5": "list",
+    "PESCAR6": "belohnungen",
+    "PESCAR7": "Liste der Fischnamen und Belohnungen die du erhalten kannst",
+    "PESCAR8": "```\n🔧Papierkorb :: Maximale Belohnung: 5, Minimum Belohnung: 1\n🐟Common :: Maximale Belohnung: 25, maximal Minimale Belohnung: 10\n🐠Ungewöhnlich :: Maximale Belohnung: 50, Minimale Belohnung: 18\n🦑Selten:: Maximale Belohnung: 75, Minimum Belohnung: 30\n🐋Legendär :: Maximale Belohnung: 100, Minimale Belohnung: 50```\n**Alle Belohnungen sind zufällig von max / min **<unk>"
+}

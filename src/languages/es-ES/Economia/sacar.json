@@ -1,0 +1,23 @@
+{
+    "DESCRIPTION": "Retira dinero directamente de tu cuenta bancaria.",
+    "USAGE": "retirar <value> | [all]\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "retirarse <value> | [all]",
+    "EXAMPLE": "retirar 5000 | retirar todo",
+    "SACAR": "todos",
+    "SACAR1": "<:cancel:855859391709577266> ** ¡No tienes dinero para robar! **",
+    "SACAR2": "<:v_:855859391835799582> Retiraste todo tu dinero de tu cuenta bancaria. <:Skyetimida:823046655632211989> ¡Cuidado con que te roben!",
+    "SACAR3": "<:cancel:855859391709577266> ¡Especifica una cantidad a retirar!",
+    "SACAR4": "<:cancel:855859391709577266> ¡Tu valor no es un número!",
+    "SACAR5": "<:cancel:855859391709577266> ¡No puedes retirar dinero negativo!",
+    "SACAR6": "<:cancel:855859391709577266> ¡No tienes mucho dinero en el banco! `usa {{prefix}}balance` para averiguar cuánto tienes.",
+    "SACAR7": "Lo tienes",
+    "SACAR8": "skcoins de tu cuenta bancaria!",
+    "SACAR9": "no tienes suficiente dinero en tu banco para proceder con esta transacción.",
+    "SACAR10": "Solo tienes **R$",
+    "SACAR11": "skcoins** en tu cuenta.\nAún queda **$",
+    "SACAR12": "skcoins** para completar la transacción.\n(**Recuerda que hay un cargo por transacción del 5% incluido**)",
+    "SACAR13": "Para retirar todo tu dinero a la vez, escribe",
+    "SACAR14": "dibujar todo",
+    "SACAR15": "¡no puedes retirar esta gran cantidad de dinero! \n(Solo puedes tener hasta 50 mil skcoins en tu billetera, por seguridad).",
+    "SACAR16": "(** +5% de comisión por transacción incluido**)."
+}

@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Een afbeelding vervagen.",
+    "USAGE": "vervagen [user] | [attached]\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "vervagen [user] | [attached]",
+    "EXAMPLE": "wazig @Hope | vervaging [attached]"
+}

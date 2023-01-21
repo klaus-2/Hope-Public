@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "załadować kopię zapasową.",
+    "USAGE": "e-backup-load <code>\n💡 **Przykład: {{EXAMPLE}}",
+    "USAGEE": "e-backup-load <code>",
+    "EXAMPLE": "e-backup-load ExOBDL",
+    "E_BACKUP_CARREGAR": "Jesteś pewien?",
+    "E_BACKUP_CARREGAR1": "Halo, {{author}}",
+    "E_BACKUP_CARREGAR2": "Czy na pewno chcesz załadować kopię zapasową?\n\n<:Informao:823004619805294643> Uwaga: Dodaje emotikony tylko wtedy, gdy na serwerze było wystarczająco dużo miejsca.\nUpewnij się więc, że jeśli w kopii zapasowej jest więcej emotikonów niż miejsca na serwerze, nie jest to błąd, ale brak miejsca.",
+    "E_BACKUP_CARREGAR3": "**Wczytywanie kopii zapasowej zostało anulowane. **",
+    "E_BACKUP_CARREGAR4": ":x: | **Ten kod kopii zapasowej nie został znaleziony**. \nSprawdź, czy używasz prawidłowego kodu i spróbuj ponownie.",
+    "E_BACKUP_CARREGAR5": ":x: | **W tej kopii zapasowej nie ma emotikonów! **",
+    "E_BACKUP_CARREGAR6": "Nie ma już miejsca na nowe emotikony.",
+    "E_BACKUP_CARREGAR7": "<:v_:855859391835799582> **Kopia zapasowa została pomyślnie załadowana. **",
+    "E_BACKUP_CARREGAR8": ":x: | **Kopia zapasowa nie została znaleziona! **"
+}

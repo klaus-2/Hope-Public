@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Laad een afspeellijst",
+    "USAGE": "p-load <playlist name>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "p-load <playlist name>",
+    "EXAMPLE": "p-load test",
+    "P_CARREGAR": "Afspeellijst laden (dit kan enkele seconden duren)...",
+    "P_CARREGAR1": "In de wachtrij",
+    "P_CARREGAR2": "liedjes** van",
+    "P_CARREGAR3": "Geen afspeellijst gevonden"
+}

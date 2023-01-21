@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Atualize o addon de logs.",
+    "USAGE": "log <option> [data]\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "log <option> [data]",
+    "LOG": "Di seguito è riportato l'elenco dei registri disponibili da ogni categoria.\n\nPuoi fare clic sui pulsanti qui sotto per attivare tutti i log in quella categoria o, se preferisci, è possibile utilizzare i seguenti comandi per configurarli manualmente.\n\n__Abilita/Disabilita un Evento:__\n__Imposta il canale Logs a Moderation Logging:__\n{{prefix}}`**logs modchannel <channel>**\n__Imposta il canale Logs a Events:__\n`{{prefix}}`**logs serverchannel <channel>**\n`{{prefix}}`**logs memberchannel <channel>**\n__Imposta il canale Logs a Message Events:__\n`{{prefix}}`**logs msgchannel <channel>**\n",
+    "LOG1": "Non ancora definito",
+    "LOG2": "enable",
+    "LOG3": "disable"
+}

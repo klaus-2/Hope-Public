@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Elimina una risposta automatica.",
+    "USAGE": "deleteautoresponse <command>\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "deleteautoresponse <command>",
+    "EXAMPLE": "deleteautoresponse hi",
+    "DELETAR_RESPOSTA": "<:cancel:855859391709577266> Il tuo nome del comando è superiore a 30 caratteri!",
+    "DELETAR_RESPOSTA1": "Elimina Risposta Automatica",
+    "DELETAR_RESPOSTA2": "è stato eliminato con successo.",
+    "DELETAR_RESPOSTA3": "Oh! Scusa, ma non ho trovato questo comando! Sei sicuro che sia corretto?"
+}

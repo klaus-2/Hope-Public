@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Hou handen vast met iemand speciaal.",
+    "USAGE": "vasthouden <user>",
+    "USAGEE": "vasthouden <user>",
+    "MAOS_DESCRIÇÃO": "\\❌ **<@{{author}}>**, met wie wil je je handen?!",
+    "MAOS_DESCRIÇÃO1": "houdt de handen vast van",
+    "MAOS_DESCRIÇÃO2": "\\❌ **<@{{author}}>**, je moet weten wie je je handen wil houden"
+}

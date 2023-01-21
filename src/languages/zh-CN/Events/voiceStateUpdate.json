@@ -1,0 +1,20 @@
+{
+    "VOICE_STATE_UPDATE": "来自的音频",
+    "VOICE_STATE_UPDATE1": "在服务器上是",
+    "VOICE_STATE_UPDATE2": "un",
+    "VOICE_STATE_UPDATE3": "在频道里耳聋",
+    "VOICE_STATE_UPDATE4": "用户 ID：",
+    "VOICE_STATE_UPDATE5": "[活动 — 音频]",
+    "VOICE_STATE_UPDATE6": "的麦克风",
+    "VOICE_STATE_UPDATE7": "在服务器上是",
+    "VOICE_STATE_UPDATE8": "un",
+    "VOICE_STATE_UPDATE9": "在运河里静音",
+    "VOICE_STATE_UPDATE10": "用户 ID：",
+    "VOICE_STATE_UPDATE11": "[活动 — 麦克风]",
+    "VOICE_STATE_UPDATE12": "已开始",
+    "VOICE_STATE_UPDATE13": "停止的",
+    "VOICE_STATE_UPDATE14": "正在播出",
+    "VOICE_STATE_UPDATE15": "用户 ID：",
+    "VOICE_STATE_UPDATE16": "[活动 — 直播]",
+    "VOICE_STATE_UPDATE17": "由于处于不活动状态，已断开连接 🔉 **{{vcName}}**。如果你想让我全天候留在语音频道中，你可以通过 **`{{prefix}}`premium ** 获得 Premium"
+}

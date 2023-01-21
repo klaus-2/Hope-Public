@@ -1,0 +1,21 @@
+{
+    "DESCRIPTION": "Controleer je items.",
+    "USAGE": "inventaris\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "inventariseren",
+    "EXAMPLE": "inventariseren",
+    "INV": "Hallo {{author}} dat is je inventaris!",
+    "INV1": "Hieronder staan alle items die je momenteel hebt op server {{guild}}.",
+    "INV2": "Hope's winkel",
+    "INV3": "Pagina",
+    "INV4": "van",
+    "INV5": "Type:",
+    "INV6": "Verkoopprijs:",
+    "INV7": "Voorbeeld:",
+    "INV8": "bekijk hem",
+    "INV9": "Uitrusten:",
+    "INV10": "gebruiken",
+    "INV11": "Verkopen:",
+    "INV12": "verkopen",
+    "INV13": "[quantity]",
+    "INV14": "je inventaris is leeg.\nItems kopen in Hope's shop (**{{prefix}}winkel**)"
+}

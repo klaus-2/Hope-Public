@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Aggiunge un ruolo a tutti gli utenti del server attuale.",
+    "USAGE": "addroleall <role>\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "addroleall <role>",
+    "EXAMPLE": "addroleall @role <unk> addroleall 43656543212",
+    "ROLE": "Il mio ruolo non è abbastanza alto di **{{role}}** ruolo!\nCorreggi questo spostando la posizione del mio ruolo in alto.",
+    "ROLE1": "Si prega di fornire un ruolo valido",
+    "ROLE2": "Aggiunto con successo **{{role}}** a tutti"
+}

@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "指定されたテキストを ASCII フォーマットで返します。",
+    "USAGE": "ascii <text>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "アスキー <text>",
+    "EXAMPLE": "アスキー・スカイ",
+    "EASCII_DESC": "ASCII を生成できませんでした",
+    "ASCII": "変換を正常に行うには、20 文字以下のテキストを入力してください。"
+}

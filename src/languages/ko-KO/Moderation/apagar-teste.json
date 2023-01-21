@@ -1,0 +1,4 @@
+{
+    "DESCRIPTION": "일정량의 메시지를 지웁니다.",
+    "USAGE": "클리어 <Number> [member]"
+}

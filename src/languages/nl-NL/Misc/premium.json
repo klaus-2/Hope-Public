@@ -1,0 +1,18 @@
+{
+    "DESCRIPTION": "Exibe o status do usuario.",
+    "USAGE": "premium\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "premie",
+    "EXAMPLE": "premie",
+    "PREMIUM_AUTHOR": "Hallo, {{author}}",
+    "PREMIUM_DESC": "Dit is de **Premium Subscription** informatie voor de server **{{guild}}**",
+    "PREMIUM_DESC1": "**Huidig plan: ** {{plan}}",
+    "PREMIUM_DESC2": "Code: ||**{{code}}**||",
+    "PREMIUM_DESC3": "Datum van inwisseling: ** {{date}}",
+    "PREMIUM_DESC4": "**Inwisselen door: ** <@{{user}}>",
+    "PREMIUM_DESC5": "**Server-ID: ** {{guild}}",
+    "PREMIUM_DESC6": "**Verloopt op: ** {{expires}}",
+    "PREMIUM_TITULO": "Hallo, {{author}}",
+    "PREMIUM_FOOTER": "Vergeet niet dat nadat het abonnement is verlopen, alle premiumfuncties automatisch worden uitgeschakeld op de server.",
+    "PREMIUM_DESC7": "Zo blij dat je geïnteresseerd bent om premium te worden!\n\nPremium is de manier van gebruikers om mij iets terug te geven en leuke voordelen van mij te krijgen.\n\n**Hope PREMIUM WORDEN DIE U KUNT: **\n• Houd Hope 24/7 op een spraakkanaal\n• Maak volledige serverback-up (Serieus, ik kan alles opslaan, categorieën, kanalen, berichten, emoji's en posities)\n• Pas add-on embeds Ticket, Sticky en Verjaardagen aan.\n• Toestemming om meer dan 2 afspeellijsten op HopeDJ te maken <:SkyeOuvindoMusica:823046654554144768>\n• Geldbonus voor Hope's wereldeconomie systeem.\n• Verwijder tot 1000 berichten tegelijk met het commando clear.\n• Auto-Response add-onlimiet is gewijzigd van 10 naar Geen limieten.\n• U kunt meer dan 3 reactierollen maken.\n• Voeg meer dan 10 animes toe in Auto-Animes add-on\n• Voeg meer dan 10 kanalen toe in Auto-YouTube-add-on\n• Voeg meer dan 2 kanalen toe in Auto-Twitch-add-on\n\nHet is veel, nietwaar? Afbeelding om toegang te hebben tot dit alles en gratis? Kun je het niet geloven? hmmm... want geloof me! En er zijn twee manieren om premium te krijgen:\n\n**1 - BOOST OP MIJN [SUPPORT SERVER] ({{SupportServer}}) **\nEen kleine boost kan geen kwaad, toch? Naast het maken van mijn ondersteuningsserver vindingrijker, zal het me in staat stellen om hele coole emoji's in mijn berichten te sturen.\nOok is boost op de ondersteuningsserver gelijk aan **30 dagen PREMIUM**, en elke gebruiker van uw server of een vriend kan mijn server een boost geven en de premie op uw server activeren, als u geen onenigheid nitro heeft.\n\n**2 - Hope VOTES**\nDoor op mij te stemmen, help je me meer zichtbaarheid te krijgen zodat meer coole mensen zoals jij mij op hun servers kunnen hebben.\nJe kunt de lijst met botlijsten bekijken die beschikbaar zijn voor beloning met het `{{prefix}}stem` commando\nOh, en elke stem is gelijk aan **12 uur PREMIUM**, en je kunt elke 12 uur stemmen.",
+    "PREMIUM_FOOTER1": "Wanneer je Hope steunt, bewijs je dat ze op de goede weg is en geef haar ontwikkelaar een super stimulans om haar steeds beter te maken."
+}

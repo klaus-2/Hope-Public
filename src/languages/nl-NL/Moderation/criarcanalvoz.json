@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Maak een spraakkanaal aan.",
+    "USAGE": "create-voicechannel <name>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "create-voicechannel <name>",
+    "EXAMPLE": "create-voicechanneltest"
+}

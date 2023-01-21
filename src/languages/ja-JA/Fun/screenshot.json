@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Web サイトのスクリーンショットを取得します。",
+    "USAGE": "スクリーンショット <url>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "スクリーンショット <url>",
+    "EXAMPLE": "スクリーンショット https://www.google.com/",
+    "FSS_DESC": "<a:loading:823004555884232724> サイトのスクリーンショットを撮る。",
+    "FSS_DESC1": "データが見つかりません",
+    "INVALID_URL": "これは有効な URL ではありません。",
+    "BLACKLIST_WEBSITE": "このウェブサイトはNSFW以外のチャンネルでは閲覧できません。",
+    "SS": "依頼された[URL]({{urls}}) のスクリーンショットです。",
+    "SS1": "URL を指定してください"
+}

@@ -1,0 +1,23 @@
+{
+    "ONE_DAY": "1 giorno",
+    "DAYS": "{{amount}} giorni",
+    "ONE_HOUR": "1 ora",
+    "HOURS": "{{amount}} ore",
+    "ONE_MINUTE": "1 minuto",
+    "MINUTES": "{{amount}} minuti",
+    "ONE_SECOND": "1 secondo",
+    "SECONDS": "{{amount}} secondi",
+    "NOT_NUMBER": "Deve essere un numero.",
+    "INCORRECT_DELIMITERS": "Si prega di utilizzare uno dei seguenti delimitatori di tempo: `d`, `h`, `m`, `s`.",
+    "MAX_TIME": "Non può essere più lungo di 10 giorni.",
+    "INVALID_TIME": "È stato inserito un numero non valido. (Esempio: 1m o 16h)",
+    "dia": "giorno",
+    "dias": "giorni",
+    "hora": "ora",
+    "horas": "ore",
+    "minuto": "minuto",
+    "minutos": "minuti",
+    "segundo": "secondo",
+    "segundos": "secondi",
+    "e": "e"
+}

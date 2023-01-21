@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "채널의 첫 번째 메시지를 수신합니다.",
+    "USAGE": "첫 번째 메시지 [channel]\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "첫 번째 메시지 [channel]",
+    "EXAMPLE": "첫 번째 메시지 #test",
+    "PRIMEIRA_MENSAGEM": "❯ 메시지로 이동"
+}

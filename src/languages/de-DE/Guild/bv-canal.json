@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Aktivieren oder deaktivieren Sie das Vorschlags-Addon.",
+    "USAGE": "bv-channel <channelID>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "bv-Kanal <channelID>",
+    "EXAMPLE": "bv-Kanal 8973474238977",
+    "BV_CANAL": "Kanal erfolgreich aktualisiert auf: "
+}

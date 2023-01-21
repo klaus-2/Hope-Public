@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "공짜 시작하기",
+    "USAGE": "g 스타트 <time> <number of winners> <prize>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "지스타트 <time> <number of winners> <prize>",
+    "EXAMPLE": "지스타트 2h30m 3 니트로 클래식",
+    "CRIAR_SORTEIO": "상품 길이는 256자 미만이어야 합니다.",
+    "CRIAR_SORTEIO1": "서버에서 경품 행사를 시작했습니다.",
+    "CRIAR_SORTEIO2": "죄송합니다. 멘션은 상품이 아닙니다. 다시 시도하십시오.",
+    "giveaway": "<:소르테이오 1:823004177064132658 > **경품** <:소르테이오 1:823004177064132658 >",
+    "giveawayEnded": "<:소르테이오 1:823004177064132658 > **공짜 끝남** <:소르테이오 1:823004177064132658 >",
+    "timeRemaining": "<:Tempo:823004079831384074> 남은 시간: **{duration}**!",
+    "inviteToParticipate": "<:소테오:823004188292022303>과 함께 반응하여 참여해 보세요!",
+    "winMessage": "<:Confetti:823008227033350163> 축하합니다. {winners}!**{this.prize}**을 (를) 받으려면 {this.hostedBy} 에게 문의하십시오\nGiveaway link: {messageURL}",
+    "noWinner": "오 😕 얼마나 유감!유효한 항목이 없어 추첨이 취소되었습니다.\n흠.. 다시 해볼까요?",
+    "hostedBy": "💳 주최: {this.hostedBy}",
+    "winners": "🏆 {this.winnerCount} 우승자",
+    "endedAt": "종료 시",
+    "CRIAR_SORTEIO3": "상품 길이는 256자 미만이어야 합니다.",
+    "FOOTER": "소르테이오"
+}

@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Express the reaction of killing someone.",
+    "USAGE": "kill [user]",
+    "USAGEE": "kill [user]",
+    "MATAR_DESCRIÇÃO": "Stop <@{{member}}>! แกฆ่าฉันไม่ได้นะ!",  
+    "MATAR_DESCRIÇÃO1": "เพิ่งถูกฆ่า"
+}

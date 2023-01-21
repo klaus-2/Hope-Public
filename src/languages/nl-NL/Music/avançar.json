@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Avançar rapidamente of speler pelo valor especificado.",
+    "USAGE": "fastforward <time>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "fastforward <time>",
+    "EXAMPLE": "fastforward 1:00 | ffw 1:32:00",
+    "AVANÇAR": "Oké, ik heb `{{OLD}}` gevorderd in het huidige nummer! De huidige tijd is nu: `{{NEW}}`.",
+    "AVANÇAR1": "in het huidige nummer.\nHuidige tijd:",
+    "AVANÇAR2": "De muziek heeft alleen"
+}

@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Toca uma musica.",
+    "USAGE": "tocar <link / nome da musica>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "tocar <link / nome da musica>",
+    "EXAMPLE": "tocar palaye royale | tocar <anexo> | tocar https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "TOCAR": "Fila",
+    "TOCAR1": "musicas",
+    "TOCAR2": "foi adicionado a fila de reprodução atual.",
+    "TOCAR3": "Por favor, digite o nome/url da música",
+    "TOCAR4": "Foi adicionado a fila **{{num}}** musicas",
+    "TOCAR5": "[{{title}}]({{url}}) foi adicionado a fila."
+}

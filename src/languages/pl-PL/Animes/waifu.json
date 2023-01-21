@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Generuj losowe waifu.",
+    "USAGE": "waifu\n💡 **Przyklad**: {{EXAMPLE}}",
+    "USAGEE": "waifu",
+    "EXAMPLE": "waifu",
+    "AWAIFU_DESC": "To polecenie jest nadal w fazie rozwoju. Obrazy mogą być czasami NSFW, aby zobaczyć, jak działa to polecenie, przejdź do kanału NSFW.",
+    "AWAIFU_DESC1": "z"
+}

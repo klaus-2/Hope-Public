@@ -1,0 +1,21 @@
+{
+    "DESCRIPTION": "Steam でゲーム/アプリを検索します。",
+    "USAGE": "steam-store <game>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "スチームストア <game>",
+    "EXAMPLE": "steam-store コナン亡命者",
+    "STEAM_LOJA": "\\❌ steamで** {{query}} ** が見つかりませんでした <:steam:767062357952167946> steam",
+    "STEAM_LOJA1": "$",
+    "STEAM_LOJA2": "無料",
+    "STEAM_LOJA3": "* **補足事項:",
+    "STEAM_LOJA4": "システム要件",
+    "STEAM_LOJA5": "価格",
+    "STEAM_LOJA6": "メタスコア",
+    "STEAM_LOJA7": "おすすめ",
+    "STEAM_LOJA8": "発売日",
+    "STEAM_LOJA9": "開発者",
+    "STEAM_LOJA10": "出版社",
+    "STEAM_LOJA11": "カテゴリー",
+    "STEAM_LOJA12": "ジャンル",
+    "STEAM_LOJA13": "DLCの量",
+    "STEAM_LOJA14": "サポートされている言語"
+}

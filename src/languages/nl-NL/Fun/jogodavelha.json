@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Begin een spelletje tic-tac-toe.",
+    "USAGE": "tictactoe\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "tictactoe <user>",
+    "EXAMPLE": "tictactoe @User",
+    "VELHA": "Vermeld alsjeblieft wie je wilt uitdagen bij tictactoe."
+}

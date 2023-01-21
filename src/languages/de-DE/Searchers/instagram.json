@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Informationen von einem Instagram-Konto abrufen.",
+    "USAGE": "instagram <user>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "instagram <user>",
+    "EXAMPLE": "instagram-Zwietracht",
+    "INSTAGRAM": "<a:loading:823004555884232724> Halte... Ich arbeite ein!",
+    "INSTAGRAM1": "Benutzername:",
+    "INSTAGRAM2": "Voller Name:",
+    "INSTAGRAM3": "Biographie:",
+    "INSTAGRAM4": "Keine",
+    "INSTAGRAM5": "Veröffentlichungen:",
+    "INSTAGRAM6": "Follower:",
+    "INSTAGRAM7": "Folgend:",
+    "INSTAGRAM8": "Privates Konto:",
+    "INSTAGRAM9": "Ja :Gesperrt:",
+    "INSTAGRAM10": "Keine :freigeschaltet:",
+    "INSTAGRAM11": "Verifiziertes Konto:",
+    "INSTAGRAM12": "Ja ✅",
+    "INSTAGRAM13": "Nein ❌"
+}

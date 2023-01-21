@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Show Hope's latest news.",
+    "USAGE": "news\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "news",
+    "EXAMPLE": "news",
+    "NEWS": "Hope News",
+    "NEWS1": "วันที่เผยแพร่:"
+}

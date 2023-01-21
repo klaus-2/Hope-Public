@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Exibe o seu saldo atual.",
+    "USAGE": "saldo\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "saldo",
+    "EXAMPLE": "saldo",
+    "SALDO": "Abaixo estão todas informações sobre sua economia!",
+    "SALDO1": "<:carteira:855169963470880778> Carteira",
+    "SALDO2": "R$",
+    "SALDO3": "skcoins em sua carteira",
+    "SALDO4": "<:banco:855170000985391186> Banco",
+    "SALDO5": "skcoins em seu banco",
+    "SALDO6": "Streak atual:",
+    "SALDO7": "Maior Streak:",
+    "SALDO8": "faltam",
+    "SALDO9": "streak(s) para obter um **Item de recompensa \\✨",
+    "SALDO10": "<:bonus:855181102893498438> Bonus",
+    "SALDO11": "✔️ O Bonus diario já foi **reivindicado**!\nVocê poderá reinvidica-lo novamente em",
+    "SALDO12": "e",
+    "SALDO13": "⚠️ O Bonus diario está **disponivel** para resgate!\nUse `{{prefix}}bonus-diario` para resgata-lo."
+}

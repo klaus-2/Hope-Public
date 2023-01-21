@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "设置播放器的播放速度。",
+    "USAGE": "速度 <value>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "速度 <value>",
+    "EXAMPLE": "速度 4",
+    "ON_SPD": "正在更新播放速度。这可能需要几秒钟...",
+    "VELOCIDADE": "速度已更改为 {{num}}"
+}

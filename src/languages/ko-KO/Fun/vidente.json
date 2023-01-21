@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "무엇이든에 대한 답을 얻으십시오!",
+    "USAGE": "선견자 <question>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "선견자 <question>",
+    "EXAMPLE": "선견자 오늘 비가 올 건가요?",
+    "FVIDENTE_DESC": "./resources/other/8ball-en.json",
+    "FVIDENTE_DESC1": "질문:",
+    "FVIDENTE_DESC2": "질문 기준",
+    "FVIDENTE_DESC3": "선견자 스카이"
+}

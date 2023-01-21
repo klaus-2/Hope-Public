@@ -1,0 +1,19 @@
+{
+    "ROLE_UPDATE": "이 역할은 다음과 같습니다.",
+    "ROLE_UPDATE1": "그의 이름이 바뀌 었습니다.",
+    "ROLE_UPDATE2": "[EVENT — 역할 이름 변경됨]",
+    "ROLE_UPDATE3": "이전 이름:",
+    "ROLE_UPDATE4": "새 이름:",
+    "ROLE_UPDATE5": "역할의 색상:",
+    "ROLE_UPDATE6": "변경되었습니다",
+    "ROLE_UPDATE7": "[이벤트 — 역할 색상 변경됨]",
+    "ROLE_UPDATE8": "이전 색상:",
+    "ROLE_UPDATE9": "새 색상:",
+    "ROLE_UPDATE10": "역할의 권한은 다음과 같습니다.",
+    "ROLE_UPDATE11": "변경되었습니다",
+    "ROLE_UPDATE12": "여기를 클릭하십시오",
+    "ROLE_UPDATE13": "이 수치가 무엇을 의미하는지 이해합니다.",
+    "ROLE_UPDATE14": "[EVENT — 역할 권한 변경됨]",
+    "ROLE_UPDATE15": "이전 권한:",
+    "ROLE_UPDATE16": "새 권한:"
+}

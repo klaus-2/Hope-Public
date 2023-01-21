@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "erstellen Sie eine Umfrage für Benutzer zu antworten.",
+    "USAGE": "Umfrage <question>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "umfrage <question>",
+    "EXAMPLE": "Umfrage Wird es heute regnen?",
+    "POLL_TITLE": "Umfrage erstellt von {{username}}",
+    "POLL_FOOTER": "Auf Abstimmung reagieren.."
+}

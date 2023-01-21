@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "criar um canal de texto temporario.",
+    "USAGE": "temp-channel <categoryID> <time in minutes>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "temp-channel <categoryID> <time in minutes>",
+    "EXAMPLE": "temp-channel 804851508944306237 1",
+    "CANALTEMP": "คุณมีช่องสัญญาณชั่วคราวอยู่แล้ว",
+    "CANALTEMP1": "คุณถูกแท็กในช่องโปรดตรวจสอบ",
+    "CANALTEMP2": "channel-temporary",
+    "CANALTEMP3": "แชนเนลนี้เป็นแชนเนลชั่วคราว\nมันจะถูกลบใน {{expire}} นาที"
+}

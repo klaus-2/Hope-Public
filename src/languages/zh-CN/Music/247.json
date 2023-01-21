@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "即使没有人在语音频道上，也要留在语音频道上。",
+    "USAGE": "247\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "247",
+    "EXAMPLE": "247",
+    "VINTEQUATRO": "24/7 模式现在为 {{toggle}}。",
+    "VINTEQUATRO1": "on",
+    "VINTEQUATRO2": "off"
+}

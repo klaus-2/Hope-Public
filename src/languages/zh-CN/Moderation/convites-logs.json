@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "显示用户的邀请记录。",
+    "USAGE": "邀请跟踪器 <user>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "邀请跟踪器 <user>",
+    "EXAMPLE": "邀请追踪器 @User",
+    "CONVITE": "机器人不能邀请某人，他可以但这不算在内。",
+    "CONVITE1": "没邀请任何人加入服务器！",
+    "CONVITE2": "邀请追踪器",
+    "CONVITE3": "有关邀请的信息",
+    "CONVITE4": "** 受邀人士：**",
+    "CONVITE5": "邀请码\n\n"
+}

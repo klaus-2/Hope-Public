@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Glimlach voor een gebruiker.",
+    "USAGE": "glimlach [user]",
+    "USAGEE": "glimlach [user]",
+    "SORRIR_DESCRIÇÃO": "<@{{author}}> glimlachend!",
+    "SORRIR_DESCRIÇÃO1": "<@{{author}}> glimlach!",
+    "SORRIR_DESCRIÇÃO2": "Ik geef een glimlach terug",
+    "SORRIR_DESCRIÇÃO3": "glimlach om"
+}

@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Repete a música ou fila.",
+    "USAGE": "repetir [fila / musica]\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "repetir [fila / musica]",
+    "EXAMPLE": "repetir fila | repetir musica | repetir",
+    "REPETIR": "musica",
+    "ENABLED": "ativei",
+    "DISABLED": "desativei",
+    "REPETIR3": "{{trackRepeat}} a repetição dessa musica.",
+    "REPETIR4": "repetir",
+    "REPETIR7": "{{queueRepeat}} a repetição da fila."
+}

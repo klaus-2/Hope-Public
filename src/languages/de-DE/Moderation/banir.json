@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "banir um usuario.",
+    "USAGE": "ban <user> [reason] [time]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "sperren <user> [reason] [time]",
+    "EXAMPLE": "Ban Hope Übung Spam im Chat 3d | Ban Hope Test | Ban Hope testing 1D 10h 25m | Ban Hope Test 30s",
+    "BAN": "BANNT!",
+    "BAN1": "<a:anibanned:823008288236765184> Du wurdest von **{{guild}} ** gebannt.",
+    "BAN2": "Gesperrt von:",
+    "BAN3": "Grund:",
+    "MISSING_USER": "Ich kann niemanden bestrafen, der nicht auf diesem Server ist."
+}

@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Exprimez la réaction de tuer quelqu'un.",
+    "USAGE": "tuer [user]",
+    "USAGEE": "tuer [user]",
+    "MATAR_DESCRIÇÃO": "Arrêtez <@{{member}}>! Vous ne pouvez pas me tuer!",
+    "MATAR_DESCRIÇÃO1": "vient de tuer"
+}

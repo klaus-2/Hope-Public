@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "它为您提供了摆脱无聊的建议。",
+    "USAGE": "无聊\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "无聊",
+    "EXAMPLE": "无聊",
+    "FTEDIO_DESC": "./resources/other/bored-en.json",
+    "FTEDIO_DESC1": "你觉得无聊吗？"
+}

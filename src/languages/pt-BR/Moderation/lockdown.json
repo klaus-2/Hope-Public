@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Tranca um canal por um determinado tempo.",
+    "USAGE": "confinamento <tempo>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "confinamento <tempo>",
+    "EXAMPLE": "confinamento 1",
+    "CONFINAMENTO": "ATENÇÃO",
+    "CONFINAMENTO1": "O canal",
+    "CONFINAMENTO2": "foi colocado sob confinamento por",
+    "CONFINAMENTO3": "O confinamento do canal",
+    "CONFINAMENTO4": "foi revogado. #LiliCantou"
+}

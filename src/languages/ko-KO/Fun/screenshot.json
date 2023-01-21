@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "웹 사이트의 스크린샷을 가져옵니다.",
+    "USAGE": "스크린샷 <url>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "스크린샷 <url>",
+    "EXAMPLE": "스크린샷 https://www.google.com/",
+    "FSS_DESC": "<a:loading:823004555884232724> 사이트의 스크린샷 찍기.",
+    "FSS_DESC1": "누락된 데이터",
+    "INVALID_URL": "유효한 URL이 아닙니다.",
+    "BLACKLIST_WEBSITE": "NSFW가 아닌 채널에서는 이 웹사이트를 볼 수 없습니다.",
+    "SS": "요청 된 [URL]({{urls}}) 의 스크린 샷은 다음과 같습니다.",
+    "SS1": "url을 지정하십시오."
+}

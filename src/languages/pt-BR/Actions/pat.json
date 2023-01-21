@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Faça carinho no(s) usuário(s) que você mencionou!",
+    "USAGE": "carinho [user]\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "carinho [user]",
+    "EXAMPLE": "carinho @Hope | carinho @user1 @User2",
+    "CARINHO_DESCRIÇÃO": "Você não pode fazer carinho em sí mesmo, deixe isso comigo >.< <@{{member}}>!",
+    "CARINHO_Hope": " **mim**",
+    "CARINHO_Hope1": " em **mim**",
+    "CARINHO_DESCRIÇÃO1": "fez carinho em",
+    "CARINHO_HopeFRASE": "H-Haa.. (✿´ ꒳ ` ) por favor não pare...",
+    "CARINHO_DESC": " e ",
+    "CARINHO_DESC1": ", e "
+}

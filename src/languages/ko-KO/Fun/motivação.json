@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "하루를 개선하기 위해 동기 부여 견적을 받으십시오.",
+    "USAGE": "동기 부여\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "자극",
+    "EXAMPLE": "자극",
+    "FMOT_DESC": "./resources/quotes/motivational-en.json",
+    "FMOT_DESC1": "동기 부여 견적"
+}

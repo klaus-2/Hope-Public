@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "재생 목록에 노래를 추가합니다.",
+    "USAGE": "p-추가 <playlist name> <song>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "p-추가 <playlist name> <song>",
+    "EXAMPLE": "p-추가 테스트 https://www.youtube.com/watch?v=4AnmemzByVY",
+    "P_ADD": "이상한 일이 일어났습니다.",
+    "P_ADD1": "이름이 `{{name}} `인 재생 목록을 찾을 수 없습니다.",
+    "P_ADD2": "재생 목록 `{{title}} `에 {{num}} 개의 새 곡을 추가했습니다.",
+    "P_ADD3": "{{title}}검색 결과",
+    "P_ADD4": "{{results}}\n\n\t1-10 중에서 번호를 선택하거나 취소합니다.\n",
+    "P_ADD5": "입력한 숫자가 너무 작거나 너무 큽니다 (1-{{num}})."
+}

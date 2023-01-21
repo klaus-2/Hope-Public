@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Get the urban dictionary of a word.",
+    "USAGE": "urban <word>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "urban <word>",
+    "EXAMPLE": "urban <word>",
+    "INCORRECT_URBAN": "Phrase: `{{phrase}}` was not found on the urban dictionary.",
+    "URBAN_TITLE": "Definition of {{word}}",
+	"URBAN_DESCRIPTION": "{{definition}}\n**Example:**\n{{examples}}"
+}

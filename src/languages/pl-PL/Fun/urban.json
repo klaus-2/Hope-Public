@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Zdobądź słownik miejski słowa.",
+    "USAGE": "urban <word>\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "miejski <word>",
+    "EXAMPLE": "miejski <word>",
+    "INCORRECT_URBAN": "Wyrażenia: `{{phrase}}„nie znaleziono w słowniku miejskim.",
+    "URBAN_TITLE": "Definicja {{word}}",
+    "URBAN_DESCRIPTION": "{{definition}}\n**Przykład: **\n{{examples}}"
+}

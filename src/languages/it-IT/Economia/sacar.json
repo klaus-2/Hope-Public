@@ -1,0 +1,23 @@
+{
+    "DESCRIPTION": "Ritira denaro direttamente dal tuo conto bancario.",
+    "USAGE": "ritirare <value> <unk> [all]\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "ritirare <value> <unk> [all]",
+    "EXAMPLE": "preleva 5000 <unk> ritira tutto",
+    "SACAR": "tutti",
+    "SACAR1": "<:cancel:855859391709577266> **Non hai denaro da prelevare!**",
+    "SACAR2": "<:v_:855859391835799582> Hai ritirato tutti i tuoi soldi dal tuo conto bancario. <:SkyeTimida:823046655632211989> Attenzione a essere rapinati!",
+    "SACAR3": "<:cancel:855859391709577266> Specifica un importo da prelevare!",
+    "SACAR4": "<:cancel:855859391709577266> Il tuo valore non è un numero!",
+    "SACAR5": "<:cancel:855859391709577266> Non puoi ritirare denaro negativo!",
+    "SACAR6": "<:cancel:855859391709577266> Non hai molto denaro in banca! `usa il saldo {{prefix}}` per scoprire quanto possiedi.",
+    "SACAR7": "Lo hai preso",
+    "SACAR8": "skcoin dal tuo conto bancario!",
+    "SACAR9": "vou non hanno abbastanza denaro nella tua banca per procedere con questa transazione.",
+    "SACAR10": "Hai solo **R$",
+    "SACAR11": "skcoins** sul tuo account.\nRimane ancora **$",
+    "SACAR12": "skcoins** per completare la transazione.\n(**Ricorda che c'è una commissione di transazione del 5% inclusa**)",
+    "SACAR13": "Per prelevare tutti i tuoi soldi contemporaneamente, digita",
+    "SACAR14": "disegna tutto",
+    "SACAR15": "non puoi prelevare questa grande quantità di denaro! \n(Puoi avere solo fino a 50mila skcoin nel tuo portafoglio, per sicurezza).",
+    "SACAR16": "(**+5% tassa di transazione inclusa**)."
+}

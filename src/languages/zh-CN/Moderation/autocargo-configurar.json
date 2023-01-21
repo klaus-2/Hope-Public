@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "配置自动货运 da Hope 对于 ESTE Servidor。",
+    "USAGE": "autorole-setup <roleID>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "autorole-setup <roleID>",
+    "EXAMPLE": "自动角色设置 8973263628081",
+    "AC_CONFIG": "设置：`Server`",
+    "AC_CONFIG1": "<: v_: 855859391835799582>o “自动角色” 已成功更新。",
+    "AC_CONFIG2": "自动角色",
+    "AC_CONFIG3": "已更改自"
+}

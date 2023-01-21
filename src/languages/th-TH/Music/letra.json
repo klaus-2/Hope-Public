@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "get the lyrics to the song.",
+    "USAGE": "lyrics [song]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "lyrics [song]",
+    "EXAMPLE": "lyrics anchor - novo amor",
+    "LETRA": "ฉันกําลังค้นหาเนื้อเพลง ยึดมั่นใน <:SkyeDetetive:823259704443535450>",
+    "LETRA1": "ไม่พบเนื้อเพลง"
+}

@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "fechar um チケット。",
+    "USAGE": "ticket-fechar\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "T閉じる",
+    "EXAMPLE": "T閉じる"
+}

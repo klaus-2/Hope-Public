@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Activer ou désactiver l'extension de la suggestion.",
+    "USAGE": "bv-channel <channelID>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "bv-channel <channelID>",
+    "EXAMPLE": "canal bv-8973474238977",
+    "BV_CANAL": "Canal mis à jour avec succès: "
+}

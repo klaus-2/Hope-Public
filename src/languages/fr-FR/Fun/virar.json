@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "retourner une pièce.",
+    "USAGE": "retourner\n💡**Exemple**: {{EXAMPLE}}",
+    "USAGEE": "retournement",
+    "EXAMPLE": "retournement",
+    "FLIP_CHOICE": "['Tails', 'Tails'][{{choice}}]"
+}

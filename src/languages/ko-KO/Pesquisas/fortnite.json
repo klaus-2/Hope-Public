@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "포트나이트의 계정에서 정보를 얻을 수 있습니다.",
+    "USAGE": "포트나이트 <kbm / gamepad / touch> <user>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "포트나이트 <kbm / gamepad / touch> <user>",
+    "EXAMPLE": "포트나이트 kbm 닌자",
+    "FORTNITE": "<a:loading:823004555884232724> 홀드 온...연구 중이야!",
+    "FORTNITE1": "{{username}} 에 대한 통계",
+    "FORTNITE2": "상위 게재 위치",
+    "FORTNITE3": "총 포인트:",
+    "FORTNITE4": "경기 플레이:",
+    "FORTNITE5": "승리:",
+    "FORTNITE6": "승률:",
+    "FORTNITE7": "킬:",
+    "FORTNITE8": "아마:"
+}

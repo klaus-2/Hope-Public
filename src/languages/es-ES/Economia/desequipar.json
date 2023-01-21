@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Desequipa un objeto determinado.",
+    "USAGE": "unequip <type>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "desequipar <type>",
+    "EXAMPLE": "desequipar planodefundo",
+    "DESEQUIPAR": "selecciona una de las siguientes opciones:",
+    "DESEQUIPAR1": "has desequipado",
+    "DESEQUIPAR2": "¡con éxito!"
+}

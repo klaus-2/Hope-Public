@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Sets the Economia birthday for your Economia card.",
+    "USAGE": "setbirthday <d-m>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "setbirthday <d-m>",
+    "EXAMPLE": "setbirthday 02-12",
+    "NIVER": "please enter your **birthday**!",
+    "NIVER1": "please enter the date in the format **DD-MM**",
+    "NIVER2": "your birthday date has been updated to"
+}

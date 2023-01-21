@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Erstelle ein Stickbug-Meme.",
+    "USAGE": "stickbug [user] | [file]\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "stickbug [user] | [file]",
+    "EXAMPLE": "stickbug Benutzer | stickbug <attachment>"
+}

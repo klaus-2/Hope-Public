@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "偽のツイッターツイートを作成してください。",
+    "USAGE": "twitter [user] <text>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "ツイッター [user] <text>",
+    "EXAMPLE": "twitter @user スカイ大好き。"
+}

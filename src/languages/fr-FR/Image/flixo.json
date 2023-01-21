@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Jouer la photo d'un utilisateur dans la corbeille.",
+    "USAGE": "trash [user]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "poubelle",
+    "EXAMPLE": "trash @Hope",
+    "FLIXO_DESC": "juste jeté",
+    "FLIXO_DESC1": "dans la corbeille",
+    "FLIXO_DESC2": "Allons-tu laisser partir celui-ci ?",
+    "FLIXO_DESC3": "et obtenir 😈",
+    "FLIXO_DESC4": "Whoa!"
+}

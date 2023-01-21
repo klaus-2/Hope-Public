@@ -1,0 +1,19 @@
+{
+    "WARNING_SYSTEM": "ATENÇÃO",
+    "WARNING_SYSTEM1": "Você recebeu uma advêrtencia em {{guild}}.",
+    "WARNING_SYSTEM2": "Advêrtido por:",
+    "WARNING_SYSTEM3": "Motivo:",
+    "WARNING_SYSTEM4": "Advêrtencia:",
+    "WARNING_SYSTEM5": "1/3",
+    "WARNING_SYSTEM6": "Você recebeu outra advêrtencia em {{guild}}.",
+    "WARNING_SYSTEM7": "2/3",
+    "WARNING_SYSTEM8": "[KICK]",
+    "WARNING_SYSTEM10": "[WARN]",
+    "WARNING_SYSTEM11": "Usuario:",
+    "WARNING_SYSTEM12": "Moderador:",
+    "WARNING_SYSTEM13": "Advêrtencias:",
+    "KICKED": "*{{USER}} foi expulso com sucesso por ter muitos avisos*.",
+    "WARNING1": "kikado",
+    "WARNING2": "banido",
+    "WARNING3": "Ao atingir o limite de {{limit}} advertências, você será {{punish}} do servidor."
+}

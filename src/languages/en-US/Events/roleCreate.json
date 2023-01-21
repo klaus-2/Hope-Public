@@ -1,0 +1,5 @@
+{
+    "ROLE_CREATE": "A new role has been created on the server\nName:",
+    "ROLE_CREATE1": "Mention:",
+    "ROLE_CREATE2": "[EVENT — A ROLE HAS BEEN CREATED]"
+}

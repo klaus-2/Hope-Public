@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Set up Hope channel ignore for this server.",
+    "USAGE": "level-ignorechannel <channelID>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "level-ignorechannel <channelID>",
+    "EXAMPLE": "level-ignorechannel 328328777266673",
+    "LVL_IGNCANAL": "Settings: `Level`",
+    "LVL_IGNCANAL1": "<:v_:855859391835799582>The configuration of `level` has been successfully updated.",
+    "LVL_IGNCANAL2": "Level Setting",
+    "LVL_IGNCANAL3": "Changed channel from"
+}

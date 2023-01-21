@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Hacer papeles de reacción",
+    "USAGE": "reactionroles <messagelink>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "roles de reacción <messagelink>",
+    "EXAMPLE": "roles de reacción https://discord.com/channels/450822670105082938/451619652009787331/747357221053937082",
+    "RR_REMOVER": "Enlace de mensaje no válido",
+    "RR_REMOVER1": "Función de reacción eliminada correctamente"
+}

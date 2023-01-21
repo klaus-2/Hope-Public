@@ -1,0 +1,18 @@
+{
+    "DESCRIPTION": "speel rock, papier, schaar met Hope.",
+    "USAGE": "rps <rock / paper / scissors>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "rps <rock / paper / scissors>",
+    "EXAMPLE": "rps",
+    "FPPT_DESC": "rots",
+    "FPPT_DESC1": "papier",
+    "FPPT_DESC2": "schaar",
+    "FPPT_DESC3": "Rock - Papier - Schaar",
+    "FPPT_DESC4": "Kies een optie",
+    "FPPT_DESC5": "tekende met Hope",
+    "FPPT_DESC6": "gewonnen",
+    "FPPT_DESC7": "verloren",
+    "FPPT_DESC8": "Je hebt gekozen voor:",
+    "FPPT_DESC9": "Hope koos",
+    "FPPT_DESC10": "Resultaat: jij",
+    "FPPT_DESC11": "Het duurde te lang!"
+}

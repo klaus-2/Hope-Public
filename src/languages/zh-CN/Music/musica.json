@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "显示当前正在播放的歌曲。",
+    "USAGE": "np\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "不是",
+    "EXAMPLE": "不是",
+    "MUSICA": "🔴 直播",
+    "MUSICA1": "现在播放：",
+    "MUSICA2": "访问链接",
+    "MUSICA3": "点击这里",
+    "MUSICA4": "请求者",
+    "MUSICA5": "期限"
+}

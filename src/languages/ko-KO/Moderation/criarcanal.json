@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "텍스트 채널을 만듭니다.",
+    "USAGE": "만들기 채널 <name>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "생성 채널 <name>",
+    "EXAMPLE": "생성 채널 테스트"
+}

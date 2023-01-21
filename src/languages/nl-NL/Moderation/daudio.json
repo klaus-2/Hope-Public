@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Schakel de audio van een gebruiker uit.",
+    "USAGE": "deafen <user> [time]\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "doof <user> [time]",
+    "EXAMPLE": "doofen @Hope | doofen @Hope 5m",
+    "DAUDIO": "Ik kan iemand die niet op een spraakkanaal zit, niet doof maken."
+}

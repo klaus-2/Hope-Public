@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "apagar uma certa quantidade de mensagens.",
+    "USAGE": "apagar <1-1000> [user]\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "apagar <1-1000> [user]",
+    "EXAMPLE": "apagar 559",
+    "NO_PREM": "Serwer musi być premium, aby wyczyścić więcej niż `200` wiadomości.",
+    "TITLE": "Wyczyść potwierdzenie",
+    "DESC": "Masz zamiar wyczyścić {{NUM}} wiadomości z tego kanału, zareaguj, aby potwierdzić tę akcję.",
+    "DEL_MSG": "Usunięcie {{NUM}} wiadomości zajmie to około {{TIME}} sekundy.\nNIE WYŚLIJ żadnych wiadomości, gdy to się dzieje.",
+    "SUCCESS": "{{NUM}} wiadomości zostały pomyślnie usunięte.",
+    "CON_CNC": "Potwierdzenie anulowane",
+    "CON_TO": "Upłynął limit czasu potwierdzenia."
+}

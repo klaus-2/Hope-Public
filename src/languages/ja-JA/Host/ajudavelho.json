@@ -1,0 +1,4 @@
+{
+    "DESCRIPTION": "私ができるすべてのコマンドの情報を送ってください。",
+    "USAGE": "ajuda [comando | addon]"
+}

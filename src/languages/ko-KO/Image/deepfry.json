@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "이미지를 딥프라이합니다.",
+    "USAGE": "딥프라이 [file]\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "딥 프라이 [file]",
+    "EXAMPLE": "deepfry <attachment> | deepfry <user>"
+}

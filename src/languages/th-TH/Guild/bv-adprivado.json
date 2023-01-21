@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Enable or disable the welcome message addon in private.",
+    "USAGE": "bv-adprivate <enable | disable>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "bv-adprivate <enable | disable>",
+    "EXAMPLE": "bv-adprivate on"
+}

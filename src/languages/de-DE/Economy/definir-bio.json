@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Legt die Profil-Biographie für deine Profilkarte fest.",
+    "USAGE": "setbio <message>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "setbio <message>",
+    "EXAMPLE": "setbio Der coolste Mensch in der Stadt",
+    "BIO": "Hallo {{author}}, du hast bereits eine Biographie",
+    "BIO1": "Um deine Biographie zu ändern, benutze `{{prefix}}setbio <newMessage>`",
+    "BIO2": "Du musst eine Nachricht für dein Bio setzen.",
+    "BIO3": "du hast das **Limit von `165` erreicht!",
+    "BIO4": "Hallo {{author}}, du hast eine neue Biographie erstellt!",
+    "BIO5": "Du kannst es mit dem Befehl `{{prefix}}Profil` testen"
+}

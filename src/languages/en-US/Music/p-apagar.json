@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Delete a playlist",
+    "USAGE": "p-delete <playlist name>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "p-delete <playlist name>",
+    "EXAMPLE": "p-delete Test",
+    "P_DEL": "I couldn't find a playlist with the name **{{name}}**.",
+    "P_DEL1": "Successfully deleted"
+}

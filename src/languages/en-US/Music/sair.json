@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "disconnects the bot from the voice channel.",
+    "USAGE": "dc\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "dc",
+    "EXAMPLE": "dc"
+}

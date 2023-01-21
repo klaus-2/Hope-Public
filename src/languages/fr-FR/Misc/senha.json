@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "générer un mot de passe sécurisé.",
+    "USAGE": "mot de passe\n💡**Exemple**: {{EXAMPLE}}",
+    "USAGEE": "mot de passe",
+    "EXAMPLE": "mot de passe",
+    "ESENHA_DESC": "Incertain",
+    "ESENHA_DESC1": "Très sûr",
+    "ESENHA_DESC2": "Assurance",
+    "ESENHA_DESC3": "Générateur de mot de passe Hope",
+    "ESENHA_DESC4": "Mot de passe",
+    "ESENHA_DESC5": "Longueur",
+    "ESENHA_DESC6": "Niveau de sécurité",
+    "ESENHA_DESC7": "Remarque - Vos mots de passe ne sont jamais stockés de notre côté!",
+    "ESENHA_DESC8": "🚫 Impossible d'envoyer le mot de passe !",
+    "ESENHA_DESC9": "Je ne peux pas vous envoyer un DM! Corrigez-le en modifiant vos paramètres de confidentialité pour ce serveur afin d'autoriser les messages directs !"
+}

@@ -1,0 +1,20 @@
+{
+    "VOICE_STATE_UPDATE": "De audio van",
+    "VOICE_STATE_UPDATE1": "op de server was",
+    "VOICE_STATE_UPDATE2": "un",
+    "VOICE_STATE_UPDATE3": "doof gemaakt in het kanaal",
+    "VOICE_STATE_UPDATE4": "Gebruikers-ID:",
+    "VOICE_STATE_UPDATE5": "[EVENT — AUDIO]",
+    "VOICE_STATE_UPDATE6": "De microfoon van",
+    "VOICE_STATE_UPDATE7": "op de server was",
+    "VOICE_STATE_UPDATE8": "un",
+    "VOICE_STATE_UPDATE9": "gedempt in het kanaal",
+    "VOICE_STATE_UPDATE10": "Gebruikers-ID:",
+    "VOICE_STATE_UPDATE11": "[EVENT — MICROFOON]",
+    "VOICE_STATE_UPDATE12": "begon",
+    "VOICE_STATE_UPDATE13": "gestopt",
+    "VOICE_STATE_UPDATE14": "een uitzending op",
+    "VOICE_STATE_UPDATE15": "Gebruikers-ID:",
+    "VOICE_STATE_UPDATE16": "[EVENT — STREAMING]",
+    "VOICE_STATE_UPDATE17": "Verbinding verbroken 🔉 **{{vcName}}** vanwege inactiviteit. Als je wilt dat ik 24/7 in het spraakkanaal blijf, kun je Premium krijgen op **`{{prefix}}`premium**"
+}

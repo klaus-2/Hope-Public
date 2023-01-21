@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Skonfiguruj kanał Hope ignoruj dla tego serwera.",
+    "USAGE": "level-ignorechannel <channelID>\n💡 **Przykład: {{EXAMPLE}}",
+    "USAGEE": "level-ignorechannel <channelID>",
+    "EXAMPLE": "poziom ignorechannel 328328777266673",
+    "LVL_IGNCANAL": "Ustawienia: `Level`",
+    "LVL_IGNCANAL1": "<:v_:855859391835799582>Konfiguracja `level` została pomyślnie zaktualizowana.",
+    "LVL_IGNCANAL2": "Ustawienie poziomu",
+    "LVL_IGNCANAL3": "Zmieniono kanał z"
+}

@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Configure o canal que receberá mensagem de aviso de progressão do addon Level.",
+    "USAGE": "levelcanal <ID do canal>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "levelcanal <ID do canal>",
+    "EXAMPLE": "levelcanal 7642332322",
+    "LVL_CANAL": "Configurações: `Level`",
+    "LVL_CANAL1": "<:v_:855859391835799582>A configuração de `level` foi atualizado com sucesso.",
+    "LVL_CANAL2": "Configuração de Level",
+    "LVL_CANAL3": "Canal alterado de"
+}

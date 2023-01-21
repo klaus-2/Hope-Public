@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "wis alle berichten van een kanaal tegelijk.",
+    "USAGE": "nuke\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "atoombom",
+    "EXAMPLE": "atoombom",
+    "LIMPAR": "Dit kanaal kan niet worden gewist! Wat denk je nou?",
+    "LIMPAR1": "BAM! `<{{channel}}>` **is schoongeveegd. **"
+}

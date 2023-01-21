@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Creëert een dreigingsme meme.",
+    "USAGE": "bedreigingen [user] | [file]\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "bedreigingen [user] | [file]",
+    "EXAMPLE": "bedreigingen gebruiker | bedreigingen <attachment>"
+}

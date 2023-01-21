@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "무작위 척 노리스 농담을 얻으십시오.",
+    "USAGE": "처크노리스\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "처크노리스",
+    "EXAMPLE": "처크노리스",
+    "FNORRIS_DESC": "./resources/other/chucknorris-en.json"
+}

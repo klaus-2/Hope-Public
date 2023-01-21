@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "supprimer un certain nombre de messages.",
+    "USAGE": "apagar <1-1000> [user]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "apagar <1-1000> [user]",
+    "EXAMPLE": "599 €",
+    "NO_PREM": "Le serveur doit être premium afin d'effacer plus de messages `200`.",
+    "TITLE": "Effacer la confirmation du message",
+    "DESC": "Vous êtes sur le point d'effacer {{NUM}} messages de ce salon, veuillez réagir pour confirmer cette action.",
+    "DEL_MSG": "La suppression de {{NUM}} messages prendra environ {{TIME}} secondes.\nN'ENVOYEZ PAS DE MESSAGES QUELS QUE CE SOIT.",
+    "SUCCESS": "{{NUM}} messages ont été supprimés avec succès.",
+    "CON_CNC": "Confirmation annulée",
+    "CON_TO": "La confirmation a expiré."
+}

@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "一次删除频道中的所有消息。",
+    "USAGE": "nuke\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "用核武器攻击",
+    "EXAMPLE": "用核武器攻击",
+    "LIMPAR": "这个频道无法清除！你在想什么？",
+    "LIMPAR1": "BAM！`<{{channel}}>` ** 已被擦干净。**"
+}

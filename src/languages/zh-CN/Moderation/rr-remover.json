@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "扮演反应角色",
+    "USAGE": "反应角色 <messagelink>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "反应角色 <messagelink>",
+    "EXAMPLE": "反应角色 https://discord.com/channels/450822670105082938/451619652009787331/747357221053937082",
+    "RR_REMOVER": "消息链接无效",
+    "RR_REMOVER1": "已成功删除反应角色"
+}

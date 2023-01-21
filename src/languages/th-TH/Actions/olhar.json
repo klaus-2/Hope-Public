@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Face the user you mentioned!",
+    "USAGE": "stare <user>",
+    "USAGEE": "stare <user>",
+    "OLHAR_DESCRIÇÃO": "มีความสนุกสนานในการมองออกจากที่ไหนสักแห่ง?", 
+    "OLHAR_DESCRIÇÃO1": "ฉันมีเสน่ห์ขนาดนั้นเลยเหรอ?", 
+    "OLHAR_DESCRIÇÃO2": "เป็นไปไม่ได้คุณไม่สามารถมองตัวเองต่อไปได้!", 
+    "OLHAR_DESCRIÇÃO3": "กําลังจ้องมอง"
+}

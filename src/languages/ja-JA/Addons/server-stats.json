@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "サーバーの統計情報を表示します。",
+    "USAGE": "server-stats <enable | disable>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "サーバー統計 <enable | disable>",
+    "EXAMPLE": "サーバー統計の有効化",
+    "STATS": "enable",
+    "STATS1": "`Server Stats` アドオンは正常にアクティブ化されました。",
+    "STATS2": "disable",
+    "STATS3": "`Server Stats` アドオンは正常に無効化されました。",
+    "STATS4": "おっと！まずアドオンを有効化しろ"
+}

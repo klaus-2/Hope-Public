@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "以 ascii 格式返回提供的文本。",
+    "USAGE": "ascii <text>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "ascii <text>",
+    "EXAMPLE": "ascii Hope",
+    "EASCII_DESC": "生成 ASCII 失败",
+    "ASCII": "请输入不超过 20 个字符的文本，以便转换成功！"
+}

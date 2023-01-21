@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Informieren Sie sich heute über Horoskop .",
+    "USAGE": "horoskop <sign>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "horoskop <sign>",
+    "EXAMPLE": "horoskop taurus",
+    "FHOR_DESC": "Bitte gib mir ein Zeichen um sein Horoskop zu bekommen!",
+    "FHOR_DESC1": "Das ist kein gültiges Zeichen!",
+    "FHOR_DESC2": "Entschuldigung! Meine API (Horoskop Machine) funktioniert nicht!",
+    "FHOR_DESC3": "Maske",
+    "FHOR_DESC4": "Keine Daten.",
+    "FHOR_DESC5": "Intensität",
+    "FHOR_DESC6": "Stichwörter"
+}

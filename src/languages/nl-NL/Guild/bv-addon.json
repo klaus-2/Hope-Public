@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Schakel de add-on voor welkomstberichten in of uit.",
+    "USAGE": "bv-addon <enable | disable>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "bv-addon <enable | disable>",
+    "EXAMPLE": "bv-addon inschakelen"
+}

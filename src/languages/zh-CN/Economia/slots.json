@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "老虎机游戏 | 9x-稀有 | 3x-普通",
+    "USAGE": "插槽 <bet amount>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "插槽 <bet amount>",
+    "EXAMPLE": "插槽 5000",
+    "SLOTS": "是啊！<: Hopecomemorando:828375859832160286> 恭喜你赢了",
+    "SLOTS1": "skcoins",
+    "SLOTS2": "<: Hopeaff: 823057603135012874> 啊... 真可惜你输了",
+    "SLOTS3": "<: 取消:855859391709577266> Você está está apostando 你做阙 voê tem",
+    "SLOTS4": "你需要指定一个值。",
+    "SLOTS5": "$",
+    "SLOTS6": "skcoins"
+}

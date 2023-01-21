@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Slots Game | 9x - rare | 3x - common",
+    "USAGE": "slots <bet amount>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "slots <bet amount>",
+    "EXAMPLE": "slots 5000",
+    "SLOTS": "Yaayy! <:SkyeComemorando:828375859832160286> Congratulations, you've won",
+    "SLOTS1": "skcoins",
+    "SLOTS2": "<:SkyeAff:823057603135012874> Ahh... what a shame, you lost",
+    "SLOTS3": "<:cancel:855859391709577266> Você está apostando mais do que você tem",
+    "SLOTS4": "you need to specify a value.",
+    "SLOTS5": "$",
+    "SLOTS6": "skcoins"
+}

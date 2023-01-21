@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Express ein Set von Schamen/Blasen.",
+    "USAGE": "blush [user]",
+    "USAGEE": "blush [user]",
+    "VERGONHA_DESCRIÇÃO": "<@{{author}}> schämt sich",
+    "VERGONHA_DESCRIÇÃO1": "schämt sich"
+}

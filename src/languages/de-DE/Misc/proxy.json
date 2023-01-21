@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Sendet eine Liste von Proxies (Updates jede Stunde)",
+    "USAGE": "proxy\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "proxy",
+    "EXAMPLE": "proxy",
+    "EPROXY_DESC": "Proxy-Liste",
+    "EPROXY_DESC1": "💡 Diese Liste wird jede Stunde aktualisiert."
+}

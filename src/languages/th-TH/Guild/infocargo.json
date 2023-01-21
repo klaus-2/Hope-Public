@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Get information about a role.",
+    "USAGE": "roleinfo <role>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "roleinfo <role>",
+    "EXAMPLE": "roleinfo @role",
+    "ROLE_NAME": "บทบาท | {{roleName}}",
+    "ROLE_MEMBERS": "สมาชิก:",
+    "ROLE_COLOR": "สี:",
+    "ROLE_POSITION": "ตำแหน่ง:",
+    "ROLE_MENTION": "กล่าวถึง:",
+    "ROLE_HOISTED": "ยก:",
+    "ROLE_MENTIONABLE": "พูดถึง:",
+    "ROLE_PERMISSION": "สำคัญ Permissions:",
+    "ROLE_CREATED": "สร้างที่:",
+    "ROLE_FOOTER": "การร้องขอจาก {{MEMBER}} | รหัสบทบาท: {{ID}}"
+}

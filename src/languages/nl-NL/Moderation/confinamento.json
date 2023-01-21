@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "trancar um canal por um determinado tempo.",
+    "USAGE": "lockdown <time>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "lockdown <time>",
+    "EXAMPLE": "lockdown 1",
+    "CONFINAMENTO": "AANDACHT",
+    "CONFINAMENTO1": "Het kanaal",
+    "CONFINAMENTO2": "werd onder opsluiting geplaatst voor",
+    "CONFINAMENTO3": "De opsluiting van het kanaal",
+    "CONFINAMENTO4": "is ingetrokken."
+}

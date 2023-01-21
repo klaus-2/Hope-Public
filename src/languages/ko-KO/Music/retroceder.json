@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "플레이어를 지정된 값만큼 되감습니다.",
+    "USAGE": "되감기 <time>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "되감기 <시간",
+    "EXAMPLE": "되감기 1시 | 되감기 1시 32시",
+    "RETROCEDER": "노래의 길이는 0초 미만일 수 없습니다.",
+    "RETROCEDER1": "되감기",
+    "RETROCEDER2": "에:",
+    "RETROCEDER3": "잘못된 형식의 시간"
+}

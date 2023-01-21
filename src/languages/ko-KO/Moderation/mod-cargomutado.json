@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "이 서버에 대한 Hope의 자동 위치를 설정합니다.",
+    "USAGE": "모드 음소총 <newRoleID>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "모드 뮤트드로 <newRoleID>",
+    "EXAMPLE": "모드 채널 865493021377",
+    "MOD_CARGOMUTADO": "설정: `Server`",
+    "MOD_CARGOMUTADO1": "<:v_:855859391835799582>O '자동 역할'이 성공적으로 업데이트되었습니다.",
+    "MOD_CARGOMUTADO2": "자동 역할",
+    "MOD_CARGOMUTADO3": "에서 변경됨"
+}

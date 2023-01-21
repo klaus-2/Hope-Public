@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "播放队列的前一行。",
+    "USAGE": "返回\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "背部",
+    "EXAMPLE": "返回 | 上一页 | 上一页"
+}

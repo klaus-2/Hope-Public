@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "activar o desactivar una categoría de comandos.",
+    "USAGE": "comandos <category>\\n💡**Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "comandos <category>",
+    "EXAMPLE": "comandos de música",
+    "COMANDOS": "Lista de categorías de comandos de Hope",
+    "COMANDOS1": "Categorías disponibles: `{{default}}`.",
+    "COMANDOS2": "Categorías activas: `{{active}}`.",
+    "COMANDOS3": "¡Hola! He añadido la categoría de comandos: **{{addons}}** en este servidor.",
+    "COMANDOS4": "¡Hola! He deshabilitado la categoría de comandos: **{{addons}}** en este servidor.",
+    "COMANDOS5": "Lo siento, pero esta no es una categoría de comandos existente."
+}

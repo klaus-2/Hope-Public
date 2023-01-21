@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "crea un invito a questo server.",
+    "USAGE": "invite [temp]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "invito [temp]",
+    "EXAMPLE": "invito",
+    "CONVITE": "Richiesto da:",
+    "CONVITE1": "Un invito a questo server è stato generato con successo!"
+}

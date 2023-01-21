@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Tranca um canal.",
+    "USAGE": "trancar\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "trancar",
+    "EXAMPLE": "trancar",
+    "TRANCAR": "🔒 <#{{channel}}> foi trancado.",
+    "TRANCAR1": "ATENÇÃO",
+    "TRANCAR_PERMISSÃO": "Você não tem permissão para fazer isto."
+}

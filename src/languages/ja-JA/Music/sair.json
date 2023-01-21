@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "ボットを音声チャネルから切断します。",
+    "USAGE": "dc\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "DC",
+    "EXAMPLE": "DC"
+}

@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Genera un código para canjearlo.",
+    "USAGE": "generatecode <month | year>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "generar código <month | year>",
+    "EXAMPLE": "ggeneratecode más",
+    "NOVO_PREMIUM": "mes",
+    "NOVO_PREMIUM1": "año",
+    "NOVO_PREMIUM2": "¡Proporciona un plan!",
+    "NOVO_PREMIUM3": "Generado",
+    "NOVO_PREMIUM4": "Código (s) premium",
+    "NOVO_PREMIUM5": "Tipo:",
+    "NOVO_PREMIUM6": "Caduca:"
+}

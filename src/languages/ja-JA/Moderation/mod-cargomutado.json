@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "このサーバーのHopeの自動位置を設定します。",
+    "USAGE": "mod-mutedrole <newRoleID>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "mod-mutedrole <newRoleID>",
+    "EXAMPLE": "MODチャンネル 865493021377",
+    "MOD_CARGOMUTADO": "設定:`サーバー`",
+    "MOD_CARGOMUTADO1": "<: v_: 855859391835799582> O `auto role` が正常に更新されました。",
+    "MOD_CARGOMUTADO2": "自動ロール",
+    "MOD_CARGOMUTADO3": "から変更されました"
+}

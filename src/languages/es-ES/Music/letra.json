@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "obtener la letra de la canción.",
+    "USAGE": "letras [song]\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "letras [song]",
+    "EXAMPLE": "anclaje de letras - novo amor",
+    "LETRA": "Estoy buscando la letra, espera <:SkyeDetetive: 823259704443535450>",
+    "LETRA1": "No se han encontrado letras"
+}

@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Edita um sorteio ativo。",
+    "USAGE": "g-编辑 <messageID> <AddedTime> <newWinnerCount> <NewPrize>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "g-删除 <messageID>",
+    "EXAMPLE": "g-删除 81882143625255895612",
+    "EDIT_GIVEAWAY": "<: v_: 855859391835799582> 成功！赠品将在不到 {{time}} 秒的时间内更新。",
+    "INCORRECT_WINNER_COUNT": "嘿，获胜者人数应该是 0-100 之间的数字。\n 嘘... 是的我不会告诉任何人，我保证 🤞"
+}

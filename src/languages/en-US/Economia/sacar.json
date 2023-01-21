@@ -1,0 +1,23 @@
+{
+    "DESCRIPTION": "Withdraw money directly from your bank account.",
+    "USAGE": "withdraw <value> | [all]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "withdraw <value> | [all]",
+    "EXAMPLE": "withdraw 5000 | withdraw all",
+    "SACAR": "all",
+    "SACAR1": "<:cancel:855859391709577266> **You have no money to draw!**",
+    "SACAR2": "<:v_:855859391835799582> You withdrew all your money from your bank account. <:SkyeTimida:823046655632211989> Beware of being robbed!",
+    "SACAR3": "<:cancel:855859391709577266> Specify an amount to withdraw!",
+    "SACAR4": "<:cancel:855859391709577266> Your value is not a number!",
+    "SACAR5": "<:cancel:855859391709577266> You cannot withdraw negative money!",
+    "SACAR6": "<:cancel:855859391709577266> You don't have much money in the bank! `use {{prefix}}balance` to find out how much you own.",
+    "SACAR7": "You got it",
+    "SACAR8": "skcoins from your bank account!",
+    "SACAR9": "vou do not have enough money in your bank to proceed with this transaction.",
+    "SACAR10": "You only have **R$",
+    "SACAR11": "skcoins** on your account.\nStill left **$",
+    "SACAR12": "skcoins** to complete the transaction.\n(**Remember there is a 5% Transaction Fee included**)",
+    "SACAR13": "To withdraw all your money at once, please type",
+    "SACAR14": "draw all",
+    "SACAR15": "you cannot withdraw this large amount of money! \n(You can only have up to 50 thousand skcoins in your wallet, for security).",
+    "SACAR16": "(**+5% transaction fee included**)."
+}

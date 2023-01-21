@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Écoutez une radio.",
+    "USAGE": "radio <query>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "radio <query>",
+    "EXAMPLE": "radio hunter | radio bbc",
+    "RADIO": "Aucune radio trouvée avec ce nom",
+    "RADIO1": "Résultats pour",
+    "RADIO2": "Choisissez un numéro entre 1-10 ou annulez.",
+    "RADIO3": "Vous n'avez pas choisi de chanson à temps.",
+    "RADIO4": "annuler",
+    "RADIO5": "Le nombre que vous avez fourni était trop petit ou trop grand (1-{{max}}).",
+    "RADIO6": "Ajouté à la file d'attente :",
+    "RADIO7": "Sélection annulée."
+}

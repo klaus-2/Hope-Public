@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "mostrar informações de uma partida no League of Legends.",
+    "USAGE": "ingame <nick>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "ingame <nick>",
+    "EXAMPLE": "ingame esA",
+    "INGAME": "<:SkyeObservando:823223048060534833> Oii! aguarde um pouquinho, estou reunindo todas informações.",
+    "INGAME1": "Invocador não encontrado",
+    "INGAME2": "br",
+    "INGAME3": "Time azul",
+    "INGAME4": "Time vermemlho",
+    "INGAME5": "Oops, dei uma boa procurada aqui e descobri que {{nom}} não está em nenhuma partida no momento 😕"
+}

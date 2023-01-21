@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "send a DM to a user.",
+    "USAGE": "dm <user> <message>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "dev <message>",
+    "EXAMPLE": "dm @User Hello",
+    "DM": "Hello",
+    "DM1": "you received a message from the server:",
+    "DM2": "Submitted by:",
+    "DM3": "Subject:",
+    "DM4": "This message was sent using the Hope bot, if you suspect abuse, please report it using the",
+    "DM5": "on the server",
+    "DM6": "Successfully sent DM to <@{{member}}>"
+}

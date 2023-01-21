@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Wyświetla wynik na poziomie serwera.",
+    "USAGE": "ranga\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "ranga",
+    "EXAMPLE": "ranga UserID | lb @mention | nazwa użytkownika tablicy wyników",
+    "LVL_RANK": "Serwer ",
+    "LVL_RANK1": "Poziom:",
+    "LEADERBOARD_TITLE": "Ranking de Níveis — Hope 👸",
+    "LEADERBOARD_FIELDT": "Nie znaleziono danych",
+    "LEADERBOARD_FIELDDESC": "Wpisz czat, aby zdobyć doświadczenie."
+}

@@ -1,0 +1,23 @@
+{
+    "DESCRIPTION": "Display the largest rank of a user in the League of Legends.",
+    "USAGE": "elo <nick>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "elo <nick>",
+    "EXAMPLE": "elo yassuo",
+    "ELO": "is currently at level",
+    "ELO1": "Elo",
+    "ELO2": "W/L",
+    "ELO3": "Win Rate",
+    "ELO4": "LP",
+    "ELO5": "na1",
+    "ELO6": "GRANDMASTER",
+    "ELO7": "BRONZE",
+    "ELO8": "IRON",
+    "ELO9": "SILVER",
+    "ELO10": "GOLD",
+    "ELO11": "PLATINUM",
+    "ELO12": "DIAMOND",
+    "ELO13": "MASTER",
+    "ELO14": "CHALLENGER",
+    "ELO15": "League of Legends Profile",
+    "ELO16": "Foi mal, mas esse invocador não existe.\nVerifique se escreveu o nome corretamente e tente outra vez."
+}

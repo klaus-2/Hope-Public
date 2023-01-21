@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Flashes dla użytkownika.",
+    "USAGE": "wiatr <user>",
+    "USAGEE": "wiatr <user>",
+    "PISCAR_DESCRIÇÃO": "<@{{author}}> flashed!",
+    "PISCAR_DESCRIÇÃO1": "wgrany do"
+}

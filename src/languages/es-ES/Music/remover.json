@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "quitar una canción de la cola.",
+    "USAGE": "remove <position> [position]\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "eliminar <position> [position]",
+    "EXAMPLE": "eliminar 3 | eliminar 3 7",
+    "REMOVER": "No puedes quitar una canción que ya se está reproduciendo. Para eliminar la canción que se está reproduciendo actualmente: `{{prefix}}skip`",
+    "REMOVER1": "No pude encontrar esa canción.",
+    "REMOVER2": "Se ha eliminado **{{title}}** de la cola.",
+    "REMOVER3": "El valor final debe ser mayor que el valor inicial.",
+    "REMOVER4": "Eliminado",
+    "REMOVER5": "canciones en la cola.",
+    "REMOVER6": "Número no válido."
+}

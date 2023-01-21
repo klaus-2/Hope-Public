@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Régler la vitesse de lecture du lecteur.",
+    "USAGE": "speed <value>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "vitesse <value>",
+    "EXAMPLE": "vitesse 4",
+    "ON_SPD": "Mise à jour de la vitesse de lecture. Cela peut prendre quelques secondes...",
+    "VELOCIDADE": "La vitesse a été changée en {{num}}"
+}

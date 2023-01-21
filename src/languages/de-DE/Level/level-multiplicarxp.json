@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Hope automatische Gebühr für diesen Server einrichten.",
+    "USAGE": "level-multiplicarxp <0-1000>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "level-multiplyxp <0-1000>",
+    "EXAMPLE": "level-multiplyxp 2",
+    "LVL_XPMULT": "Einstellungen: `Level`",
+    "LVL_XPMULT1": "<:v_:855859391835799582>Die Konfiguration von `level` wurde erfolgreich aktualisiert.",
+    "LVL_XPMULT2": "Level Einstellung",
+    "LVL_XPMULT3": "Multiplikator geändert von"
+}

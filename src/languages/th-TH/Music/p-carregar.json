@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Load a playlist",
+    "USAGE": "p-load <playlist name>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "p-load <playlist name>",
+    "EXAMPLE": "p-load Test",
+    "P_CARREGAR": "โหลดเพลย์ลิสต์ (อาจใช้เวลาสักครู่)...",
+    "P_CARREGAR1": "เข้าคิว",
+    "P_CARREGAR2": "เพลง** จาก",
+    "P_CARREGAR3": "ไม่พบเพลย์ลิสต์"
+}

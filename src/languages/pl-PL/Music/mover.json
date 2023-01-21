@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "przenieść określony numer utworu do określonej pozycji.",
+    "USAGE": "move <music position> <new position>\n💡 **Przyklad**: {{EXAMPLE}}",
+    "USAGEE": "przesuń <music position> <new position>",
+    "EXAMPLE": "przenieść 4 8",
+    "MOVER": "Nie można przenieść utworu, który jest już odtwarzany. Aby pominąć bieżący typ utworu odtwarzanego: `{{prefix}}pomiń”",
+    "MOVER1": "Nie znaleziono piosenki.",
+    "MOVER2": "Yayy! Przeniesiono **{{title}}** na początek kolejki.",
+    "MOVER3": "przeprowadził się",
+    "MOVER4": "do pozycji",
+    "MOVER5": "z kolejki.",
+    "MUSICA6": "Nieprawidłowy numer."
+}

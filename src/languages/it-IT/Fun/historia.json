@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "per ottenere un fatto storico della giornata di oggi.",
+    "USAGE": "storia\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "cronologia",
+    "EXAMPLE": "cronologia",
+    "FHIST_DESC": "Fatto storico su oggi - Fonte: wikipedia.org",
+    "FHIST_DESC1": "Siamo spiacenti, l'API non funziona al momento!",
+    "FHIST_DESC2": "Anno:"
+}

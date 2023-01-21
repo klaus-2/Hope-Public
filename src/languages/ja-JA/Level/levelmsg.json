@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "このサーバーの Hope 自動課金を設定します。",
+    "USAGE": "levelmsg <message>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "levelmsg <message>",
+    "EXAMPLE": "levelmsg GG {user}, you advanced to Level {Level}!",
+    "LVL_MSG": "設定: `Level`",
+    "LVL_MSG1": "<: v_: 855859391835799582> `level` の設定が正常に更新されました。",
+    "LVL_MSG2": "レベル設定",
+    "LVL_MSG3": "mensagemはから変わった"
+}

@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "wymazuje wszystkie wiadomości z kanału jednocześnie.",
+    "USAGE": "nuke\n💡 **Przykład: {{EXAMPLE}}",
+    "USAGEE": "nuke",
+    "EXAMPLE": "nuke",
+    "LIMPAR": "Tego kanału nie można wyczyścić! Co ty sobie myślisz?",
+    "LIMPAR1": "BAM! <#{{channel}}> **został wyczyszczony.**"
+}

@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "在服务器上提供自动回复列表",
+    "USAGE": "自动响应列表\n💡**示例**: {{EXAMPLE}}",
+    "USAGEE": "自动响应列表",
+    "EXAMPLE": "自动响应列表",
+    "LISTA_RESPOSTA": "<:cancel:855859391709577266> 当前公会没有自定义命令！",
+    "LISTA_RESPOSTA1": "自定义命令",
+    "LISTA_RESPOSTA2": "当前公会没有自定义命令！"
+}

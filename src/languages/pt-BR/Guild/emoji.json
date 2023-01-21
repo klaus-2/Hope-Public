@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Exibe a lista dos emotes deste servidor.",
+    "USAGE": "emoji\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "emoji",
+    "EXAMPLE": "emoji",
+    "EMOJI": "<:SkyeChoro1:823047534498938880> não há nenhum emoji neste servidor.",
+    "EMOJI1": "Lista de emojis de {{guild}}",
+    "EMOJI2": "Pagina",
+    "EMOJI3": "de",
+    "EMOJI4": "total de",
+    "EMOJI5": "emojis",
+    "EMOJI6": "O seu tempo expirou."
+}

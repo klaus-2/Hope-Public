@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "이모티콘의 크기를 확대합니다.",
+    "USAGE": "이줌 <emoji>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "이줌 <emoji>",
+    "EXAMPLE": "이줌 <:스카이타임다:823046655632211989>",
+    "EZOOM_DESC": "확장된 버전 {{emoji}}"
+}

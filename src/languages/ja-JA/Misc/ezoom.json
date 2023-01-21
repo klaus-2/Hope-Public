@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "絵文字のサイズを拡大します。",
+    "USAGE": "ezoom <emoji>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "ezoom <emoji>",
+    "EXAMPLE": "ezoom <: Hopetimida: 823046655632211989>",
+    "EZOOM_DESC": "{{emoji}}の拡張版"
+}

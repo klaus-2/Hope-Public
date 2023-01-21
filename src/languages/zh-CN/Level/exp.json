@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "显示你的评分/等级。",
+    "USAGE": "exp [user]\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "exp [user]",
+    "EXAMPLE": "exp @Hope",
+    "NO_MESSAGES": "你还没有排名。先发送一些消息，然后再试一次。"
+}

@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Establece el canal de sugerencias de la base de datos.",
+    "USAGE": "set-suggestions\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "sugerencias de set",
+    "EXAMPLE": "sugerencias de set",
+    "SETAR_SUGESTÕES": "El canal de sugerencias se definió en <{{channel}}>",
+    "SETAR_SUGESTÕES1": "El canal de sugerencias se ha restablecido y desactivado."
+}

@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Créer un salon textuel.",
+    "USAGE": "create-channel <name>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "créer un canal <name>",
+    "EXAMPLE": "test de create-channel"
+}

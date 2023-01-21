@@ -1,0 +1,4 @@
+{
+    "DESCRIPTION": "Genera un invito al server in questione.",
+    "USAGE": "seiyuu <nome>"
+}

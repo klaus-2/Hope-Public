@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "운하 운하 포 음 결정된 템포.",
+    "USAGE": "잠금 <time>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "잠금 <time>",
+    "EXAMPLE": "잠금 1",
+    "CONFINAMENTO": "주의",
+    "CONFINAMENTO1": "더 채널",
+    "CONFINAMENTO2": "에 대한 감금 아래에 놓여졌다.",
+    "CONFINAMENTO3": "채널의 감금",
+    "CONFINAMENTO4": "이 (가) 취소되었습니다."
+}

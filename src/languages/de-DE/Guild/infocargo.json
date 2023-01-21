@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Erhalte Informationen über eine Rolle.",
+    "USAGE": "roleinfo <role>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "roleinfo <role>",
+    "EXAMPLE": "roleinfo @role",
+    "ROLE_NAME": "Rolle | {{roleName}}",
+    "ROLE_MEMBERS": "Mitglieder:",
+    "ROLE_COLOR": "Farbe:",
+    "ROLE_POSITION": "Position:",
+    "ROLE_MENTION": "Erwähnung:",
+    "ROLE_HOISTED": "Geistert:",
+    "ROLE_MENTIONABLE": "Erwähnbar:",
+    "ROLE_PERMISSION": "Schlüsselberechtigungen:",
+    "ROLE_CREATED": "Erstellt am:",
+    "ROLE_FOOTER": "Angefordert von {{MEMBER}} | Rollen-ID: {{ID}}"
+}

@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "取消用户静音。",
+    "USAGE": "取消静音 <user> \n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "取消静音 <user>",
+    "EXAMPLE": "取消静音 Hope"
+}

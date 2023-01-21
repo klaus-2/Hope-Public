@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "보안 암호를 생성합니다.",
+    "USAGE": "비밀번호\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "암호",
+    "EXAMPLE": "암호",
+    "ESENHA_DESC": "확실치 않다",
+    "ESENHA_DESC1": "매우 안전하다",
+    "ESENHA_DESC2": "보험",
+    "ESENHA_DESC3": "스카이 비밀번호 생성기",
+    "ESENHA_DESC4": "비밀번호",
+    "ESENHA_DESC5": "길이",
+    "ESENHA_DESC6": "보안 수준",
+    "ESENHA_DESC7": "참고 - 비밀번호는 절대 저희 측에 저장되지 않습니다!",
+    "ESENHA_DESC8": "🚫 암호를 보내지 못했습니다!",
+    "ESENHA_DESC9": "DM을 보낼 수 없어요!쪽지를 허용하도록 이 서버의 개인 정보 설정을 변경하여 문제를 해결하십시오!"
+}

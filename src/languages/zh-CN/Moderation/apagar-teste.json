@@ -1,0 +1,4 @@
+{
+    "DESCRIPTION": "清除一定数量的消息。",
+    "USAGE": "清除 <Number> [member]"
+}

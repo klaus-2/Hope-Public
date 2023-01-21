@@ -1,0 +1,18 @@
+{
+    "DESCRIPTION": "Hiermee wordt de lijst met aankomende animaties weergegeven.",
+    "USAGE": "nextani\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "nextani",
+    "EXAMPLE": "nextani | pa tv | p-animes ona | proximos-animes eicellen | p-animes film | pa special | aankomende -",
+    "APROX_DESC": "Volgende zoeken",
+    "APROX_DESC1": "anime van",
+    "APROX_DESC2": "Reactiefout",
+    "APROX_DESC3": "**{{member}}**, Er is een onverwachte fout opgetreden!\n\n",
+    "APROX_DESC4": "MyAnimeList reageerde met foutcode {{status}}",
+    "APROX_DESC5": "Volgende anime-lijst",
+    "APROX_DESC6": "Genre:",
+    "APROX_DESC7": "ALLEMAAL",
+    "APROX_DESC8": "bevelen geven",
+    "APROX_DESC9": "Pagina",
+    "APROX_DESC10": "van",
+    "APROX_DESC11": "Nog geen synopsis."
+}

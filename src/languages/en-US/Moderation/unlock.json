@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "unlock a channel.",
+    "USAGE": "unlock\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "unlock",
+    "EXAMPLE": "unlock",
+    "DESTRANCAR": "🔓 The channel <#{{channel}}> was unlocked.",
+    "DESTRANCAR1": "ATTENTION"
+}

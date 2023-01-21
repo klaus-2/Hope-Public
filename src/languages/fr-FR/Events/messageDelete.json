@@ -1,0 +1,11 @@
+{
+    "MESSAGE_DELETE": "Le message de",
+    "MESSAGE_DELETE1": "a été supprimé dans",
+    "MESSAGE_DELETE2": "ID de l'auteur:",
+    "MESSAGE_DELETE3": "ID du message :",
+    "MESSAGE_DELETE4": "[ÉVÉNEMENT — MESSAGE SUPPRIME]",
+    "MESSAGE_DELETE5": "Contenus",
+    "MESSAGE_DELETE6": "(raccourci)",
+    "MESSAGE_DELETE7": "*vide*",
+    "MESSAGE_DELETE8": "Fichiers joints"
+}

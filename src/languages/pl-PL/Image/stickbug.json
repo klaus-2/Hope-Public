@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Utwórz meme stickbug.",
+    "USAGE": "stickbug [user] | [file]\n💡 **Przykład: {{EXAMPLE}}",
+    "USAGEE": "stickbug [user] | [file]",
+    "EXAMPLE": "stickbug użytkownik | stickbug <attachment>"
+}

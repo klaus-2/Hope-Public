@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Maak een nep bericht van Clyde.",
+    "USAGE": "clyde <text>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "clyde <text>",
+    "EXAMPLE": "clyde Hope is de beste bot ter wereld <3"
+}

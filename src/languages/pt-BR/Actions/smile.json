@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Sorria para um usuario.",
+    "USAGE": "sorrir [user]\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "sorrir [user]",
+    "EXAMPLE": "sorrir @Hope",
+    "SORRIR_DESCRIÇÃO": "<@{{author}}> está sorrindo!",  
+    "SORRIR_DESCRIÇÃO1": "<@{{author}}> sorrir!",    
+    "SORRIR_DESCRIÇÃO2": "eu dou um sorriso de volta", 
+    "SORRIR_DESCRIÇÃO3": "sorrir para"
+}

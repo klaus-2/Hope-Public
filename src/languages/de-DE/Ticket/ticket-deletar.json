@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "ein Ticket schließen.",
+    "USAGE": "t-Löschen\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "-löschen",
+    "EXAMPLE": "-löschen",
+    "TICKET": "Dieses Ticket wird in **10** Sekunden gelöscht."
+}

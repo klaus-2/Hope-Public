@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Stel Hope automatisch opladen in voor deze server.",
+    "USAGE": "level-multiplicarxp <0-1000>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "level-multiplyxp <0-1000>",
+    "EXAMPLE": "level-multiplyxp 2",
+    "LVL_XPMULT": "Instellingen: `Level`",
+    "LVL_XPMULT1": "<:v_:855859391835799582>De configuratie van `level` is succesvol bijgewerkt.",
+    "LVL_XPMULT2": "Niveau instelling",
+    "LVL_XPMULT3": "Multiplier veranderd van"
+}

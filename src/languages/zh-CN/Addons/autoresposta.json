@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "创建一个没有前缀的自动响应！",
+    "USAGE": "自动响应 <command> <response>\n💡**示例**: {{EXAMPLE}}",
+    "USAGEE": "autoresponse <command> <response>",
+    "EXAMPLE": "autoresponse hi Hello!",
+    "AUTO_RESPOSTA": "<:cancel:855859391709577266> 您的自动回复名称高于30个字符！",
+    "AUTO_RESPOSTA1": "<:cancel:855859391709577266> 你的自动回复内容长度超过2000个字符！",
+    "AUTO_RESPOSTA2": "<:cancel:855859391709577266> 自动响应限制已达**(10)**\n\n[在这里升级高级版以获得无限命令]({{config}})",
+    "AUTO_RESPOSTA3": "添加自动响应：",
+    "AUTO_RESPOSTA4": "删除以下自动响应：",
+    "AUTO_RESPOSTA5": "deleteresponse <autoresponse-name>",
+    "AUTO_RESPOSTA6": "以下是已经存在的命令！"
+}

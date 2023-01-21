@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "원하는 GIF를 생성합니다.",
+    "USAGE": "gif <theme>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "GIF <theme>",
+    "EXAMPLE": "GIF를 손오공"
+}

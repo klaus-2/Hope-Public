@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Gere um meme de anime aleatório.",
+    "USAGE": "memes\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "memes",
+    "EXAMPLE": "memes | animeme | ameme | animememe",
+    "AMEMES_DESC": "Falha em"
+}

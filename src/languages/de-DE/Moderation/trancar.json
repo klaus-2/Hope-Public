@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Sperre einen Kanal.",
+    "USAGE": "sperren\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "sperren",
+    "EXAMPLE": "sperren",
+    "TRANCAR": "🔒 <#{{channel}}> wurde gesperrt.",
+    "TRANCAR1": "ACHTUNG",
+    "TRANCAR_PERMISSÃO": "Sie sind nicht berechtigt, dies zu tun."
+}

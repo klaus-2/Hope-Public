@@ -1,0 +1,16 @@
+// Dependencies
+const Event = require('../../structures/Event');
+
+module.exports = class ticketClose extends Event {
+	constructor(...args) {
+		super(...args, {
+			dirname: __dirname,
+			child: 'giveawaysManager',
+		});
+	}
+
+	// Exec event
+	async run(bot, giveaway, member, reaction) {
+		if (bot.config.debug) bot.logger.debug(`member: ${member.user.id} added reaction ${reaction._emoji.name} to giveaway`);
+	}
+};

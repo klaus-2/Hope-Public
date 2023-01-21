@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Define a velocidade de reprodução do player.",
+    "USAGE": "velocidade <valor>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "velocidade <valor>",
+    "EXAMPLE": "velocidade 4",
+    "ON_SPD": "Atualizando a velocidade de reprodução. Isso pode demorar alguns segundos...",
+    "VELOCIDADE": "A velocidade foi alterada para {{num}}"
+}

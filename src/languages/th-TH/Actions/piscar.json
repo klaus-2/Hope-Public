@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Flashes for a user.",
+    "USAGE": "wink <user>",
+    "USAGEE": "wink <user>",
+    "PISCAR_DESCRIÇÃO": "<@{{author}}> ประกาย!", 
+    "PISCAR_DESCRIÇÃO1": "กระพริบไป"
+}

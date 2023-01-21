@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Atualiza o añade registros de trozos.",
+    "USAGE": "logs <option> [data]\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "registros <option> [data]",
+    "LOG": "A continuación se muestra la lista de registros disponibles de cada categoría.\n\nPuede hacer clic en los botones siguientes para activar todos los registros de esa categoría o, si lo prefiere, puede utilizar los siguientes comandos para configurarlos manualmente.\n\n__Habilitar/deshabilitar un evento:__\n__Establecer el canal de registros en Registro de moderación:__\n`{{prefix}}`**registros modchannel <channel>**\n__ Establezca el canal de registros en Eventos del servidor:__\n`{{prefix}}`**registra serverchannel <channel>**\n`{{prefix}}`**registra memberchannel <channel>**\n__Establecer el canal Registros en Eventos de Mensajes:__\n`{{prefix}}`**registros msgchannel <channel>**\n",
+    "LOG1": "Aún no se ha definido",
+    "LOG2": "enable",
+    "LOG3": "disable"
+}

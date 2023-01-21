@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Fornece uma lista de respostas automáticas no servidor",
+    "USAGE": "autoresposta-lista\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "autoresposta-lista",
+    "EXAMPLE": "autoresposta-lista",
+    "LISTA_RESPOSTA": "<:cancel:855859391709577266> Este servidor não possui nenhuma Auto-Resposta!",
+	"LISTA_RESPOSTA1": "Auto-Respostas",
+	"LISTA_RESPOSTA2": "Este servidor não possui nenhuma Auto-Resposta!"
+}

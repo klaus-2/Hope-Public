@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Stort een bedrag van de Economy add-on op je bankrekening.",
+    "USAGE": "borg <value>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "aanbetaling <value>",
+    "EXAMPLE": "aanbetaling 5000",
+    "DEPOSITAR": "allemaal",
+    "DEPOSITAR1": "<:cancel:855859391709577266> Je hebt geen geld te storten",
+    "DEPOSITAR2": "<:v_:855859391835799582> Je hebt al je munten op je bank gestort",
+    "DEPOSITAR3": "<:cancel:855859391709577266> Geef een bedrag op om te storten",
+    "DEPOSITAR4": "<:cancel:855859391709577266> Uw waarde is geen getal!",
+    "DEPOSITAR5": "<:cancel:855859391709577266> Je kunt geen negatief geld storten",
+    "DEPOSITAR6": "je hebt dat bedrag niet beschikbaar om in je bank te storten.",
+    "DEPOSITAR7": "<:v_:855859391835799582> Je hebt gestort",
+    "DEPOSITAR8": "skcoins naar je bankrekening"
+}

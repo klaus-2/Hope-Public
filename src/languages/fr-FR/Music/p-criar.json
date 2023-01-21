@@ -1,0 +1,17 @@
+{
+    "DESCRIPTION": "Créer une playlist",
+    "USAGE": "p-create <playlist name> <search term/link>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "p-create <playlist name> <search term/link>",
+    "EXAMPLE": "lien de test p-create",
+    "P_CRIAR": "Le titre de la playlist doit contenir moins de 32 caractères !",
+    "P_CRIAR1": "Ajout de(s) musique(s) à votre playlist (Cela peut prendre quelques secondes)...",
+    "P_CRIAR2": "Premium vous permet d'économiser jusqu'à 3 playlists au lieu de 1.",
+    "P_CRIAR3": "Vous ne pouvez plus enregistrer de playlists. Max: 3",
+    "P_CRIAR4": "Une playlist existe déjà avec ce nom.",
+    "P_CRIAR5": "A créé une playlist avec le nom :",
+    "P_CRIAR6": "Durée de la playlist :",
+    "P_CRIAR7": "Ajouté",
+    "P_CRIAR8": "pistes) à",
+    "P_CRIAR9": "Chansons :",
+    "P_CRIAR10": "n'est pas une playlist"
+}

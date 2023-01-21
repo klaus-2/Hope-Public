@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Set's the guild's apply Logs",
+    "USAGE": "applylog <enable #channel | disable>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "applylog <enable #channel | disable>",
+    "EXAMPLE": "applylog enable #test"
+}

@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Define o canal de sugestões no banco de dados.",
+    "USAGE": "setar-sugestões\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "setar-sugestões",
+    "EXAMPLE": "setar-sugestões",
+    "SETAR_SUGESTÕES": "O canal de sugestões foi definido em <#{{channel}}>",
+    "SETAR_SUGESTÕES1": "O canal de sugestões foi redefinido e desativado."
+}

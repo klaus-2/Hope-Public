@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Konfiguriert das Auto-Message Addon.",
+    "USAGE": "automatische Nachricht",
+    "USAGEE": "automatische Nachricht",
+    "EXAMPLE": "automatische Nachricht aktivieren\n💡**Exemplo**: {{EXAMPLE}}",
+    "MENSAGEM": "enable",
+    "MENSAGEM1": "Das Addon `Auto-Message` wurde erfolgreich aktiviert.",
+    "MENSAGEM2": "disable",
+    "MENSAGEM3": "Das Addon `Auto-Message` wurde erfolgreich deaktiviert.",
+    "MENSAGEM4": "channel",
+    "MENSAGEM5": "Der Addon-Kanal `Auto-Message` wurde erfolgreich auf <#{{channel}} > aktualisiert.",
+    "MENSAGEM6": "counter",
+    "MENSAGEM7": "Bitte geben Sie eine Nummer für den Nachrichtenzähler ein.",
+    "MENSAGEM8": "Der Zähler sollte zwischen 1-100 Nachrichten sein.",
+    "MENSAGEM9": "Der Nachrichtenzähler für das `Auto-Message` Addon wurde erfolgreich auf `{{amount}} ` aktualisiert.",
+    "MENSAGEM10": "message",
+    "MENSAGEM11": "Bitte melde eine Nachricht.",
+    "MENSAGEM12": "Der Zähler muss bis zu `2000` Zeichen enthalten.",
+    "MENSAGEM13": "Die Addon `Auto-Message` Nachricht wurde erfolgreich aktualisiert."
+}

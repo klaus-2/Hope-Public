@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Dodać bota użytkownika co mu mówić wstępnie zdefiniowany tekst przez ciebie.",
+    "USAGE": "klon <user> <message>\n💡 **Przyklad**: {{EXAMPLE}}",
+    "USAGEE": "klon <user> <message>",
+    "EXAMPLE": "klon @Hope test"
+}

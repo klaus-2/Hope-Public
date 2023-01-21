@@ -1,0 +1,23 @@
+{
+    "DESCRIPTION": "Geef de grootste rang van een gebruiker weer in de League of Legends.",
+    "USAGE": "elo <nick>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "elo <nick>",
+    "EXAMPLE": "elo yassuo",
+    "ELO": "is momenteel op niveau",
+    "ELO1": "Elo",
+    "ELO2": "W/L",
+    "ELO3": "Winstpercentage",
+    "ELO4": "LP",
+    "ELO5": "na1",
+    "ELO6": "GROOTMEESTER",
+    "ELO7": "BRONZEN",
+    "ELO8": "IJZER",
+    "ELO9": "ZILVER",
+    "ELO10": "GOUD",
+    "ELO11": "PLATINA",
+    "ELO12": "DIAMANT",
+    "ELO13": "MEESTER",
+    "ELO14": "UITDAGER",
+    "ELO15": "League of Legends Profiel",
+    "ELO16": "Sorry, maar er bestaat niet zoiets als een summoner.\nControleer of u de naam juist gespeld hebt en probeer het opnieuw."
+}

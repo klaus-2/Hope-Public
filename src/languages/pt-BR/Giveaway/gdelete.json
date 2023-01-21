@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Deleta um sorteio.",
+    "USAGE": "deletarsorteio <ID da mensagem>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "deletarsorteio <ID da mensagem>",
+    "EXAMPLE": "deletarsorteio 818821436255895612",
+    "SUCCESS_GIVEAWAY": "<:v_:855859391835799582> Sucesso!\nO Sorteio foi deletado!",
+    "UNKNOWN_GIVEAWAY": "Ixi! Não encontrei nenhum sorteio com o ID da mensagem: `{{message}}`, Por favor verifique e tente novamente, ok? Eu espero 😊"
+}

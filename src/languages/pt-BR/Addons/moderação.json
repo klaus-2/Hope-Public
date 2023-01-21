@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Ative ou desative o addon de moderação.",
+    "USAGE": "moderação <ativar | desativar>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "moderação <ativar | desativar>",
+    "EXAMPLE": "moderação ativar"
+}

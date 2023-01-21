@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Poke uytkownika.",
+    "USAGE": "pokój <user>",
+    "USAGEE": "pokój <user>",
+    "CUTUCAR_DESCRIÇÃO": "\\❌ **<@{{author}}>**, kto powinien puknąć?",
+    "CUTUCAR_DESCRIÇÃO1": "Jestem już tutaj! Potrzebujesz czegoś?",
+    "CUTUCAR_DESCRIÇÃO2": "\\❌ Nie zamierzam tego robić, **<@{{author}}>**!",
+    "CUTUCAR_DESCRIÇÃO3": "Pędzli"
+}

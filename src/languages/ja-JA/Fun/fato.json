@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "ランダムな事実を得る。",
+    "USAGE": "fact\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "事実",
+    "EXAMPLE": "事実",
+    "FFATO_DESC": "。/assets/json/random-facts-en.json",
+    "FACT_TITLE": "ランダムファクト:"
+}

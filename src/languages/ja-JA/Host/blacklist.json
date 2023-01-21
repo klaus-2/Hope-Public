@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "グローバル禁止リストを更新する",
+    "USAGE": "ブラックリスト <add / remove> <userID> [reason]",
+    "MISSING_USER": "ユーザー ID が正しくありません。",
+    "AUTHOR": "{{TAG}} はグローバルに禁止されました",
+    "DESC": "**理由:** {{REASON}}",
+    "ALRDY_BAN": "ユーザー: {{ID}} はすでに禁止されています。",
+    "SUCC_UNBAN": "ユーザーを正常に禁止解除しました。"
+}

@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Erstellt eine Bedrohungsmeme.",
+    "USAGE": "Bedrohungen [user] | [file]\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "Bedrohungen [user] | [file]",
+    "EXAMPLE": "Bedrohungen Benutzer | Bedrohungen <attachment>"
+}

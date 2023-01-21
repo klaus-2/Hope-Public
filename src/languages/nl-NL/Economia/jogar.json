@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Speel wat spelletjes om credits te verdienen.",
+    "USAGE": "game <game name>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "spel <game name>",
+    "EXAMPLE": "spel beul",
+    "JOGAR": "geef een van de onderstaande spellen aan die je wilt spelen.",
+    "JOGAR1": "is geen speelbaar spel. Kies een van de onderstaande opties:"
+}

@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "사용자를 금지합니다.",
+    "USAGE": "언반 <userID> [reason]\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "운반 <userID> [reason]",
+    "EXAMPLE": "운반 432567667533123 테스트"
+}

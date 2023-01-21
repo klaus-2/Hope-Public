@@ -1,0 +1,20 @@
+{
+    "VOICE_STATE_UPDATE": "からの音声",
+    "VOICE_STATE_UPDATE1": "サーバー上にあった",
+    "VOICE_STATE_UPDATE2": "国連",
+    "VOICE_STATE_UPDATE3": "チャンネルで聴覚が弱い",
+    "VOICE_STATE_UPDATE4": "ユーザー ID:",
+    "VOICE_STATE_UPDATE5": "[イベント — オーディオ]",
+    "VOICE_STATE_UPDATE6": "のマイク",
+    "VOICE_STATE_UPDATE7": "サーバー上にあった",
+    "VOICE_STATE_UPDATE8": "国連",
+    "VOICE_STATE_UPDATE9": "運河でミュートされた",
+    "VOICE_STATE_UPDATE10": "ユーザー ID:",
+    "VOICE_STATE_UPDATE11": "[イベント — マイク]",
+    "VOICE_STATE_UPDATE12": "始まった",
+    "VOICE_STATE_UPDATE13": "停止しました",
+    "VOICE_STATE_UPDATE14": "のブロードキャスト",
+    "VOICE_STATE_UPDATE15": "ユーザー ID:",
+    "VOICE_STATE_UPDATE16": "[イベント — ストリーミング]",
+    "VOICE_STATE_UPDATE17": "非アクティブのため、🔉 **{{vcName}}** を切断しました。 24時間365日音声チャンネルにいてほしい場合は、**`{{prefix}}`premium**でPremiumを取得することができます。"
+}

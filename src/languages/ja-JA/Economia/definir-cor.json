@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Economia カードの色を設定します。",
+    "USAGE": "setcolor <hex>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "setcolor <hex>",
+    "EXAMPLE": "setcolor #e567da",
+    "COR": "**<@{{author}}>**、色の有効な 16 進数を入力してください。\n[Googleカラーピッカー] (https://www.google.com/search?q=color+picker) に移動して、目的の16進数を取得できます。\nさらに、`default` と入力して色をデフォルトに戻すこともできます。",
+    "COR1": "プロフィールの色がに更新されました"
+}

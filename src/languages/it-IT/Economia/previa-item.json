@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Controlla cosa puoi acquistare dal negozio.",
+    "USAGE": "viewitem <id>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "viewitem <id>",
+    "EXAMPLE": "viewitem 23",
+    "PRE": "si prega di specificare il **ID elemento**!",
+    "PRE1": "Non ho trovato alcun elemento con questo **ID**! Controlla di aver inserito il **ID corretto** e riprova.",
+    "PRE2": "PREVISIONE DELL'ID PUNTO",
+    "PRE3": "Nome:",
+    "PRE4": "Tipo:",
+    "PRE5": "Prezzo:"
+}

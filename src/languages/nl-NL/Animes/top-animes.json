@@ -1,0 +1,21 @@
+{
+    "DESCRIPTION": "Zoek een van de beste anime op MyAnimeList.net of stuur een willekeurige anime terug.",
+    "USAGE": "anitop [number]\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "anitop",
+    "EXAMPLE": "anitop onze topanimes 5 van bestanime 50",
+    "ATOP_DESC": "Er is een zoeklimiet van maximaal 15",
+    "ATOP_DESC1": "Je kunt doujinshis niet zien op een sfw-kanaal! Ga naar een nsfw-kanaal om dit te zien.",
+    "ATOP_DESC2": "score",
+    "ATOP_DESC3": "Favorieten",
+    "ATOP_DESC4": "Verjaardag",
+    "ATOP_DESC5": "Afleveringen",
+    "ATOP_DESC6": "Volumes",
+    "ATOP_DESC7": "Animeografie",
+    "ATOP_DESC8": "Onbekend",
+    "ATOP_DESC9": "Leden",
+    "ATOP_DESC10": "Mangaografie",
+    "ATOP_DESC11": "Startdatum",
+    "ATOP_DESC12": "Einddatum",
+    "ATOP_DESC13": "Pagina",
+    "ATOP_DESC14": "van"
+}

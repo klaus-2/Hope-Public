@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Abilita o disabilita l'addon del ticket.",
+    "USAGE": "setticket <enable | disable>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "setticket <enable | disable>",
+    "EXAMPLE": "setticket abilitato"
+}

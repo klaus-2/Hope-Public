@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Delete a giveaway",
+    "USAGE": "g-delete <messageID>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "g-delete <messageID>",
+    "EXAMPLE": "g-delete 818821436255895612",
+    "SUCCESS_GIVEAWAY": "<:v_:855859391835799582> Success! Giveaway deleted!",
+    "UNKNOWN_GIVEAWAY": "No giveaway found with Message ID: `{{message}}`, please check and try again, ok? I wait 😊"
+}

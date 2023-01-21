@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "skonfiguruj wiadomość, która ma być wysłana do użytkownika w kanale podczas dołączania do serwera.",
+    "USAGE": "bv-message <message>\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "bv-wiadomość <message>",
+    "EXAMPLE": "bv-wiadomość Witam {user}, Witamy w **{server}**!",
+    "BV_MENSAGEM": "Komunikat <:v_:855859391835799582> Pomyślnie zaktualizowano do:"
+}

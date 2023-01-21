@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "역할에 대한 정보를 얻습니다.",
+    "USAGE": "롤인포 <role>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "롤인포 <role>",
+    "EXAMPLE": "롤인포 @role",
+    "ROLE_NAME": "역할 | {{roleName}}",
+    "ROLE_MEMBERS": "회원:",
+    "ROLE_COLOR": "색상:",
+    "ROLE_POSITION": "직책:",
+    "ROLE_MENTION": "언급:",
+    "ROLE_HOISTED": "호이스트:",
+    "ROLE_MENTIONABLE": "언급할 수 있는:",
+    "ROLE_PERMISSION": "키 권한:",
+    "ROLE_CREATED": "생성 위치:",
+    "ROLE_FOOTER": "요청자 {{MEMBER}} | 역할 ID: {{ID}}"
+}

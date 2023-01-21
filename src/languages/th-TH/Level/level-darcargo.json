@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Set up Hope auto role for this server.",
+    "USAGE": "level-giverole <new roleID>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "level-giverole <new roleID>",
+    "EXAMPLE": "level-giverole 328328777266673",
+    "LVL_CARGO": "`ไม่มีใคร`",
+    "LVL_CARGO1": "การตั้งค่า: `Level`",
+    "LVL_CARGO2": "<:v_:855859391835799582>O `auto role` ได้รับการปรับปรุงเสร็จเรียบร้อยแล้ว",
+    "LVL_CARGO3": "Auto role",
+    "LVL_CARGO4": "เปลี่ยนจาก"
+}

@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Pide limosna y recibe una pequeña cantidad de dinero.",
+    "USAGE": "Palms\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "limosna",
+    "EXAMPLE": "limosna",
+    "ESMOLA": "<:cancel:855859391709577266> ¿Alguna vez has suplicado recientemente",
+    "ESMOLA1": "Vuelve a suplicar en",
+    "ESMOLA2": "y",
+    "ESMOLA3": "<:v_:855859391835799582> Has rogado y recibido",
+    "ESMOLA4": "skcoins"
+}

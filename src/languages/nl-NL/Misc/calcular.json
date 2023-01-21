@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Bereken een wiskundige vergelijking.",
+    "USAGE": "rekenmachine\n💡 **Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "rekenmachine>",
+    "EXAMPLE": "rekenmachine",
+    "EQUAÇÃO": "- Hey! dat is geen geldige vergelijking... probeer het nog eens, alsjeblieft.",
+    "CALC": "Hallo, dit is de rekenmachine van Hope. Klik op onderstaande knoppen om je vergelijking te doen!",
+    "CALC1": "- Calculator uitgeschakeld"
+}

@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Ask for alms and receive a small amount of money.",
+    "USAGE": "alms\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "alms",
+    "EXAMPLE": "alms",
+    "ESMOLA": "<:cancel:855859391709577266> คุณเคยขอร้องเมื่อเร็ว ๆ นี้",
+    "ESMOLA1": "ขออีกครั้ง",
+    "ESMOLA2": "และ",
+    "ESMOLA3": "<:v_:855859391835799582> คุณขอร้องและรับ",
+    "ESMOLA4": "skcoins"
+}

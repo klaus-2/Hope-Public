@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "skonfiguruj prefiks Hope dla tego serwera.",
+    "USAGE": "prefiks <new prefix>\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "przedrostek <new prefix>",
+    "EXAMPLE": "prefiks!",
+    "PREFIXO": "<:Skyeola 1:823223308744130580 > Whoa! Niestety prefiks nie może być dłuższy niż 3 znaki.",
+    "PREFIXO1": "Ustawienia: `Server`",
+    "PREFIXO2": "<:v_:855859391835799582> Prefix` został pomyślnie zaktualizowany.",
+    "PREFIXO3": "Prefiks",
+    "PREFIXO4": "Zmieniono z"
+}

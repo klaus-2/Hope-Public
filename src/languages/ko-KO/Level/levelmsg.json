@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "이 서버에 대해 Hope 자동 충전을 설정합니다.",
+    "USAGE": "레벨 메시지 <message>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "레벨 메시지 <message>",
+    "EXAMPLE": "levelmsg GG {user}, you advanced to Level {Level}!",
+    "LVL_MSG": "설정: `레벨'",
+    "LVL_MSG1": "<:V_:855859391835799582>`레벨'의 구성이 성공적으로 업데이트되었습니다.",
+    "LVL_MSG2": "레벨 설정",
+    "LVL_MSG3": "멘사젬이"
+}

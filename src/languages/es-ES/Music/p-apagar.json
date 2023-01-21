@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Eliminar una lista de reproducción",
+    "USAGE": "p-delete <playlist name>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "p-eliminar <playlist name>",
+    "EXAMPLE": "p-delete Prueba",
+    "P_DEL": "No he podido encontrar una lista de reproducción con el nombre **{{name}}**.",
+    "P_DEL1": "Eliminado correctamente"
+}

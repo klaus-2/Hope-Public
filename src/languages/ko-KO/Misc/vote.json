@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "스카이에 투표할 수 있는 보트리스트 목록을 표시합니다.",
+    "USAGE": "vote\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "vote",
+    "EXAMPLE": "vote",
+    "VOTE": "스카이 투표 시스템",
+    "VOTE1": "아래 봇리스트 중 하나에 투표하십시오.",
+    "VOTE2": "[`지금 사용 가능!`] (https://top.gg/bot/839262056028176404/vote)",
+    "VOTE3": "인",
+    "VOTE4": "[`지금 사용 가능!`] (https://voidbots.net/bot/839262056028176404/vote)",
+    "VOTE5": "[`지금 사용 가능!`] (https://discordbotlist.com/bots/Hope-5284/upvote)",
+    "VOTE6": "__**리워드**__\n`12시간의 스카이 프리미엄`",
+    "VOTE7": "{{votes}} 번 투표했습니다."
+}

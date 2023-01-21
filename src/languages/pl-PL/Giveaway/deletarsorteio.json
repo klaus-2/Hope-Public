@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Usuwanie gratisów",
+    "USAGE": "g-delete <messageID>\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "g-delete <messageID>",
+    "EXAMPLE": "g-delete 818821436255895612",
+    "SUCCESS_GIVEAWAY": "<:v_:855859391835799582> Sukces! Prezenty usunięte!",
+    "UNKNOWN_GIVEAWAY": "Nie znaleziono gratisów z Message ID: `{{message}}`, sprawdź i spróbuj ponownie, ok? Czekam 😊"
+}

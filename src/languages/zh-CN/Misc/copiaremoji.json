@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "从另一台服务器复制表情符号并将其添加到服务器。",
+    "USAGE": "copyemoji <emoji>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "copyemoji <emoji>",
+    "EXAMPLE": "copyemoji <emoji>",
+    "ECOE_DESC": "表情符号成功添加到服务器！",
+    "ECOE_DESC1": "姓名：",
+    "ECOE_DESC2": "预览：[点击查看] ({{Link}})",
+    "EURL_DESC": "你好，",
+    "EMOJI_INVALIDO": "请提供有效的表情符号！",
+    "EMOJI_PADRÃO": "标准表情符号无法转换为下载。"
+}

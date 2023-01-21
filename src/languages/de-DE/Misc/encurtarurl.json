@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "verkürzen Sie die URL, die Sie einreichen.",
+    "USAGE": "shorturl <link>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "shorturl <link>",
+    "EXAMPLE": "kurz https://www.google.com",
+    "EURL_DESC": "Hallo,",
+    "EURL_DESC1": "Sie haben die verkürzte Version von",
+    "EURL_DESC2": "Hier ist:"
+}

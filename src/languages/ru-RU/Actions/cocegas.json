@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Отметить упомянутого пользователя.",
+    "USAGE": "флажок [user]",
+    "USAGEE": "флажок [user]",
+    "COCEGAS_DESCRIÇÃO": "Остановить <@{{author}}>! Заявки",
+    "COCEGAS_DESCRIÇÃO1": "\\❌ Отмечайте себя **<@{{author}}>**!",
+    "COCEGAS_DESCRIÇÃO2": "прикреплено"
+}

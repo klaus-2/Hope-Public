@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Set your region in the profile.",
+    "USAGE": "set-region <region>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "set-region <region>",
+    "EXAMPLE": "set-region us",
+    "REG": "Your region has been successfully updated to `United States of America`!",
+    "REG1": "Your region has been successfully updated to `Brazil`!"
+}

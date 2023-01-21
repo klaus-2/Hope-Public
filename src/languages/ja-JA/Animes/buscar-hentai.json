@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "特定のヘンタイについては hanime.tv に相談してください。最大 10 件の結果を返します。",
+    "USAGE": "hanime <name>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "ハニメ <anime>",
+    "EXAMPLE": "hanime | searchhentai mankitsu Happening | hanisearch dropout | hanime tamashii insert",
+    "AHENTAI_DESC": "の結果は見つかりませんでした",
+    "AHENTAI_DESC1": "[ページ]",
+    "AHENTAI_DESC2": "から",
+    "AHENTAI_DESC3": "コマンド",
+    "AHENTAI_DESC4": "発売日は",
+    "AHENTAI_DESC5": "ランク",
+    "AHENTAI_DESC6": "ダウンロード",
+    "AHENTAI_DESC7": "いいね",
+    "AHENTAI_DESC8": "興味",
+    "AHENTAI_DESC9": "[ビュー]",
+    "AHENTAI_DESC10": "ウォッチ",
+    "AHENTAI_DESC11": "非難した",
+    "AHENTAI_DESC12": "無修正",
+    "AHENTAI_DESC13": "に"
+}

@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Acene para alguém.",
+    "USAGE": "acenar [user]\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "acenar [user]",
+    "EXAMPLE": "acenar @Hope",
+    "ACENAR_DESCRIÇÃO1": "<@{{author}}> acenou!",
+    "ACENAR_DESCRIÇÃO2": "<@{{user}}> acenou de volta",
+    "ACENAR_DESCRIÇÃO3": " acenou para "
+}

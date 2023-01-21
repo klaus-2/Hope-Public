@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "afficher l'avatar de l'utilisateur",
+    "USAGE": "avatar [user]\n💡**Exemple** : {{EXAMPLE}}",
+    "USAGEE": "avatar [user]",
+    "EXAMPLE": "avatar userID | avatar @mention | avatar username",
+    "AVATAR_TITLE": "Avatar pour {{user}}",
+    "AVATAR_DESCRIPTION": "**Liens:**",
+    "FOTO": "Voici la photo demandée.",
+    "FOTO1": "**5 dernières photos précédentes :**"
+}

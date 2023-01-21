@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "verwijder een back-upcode.",
+    "USAGE": "e-backup-verwijder <code>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "e-backup-verwijder <code>",
+    "EXAMPLE": "e-back-ups verwijderen Cg267T",
+    "E_BACKUP_APAGAR": "Hallo, {{author}}",
+    "E_BACKUP_APAGAR1": ":x: | **back-up niet gevonden**",
+    "E_BACKUP_APAGAR2": "**De back-up is met succes verwijderd! ** ",
+    "E_BACKUP_APAGAR3": ":x: | **Deze back-up is niet gevonden. **"
+}

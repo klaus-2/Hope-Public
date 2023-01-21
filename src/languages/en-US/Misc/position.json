@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "show the login position of a user on the server.",
+    "USAGE": "position <user>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "position <user>",
+    "EXAMPLE": "position @Hope",
+    "EPOS_DESC": "Join position",
+    "EPOS_DESC1": "was the",
+    "EPOS_DESC2": "the user to come into"
+}

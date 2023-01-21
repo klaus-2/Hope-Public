@@ -1,0 +1,19 @@
+{
+    "DESCRIPTION": "Genera una imagen nsfw aleatoria mediante la consulta proporcionada. Escriba `ansfw list` para devolver todas las categorías disponibles para este comando.",
+    "USAGE": "anime-nsfw <category>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "lista anime-nsfw",
+    "EXAMPLE": "lista ansfw | ansfw blowjob | anime-nsfw classic",
+    "ANSFW_AUTHOR": "Booru aleatorio: NSFW",
+    "ANSFW_FIELD": "Carácter",
+    "ANSFW_FIELD1": "Derechos de autor",
+    "ANSFW_FIELD2": "Artista (s)",
+    "ANSFW_FIELD3": "Meta",
+    "ANSFW_FIELD4": "Uploader",
+    "ANSFW_FIELD5": "Etiquetas",
+    "ANSFW_FIELD6": "Etiquetas, Aleatorio, Imágenes, Hentai, Botín, reddit",
+    "ANSFW_AUTHOR1": "Categorías de comandos anime-nsfw.",
+    "ANSFW_FIELD7": "Lo siento,",
+    "ANSFW_FIELD8": "no es una categoría nsfw válida. Entrar",
+    "ANSFW_FIELD9": "para ver las categorías disponibles.",
+    "ANSFW_FIELD10": "para usar correctamente este comando, sigue este ejemplo:"
+}

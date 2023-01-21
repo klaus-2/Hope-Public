@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Impedisci un determinato oggetto.",
+    "USAGE": "unequip <type>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "unequip <type>",
+    "EXAMPLE": "unequip planodefundo",
+    "DESEQUIPAR": "selezionare una delle seguenti opzioni:",
+    "DESEQUIPAR1": "hai disequipaggiato",
+    "DESEQUIPAR2": "con successo!"
+}

@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "In- of uitschakelen van de welkomsttoevoeging.",
+    "USAGE": "welkom <enable | disable>\n💡**Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "welkom <enable | disable>",
+    "EXAMPLE": "welkom ingeschakeld"
+}

@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "PNGやGIFでサーバーから絵文字をダウンロードしよう！",
+    "USAGE": "downloademoji <emoji>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "ダウンロード絵文字 <emoji>",
+    "EXAMPLE": "ダウンロード絵文字絵文字",
+    "EBEM_DESC": "絵文字は正常にリンクに変換されました！",
+    "EBEM_DESC1": "リンク:",
+    "EBEM_DESC2": "[ダウンロードするにはここをクリック] ({{Link}})",
+    "EMOJI_INVALIDO": "有効な絵文字が必要です。",
+    "EMOJI_PADRÃO": "標準の絵文字はダウンロードに変換できません。"
+}

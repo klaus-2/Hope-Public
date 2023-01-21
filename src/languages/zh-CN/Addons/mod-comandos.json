@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "在服务器上启用或禁用 Hope 的命令插件。",
+    "USAGE": "mod 命令 <enable | disable>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "mod 命令 <enable | disable>",
+    "EXAMPLE": "mod-comandos 启用"
+}

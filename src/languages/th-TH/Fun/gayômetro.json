@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "See how gay you are",
+    "USAGE": "gayrate [user]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "gayrate [user]",
+    "EXAMPLE": "gayrate @Hope",
+    "GAYOMETRO": "เครื่องจำลอง",
+	"GAYOMETRO1": "คุณคือ",
+	"GAYOMETRO2": "เกย์",
+	"GAYOMETRO3": "เครื่องเกย์",
+	"GAYOMETRO4": "เป็น",
+	"GAYOMETRO5": "เกย์"
+}

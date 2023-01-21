@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "ウェルカムメッセージアドオンを有効または無効にします。",
+    "USAGE": "bv-addon <enable | disable>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "bv-addon <enable | disable>",
+    "EXAMPLE": "bv-addon 有効"
+}

@@ -1,0 +1,19 @@
+{
+    "WARNING_SYSTEM": "注意",
+    "WARNING_SYSTEM1": "あなたは{{guild}} で警告を受けました。",
+    "WARNING_SYSTEM2": "助言:",
+    "WARNING_SYSTEM3": "理由:",
+    "WARNING_SYSTEM4": "警告:",
+    "WARNING_SYSTEM5": "1/3",
+    "WARNING_SYSTEM6": "{{guild}}で別の警告を受けました。",
+    "WARNING_SYSTEM7": "2/3",
+    "WARNING_SYSTEM8": "[KICK]",
+    "WARNING_SYSTEM10": "[WARN]",
+    "WARNING_SYSTEM11": "ユーザー:",
+    "WARNING_SYSTEM12": "司会:",
+    "WARNING_SYSTEM13": "警告:",
+    "KICKED": "* {{USER}} は警告が多すぎるため正常にキックされました*。",
+    "WARNING1": "蹴った",
+    "WARNING2": "禁止",
+    "WARNING3": "警告の制限値が {{limit}} に達すると、サーバーから {{punish}} になります。"
+}

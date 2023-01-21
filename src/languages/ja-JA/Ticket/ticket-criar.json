@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "チケットを叫びましょう。",
+    "USAGE": "ticket-criar [motivo]\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "チケットの設定",
+    "EXAMPLE": "チケットの設定",
+    "TICKET_CRIAR": "ユーザーがチケットを作成しました",
+    "TICKET_CRIAR1": "チケットは正常に作成されました。",
+    "TICKET_CRIAR2": "<:v_:855859391835799582> チャンネルで見ることができます: <{{channel}}>",
+    "TICKET_CRIAR3": "こんにちは {{author}}、私はHopeです",
+    "TICKET_CRIAR4": "誰かを待っている間は ☕ を受け入れます",
+    "TICKET_CRIAR5": "話に来たの？\n\nうーん...。あいつら時間かかりすぎだよこいつら呼ぶよ！\n📢 おおおおお",
+    "TICKET_CRIAR6": "仕事する時間だ！",
+    "TICKET_CRIAR7": "君はここにいる理由から:",
+    "TICKET_CRIAR8": "チケットオープン！",
+    "TICKET_CRIAR9": "Ticket",
+    "TICKET_CRIAR10": "[ユーザー]",
+    "TICKET_CRIAR11": "理由",
+    "TICKET_CRIAR12": "によって開かれた",
+    "COOLDOWN": "チケットは {{NUM}} 分以内に開くことができます。"
+}

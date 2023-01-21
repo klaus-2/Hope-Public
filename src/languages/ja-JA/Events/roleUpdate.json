@@ -1,0 +1,19 @@
+{
+    "ROLE_UPDATE": "役割:",
+    "ROLE_UPDATE1": "彼の名前を変えていたの",
+    "ROLE_UPDATE2": "[イベント — ロール名が変更されました]",
+    "ROLE_UPDATE3": "古い名前:",
+    "ROLE_UPDATE4": "新しい名前:",
+    "ROLE_UPDATE5": "役割の色:",
+    "ROLE_UPDATE6": "変更されました",
+    "ROLE_UPDATE7": "[イベント — ロールの色が変更されました]",
+    "ROLE_UPDATE8": "古い色:",
+    "ROLE_UPDATE9": "新しい色:",
+    "ROLE_UPDATE10": "ロールのパーミッション:",
+    "ROLE_UPDATE11": "変更されました",
+    "ROLE_UPDATE12": "ここをクリック",
+    "ROLE_UPDATE13": "これらの数字が何を意味するのかを理解する",
+    "ROLE_UPDATE14": "[イベント — ロールの権限が変更されました]",
+    "ROLE_UPDATE15": "以前の権限:",
+    "ROLE_UPDATE16": "新しい権限:"
+}

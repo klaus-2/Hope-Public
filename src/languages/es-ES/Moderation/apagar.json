@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "apagar uma certa quantidade de mensagens.",
+    "USAGE": "apagar <1-1000> [user]\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "apagar <1-1000> [user]",
+    "EXAMPLE": "apagar 559",
+    "NO_PREM": "El servidor debe ser premium para borrar más de 200 mensajes.",
+    "TITLE": "Confirmación clara del mensaje",
+    "DESC": "Estás a punto de borrar {{NUM}} mensajes de este canal, reacciona para confirmar esta acción.",
+    "DEL_MSG": "Eliminar {{NUM}} mensajes tardará alrededor de {{TIME}} segundo en completarse.\nNO ENVÍES NINGÚN MENSAJE MIENTRAS ESTO OCURRE.",
+    "SUCCESS": "{{NUM}} mensajes se han eliminado correctamente.",
+    "CON_CNC": "Confirmación cancelada",
+    "CON_TO": "Tiempo de espera de confirmación agotado."
+}

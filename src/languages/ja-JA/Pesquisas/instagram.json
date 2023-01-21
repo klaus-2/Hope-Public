@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Instagram アカウントから情報を取得します。",
+    "USAGE": "instagram <user>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "インスタグラム <user>",
+    "EXAMPLE": "instagram Discord",
+    "INSTAGRAM": "<a:loading:823004555884232724> Hold on...研究してる！",
+    "INSTAGRAM1": "ユーザー名:",
+    "INSTAGRAM2": "フルネーム:",
+    "INSTAGRAM3": "バイオグラフィー:",
+    "INSTAGRAM4": "なし",
+    "INSTAGRAM5": "出版物:",
+    "INSTAGRAM6": "フォロワー:",
+    "INSTAGRAM7": "以下:",
+    "INSTAGRAM8": "プライベートアカウント:",
+    "INSTAGRAM9": "はい 🔒",
+    "INSTAGRAM10": "いや 🔓",
+    "INSTAGRAM11": "確認済みアカウント:",
+    "INSTAGRAM12": "はい ✅",
+    "INSTAGRAM13": "いや ❌"
+}

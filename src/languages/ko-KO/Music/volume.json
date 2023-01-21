@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "음악의 볼륨을 변경합니다.",
+    "USAGE": "볼륨 <number>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "볼륨 <number>",
+    "EXAMPLE": "권 50"
+}

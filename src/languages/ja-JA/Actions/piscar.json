@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "ユーザーのためのフラッシュ。",
+    "USAGE": "ウインク <user>",
+    "USAGEE": "ウインク <user>",
+    "PISCAR_DESCRIÇÃO": "<@{{author}}> が点滅しました！",
+    "PISCAR_DESCRIÇÃO1": "フラッシュされた"
+}

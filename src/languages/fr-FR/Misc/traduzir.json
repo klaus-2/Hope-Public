@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "traduisez votre phrase dans n'importe quelle langue ! Pour une liste, utilisez <prefix>traduisez des langues.",
+    "USAGE": "traduisez <language> <text>\n💡**Exemple **: {{EXAMPLE}}",
+    "USAGEE": "traduire <language> <text>",
+    "EXAMPLE": "traduire des langues",
+    "ETRA_DESC": "Langues actuellement disponibles",
+    "ETRA_DESC1": "🇧🇬-Bulgarian use `{{prefix}}`translate bg <text>`\n🇵🇱-Polish use `{{prefix}}`translate pl <text>`\n🇳🇱-Dutch use `{{prefix}}`translate nl <text>`\n🇩🇰-Danish use `{{prefix}}`translate da <text>`\n🇩🇪-German use `{{prefix}}`translate de <text>`\n🇮🇹-Italian use `{{prefix}}`translate it <text>`\n🇷🇺-Russian use `{{prefix}}`translate ru <text>`\n🇪🇸-Spanish use `{{prefix}}`translate es <text>`\n🇹🇷-Turkish use `{{prefix}}`translate tr <text>`\n🇫🇷-French use `{{prefix}}`translate fr <text>`",
+    "ETRA_DESC2": "Hi, I'm {{user}}",
+    "ETRA_DESC3": "Saviez-vous que",
+    "ETRA_DESC4": "à",
+    "ETRA_DESC5": "moyens",
+    "ETRA_DESC6": "<:SkyeUau:823047534670774303> Wow! Intéressant, non ?"
+}

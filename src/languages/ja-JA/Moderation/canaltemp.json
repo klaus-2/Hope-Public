@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "criar um canal de texto temporario.",
+    "USAGE": "temp-channel <categoryID> <time in minutes>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "一時チャネル <categoryID> <time in minutes>",
+    "EXAMPLE": "一時チャンネル 804851508944306237 1",
+    "CANALTEMP": "すでに一時的なチャンネルがあります。",
+    "CANALTEMP1": "チャンネルでタグ付けされています。確認してください。",
+    "CANALTEMP2": "チャンネル-一時的",
+    "CANALTEMP3": "このチャンネルは一時的なチャンネルです。\n{{expire}} 分後に削除されます"
+}

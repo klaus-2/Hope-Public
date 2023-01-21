@@ -1,0 +1,11 @@
+{
+    "MESSAGE_DELETE": "보낸 메시지",
+    "MESSAGE_DELETE1": "에서 삭제되었습니다.",
+    "MESSAGE_DELETE2": "작성자 ID:",
+    "MESSAGE_DELETE3": "메시지 ID:",
+    "MESSAGE_DELETE4": "[이벤트 — 삭제된 메시지]",
+    "MESSAGE_DELETE5": "콘텐츠",
+    "MESSAGE_DELETE6": "(단축)",
+    "MESSAGE_DELETE7": "*비어 있습니다*",
+    "MESSAGE_DELETE8": "첨부 파일"
+}

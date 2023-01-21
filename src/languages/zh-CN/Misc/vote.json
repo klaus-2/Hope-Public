@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "显示可用于为 Hope 投票的僵尸程序列表。",
+    "USAGE": "投票\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "投票",
+    "EXAMPLE": "投票",
+    "VOTE": "斯凯的投票系统",
+    "VOTE1": "为以下其中一位机器人投票：",
+    "VOTE2": "[`现在可用！`] (https://top.gg/bot/839262056028176404/vote)",
+    "VOTE3": "在",
+    "VOTE4": "[`现在可用！`] (https://voidbots.net/bot/839262056028176404/vote)",
+    "VOTE5": "[`现在可用！`] (https://discordbotlist.com/bots/Hope-5284/upvote)",
+    "VOTE6": "__** 奖励 **__\n`12 小时 Hope PREMIUM`",
+    "VOTE7": "你已经投了 {{votes}} 次票。"
+}

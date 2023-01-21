@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "スカイに投票できるボットリストのリストを表示します。",
+    "USAGE": "vote\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "投票",
+    "EXAMPLE": "投票",
+    "VOTE": "スカイの投票システム",
+    "VOTE1": "以下のボットリストのいずれかに投票してください。",
+    "VOTE2": "[`今すぐ利用可能！`] (https://top.gg/bot/839262056028176404/vote)",
+    "VOTE3": "で",
+    "VOTE4": "[`今すぐ利用可能！`] (https://voidbots.net/bot/839262056028176404/vote)",
+    "VOTE5": "[`今すぐ利用可能！`] (https://discordbotlist.com/bots/Hope-5284/upvote)",
+    "VOTE6": "__**報酬**__\n`スカイプレミアムの12時間`",
+    "VOTE7": "{{votes}} 回投票しました。"
+}

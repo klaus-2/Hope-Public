@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Activez ou désactivez le module complémentaire de niveau.",
+    "USAGE": "musicadj <ativar | desativar>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "musicadj <ativar | desativar>",
+    "EXAMPLE": "musicdj enable"
+}

@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "PornHub で偽のコメントを作成します。",
+    "USAGE": "pornhub <user> <message>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "pornhub <user> <message>",
+    "EXAMPLE": "pornhubユーザー良すぎ"
+}

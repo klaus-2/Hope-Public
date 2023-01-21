@@ -1,0 +1,23 @@
+{
+    "DESCRIPTION": "获得经济舱附加组件的每日现金奖励。",
+    "USAGE": "每天\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "日常",
+    "EXAMPLE": "日常",
+    "BONUS_DIARIO": "<: cancel: 855859391709577266> 您已经领取了每日奖励\n\n下一个奖励将在",
+    "BONUS_DIARIO1": "和",
+    "BONUS_DIARIO2": "好吗？",
+    "BONUS_DIARIO3": "<: v_: 855859391835799582> 你已经领取了你的每日奖励",
+    "BONUS_DIARIO4": "skcoins 成功。",
+    "BONUS_DIARIO5": "** 谢谢你的支持 **",
+    "BONUS_DIARIO6": "啊！当然，我注意到你在我的 [支持服务器]（{{SupportServer}}）上有雄伟的存在，作为感谢，我给你一份礼物",
+    "BONUS_DIARIO7": "奖励 skcoins** 额外！",
+    "BONUS_DIARIO8": "** 恭喜你 **",
+    "BONUS_DIARIO9": "<: Hopecomemorando:823248929503445026> ** 你的个人资料收到了一件非常酷的物品作为礼物！**：你赢了",
+    "BONUS_DIARIO10": "因为他们的每日奖励。该物品已添加到您的库存中！",
+    "BONUS_DIARIO11": "** 银行通知 **：",
+    "BONUS_DIARIO12": "⚠️ 注意！你的钱包不能再容纳任何钱了。她已经达到了 60,000 美元的限额！\n你需要把一些钱转到你的银行！",
+    "BONUS_DIARIO13": "** 连胜丢失 **：",
+    "BONUS_DIARIO14": "⚠️ 为什么你没有每天收集奖励，却错过了惊人的奖励？哦太糟糕了，现在你的连胜是 **x1**。",
+    "BONUS_DIARIO15": "🔥 ** 哇，你目前的连胜纪录是",
+    "BONUS_DIARIO16": "继续努力"
+}

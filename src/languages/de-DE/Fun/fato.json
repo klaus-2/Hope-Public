@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Erhalte eine zufällige Tatsache.",
+    "USAGE": "Tatsache\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "fakt",
+    "EXAMPLE": "fakt",
+    "FFATO_DESC": "./assets/json/random-facts-de.json",
+    "FACT_TITLE": "Zufällige Tatsache:"
+}

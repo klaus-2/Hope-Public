@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Divorcio de un usuario.",
+    "USAGE": "divorcio\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "divorcio",
+    "EXAMPLE": "divorcio",
+    "FDIV_DESC": "🙁 | <@{{author}}>, estás soltero.",
+    "FDIV_DESC1": "Use {{prefix}}casarse con <user> para casarse",
+    "FDIV_DESC2": "¿Te gustaría divorciarte?",
+    "FDIV_DESC3": "Responde con: ``Sí`` o ``no`` para decidirse.",
+    "FDIV_DESC4": "<@{{author}}>, ¡felicidades, sigues casado! , 💕",
+    "FDIV_DESC5": "<@{{author}}>, lástima, os divorciasteis, 💔"
+}

@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Poke пользователь.",
+    "USAGE": "покер <user>",
+    "USAGEE": "покер <user>",
+    "CUTUCAR_DESCRIÇÃO": "\\❌ **<@{{author}}>**, кому я должен покнуть?",
+    "CUTUCAR_DESCRIÇÃO1": "Я уже здесь! Вам нужно что-нибудь?",
+    "CUTUCAR_DESCRIÇÃO2": "\\❌ Я не собираюсь это делать, **<@{{author}}>**!",
+    "CUTUCAR_DESCRIÇÃO3": "переброшено"
+}

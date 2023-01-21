@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Listen to a radio.",
+    "USAGE": "radio <query>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "radio <query>",
+    "EXAMPLE": "radio hunter | radio bbc",
+    "RADIO": "No radio found with that name",
+    "RADIO1": "Results for",
+    "RADIO2": "Pick a number from 1-10 or cancel.",
+    "RADIO3": "You didn't choose a song in time.",
+    "RADIO4": "cancel",
+    "RADIO5": "The number you provided was too small or too big (1-{{max}}).",
+    "RADIO6": "Added to queue:",
+    "RADIO7": "Cancelled selection."
+}

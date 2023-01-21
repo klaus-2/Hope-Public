@@ -1,0 +1,4 @@
+{
+    "DESCRIPTION": "Effacer un certain nombre de messages.",
+    "USAGE": "effacer <Number> [member]"
+}

@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Cria um backup dos emojis desse servidor.",
+    "USAGE": "e-backup-criar\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "e-backup-criar",
+    "EXAMPLE": "e-backup-criar",
+    "E_BACKUP_CRIAR": "Oi, {{author}}",
+    "E_BACKUP_CRIAR1": "**Não há emojis neste servidor para backup.** ",
+    "E_BACKUP_CRIAR2": "Oi, o codigo do seu backup é:",
+    "E_BACKUP_CRIAR3": ":x: | **Fui incapaz de enviar dm para você, certifique-se de que seu privado esteja habilitado.**",
+    "E_BACKUP_CRIAR4": "**O backup foi criado com sucesso!**\nEu já enviei o ID do backup para o seu privado, ok?"
+}

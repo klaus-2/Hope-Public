@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "erhalte die Songtexte zum Song.",
+    "USAGE": "Songtext [song]\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "Songtext [song]",
+    "EXAMPLE": "Songtext-Anker - novo amor",
+    "LETRA": "Ich suche nach dem Songtext, halte <:SkyeDetetive:823259704443535450>",
+    "LETRA1": "Keine Songtexte gefunden"
+}

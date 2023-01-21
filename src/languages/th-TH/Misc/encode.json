@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "encode a message in binary.",
+    "USAGE": "encode <message>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "encode <message>",
+    "EXAMPLE": "encode สกายเป็นบอทที่ดีที่สุดในโลก <3"
+}

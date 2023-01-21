@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "将 bassboost 效果应用于音乐。",
+    "USAGE": "bassboost [value] | [off]\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "bassboost [value] | [off]",
+    "EXAMPLE": "bassboost 8 | bb -4 | 低音提升关闭",
+    "ON": "激活 ** bassboost** 的效果。<: Hopedana: 82304665337141482114> 这可能需要几秒钟...",
+    "BASSBOOST1": "<: v_: 855859391835799582> ** 低音提升 ** 已被激活。",
+    "OFF": "停用 ** bassboost** 的效果。<: HopeouvindomusicA: 823046654554144768>\n那可能需要几秒钟...",
+    "BASSBOOST2": "<: 取消:855859391709577266> ** 低音提升 ** 已停用。",
+    "BASSBOOST4": "数量必须是实数。",
+    "BASSBOOST5": "将 bassboost 设置为",
+    "BASSBOOST6": "这可能需要几秒钟...",
+    "BASSBOOST7": "Bassboost 设置为："
+}

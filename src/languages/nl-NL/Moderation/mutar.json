@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Demp een gebruiker.",
+    "USAGE": "mute <user> [time]\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "dempen <user> [time]",
+    "EXAMPLE": "mute @Hope 3 uur"
+}

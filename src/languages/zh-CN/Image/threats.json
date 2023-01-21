@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "创建一个威胁模因。",
+    "USAGE": "威胁 [user] | [file]\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "威胁 [user] | [file]",
+    "EXAMPLE": "威胁用户 | 威胁 <attachment>"
+}

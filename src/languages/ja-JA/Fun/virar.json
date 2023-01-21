@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "コインをひっくり返す。",
+    "USAGE": "flip\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "フリップ",
+    "EXAMPLE": "フリップ",
+    "FLIP_CHOICE": "['頭'、'尾'] [{{choice}}]"
+}

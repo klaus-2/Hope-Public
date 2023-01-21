@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "레피티르는 뮤지카 또는 필라.",
+    "USAGE": "루프 [대기열/노래]\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "루프 [대기열/노래]",
+    "EXAMPLE": "반복 대기열 | 루프 노래 | 루프",
+    "REPETIR": "노래",
+    "ENABLED": "가능",
+    "DISABLED": "비활성화",
+    "REPETIR3": "{{trackRepeat}} 트랙 반복.",
+    "REPETIR4": "열",
+    "REPETIR7": "{{queueRepeat}} 대기열 반복."
+}

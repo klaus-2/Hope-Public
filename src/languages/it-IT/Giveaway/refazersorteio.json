@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Refaz um sorteio.",
+    "USAGE": "g-reroll <ID da mensage>\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "g-reroll <messageID>",
+    "EXAMPLE": "g-reroll 818821436255895612",
+    "SUCCESS_GIVEAWAY": "<:v_:855859391835799582> Successo! Giveaway re-rolled!",
+    "CONGRAT": "🎉 Nuovi vincitori: {winners}! Congratulazioni!",
+    "ERROR": "Nessuna voce valida, nessun vincitore può essere scelto!"
+}

@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Encuentra una imagen basada en el tema elegido.",
+    "USAGE": "image <theme>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "imagen <theme>",
+    "EXAMPLE": "imagen sol"
+}

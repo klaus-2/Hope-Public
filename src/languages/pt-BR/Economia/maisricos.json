@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Exibe o rank das pessoas mais ricas do servidor.",
+    "USAGE": "maisricos\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "maisricos",
+    "EXAMPLE": "maisricos"
+}

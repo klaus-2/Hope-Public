@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Druk de reactie uit van iemand doden.",
+    "USAGE": "[user] sluiten",
+    "USAGEE": "[user] sluiten",
+    "MATAR_DESCRIÇÃO": "Stop <@{{member}}>! Je kunt me niet doden!",
+    "MATAR_DESCRIÇÃO1": "net gedood"
+}

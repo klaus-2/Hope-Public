@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "search for something on youtube.",
+    "USAGE": "youtube <search>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "youtube <search>",
+    "EXAMPLE": "youtube voicemakers malandragem ninja ep8",
+    "YOUTUBE": "I couldn't find anything about {{query}}.",
+    "YOUTUBE1": "Hey, specify a video name and I'll search",
+    "YOUTUBE2": "Unable to find, try something else.."
+}

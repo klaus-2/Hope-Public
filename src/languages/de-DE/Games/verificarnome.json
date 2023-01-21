@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Überprüfen Sie, ob es einen Beschwörernamen in der Liga der Legenden gibt.",
+    "USAGE": "verifyname\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "verifyname <nick>",
+    "EXAMPLE": "verifyname yassuo",
+    "VERFNOME": "Überprüfe den Nickname: {{arg}}",
+    "VERFNOME1": "Dieser Nick ist verfügbar.",
+    "VERFNOME2": "Dieser Nickname wird bereits verwendet."
+}

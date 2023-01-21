@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Créez une image captcha.",
+    "USAGE": "captcha [user]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "captcha [user]",
+    "EXAMPLE": "captcha userID | captcha @mention | captcha username"
+}

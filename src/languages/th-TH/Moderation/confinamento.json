@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "trancar um canal por um determinado tempo.",
+    "USAGE": "lockdown <time>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "lockdown <time>",
+    "EXAMPLE": "lockdown 1",
+    "CONFINAMENTO": "การดูแล",
+    "CONFINAMENTO1": "ช่อง",
+    "CONFINAMENTO2": "ถูกกักตัวไว้สําหรับ",
+    "CONFINAMENTO3": "การคุมขังของช่อง",
+    "CONFINAMENTO4": "ถูกเพิกถอน"
+}

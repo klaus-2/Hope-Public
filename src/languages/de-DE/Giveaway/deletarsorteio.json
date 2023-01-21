@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Ein Geschenk löschen",
+    "USAGE": "g-Löschen <messageID>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "g-Löschen <messageID>",
+    "EXAMPLE": "g-delete 818821436255895612",
+    "SUCCESS_GIVEAWAY": "<:v_:855859391835799582> Erfolgreich gesendet! Wurde gelöscht!",
+    "UNKNOWN_GIVEAWAY": "Kein Giveaway mit Nachrichten-ID gefunden: `{{message}}`, bitte überprüfe es und versuche es noch einmal, ok? Ich warte 😊"
+}

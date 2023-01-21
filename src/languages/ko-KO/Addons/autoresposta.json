@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "접두사 없이 트리거되는 자동 응답을 생성합니다!",
+    "USAGE": "자동 응답 <command> <response>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "자동 응답 <command> <response>",
+    "EXAMPLE": "자동 응답 안녕하세요!",
+    "AUTO_RESPOSTA": "<:취소: 855859391709577266> 자동 응답 이름이 30자 이상입니다!",
+    "AUTO_RESPOSTA1": "<:취소: 855859391709577266> 자동 응답 콘텐츠의 길이가 2,000자 이상입니다!",
+    "AUTO_RESPOSTA2": "<:취소: 855859391709577266> 자동 응답 제한에 도달했습니다** (10) **\n\n[무제한 명령에 대한 프리미엄 업그레이드] ({{config}})",
+    "AUTO_RESPOSTA3": "자동 응답 추가:",
+    "AUTO_RESPOSTA4": "다음을 사용하여 다음 자동 응답 삭제",
+    "AUTO_RESPOSTA5": "삭제응답 <autoresponse-name>",
+    "AUTO_RESPOSTA6": "다음 자동 응답은 이미 기존 명령입니다!"
+}

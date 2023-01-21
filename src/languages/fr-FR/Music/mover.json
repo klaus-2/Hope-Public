@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "déplacer le numéro de chanson spécifié à la position spécifiée.",
+    "USAGE": "move <music position> <new position>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "déplacer <music position> <new position>",
+    "EXAMPLE": "déplacer 4 8",
+    "MOVER": "Impossible de déplacer une chanson qui est déjà en cours de lecture. Pour sauter le type de chanson en cours de lecture: `{{prefix}}sauter`",
+    "MOVER1": "Chanson introuvable.",
+    "MOVER2": "Yayy! Déplacé **{{title}}** au début de la file d'attente.",
+    "MOVER3": "déplacé",
+    "MOVER4": "à la position",
+    "MOVER5": "de la file d'attente.",
+    "MUSICA6": "Numéro non valide."
+}

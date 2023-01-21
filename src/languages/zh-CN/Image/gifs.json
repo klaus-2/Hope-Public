@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "生成你选择的 GIF。",
+    "USAGE": "gifs <theme>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "gifs <theme>",
+    "EXAMPLE": "gifs 悟空"
+}

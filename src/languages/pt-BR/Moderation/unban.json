@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Desbane um usuario.",
+    "USAGE": "desbanir <userID> [motivo]\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "desbanir <userID> [motivo]",
+    "EXAMPLE": "desbanir 432567667533123 teste | desbanir 432567667533123"
+}

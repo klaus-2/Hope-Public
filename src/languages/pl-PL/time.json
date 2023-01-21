@@ -1,0 +1,23 @@
+{
+    "ONE_DAY": "1 dzień",
+    "DAYS": "{{amount}} dni",
+    "ONE_HOUR": "1 godzina",
+    "HOURS": "{{amount}} godzin",
+    "ONE_MINUTE": "1 minuta",
+    "MINUTES": "{{amount}} minut",
+    "ONE_SECOND": "1 sekunda",
+    "SECONDS": "{{amount}} sekund",
+    "NOT_NUMBER": "Musi być liczbą.",
+    "INCORRECT_DELIMITERS": "Proszę użyć jednego z następujących ograniczeń czasowych: `d`, `h`, `m`, `s`.",
+    "MAX_TIME": "Nie może być dłuższy niż 10 dni.",
+    "INVALID_TIME": "Wprowadzono nieprawidłowy numer. (Przykład: 1 m lub 16 h)",
+    "dia": "dzień",
+    "dias": "dni",
+    "hora": "godzina",
+    "horas": "godziny",
+    "minuto": "minuta",
+    "minutos": "minuty",
+    "segundo": "sekunda",
+    "segundos": "sekundy",
+    "e": "W przypadku gdy państwo członkowskie lub Szwajcaria stwierdzi, że dane państwo członkowskie lub Szwajcaria spełniają warunki określone w art. 4 ust. 1 lit. a) i b) oraz w art. 5 ust. 1 lit. b) i c) rozporządzenia (WE) nr 207/2009 oraz w art. 5 ust. 1 lit. b) i c) rozporządzenia (WE) nr 207/2009 oraz w art. 5 ust. 1 lit. b) tego rozporządzenia i art. 6 ust. 1 lit. b) tego rozporządzenia i c) tego rozporządzenia stosuje się od dnia 1 stycznia 2018 r."
+}

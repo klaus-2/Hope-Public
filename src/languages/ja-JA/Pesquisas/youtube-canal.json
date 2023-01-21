@@ -1,0 +1,17 @@
+{
+    "DESCRIPTION": "ユーチューブチャンネルを検索します。",
+    "USAGE": "youtube-channel <name>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "youtubeチャンネル <name>",
+    "EXAMPLE": "youtubeチャンネル忍者",
+    "YOUTUBE_CANAL": "不明なチャネルエラー。",
+    "YOUTUBE_CANAL1": "チャネルの結果はありません。もう一度やり直してください。",
+    "YOUTUBE_CANAL2": "不明なチャネルデータエラーです。",
+    "YOUTUBE_CANAL3": "チャンネル名",
+    "YOUTUBE_CANAL4": "チャンネルの説明",
+    "YOUTUBE_CANAL5": "購読者数",
+    "YOUTUBE_CANAL6": "合計ビュー数",
+    "YOUTUBE_CANAL7": "ビデオ総数",
+    "YOUTUBE_CANAL8": "作成日",
+    "YOUTUBE_CANAL9": "リンク",
+    "YOUTUBE_CANAL10": "NSFW以外のチャンネルでこれらの用語を検索することはできません。"
+}

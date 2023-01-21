@@ -1,0 +1,22 @@
+{
+    "DESCRIPTION": "einen Fehler an meinen Entwickler melden.",
+    "USAGE": "bug <message>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "bug <message>",
+    "EXAMPLE": "Bug Ich versuche, den Test-Befehl zu verwenden, aber es funktioniert nicht.",
+    "HBUG_DESC": "Sie müssen 5 Minuten warten, bevor Sie diesen Befehl erneut verwenden!",
+    "HBUG_DESC1": "Name:",
+    "HBUG_DESC2": "ID:",
+    "HBUG_DESC3": "Konto erstellt am",
+    "HBUG_DESC4": "Nachricht:",
+    "HBUG_DESC5": "Bitte verwenden Sie die Vorlage unten, um zu antworten",
+    "HBUG_DESC6": "> ANSWER IN PRIVATE",
+    "HBUG_DESC7": "  u.send(`**Re: Feedback/Bug**\nMESSAGE HIERE`)`",
+    "HBUG_DESC8": "> BEARBEITEN AUF DER ÄNDERN",
+    "HBUG_DESC9": "Re: Feedback/Bug**\nNACHRICHT HIER",
+    "HBUG_DESC10": "Vom Server gesendet",
+    "HBUG_DESC11": "In",
+    "HBUG_DESC12": "Es gab ein Problem, bitte melde es auf meinem Support-Server ```{{prefix}}Unterstützung```",
+    "HBUG_DESC13": "Heey {{author}}, alles ist in Ordnung gegangen!",
+    "HBUG_DESC14": "Ihr Bericht hat meinen Entwickler bereits erreicht und er wird so bald wie möglich antworten, bitte haben Sie Geduld.",
+    "HBUG_DESC15": "Wenn du dies missbrauchst, wirst du daran gehindert, diesen Befehl zu benutzen!\nOh und entschuldige dich für die Unannehmlichkeiten, wenn du ein Problem gehabt hast. <:SkyeAmor:8232230482901728>"
+}

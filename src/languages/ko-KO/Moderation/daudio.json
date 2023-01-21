@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "사용자의 오디오를 비활성화합니다.",
+    "USAGE": "<user> [time]\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "<user> [time]귀머러지다",
+    "EXAMPLE": "귀머거리 @Hope | 귀머거리 먹다 @Hope 5m",
+    "DAUDIO": "음성 채널이 아닌 사람의 귀청을 들을 수 없습니다."
+}

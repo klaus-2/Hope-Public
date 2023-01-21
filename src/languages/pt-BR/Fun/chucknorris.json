@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Gere uma piada aleatoria sobre o Chuck Norris.",
+    "USAGE": "chucknorris\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "chucknorris",
+    "EXAMPLE": "chucknorris",
+    "FNORRIS_DESC": "./resources/other/chucknorris-en.json"
+}

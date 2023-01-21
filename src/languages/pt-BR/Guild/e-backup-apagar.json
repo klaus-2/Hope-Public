@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Apaga um backup criado.",
+    "USAGE": "e-backup-apagar <codigo>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "e-backup-apagar <codigo>",
+    "EXAMPLE": "e-backup-apagar Cg267T",
+    "E_BACKUP_APAGAR": "Oi, {{author}}",
+    "E_BACKUP_APAGAR1": ":x: | **backup não encontrado**",
+    "E_BACKUP_APAGAR2": "**O backup foi deletado com sucesso!** ",
+    "E_BACKUP_APAGAR3": ":x: | **Esse backup não foi encontrado.**"
+}

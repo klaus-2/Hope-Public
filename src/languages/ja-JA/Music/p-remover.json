@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "プレイリストから曲を削除する",
+    "USAGE": "p-remove <playlist name> <position> [position]\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "p 削除 <playlist name> <position> [position]",
+    "EXAMPLE": "p 削除テスト 3 | p 削除テスト 3 5",
+    "P_REMOVER": "選択肢ではない",
+    "P_REMOVER1": "曲はプレイリストから正常に削除されました。",
+    "P_REMOVER2": "プレイリストが見つかりません。"
+}

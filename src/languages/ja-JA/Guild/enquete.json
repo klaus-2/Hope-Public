@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "ユーザーが回答する投票を作成します。",
+    "USAGE": "poll <question>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "世論調査 <question>",
+    "EXAMPLE": "世論調査今日は雨が降るのですか",
+    "POLL_TITLE": "{{username}}によって作成された投票",
+    "POLL_FOOTER": "投票に反応しろよ。。"
+}

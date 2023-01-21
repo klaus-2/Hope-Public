@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Busca infomarções meteriologicas de uma cidade.",
+    "USAGE": "tempo <localização>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "tempo <localização>",
+    "EXAMPLE": "tempo sp | tempo São Paulo",
+    "TEMPO": "Sensação termica:",
+    "TEMPO1": "graus",
+    "TEMPO2": "Fuso horario:",
+    "TEMPO3": "Tipo de grau:",
+    "TEMPO4": "Latitude e Longitude:",
+    "TEMPO5": "Localização inválida",
+    "TEMPO_TITULO": "Tempo - {{place}}",
+    "TEMPO_DESCRIÇÃO": "As unidades de temperatura podem ser diferentes em algum momento",
+    "TEMPO6": "Temperatura:",
+    "TEMPO7": "Céu:",
+    "TEMPO8": "Umidade:",
+    "TEMPO9": "Velocidade do vento:",
+    "TEMPO10": "Tempo de observação:",
+    "TEMPO11": "Exibição do vento:"
+}

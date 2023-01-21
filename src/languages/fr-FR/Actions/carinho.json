@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Caressez le ou les utilisateurs que vous avez mentionnés !",
+    "USAGE": "carinho [utilisateur]",
+    "USAGEE": "carinho [utilisateur]",
+    "CARINHO_DESCRIÇÃO": "Vous ne pouvez pas vous caresser vous-même, laissez-moi >.< <@{{member}}>!",
+    "CARINHO_Hope": " **moi**",
+    "CARINHO_Hope1": " dans **moi**",
+    "CARINHO_DESCRIÇÃO1": "a fait de l'affection dans",
+    "CARINHO_HopeFRASE": "H-Haa... (✿' ꒳ ` ) s'il te plaît, ne t'arrête pas...",
+    "CARINHO_DESC": " et ",
+    "CARINHO_DESC1": ", et "
+}

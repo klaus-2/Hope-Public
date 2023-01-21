@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "applique l'ordre aléatoire à la playlist.",
+    "USAGE": "shuffle\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "mélanger",
+    "EXAMPLE": "mélanger",
+    "OA": "<:v_:855859391835799582> La playlist a été mélangée avec succès."
+}

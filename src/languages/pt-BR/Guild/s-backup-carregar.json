@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Carrega um backup do servidor.",
+    "USAGE": "s-backup-carregar <ID do backup>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "s-backup-carregar <ID do backup>",
+    "EXAMPLE": "s-backup-carregar 2334",
+    "S_BACKUP_CARREGAR": "Aah {{author}}, eu sinto muito :(",
+    "S_BACKUP_CARREGAR1": "Você precisa ter as permissões de **Gerenciar Mensagens** para criar um backup neste servidor.",
+    "S_BACKUP_CARREGAR2": ":warning: Todos os canais, cargos e configurações do servidor serão deletados para carregar o novo backup. Tem certeza que deseja continuar? Envie `sim` ou `nao`!",
+    "S_BACKUP_CARREGAR3": "sim",
+    "S_BACKUP_CARREGAR4": "nao",
+    "S_BACKUP_CARREGAR5": "Backup carregado com sucesso!",
+    "S_BACKUP_CARREGAR6": "Não foi encontrado nenhum backup com o ID: **{{backupID}}**",
+    "S_BACKUP_CARREGAR7": "Ocorreu um erro:",
+    "S_BACKUP_CARREGAR8": ":x: Cancelado.",
+    "S_BACKUP_CARREGAR9": ":x: Tempo esgotado! Por favor, tente novamente."
+}

@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "desconecta al bot del canal de voz.",
+    "USAGE": "dc\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "dc",
+    "EXAMPLE": "dc"
+}

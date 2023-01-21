@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Hope automatische Rolle für diesen Server einrichten.",
+    "USAGE": "level ignorerole <roleID>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "level-ignorerole <roleID>",
+    "EXAMPLE": "level ignorerole 328328777266673",
+    "LVL_IGNCARGO": "Einstellungen: `Level`",
+    "LVL_IGNCARGO1": "<:v_:855859391835799582>O `auto role` wurde erfolgreich aktualisiert.",
+    "LVL_IGNCARGO2": "Automatische Rolle",
+    "LVL_IGNCARGO3": "Geändert von"
+}

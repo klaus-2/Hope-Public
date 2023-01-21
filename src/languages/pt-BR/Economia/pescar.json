@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Você se arriscaria a pescar para obter alguns trocados?",
+    "USAGE": "pescar\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "pescar",
+    "EXAMPLE": "pescar",
+    "PESCAR": "<:cancel:855859391709577266> Eita! Como não faz muito tempo que você lançou uma linha, os peixes ainda estão assutados.\nTalvez daqui uns",
+    "PESCAR1": "e",
+    "PESCARR": "eles já estejam calmos para você peca-los novamente <:SkyeIssoai2:823248929700446228>",
+    "PESCAR2": "🎣 Você lançou sua linha e pegou um",
+    "PESCAR3": "Após vendê-lo na peixaria do seu Manuel, você obteve **R$",
+    "PESCAR4": "skcoins!",
+    "PESCAR5": "lista",
+    "PESCAR6": "recompensas",
+    "PESCAR7": "Lista de nomes de peixes e recompensas que você pode obter",
+    "PESCAR8": "```\n🔧Lixo      :: Recompensa máxima: 5, Recompensa mínima: 1\n🐟Comum    :: Recompensa máxima: 25, Recompensa mínima: 10\n🐠Incomum  :: Recompensa máxima: 50, Recompensa mínima: 18\n🦑Raro      :: Recompensa máxima: 75, Recompensa mínima: 30\n🐋Lendário :: Recompensa máxima: 100, Recompensa mínima: 50```\n**Todas as recompensas são aleatórias de max/min**​"
+}

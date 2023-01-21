@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "向用户添加资金。使用负号 (**-**) 从用户手中移除钱款！",
+    "USAGE": "套钱 <user> <value>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "套钱 <user> <value>",
+    "EXAMPLE": "套钱 @Hope 5000 | 设定钱 @Hope -5000",
+    "SETAR_DINHEIRO": "告知的值不是数字！\n请确保用户提及后的参数是 ** NUMBER**。",
+    "SETAR_DINHEIRO1": "我已成功删除 **$",
+    "SETAR_DINHEIRO2": "** 请输入有效的用户！**",
+    "SETAR_DINHEIRO3": "的钱包",
+    "SETAR_DINHEIRO4": "当前余额：",
+    "SETAR_DINHEIRO5": "$",
+    "SETAR_DINHEIRO6": "skcoins",
+    "SETAR_DINHEIRO7": "我已经成功添加了 **$"
+}

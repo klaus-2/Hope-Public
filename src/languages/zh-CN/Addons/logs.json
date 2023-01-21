@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "实现或插件 de log。",
+    "USAGE": "日志 <option> [data]\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "日志 <option> [data]",
+    "LOG": "以下是每个类别中可用的日志列表。\n\n您可以单击下面的按钮激活该类别中的所有日志，或者如果愿意，可以使用以下命令手动配置它们。\n\n__ 启用/禁用事件：__\n__ 将日志频道设置为审核日志记录：__\n`{{prefix}}`** logs modchannel <channel>**\n__将日志频道设置为服务器事件：__\n`{{prefix}}`** 日志服务器通道 <channel>**\n`{{prefix}}`** 日志成员频道 <channel>**\n__ 将日志频道设置为消息事件：__\n`{{prefix}}`** 日志 msgchannel <channel>**\n",
+    "LOG1": "尚未定义",
+    "LOG2": "enable",
+    "LOG3": "disable"
+}

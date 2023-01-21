@@ -1,0 +1,20 @@
+{
+    "CHANNEL_UPDATE": "De categorie",
+    "CHANNEL_UPDATE1": "Het kanaal",
+    "CHANNEL_UPDATE2": "heeft zijn naam veranderd",
+    "CHANNEL_UPDATE3": "[EVENT — NAAM VERANDERD]",
+    "CHANNEL_UPDATE4": "Oude naam:",
+    "CHANNEL_UPDATE5": "Nieuwe naam:",
+    "CHANNEL_UPDATE6": "had zijn onderwerp veranderd",
+    "CHANNEL_UPDATE7": "[EVENT — ONDERWERP GEWIJZIGD]",
+    "CHANNEL_UPDATE8": "Van:",
+    "CHANNEL_UPDATE9": "Naar:",
+    "CHANNEL_UPDATE10": "*leeg onderwerpen*",
+    "CHANNEL_UPDATE11": "heeft zijn machtigingen gewijzigd**\n*opmerking: * zie de [documentation](https://discordapp.com/developers/docs/topics/permissions) om te weten wat de getallen betekenen",
+    "CHANNEL_UPDATE12": "[EVENT — ONDERWERP GEWIJZIGD]",
+    "CHANNEL_UPDATE13": "Perms toegestaan:",
+    "CHANNEL_UPDATE14": "Perms geweigerd:",
+    "CHANNEL_UPDATE15": "De vervanging was uitgesloten",
+    "CHANNEL_UPDATE16": "[EVENT — REGIO VERANDERD]",
+    "CHANNEL_UPDATE17": "heeft zijn regio veranderd"
+}

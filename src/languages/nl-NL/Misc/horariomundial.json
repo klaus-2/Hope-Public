@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "laat de wereldtijd zien.",
+    "USAGE": "worldtime\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "wereldtijd",
+    "EXAMPLE": "wereldtijd",
+    "EFUSO_DESC": "Wereldklok - tijdzones"
+}

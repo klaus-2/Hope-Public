@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Hope automatische Gebühr für diesen Server einrichten.",
+    "USAGE": "levelmsg <message>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "levelmsg <message>",
+    "EXAMPLE": "Level GG {user}, du bist auf Level {Level} gestiegen!",
+    "LVL_MSG": "Einstellungen: `Level`",
+    "LVL_MSG1": "<:v_:855859391835799582>Die Konfiguration von `level` wurde erfolgreich aktualisiert.",
+    "LVL_MSG2": "Level Einstellung",
+    "LVL_MSG3": "Mensagem changed from"
+}

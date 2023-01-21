@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Voeg een nummer toe aan de afspeellijst.",
+    "USAGE": "p-add <playlist name> <song>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "p-add <playlist name> <song>",
+    "EXAMPLE": "p-add Test https://www.youtube.com/watch?v=4AnmemzByVY",
+    "P_ADD": "Er gebeurde iets vreemds",
+    "P_ADD1": "Geen afspeellijst gevonden met naam: `{{name}}`.",
+    "P_ADD2": "{{num}} nieuwe nummers toegevoegd aan afspeellijst: `{{title}}`.",
+    "P_ADD3": "Resultaten voor {{title}}",
+    "P_ADD4": "{{results}}\n\n\tKies een nummer van 1-10 of annuleer.\n",
+    "P_ADD5": "Het nummer dat je hebt opgegeven was te klein of te groot (1-{{num}})."
+}

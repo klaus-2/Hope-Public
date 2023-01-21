@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "retourneer de meegeleverde tekst in ascii-formaat.",
+    "USAGE": "ascii <text>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "ascii <text>",
+    "EXAMPLE": "ascii Hope",
+    "EASCII_DESC": "Kan ASCII niet genereren",
+    "ASCII": "Voer een tekst in met 20 tekens of minder om de conversie te laten slagen!"
+}

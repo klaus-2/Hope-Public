@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Mostra as musicas que foram tocadas anteriormentes.",
+    "USAGE": "anterior [número da página]\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "anterior [número da página]",
+    "EXAMPLE": "anterior | anterior 2",
+    "ANTERIOR": "Não há musicas tocadas anteriormente;",
+    "ANTERIOR1": "Musicas anteriores",
+    "ANTERIOR2": "**Última musica**:",
+    "ANTERIOR3": "  Nenhuma",
+    "ANTERIOR4": "Página",
+    "ANTERIOR5": "musica(s)",
+    "ANTERIOR6": "A página deve ser um número.",
+    "ANTERIOR7": "Existem apenas",
+    "ANTERIOR8": "páginas disponíveis."
+}

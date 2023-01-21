@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "suona una canzone.",
+    "USAGE": "riproduci <link / song name>\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "riproduci <link / song name>",
+    "EXAMPLE": "giocare a palaye royale <unk> play <attachment> <unk> giocare https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "TOCAR": "Coda",
+    "TOCAR1": "canzoni",
+    "TOCAR2": "è stato aggiunto alla coda di riproduzione corrente.",
+    "TOCAR3": "Inserisci un nome/url del brano",
+    "TOCAR4": "In coda **{{num}}** tracce",
+    "TOCAR5": "Aggiunto alla coda: [{{title}}]({{url}})"
+}

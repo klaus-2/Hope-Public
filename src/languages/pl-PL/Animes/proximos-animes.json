@@ -1,0 +1,18 @@
+{
+    "DESCRIPTION": "Wyświetla listę nadchodzących animacji.",
+    "USAGE": "nextani\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "nextani",
+    "EXAMPLE": "nextani | pa tv | p-animes ona | proximos-animes ova | p-animes film | pa specjalny | nadchodzące -",
+    "APROX_DESC": "Wyszukiwanie następne",
+    "APROX_DESC1": "anime z",
+    "APROX_DESC2": "Błąd odpowiedzi",
+    "APROX_DESC3": "**{{member}}**, Wystąpił nieoczekiwany błąd!\n\n",
+    "APROX_DESC4": "MyAnimeList odpowiedział z kodem błędu {{status}}",
+    "APROX_DESC5": "Następna lista anime",
+    "APROX_DESC6": "Gatunek:",
+    "APROX_DESC7": "WSZYSCY",
+    "APROX_DESC8": "polecenie",
+    "APROX_DESC9": "Strona",
+    "APROX_DESC10": "z",
+    "APROX_DESC11": "Nie ma jeszcze streszczenia."
+}

@@ -1,0 +1,5 @@
+{
+    "ROLE_CREATE": "서버\nName에 새 역할이 생성되었습니다.",
+    "ROLE_CREATE1": "언급:",
+    "ROLE_CREATE2": "[EVENT — 역할이 생성되었습니다.]"
+}

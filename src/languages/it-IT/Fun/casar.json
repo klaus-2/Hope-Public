@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Sposa un utente.",
+    "USAGE": "sposa <user>\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "sposarsi <user>",
+    "EXAMPLE": "sposa @Hope",
+    "FCASAR_DESC": "🙁 <unk> <@{{author}}>, sei singolo.",
+    "FCASAR_DESC1": "Usa {{prefix}}sposa <user> per sposarti.",
+    "FCASAR_DESC2": "sei sposato con",
+    "FCASAR_DESC3": "Da ({{date}})",
+    "FCASAR_DESC4": "Non sono riuscito a trovare una persona con solo",
+    "FCASAR_DESC5": "Ti piacerebbe sposarti",
+    "FCASAR_DESC6": "Rispondi con: ``sì`` o ``no``",
+    "FCASAR_DESC7": "Hai respinto la proposta del",
+    "FCASAR_DESC8": "Congratulazioni che sei sposato, molto amore per te 💕"
+}

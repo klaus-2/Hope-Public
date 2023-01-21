@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Affiche votre solde actuel.",
+    "USAGE": "solde\n💡**Exemple**: {{EXAMPLE}}",
+    "USAGEE": "solde",
+    "EXAMPLE": "solde",
+    "SALDO": "Vous trouverez ci-dessous toutes les informations sur votre économie!",
+    "SALDO1": "<:carteira:855169963470880778> Portefeuille",
+    "SALDO2": "$",
+    "SALDO3": "skcoins dans votre portefeuille",
+    "SALDO4": "<:banco:855170000985391186> Banque",
+    "SALDO5": "skcoins sur votre banque",
+    "SALDO6": "Série actuelle:",
+    "SALDO7": "Tout le temps est le mieux:",
+    "SALDO8": "à gauche",
+    "SALDO9": "streak(s) pour obtenir un **Article de Récompense \\✨",
+    "SALDO10": "<:bonus:855181102893498438> Bonus",
+    "SALDO11": "✔️ Le Bonus Quotidien a déjà été **réclamé**! Vous pouvez le réclamer à nouveau à",
+    "SALDO12": "et",
+    "SALDO13": "⚠️ Le Bonus Quotidien est **disponible**!\nUtilisez `{{prefix}}chaque jour pour échanger."
+}

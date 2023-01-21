@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Utwórz fałszywy tweet na Twitterze.",
+    "USAGE": "twitter [user] <text>\n💡 **Przyklad**: {{EXAMPLE}}",
+    "USAGEE": "twitter [user] <text>",
+    "EXAMPLE": "twitter @user Kocham Hope."
+}

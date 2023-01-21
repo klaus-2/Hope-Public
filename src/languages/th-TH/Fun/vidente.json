@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "get an answer for anything!",
+    "USAGE": "seer <question>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "seer <question>",
+    "EXAMPLE": "seer Is it going to rain today?",
+    "FVIDENTE_DESC": "./resources/other/8ball-en.json",
+	"FVIDENTE_DESC1": "คำถาม:",
+	"FVIDENTE_DESC2": "คำถาม",
+	"FVIDENTE_DESC3": "Hope ผู้ทำนาย"
+}

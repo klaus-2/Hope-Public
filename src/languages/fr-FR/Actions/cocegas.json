@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Tickle l'utilisateur mentionné.",
+    "USAGE": "chatouiller [user]",
+    "USAGEE": "chatouiller [user]",
+    "COCEGAS_DESCRIÇÃO": "Arrêter <@{{author}}>! Tickets~",
+    "COCEGAS_DESCRIÇÃO1": "\\❌ Amusez-vous à chatouiller **<@{{author}} >** !",
+    "COCEGAS_DESCRIÇÃO2": "chatouillé à"
+}

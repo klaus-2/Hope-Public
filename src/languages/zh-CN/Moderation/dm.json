@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "向用户发送 DM。",
+    "USAGE": "dm <user> <message>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "dev <message>",
+    "EXAMPLE": "dm @User 你好",
+    "DM": "你好",
+    "DM1": "你收到了来自服务器的消息：",
+    "DM2": "提交者：",
+    "DM3": "主题：",
+    "DM4": "此消息是使用 Hope 机器人发送的，如果您怀疑有滥用行为，请使用",
+    "DM5": "在服务器上",
+    "DM6": "已成功将 DM 发送至 <@{{member}}>"
+}

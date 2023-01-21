@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "para buscar información meteorológica de una ciudad.",
+    "USAGE": "weather <localization>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "tiempo <localization>",
+    "EXAMPLE": "weather ny | tiempo nueva york",
+    "TEMPO": "Sensación térmica:",
+    "TEMPO1": "grados",
+    "TEMPO2": "Zona horaria:",
+    "TEMPO3": "Tipo de grado:",
+    "TEMPO4": "Latitud y longitud:",
+    "TEMPO5": "Ubicación no válida",
+    "TEMPO_TITULO": "Clima - {{place}}",
+    "TEMPO_DESCRIÇÃO": "Las unidades de temperatura pueden variar en algún momento",
+    "TEMPO6": "Temperatura:",
+    "TEMPO7": "Texto del cielo:",
+    "TEMPO8": "Humedad:",
+    "TEMPO9": "Velocidad del viento:",
+    "TEMPO10": "Tiempo de observación:",
+    "TEMPO11": "Pantalla de viento:"
+}

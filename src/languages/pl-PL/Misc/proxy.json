@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Wysyła listę proxy (aktualizacje co godzinę)",
+    "USAGE": "proxy\n💡 **Przyklad**: {{EXAMPLE}}",
+    "USAGEE": "pełnomocnik",
+    "EXAMPLE": "pełnomocnik",
+    "EPROXY_DESC": "Lista proxy",
+    "EPROXY_DESC1": "💡 Ta lista jest aktualizowana co godzinę."
+}

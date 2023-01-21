@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "配置用户离开服务器时在频道中发送的消息。",
+    "USAGE": "bv-leavemsg <message>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "bv-leavemsg <message>",
+    "EXAMPLE": "bv-leavemsg **{user}** 刚刚从服务器上注销。",
+    "BV_SAIRMENSAGEM": "<: v_: 855859391835799582> 频道已成功更新为："
+}

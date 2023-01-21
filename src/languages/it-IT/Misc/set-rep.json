@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Define a quantidade de reputação de um usuario.",
+    "USAGE": "set-rep <user> <valor>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "set-rep <user> <valor>",
+    "EXAMPLE": "set-rep @User 17",
+    "SET_REP": "La reputazione dell'utente {{member}} è stata cambiata da {{received}} a {{valor}} con successo!",
+    "SET_REP1": "Per favore, il valore di reputazione deve essere un numero! Per esempio: `.set-rep @User 15`."
+}

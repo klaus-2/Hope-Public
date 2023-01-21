@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Faça carinho no(s) usuário(s) que você mencionou!",
+    "USAGE": "carinho [user]",
+    "USAGEE": "carinho [user]",
+    "CARINHO_DESCRIÇÃO": "Du kannst dich nicht selbst Haustiere, lass es mir >.< <@{{member}}>!",
+    "CARINHO_Hope": " **Ich**",
+    "CARINHO_Hope1": " in **mich**",
+    "CARINHO_DESCRIÇÃO1": "machte Zuneigung in",
+    "CARINHO_HopeFRASE": "H-Haa.. (<unk> <unk> <unk> ` ) bitte nicht aufhören...",
+    "CARINHO_DESC": " und ",
+    "CARINHO_DESC1": ", und "
+}

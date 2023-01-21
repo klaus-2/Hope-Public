@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Het biedt je een suggestie om verveling kwijt te raken.",
+    "USAGE": "verveeld\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "verveeld",
+    "EXAMPLE": "verveeld",
+    "FTEDIO_DESC": "./resources/other/bored-en.json",
+    "FTEDIO_DESC1": "Verveel je je?"
+}

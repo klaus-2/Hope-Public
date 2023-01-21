@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "banir um usuario。",
+    "USAGE": "ban <user> [reason] [time]\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "<user> [reason] [time]を禁止します。",
+    "EXAMPLE": "チャット3Dでスパムを練習するスカイを禁止する | スカイテストを禁止する | スカイテストを禁止する 1D 10h 25m | スカイテスト30代を禁止する",
+    "BAN": "禁止！",
+    "BAN1": "<a:anibanned:823008288236765184> **{{guild}}** から禁止されています。",
+    "BAN2": "以下によって禁止:",
+    "BAN3": "理由:",
+    "MISSING_USER": "このサーバーにいない人を罰することはできない。"
+}

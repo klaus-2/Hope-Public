@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Stel de positie van de track die wordt afgespeeld in op de opgegeven positie.",
+    "USAGE": "zoek <time>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "zoek <time>",
+    "EXAMPLE": "zoek 01:00",
+    "IRPARA": "De tijd is korter dan de huidige lengte van het nummer: `{{time}}`"
+}

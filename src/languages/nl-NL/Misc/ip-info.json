@@ -1,0 +1,21 @@
+{
+    "DESCRIPTION": "Krijgt informatie over het IP-adres",
+    "USAGE": "ip-info <IP>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "ip-info <IP>",
+    "EXAMPLE": "ip-info 54.167.249.213",
+    "EIP_DESC": "IP-informatie",
+    "EIP_DESC1": "Mobiel:",
+    "EIP_DESC2": "Volmacht:",
+    "EIP_DESC3": "Internetprovider:",
+    "EIP_DESC4": "AS-nummer en organisatie:",
+    "EIP_DESC5": "Continent:",
+    "EIP_DESC6": "Land:",
+    "EIP_DESC7": "Stad:",
+    "EIP_DESC8": "Tijdzone:",
+    "EIP_DESC9": "Laat en lang:",
+    "EIP_DESC10": "Lat:",
+    "EIP_DESC11": "Lang:",
+    "EIP_DESC12": "Valuta:",
+    "EIP_DESC13": "Voer een geldig IP-adres in!",
+    "EIP_DESC14": "Oeps, er is een fout opgetreden. Probeer het later!"
+}

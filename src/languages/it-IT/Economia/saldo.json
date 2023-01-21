@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Visualizza il saldo corrente.",
+    "USAGE": "saldo\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "saldo",
+    "EXAMPLE": "saldo",
+    "SALDO": "Qui di seguito sono tutte le informazioni sulla vostra economia!",
+    "SALDO1": "<:carteira:855169963470880778> Portafoglio",
+    "SALDO2": "$",
+    "SALDO3": "skcoin nel tuo portafoglio",
+    "SALDO4": "<:banco:855170000985391186> Banca",
+    "SALDO5": "skcoin sulla tua banca",
+    "SALDO6": "Serie Attuale:",
+    "SALDO7": "Tutto il tempo migliore:",
+    "SALDO8": "sinistra",
+    "SALDO9": "striature per ottenere un **Item Ricompensa \\✨",
+    "SALDO10": "<:bonus:855181102893498438> Bonus",
+    "SALDO11": "✔️ Il Bonus Giornaliero è già stato **reclamato**! Puoi reclamarlo nuovamente presso",
+    "SALDO12": "e",
+    "SALDO13": "⚠️ Il bonus giornaliero è **disponibile**!\nUsa `{{prefix}}daily` per riscattare."
+}

@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "borrar todos los mensajes de un canal a la vez.",
+    "USAGE": "nuke\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "nuclear",
+    "EXAMPLE": "nuclear",
+    "LIMPAR": "¡Este canal no se puede borrar! ¿Qué estás pensando?",
+    "LIMPAR1": "BAM! `<{{channel}}>` **se ha limpiado con un paño. **"
+}

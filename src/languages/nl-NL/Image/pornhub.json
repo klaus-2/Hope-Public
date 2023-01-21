@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Maak een nep-reactie in PornHub.",
+    "USAGE": "pornhub <user> <message>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "pornhub <user> <message>",
+    "EXAMPLE": "pornhub gebruiker te goed"
+}

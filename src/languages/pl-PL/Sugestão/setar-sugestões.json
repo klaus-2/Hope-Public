@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Ustawia kanał sugestii w bazie danych.",
+    "USAGE": "set-sugestie\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "set-sugestie",
+    "EXAMPLE": "set-sugestie",
+    "SETAR_SUGESTÕES": "Kanał sugestii został zdefiniowany w <#{{channel}}>",
+    "SETAR_SUGESTÕES1": "Kanał sugestii został zresetowany i wyłączony."
+}

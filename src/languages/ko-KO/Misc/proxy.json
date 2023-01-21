@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "프록시 목록 전송 (매시간 업데이트)",
+    "USAGE": "프록시\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "프록시",
+    "EXAMPLE": "프록시",
+    "EPROXY_DESC": "프록시 목록",
+    "EPROXY_DESC1": "💡 이 목록은 매시간 업데이트됩니다."
+}

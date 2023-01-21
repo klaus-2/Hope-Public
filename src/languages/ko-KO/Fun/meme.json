@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "임의의 밈을 전송합니다.",
+    "USAGE": "밈\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "밈",
+    "EXAMPLE": "밈",
+    "FMEME_DESC": "밈의 URL이 누락되었습니다."
+}

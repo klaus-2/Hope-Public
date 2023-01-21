@@ -1,0 +1,23 @@
+{
+    "DESCRIPTION": "report a bug to my developer.",
+    "USAGE": "bug <message>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "bug <message>",
+    "EXAMPLE": "bug I'm trying to use the test command but it's not working.",
+    "HBUG_DESC": "You must wait 5 minutes before using this command again!",
+    "HBUG_DESC1": "Name:",
+    "HBUG_DESC2": "ID:",
+    "HBUG_DESC3": "Account created on",
+    "HBUG_DESC4": "Message:",
+    "HBUG_DESC5": "Please use the template below to respond",
+    "HBUG_DESC6": "> ANSWER IN PRIVATE",
+    "HBUG_DESC7": "  u.send(`**Re: Feedback/Bug**\nMESSAGE HERE`)`",
+    "HBUG_DESC8": "> RESPOND ON THE CHANNEL",
+    "HBUG_DESC9": "Re: Feedback/Bug**\nMESSAGE HERE",
+    "HBUG_DESC10": "Sent from the server",
+    "HBUG_DESC11": "In",
+    "HBUG_DESC12": "There was a problem, please report it on my support server ```{{prefix}}support```",
+    "HBUG_DESC13": "Heey {{author}}, everything went fine!",
+    "HBUG_DESC14": "Your report has already reached my developer and he will respond as soon as possible, please be patient.",
+    "HBUG_DESC15": "If you abuse this, you will be prevented from using this command!\nOh and sorry for the inconvenience if you had a problem. <:SkyeAmor:823223048290172928>"
+
+}

@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "获得机器人的正常运行时间。",
+    "USAGE": "正常运行时间\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "上线时间",
+    "EXAMPLE": "上线时间",
+    "EUP_DESC": "Hope | 正常运行时间",
+    "EUP_DESC1": "自上线以来"
+}

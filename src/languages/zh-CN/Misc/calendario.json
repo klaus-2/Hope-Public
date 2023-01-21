@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "显示一个小日历。",
+    "USAGE": "日历\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "日历",
+    "EXAMPLE": "日历",
+    "ECALEN_DESC": "📅 | 日历",
+    "ECALEN_DESC1": "今天的日期：",
+    "ECALEN_DESC2": "也就是说，",
+    "ECALEN_DESC3": "一周中的一天：",
+    "ECALEN_DESC4": "时间表：",
+    "ECALEN_DESC5": "10 天前的日期：",
+    "ECALEN_DESC6": "从现在起十天后："
+}

@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Configure le module Auto-Pick.",
+    "USAGE": "pseudo automatique",
+    "USAGEE": "pseudo automatique",
+    "EXAMPLE": "auto-nick enable\n💡**Exemplo**: {{EXAMPLE}}",
+    "NICK": "enable",
+    "NICK1": "L'addon `Auto-nick` a été activé avec succès.",
+    "NICK2": "disable",
+    "NICK3": "L'addon `Auto-nick` a été désactivé avec succès.",
+    "NICK4": "nick",
+    "NICK5": "Veuillez entrer un pseudonyme.",
+    "NICK6": "Oups ! Le pseudo de l'utilisateur doit contenir entre 2 et 32 caractères.",
+    "NICK7": "La pré-nick de l'addon `Auto-nick` a été mise à jour avec succès en `{{nick}}`."
+}

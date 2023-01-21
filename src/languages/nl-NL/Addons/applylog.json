@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Zet de logboeken van de gilde in",
+    "USAGE": "applylog <enable #channel | disable>\n💡**Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "Toepassenlog <enable #channel | disable>",
+    "EXAMPLE": "Applylog inschakelen #test"
+}

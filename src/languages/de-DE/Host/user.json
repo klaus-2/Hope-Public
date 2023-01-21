@@ -1,0 +1,8 @@
+{
+  "DESCRIPTION": "Benutzerdaten bearbeiten",
+  "USAGE": "Benutzer <id> [Premium / gesperrt] [true / false]",
+  "SUCCESS_PREM": "Prämie erfolgreich aktualisiert.",
+  "SUCCESS_BAN": "Der globale Bann des Benutzers wurde erfolgreich aktualisiert.",
+  "SUCCESS_RANK": "Hintergrund des Benutzerrangs erfolgreich aktualisiert.",
+  "SUCCESS_RESET": "Benutzerdaten erfolgreich zurückgesetzt."
+}

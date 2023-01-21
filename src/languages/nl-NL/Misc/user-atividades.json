@@ -1,0 +1,23 @@
+{
+    "DESCRIPTION": "Geeft in detail alle statusactiviteiten van de genoemde gebruiker.",
+    "USAGE": "gebruikersactiviteiten\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "gebruikersactiviteiten [user]",
+    "EXAMPLE": "gebruikersactiviteiten @Hope",
+    "EUAT_DESC": "**Geen status**",
+    "EUAT_DESC1": "Deze gebruiker heeft geen aangepaste status!",
+    "EUAT_DESC2": "**Status**",
+    "EUAT_DESC3": "**Gepersonaliseerde status**",
+    "EUAT_DESC4": "Zonder emoji",
+    "EUAT_DESC5": "Huidige activiteit van {{user}}",
+    "EUAT_DESC6": "**Type**",
+    "EUAT_DESC7": "Spelen",
+    "EUAT_DESC8": "**App**",
+    "EUAT_DESC9": "**Details**",
+    "EUAT_DESC10": "Geen details",
+    "EUAT_DESC11": "**Werkenin**",
+    "EUAT_DESC12": "Spotify | Informatie over liedjes",
+    "EUAT_DESC13": "Naam van het nummer",
+    "EUAT_DESC14": "Album",
+    "EUAT_DESC15": "Auteur",
+    "EUAT_DESC16": "Luister naar de muziek"
+}

@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "显示服务器上最富有的人的排名。",
+    "USAGE": "moneylb\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "moneylb",
+    "EXAMPLE": "moneylb",
+    "MAIS_RICOS7": "🏆 最富有的排名",
+    "MAIS_RICOS8": "<User unknown>",
+    "MAIS_RICOS9": "被评为最富有的",
+    "MAIS_RICOS10": "总共是 skcoins！"
+}

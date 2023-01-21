@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "서버에서 사용자를 추방합니다.",
+    "USAGE": "킥 <user> [reason]\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "킥 <user> [reason]",
+    "EXAMPLE": "채팅에서 킥 스카이 스팸",
+    "KICK": "추방!",
+    "KICK1": "넌 쫓겨났어",
+    "KICK2": "걷어 차기:",
+    "KICK3": "이유:"
+}

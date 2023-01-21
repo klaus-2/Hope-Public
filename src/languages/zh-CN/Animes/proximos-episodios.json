@@ -1,0 +1,23 @@
+{
+    "DESCRIPTION": "显示特定动画下一集的剩余时间。如果未指定动画，则返回当天的时间表。",
+    "USAGE": "next 步 [anime]\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "nextep",
+    "EXAMPLE": "nextairing | nextair boruto | nextep 黑三叶草 | nextep 攻击巨人 | pep tensura",
+    "APEP_DESC": "什么都没找到！",
+    "APEP_DESC2": "响应错误",
+    "APEP_DESC3": "**{{member}}**，发生了意外错误！\n\n",
+    "APEP_DESC4": "请过几分钟再试一次。这通常是由服务器停机引起的。",
+    "APEP_DESC5": "**{{member}}**，此动画可能已经 ** 播出完毕 **， ",
+    "APEP_DESC6": "** 下一个 ep 日期未知 **，或者该动画可能 ** 不存在 **！",
+    "APEP_DESC7": "插曲",
+    "APEP_DESC8": "最后一集",
+    "APEP_DESC9": "的",
+    "APEP_DESC10": "大约会播出",
+    "APEP_DESC11": "下一集播出日期为",
+    "APEP_DESC12": "目前未知。",
+    "APEP_DESC13": "下次首映",
+    "APEP_DESC14": "会播出",
+    "APEP_DESC15": "下一集的日期目前 ** 未知 **..\n",
+    "APEP_DESC16": "稍后会播出的",
+    "APEP_DESC17": "未在接下来的 7 天内找不到动漫。\n"
+}

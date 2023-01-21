@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "プレーヤーの再生速度を設定します。",
+    "USAGE": "速度 <value>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "スピード <value>",
+    "EXAMPLE": "スピード 4",
+    "ON_SPD": "再生速度を更新しています。これには数秒かかる場合があります...",
+    "VELOCIDADE": "速度が {{num}}に変更されました。"
+}

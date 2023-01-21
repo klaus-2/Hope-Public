@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Limpa todas mensagens de um canal de uma vez.",
+    "USAGE": "limpar\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "limpar",
+    "EXAMPLE": "limpar",
+    "LIMPAR": "Este canal não pode ser limpo! O que você está pensando?",
+    "LIMPAR1": "BAM! <#{{channel}}> **foi limpo.**"
+}

@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "说圣诞节到来还有多少天。",
+    "USAGE": "圣诞节\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "圣诞节",
+    "EXAMPLE": "圣诞节",
+    "ENATAL_DESC": "🎅 hohoho！缺少 **{{days}}** 天直到圣诞节！"
+}

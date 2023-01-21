@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "mostra il rango di invito del server.",
+    "USAGE": "rankinvita\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "rankinvites",
+    "EXAMPLE": "rankinvites",
+    "ERANKC_DESC": "<:SkyeComVergonha:823248929508032513> Ohhh, sembra che non ho i permessi per vedere gli inviti su questo server... si prega di avvisare l'amministrazione e riprovare.",
+    "ERANKC_DESC1": "inviti",
+    "ERANKC_DESC2": ":Trophy: Classifica Inviti :Trophy:"
+}

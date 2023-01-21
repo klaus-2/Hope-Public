@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "캡차 이미지를 만듭니다.",
+    "USAGE": "보안 문자 [user]\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "보안 문자 [user]",
+    "EXAMPLE": "보안 문자 사용자 ID | 보안 문자 @mention | 보안 문자 사용자 이름"
+}

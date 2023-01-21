@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Eliminar una copia de seguridad del servidor.",
+    "USAGE": "s-backup-delete <backupID>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "s-backup-delete <backupID>",
+    "EXAMPLE": "s-backup-delete 2334",
+    "S_BACKUP_APAGAR": "Aah {{author}}, lo siento :(",
+    "S_BACKUP_APAGAR1": "Estado premium: :small_blue_diamond: **USUARIO NORMAL** :small_blue_diamond:\nDesafortunadamente <:SkyeFoimal:823046654374314044> no puedes usar este comando porque no eres un usuario premium en **Hope Support Server**.",
+    "S_BACKUP_APAGAR2": "💡 Premium es un beneficio que se otorga a los usuarios que impulsan el servidor de soporte de Hope. {{prefix}}Hope",
+    "S_BACKUP_APAGAR3": "Debe especificar un ID de copia de seguridad válido para quitar",
+    "S_BACKUP_APAGAR4": "** ELIMINACIÓN DE COPIA DE SEGURIDAD**",
+    "S_BACKUP_APAGAR5": "** NUEVA COPIA DE SEGURIDAD ELIMINADA**\n Autor: {{author}}",
+    "S_BACKUP_APAGAR6": "No se encontró ninguna copia de seguridad para {{backupID}}"
+}

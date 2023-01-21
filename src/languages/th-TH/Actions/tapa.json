@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Slap a user.",
+    "USAGE": "slap [user]",
+    "USAGEE": "slap [user]",
+    "TAPA_DESCRIÇÃO": "<@{{member}}>, ได้โปรดอย่าตีตัวเอง!",  
+    "TAPA_DESCRIÇÃO1": "**ฉัน**",
+    "TAPA_DESCRIÇÃO2": "ตบ",
+    "TAPA_HopeFRASE": "(；︿ ；✿) ผมขอโทษ คุณสามารถตบพวกเขา แต่โปรดอย่าตีฉัน ...",      
+    "TAPA_DESC": " และ ",
+    "TAPA_DESC1": ", และ ",    
+    "TAPA_DESC2": "ฉัน"
+}

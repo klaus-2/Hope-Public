@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "переведите свое предложение на любой язык! Для списка используйте <prefix>языков перевода.",
+    "USAGE": "перевести <language> <text>\n💡 **Пример**: {{EXAMPLE}}",
+    "USAGEE": "перевести <language> <text>",
+    "EXAMPLE": "перевод на языки",
+    "ETRA_DESC": "Доступные языки",
+    "ETRA_DESC1": "🇧🇬-Bulgarian use `{{prefix}}`translate bg <text>`\n🇵🇱-Polish use `{{prefix}}`translate pl <text>`\n🇳🇱-Dutch use `{{prefix}}`translate nl <text>`\n🇩🇰-Danish use `{{prefix}}`translate da <text>`\n🇩🇪-German use `{{prefix}}`translate de <text>`\n🇮🇹-Italian use `{{prefix}}`translate it <text>`\n🇷🇺-Russian use `{{prefix}}`translate ru <text>`\n🇪🇸-Spanish use `{{prefix}}`translate es <text>`\n🇹🇷-Turkish use `{{prefix}}`translate tr <text>`\n🇫🇷-French use `{{prefix}}`translate fr <text>`",
+    "ETRA_DESC2": "Привет, мне {{user}}",
+    "ETRA_DESC3": "Знаете ли вы, что",
+    "ETRA_DESC4": "в",
+    "ETRA_DESC5": "средства",
+    "ETRA_DESC6": "<:Скай ЕАУ: 823047534670774303 > Вау! Интересно, да?"
+}

@@ -1,0 +1,21 @@
+{
+    "DESCRIPTION": "Busca un juego/aplicación en Steam.",
+    "USAGE": "steam-store <game>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "steam-store <game>",
+    "EXAMPLE": "tienda de vapor Conan Exiles",
+    "STEAM_LOJA": "No se pudo encontrar **{{query}}** en <:steam:767062357952167946> steam",
+    "STEAM_LOJA1": "$",
+    "STEAM_LOJA2": "Libre",
+    "STEAM_LOJA3": "* **Notas adicionales:",
+    "STEAM_LOJA4": "requisitos del sistema",
+    "STEAM_LOJA5": "Precio",
+    "STEAM_LOJA6": "Metascore",
+    "STEAM_LOJA7": "Recomendaciones",
+    "STEAM_LOJA8": "Fecha de lanzamiento",
+    "STEAM_LOJA9": "Desarrolladores",
+    "STEAM_LOJA10": "Editoriales",
+    "STEAM_LOJA11": "Categorías",
+    "STEAM_LOJA12": "Géneros",
+    "STEAM_LOJA13": "Cantidad de DLC",
+    "STEAM_LOJA14": "Idiomas admitidos"
+}

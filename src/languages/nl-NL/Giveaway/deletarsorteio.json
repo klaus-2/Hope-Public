@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Een weggeefactie verwijderen",
+    "USAGE": "g-verwijderen <messageID>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "g-verwijderen <messageID>",
+    "EXAMPLE": "g-Verwijder 818821436255895612",
+    "SUCCESS_GIVEAWAY": "<:v_:855859391835799582> Succes! Giveaway verwijderd!",
+    "UNKNOWN_GIVEAWAY": "Geen weggeefactie gevonden met Message ID: `{{message}}`, controleer het en probeer het opnieuw, ok? Ik wacht 😊"
+}

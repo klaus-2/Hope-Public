@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Générer un code pour le remboursement.",
+    "USAGE": "generatecode <month | year>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "générateur de code <month | year>",
+    "EXAMPLE": "generatecode mês",
+    "NOVO_PREMIUM": "mois",
+    "NOVO_PREMIUM1": "year",
+    "NOVO_PREMIUM2": "Fournir un plan !",
+    "NOVO_PREMIUM3": "Générée",
+    "NOVO_PREMIUM4": "Premium Code(s)",
+    "NOVO_PREMIUM5": "Type :",
+    "NOVO_PREMIUM6": "Expire :"
+}

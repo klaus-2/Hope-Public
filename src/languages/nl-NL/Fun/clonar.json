@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Maak een bot van de gebruiker die hem een vooraf gedefinieerde tekst door jou laat spreken.",
+    "USAGE": "clone <user> <message>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "kloon <user> <message>",
+    "EXAMPLE": "clone @Hope test"
+}

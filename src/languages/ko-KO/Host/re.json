@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "봇을 재정하십시오.",
+    "USAGE": "re\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "다시",
+    "EXAMPLE": "다시",
+    "HRE_DESC": ":white_check_mark: **스카이 재시작!**",
+    "HRE_DESC1": "몇 초 정도 걸릴 수 있습니다...",
+    "HRE_DESC2": ":white_check_mark: 스카이 재시작!\n몇 초 정도 걸릴 수 있습니다..."
+}

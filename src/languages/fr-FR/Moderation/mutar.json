@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Couper le son d'un utilisateur.",
+    "USAGE": "mute <user> [time]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "rendre muet <user> [time]",
+    "EXAMPLE": "mute @Hope 3h"
+}

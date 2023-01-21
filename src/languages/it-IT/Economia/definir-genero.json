@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Imposta il sesso dell'utente nel profilo.",
+    "USAGE": "set-gender <genero>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "set-gender <gender>",
+    "EXAMPLE": "set-gender maschio",
+    "GEN": "maschio",
+    "GEN1": "femmina",
+    "GEN2": "Il tuo genere è stato aggiornato a `Male` con successo!",
+    "GEN3": "Il tuo genere è stato aggiornato a `Female` con successo!"
+}

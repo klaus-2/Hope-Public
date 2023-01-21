@@ -1,0 +1,21 @@
+{
+    "DESCRIPTION": "Obtient des informations à propos de l'adresse IP",
+    "USAGE": "ip-info <IP>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "ip-info <IP>",
+    "EXAMPLE": "ip-info 54.167.249.213",
+    "EIP_DESC": "Information IP",
+    "EIP_DESC1": "Portable:",
+    "EIP_DESC2": "Proxy :",
+    "EIP_DESC3": "Fournisseur de services Internet :",
+    "EIP_DESC4": "Numéro AS et organisation :",
+    "EIP_DESC5": "Continental:",
+    "EIP_DESC6": "Pays:",
+    "EIP_DESC7": "Ville:",
+    "EIP_DESC8": "Fuseau horaire :",
+    "EIP_DESC9": "Lat & Long :",
+    "EIP_DESC10": "Lat:",
+    "EIP_DESC11": "Long:",
+    "EIP_DESC12": "Devise:",
+    "EIP_DESC13": "Veuillez entrer une adresse IP valide !",
+    "EIP_DESC14": "Oups, une erreur est survenue. Essayez plus tard !"
+}

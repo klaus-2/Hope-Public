@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Toont de lijst met botslists die beschikbaar zijn om op Hope te stemmen.",
+    "USAGE": "stem\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "stemmen",
+    "EXAMPLE": "stemmen",
+    "VOTE": "Hope's stemsysteem",
+    "VOTE1": "Stem op één van de onderstaande botlijsten:",
+    "VOTE2": "[`Nu beschikbaar! `] (https://top.gg/bot/839262056028176404/vote)",
+    "VOTE3": "In",
+    "VOTE4": "[`Nu beschikbaar! `] (https://voidbots.net/bot/839262056028176404/vote)",
+    "VOTE5": "[`Nu beschikbaar! `] (https://discordbotlist.com/bots/Hope-5284/upvote)",
+    "VOTE6": "__**Rewards**__\n`12 uur Hope PREMIUM`",
+    "VOTE7": "Je hebt {{votes}} keer gestemd."
+}

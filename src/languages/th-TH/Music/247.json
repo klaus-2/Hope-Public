@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Stay on the voice channel even if no one is on it.",
+    "USAGE": "247\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "247",
+    "EXAMPLE": "247",
+    "VINTEQUATRO": "โหมด 24/7 ขณะนี้ {{toggle}}",
+    "VINTEQUATRO1": "on",
+    "VINTEQUATRO2": "off"
+}

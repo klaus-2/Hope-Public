@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Ativo o desativo de Addon de sugestão.",
+    "USAGE": "sugestão <ativar | desativar>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "sugestación <ativar | desativar>",
+    "EXAMPLE": "sugerencia habilitar"
+}

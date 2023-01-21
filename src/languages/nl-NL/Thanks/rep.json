@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Bedank je aan een gebruiker.",
+    "USAGE": "rep <user>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "rep <user>",
+    "EXAMPLE": "rep @Hope",
+    "REP": "Noem alsjeblieft iemand om je te bedanken.",
+    "REP1": "Je kunt jezelf niet bedanken.",
+    "REP2": "Heb je ooit iemand bedankt in de afgelopen {{hours}} uur.",
+    "REP3": "Je zei bedankt.",
+    "REP4": "voor je hulp! Hij is al bedankt",
+    "REP5": "keer."
+}

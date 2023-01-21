@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Ultimas novidades sobre a Hope.",
+    "USAGE": "news\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "news",
+    "EXAMPLE": "news",
+    "NEWS": "Notícias da Hope",
+    "NEWS1": "Data da publicação:"
+}

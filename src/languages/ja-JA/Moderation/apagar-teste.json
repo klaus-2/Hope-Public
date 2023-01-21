@@ -1,0 +1,4 @@
+{
+    "DESCRIPTION": "一定量のメッセージをクリアします。",
+    "USAGE": "クリア <Number> [member]"
+}

@@ -1,0 +1,18 @@
+{
+    "DESCRIPTION": "Exibe o status do usuario.",
+    "USAGE": "premium\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "premium",
+    "EXAMPLE": "premium",
+    "PREMIUM_AUTHOR": "Hola, {{author}}",
+    "PREMIUM_DESC": "Esta es la información de **Suscripción premium** para el servidor **{{guild}}**",
+    "PREMIUM_DESC1": "**Plan actual: ** {{plan}}",
+    "PREMIUM_DESC2": "Código: ||**{{code}}**||",
+    "PREMIUM_DESC3": "Fecha de canje: ** {{date}}",
+    "PREMIUM_DESC4": "**Canjear por: ** <@{{user}}>",
+    "PREMIUM_DESC5": "**ID del servidor: ** {{guild}}",
+    "PREMIUM_DESC6": "**Caduca el: ** {{expires}}",
+    "PREMIUM_TITULO": "Hola, {{author}}",
+    "PREMIUM_FOOTER": "Recuerda que una vez que caduque el plan, todas las funciones premium se desactivarán automáticamente en el servidor.",
+    "PREMIUM_DESC7": "¡Me alegro de que estés interesado en convertirte en premium!\n\nPremium es la forma que tiene el usuario de retribuirme y obtener algunos buenos beneficios de mí.\n\n**CONVIRTIÉNDOTE EN Hope PREMIUM PODRÁS: **\n• Mantén a Hope en un canal de voz 24/7\n• Haz una copia de seguridad completa del servidor (en serio, puedo guardar todas las categorías, canales, mensajes, emojis y posiciones)\n• Personalizar el complemento embeds Ticky, Sticky y Birthdays.\n• Permiso para crear más de 2 listas de reproducción en Hopedj <:SkyeouvindoMusica:823046654554144768>\n• Bonificación monetaria para el sistema de economía global de Hope.\n• Elimine hasta 1000 mensajes a la vez con el comando clear.\n• Se ha cambiado el límite del complemento de respuesta automática de 10 a Sin límites.\n• Puedes crear más de 3 roles de reacción.\n• Añadir más de 10 animes en el complemento Auto-Animes\n• Añadir más de 10 canales en el complemento Auto-YouTube\n• Añadir más de 2 canales en el complemento Auto-Twitch\n\nEs mucho, ¿no? ¿Imagen para tener acceso a todo esto y de forma gratuita? ¿No te lo puedes creer? hmmm... porque créeme! Y hay dos formas de obtener una prima:\n\n**1 - IMPULSAR EN MI [SERVIDOR DE SOPORTE] ({{SupportServer}}) **\nUn pequeño impulso no estaría de más, ¿verdad? Además de hacer que mi servidor de soporte sea más ingenioso, me permitirá enviar emojis geniales en mis mensajes.\nAdemás, el aumento en el servidor de soporte equivale a **30 días de PREMIUM**, y cualquier usuario de tu servidor o cualquier amigo, puede potenciar mi servidor y activar la prima en tu servidor para ti, si no tienes discord nitro.\n\n**2 - VOTOS Hope**\nAl votar por mí, me ayudas a tener más visibilidad para que más gente genial como tú pueda tenerme en sus servidores.\nPuedes consultar la lista de listas de bots disponibles para recompensas con el comando `{{prefix}}votos»\nOh, y cada voto equivale a **12 horas de PREMIUM**, y puedes votar cada 12 horas.",
+    "PREMIUM_FOOTER1": "Siempre que apoyas a Hope, demuestras que está en el camino correcto y le das a su desarrollador un gran incentivo para que siga mejorando."
+}

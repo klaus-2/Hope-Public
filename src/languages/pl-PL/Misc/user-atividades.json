@@ -1,0 +1,23 @@
+{
+    "DESCRIPTION": "Pobiera szczegółowo wszystkie działania stanu wspomnianego użytkownika.",
+    "USAGE": "aktywności użytkownika\n💡 **Przyklad**: {{EXAMPLE}}",
+    "USAGEE": "aktywności użytkownika [user]",
+    "EXAMPLE": "aktywności użytkownika @Hope",
+    "EUAT_DESC": "**Brak status**",
+    "EUAT_DESC1": "Ten użytkownik nie ma niestandardowego statusu!",
+    "EUAT_DESC2": "**Status**",
+    "EUAT_DESC3": "**Spersonalizowany status**",
+    "EUAT_DESC4": "Bez emoji",
+    "EUAT_DESC5": "Bieżąca aktywność {{user}}",
+    "EUAT_DESC6": "**Typ/",
+    "EUAT_DESC7": "Odtwarzanie",
+    "EUAT_DESC8": "**Aplikacja**",
+    "EUAT_DESC9": "**Szczegóły**",
+    "EUAT_DESC10": "Brak szczegółów",
+    "EUAT_DESC11": "**Praca w**",
+    "EUAT_DESC12": "Spotify | Informacje o utworze",
+    "EUAT_DESC13": "Nazwa utworu",
+    "EUAT_DESC14": "Album",
+    "EUAT_DESC15": "Autor",
+    "EUAT_DESC16": "Słuchaj muzyki"
+}

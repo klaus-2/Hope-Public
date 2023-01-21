@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Localiza o membro mais antigo no servidor.",
+    "USAGE": "old\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "old",
+    "EXAMPLE": "old",
+    "FOLD_DESC": "Uau! Encontrei o membro mais antigo neste servidor",
+    "FOLD_DESC1": "é o usuário mais antigo em",
+    "FOLD_DESC2": "A sua conta no Discord foi criada em:",
+    "FOLD_DESC3": "nossa é muito tempo!"
+}

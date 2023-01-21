@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Hiermee stelt u de Economia verjaardag in voor uw Economia-kaart.",
+    "USAGE": "setbirthday <d-m>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "set verjaardag <d-m>",
+    "EXAMPLE": "set verjaardag 02-12",
+    "NIVER": "vul je **verjaardag** in!",
+    "NIVER1": "gelieve de datum in te voeren in het formaat **DD-MM**",
+    "NIVER2": "je verjaardagsdatum is bijgewerkt"
+}

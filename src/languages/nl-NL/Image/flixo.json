@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Speel de foto van een gebruiker af in de prullenbak.",
+    "USAGE": "trash [user]\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "uitschot",
+    "EXAMPLE": "vuilnis @Hope",
+    "FLIXO_DESC": "gooide gewoon",
+    "FLIXO_DESC1": "in de vuilnisbak",
+    "FLIXO_DESC2": "Ga je deze laten gaan?",
+    "FLIXO_DESC3": "en krijg even 😈",
+    "FLIXO_DESC4": "Whoa!"
+}

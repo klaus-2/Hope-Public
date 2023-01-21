@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "zastosować efekt bassboost do muzyki.",
+    "USAGE": "bassboost [value] | [off]\n💡 **Przykład: {{EXAMPLE}}",
+    "USAGEE": "bassboost [value] | [off]",
+    "EXAMPLE": "bassboost 8 | bb -4 | bassboost off",
+    "ON": "Aktywacja efektu **bassboost**. <:Skyedana:823046653371482114> To może potrwać kilka sekund...",
+    "BASSBOOST1": "<:v_:855859391835799582> **bassboost** został aktywowany.",
+    "OFF": "Dezaktywacja efektu **bassboost**. <:SkyeouvinDomusica:823046654554144768>\nTo może potrwać kilka sekund...",
+    "BASSBOOST2": "<:cancel:855859391709577266> **bassboost** został dezaktywowany.",
+    "BASSBOOST4": "Ilość musi być liczbą rzeczywistą.",
+    "BASSBOOST5": "Ustawienie bassboost na",
+    "BASSBOOST6": "To może potrwać kilka sekund...",
+    "BASSBOOST7": "Bassboost ustawiony na:"
+}

@@ -1,0 +1,18 @@
+{
+    "DESCRIPTION": "spielen Rock, Paper, Schere mit Hope.",
+    "USAGE": "rps <rock / paper / scissors>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "rps <rock / paper / scissors>",
+    "EXAMPLE": "rps",
+    "FPPT_DESC": "felsen",
+    "FPPT_DESC1": "papier",
+    "FPPT_DESC2": "scheren",
+    "FPPT_DESC3": "Stein - Papier - Schere",
+    "FPPT_DESC4": "Wählen Sie eine Option",
+    "FPPT_DESC5": "zog mit Himmel",
+    "FPPT_DESC6": "gewonnen",
+    "FPPT_DESC7": "verloren",
+    "FPPT_DESC8": "Sie wählen:",
+    "FPPT_DESC9": "Hope chose",
+    "FPPT_DESC10": "Ergebnis: Sie",
+    "FPPT_DESC11": "Es hat zu lange gedauert!"
+}

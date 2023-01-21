@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Enable or disable the suggestion addon.",
+    "USAGE": "bv-channel <channelID>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "bv-channel <channelID>",
+    "EXAMPLE": "bv-channel 8973474238977",
+    "BV_CANAL": "อัปเดตช่องสำเร็จเป็น: "
+}

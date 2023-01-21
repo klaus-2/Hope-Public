@@ -1,0 +1,23 @@
+{
+    "DESCRIPTION": "Get a daily cash reward for the Economy addon.",
+    "USAGE": "daily\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "daily",
+    "EXAMPLE": "daily",
+    "BONUS_DIARIO": "<:cancel:855859391709577266> You have already collected your daily reward\n\nThe next reward will be available at",
+    "BONUS_DIARIO1": "and",
+    "BONUS_DIARIO2": "ok?",
+    "BONUS_DIARIO3": "<:v_:855859391835799582> You have collected your daily reward of",
+    "BONUS_DIARIO4": "skcoins successfully.",
+    "BONUS_DIARIO5": "**Thanks for your support**",
+    "BONUS_DIARIO6": "Ah! And of course I noticed your majestic presence there on my [Support Server]({{SupportServer}}), and as a thank you I'm giving you a gift",
+    "BONUS_DIARIO7": "bonus skcoins** extra!",
+    "BONUS_DIARIO8": "**Congratulations**",
+    "BONUS_DIARIO9": "<:SkyeComemorando:823248929503445026> **You received a pretty cool item for your profile as a gift!**: You've won",
+    "BONUS_DIARIO10": "for their daily rewards. The Item has already been added to your inventory!",
+    "BONUS_DIARIO11": "**Bank notice**:",
+    "BONUS_DIARIO12": "⚠️ Attention! Your wallet can't hold any more money. She's reached the $60,000 limit!\nYou need to transfer some of your money to your bank!",
+    "BONUS_DIARIO13": "**Streak Lost**:",
+    "BONUS_DIARIO14": "⚠️ How come you're not collecting your rewards every day and you're missing out on amazing rewards? Oh too bad, for now your streak is **x1**.",
+    "BONUS_DIARIO15": "🔥 **Wow, your current streak is",
+    "BONUS_DIARIO16": "Keep it up"
+}

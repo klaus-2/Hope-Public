@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Cria um codigo QR.",
+    "USAGE": "qrcode <texto / anexo>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "qrcode <texto / anexo>",
+    "EXAMPLE": "qrcode https://www.google.com/ | qrcode <anexo> | qrcode Oi, e ai",
+    "QR1": "Oi",
+    "QR2": "Você converteu:",
+    "QR3": "em QRCode com sucesso."
+}

@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Generate a code for redemption.",
+    "USAGE": "generatecode <month | year>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "generatecode <month | year>",
+    "EXAMPLE": "ggeneratecode mês",
+	"NOVO_PREMIUM": "month",
+	"NOVO_PREMIUM1": "year",
+	"NOVO_PREMIUM2": "Provide a Plan!",
+	"NOVO_PREMIUM3": "Generated",
+	"NOVO_PREMIUM4": "Premium Code(s)",
+	"NOVO_PREMIUM5": "Type:",
+	"NOVO_PREMIUM6": "Expires:"
+}

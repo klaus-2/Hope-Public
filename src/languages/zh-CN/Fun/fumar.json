@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "抽一支烟。",
+    "USAGE": "smoke\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "烟雾",
+    "EXAMPLE": "烟雾",
+    "FFUMAR_DESC": "* 点燃香烟 *",
+    "FFUMAR_DESC1": "戒烟"
+}

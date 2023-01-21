@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "criar um kaartje.",
+    "USAGE": "ticket-criar [motivo]\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "ticket-setup",
+    "EXAMPLE": "ticket-setup",
+    "TICKET_CRIAR": "Gebruiker heeft een ticket gemaakt",
+    "TICKET_CRIAR1": "Ticket met succes gemaakt!",
+    "TICKET_CRIAR2": "<:v_:855859391835799582> Je kunt het zien op het kanaal: <{{channel}}>",
+    "TICKET_CRIAR3": "Hallo {{author}}, ik ben Hope",
+    "TICKET_CRIAR4": "Je accepteert een ☕ terwijl je wacht op iemand van de",
+    "TICKET_CRIAR5": "Ik kwam om met je te praten?\n\nHmmm... Het duurt te lang, wacht even, ik bel ze!\n📢 OOOOOH",
+    "TICKET_CRIAR6": "het is tijd om te werken!",
+    "TICKET_CRIAR7": "je bent hier om de reden:",
+    "TICKET_CRIAR8": "Ticket open!",
+    "TICKET_CRIAR9": "Ticket",
+    "TICKET_CRIAR10": "Gebruiker",
+    "TICKET_CRIAR11": "Reden",
+    "TICKET_CRIAR12": "Geopend door",
+    "COOLDOWN": "Je kunt een kaartje openen in {{NUM}} minuten."
+}

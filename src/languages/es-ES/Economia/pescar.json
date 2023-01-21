@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Haz un viaje de pesca.",
+    "USAGE": "fish\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "pescado",
+    "EXAMPLE": "pescado",
+    "PESCAR": "<:cancelar: 855859391709577266> ¡Guau! Como no ha pasado mucho tiempo desde que soltó una línea, los peces siguen asustados.\nQuizás en unos pocos",
+    "PESCAR1": "y",
+    "PESCARR": "ya están tranquilos para que los vuelvas a pecar <:Skyeissoai 2:823248929700446228 >",
+    "PESCAR2": "🎣 Lanzaste tu línea y tomaste un",
+    "PESCAR3": "Después de venderlo en la pescadería de Peter, obtuviste **$",
+    "PESCAR4": "skcoins!",
+    "PESCAR5": "list",
+    "PESCAR6": "recompensas",
+    "PESCAR7": "Lista de nombres de peces y recompensas que puedes obtener",
+    "PESCAR8": "```\n🔧 Basura። Recompensa máxima: 5, Recompensa mínima: 1\n🐟 Común። Recompensa máxima: 25, Recompensa mínima: 10\n🐠 Poco común። Recompensa máxima: 50, Recompensa mínima: 18\n🦑 Rara። Máxima recompensa: 75, Recompensa mínima: 30\n🐋 Legendaria። Recompensa máxima: 100, Recompensa mínima: 50```\n**Todas las recompensas son aleatorias de máx./min **"
+}

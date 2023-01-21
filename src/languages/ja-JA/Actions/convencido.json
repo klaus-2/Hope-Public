@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "確信を得るために反応を生成します。",
+    "USAGE": "smug",
+    "USAGEE": "smug",
+    "CONVENCIDO_DESCRIÇÃO": "<@{{member}}> が確信しています。"
+}

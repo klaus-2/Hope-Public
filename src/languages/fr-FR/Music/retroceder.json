@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "rembobine le lecteur de la valeur spécifiée.",
+    "USAGE": "rewind <time>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "rewind <time",
+    "EXAMPLE": "rewind 1:00 | rewind 1:32:00",
+    "RETROCEDER": "Une chanson ne peut pas avoir moins de 0 secondes de long",
+    "RETROCEDER1": "Rembobiné",
+    "RETROCEDER2": "à:",
+    "RETROCEDER3": "Temps dans un format non valide"
+}

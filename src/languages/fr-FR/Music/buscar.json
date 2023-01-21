@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "rechercher une chanson sur Internet.",
+    "USAGE": "search <link / song name>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "rechercher <link / song name>",
+    "EXAMPLE": "search anchor - novo amor",
+    "BUSCAR": "Vous n'êtes pas sur un canal vocal auquel je peux me connecter.",
+    "BUSCAR1": "Ce sont les résultats pour",
+    "BUSCAR2": "Choisissez un nombre de 1 à 10 ou annulez. (30s)",
+    "BUSCAR3": "<:SkyeTempo:823047534854668298> Ahhhhhh... vous n'avez pas choisi une chanson à temps.",
+    "BUSCAR4": "La recherche a été annulée avec succès.",
+    "BUSCAR5": "Le nombre que vous avez fourni était soit trop petit soit trop grand (Choisir entre",
+    "BUSCAR6": "a bien été ajouté à la file d'attente."
+}

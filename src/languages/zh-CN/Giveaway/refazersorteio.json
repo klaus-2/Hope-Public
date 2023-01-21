@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Refaz 嗯 sorteio。",
+    "USAGE": "g-reroll <ID da mensage>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "g-reroll <messageID>",
+    "EXAMPLE": "g-reroll 81882143625255895612",
+    "SUCCESS_GIVEAWAY": "<: v_: 855859391835799582> 成功！赠品重新推出！",
+    "CONGRAT": "🎉 新赢家： {winners}！恭喜！",
+    "ERROR": "没有有效的参赛作品，没有赢家可以选择！"
+}

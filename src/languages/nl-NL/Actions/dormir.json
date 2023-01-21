@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Zet de gebruiker in slaapstand.",
+    "USAGE": "slaap [user]",
+    "USAGEE": "slaap [user]",
+    "DORMIR_DESCRIÇÃO": "<@{{author}}> is in slaap gegaan!",
+    "DORMIR_DESCRIÇÃO1": "viel in slaap met",
+    "DORMIR_DESCRIÇÃO2": "<@{{author}}>, ik ben niet slapen...."
+}

@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "選択したサブレディットからランダムなアニメミームを生成する。",
+    "USAGE": "memes\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "ミーム",
+    "EXAMPLE": "ミーム | animeme | ameme | animememe",
+    "AMEMES_DESC": "失敗しました"
+}

@@ -1,0 +1,18 @@
+{
+    "DESCRIPTION": "예정된 애니메이션 목록을 표시합니다.",
+    "USAGE": "nextani\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "nextani",
+    "EXAMPLE": "nextani | pa tv | p-animes ona | proximos-animes ova | p-animes movie | pa special | upcoming -",
+    "APROX_DESC": "다음 검색",
+    "APROX_DESC1": "애니메이션",
+    "APROX_DESC2": "응답 오류",
+    "APROX_DESC3": "** {{member}} **, 예상치 못한 오류가 발생했습니다!\n\n",
+    "APROX_DESC4": "MyAnimeList가 오류 코드 {{status}} 로 응답했습니다.",
+    "APROX_DESC5": "다음 애니메이션 목록",
+    "APROX_DESC6": "장르:",
+    "APROX_DESC7": "모든",
+    "APROX_DESC8": "명령",
+    "APROX_DESC9": "페이지",
+    "APROX_DESC10": "의",
+    "APROX_DESC11": "아직 시놉시스가 없습니다."
+}

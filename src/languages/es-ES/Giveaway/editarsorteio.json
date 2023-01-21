@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Edita um sorteio ativo.",
+    "USAGE": "g-edit <messageID> <AddedTime> <newWinnerCount> <NewPrize>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "g-delete <messageID>",
+    "EXAMPLE": "g-delete 818821436255895612",
+    "EDIT_GIVEAWAY": "<:v_:855859391835799582> ¡Éxito! El sorteo se actualizará en menos de {{time}} segundos.",
+    "INCORRECT_WINNER_COUNT": "Oye, el conteo de ganadores debería ser un número del 0 al 100.\n Shhh... sí, no se lo diré a nadie, lo prometo 🤞"
+}

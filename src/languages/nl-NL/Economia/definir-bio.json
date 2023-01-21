@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Hiermee stelt u de profielbiografie voor uw profielkaart in.",
+    "USAGE": "setbio <message>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "setbio <message>",
+    "EXAMPLE": "setbio De coolste persoon van de stad",
+    "BIO": "Hallo {{author}}, je hebt al een biografie",
+    "BIO1": "Gebruik `{{prefix}}setbio <newMessage>` om je biografie te veranderen",
+    "BIO2": "Je moet een boodschap voor je bio instellen.",
+    "BIO3": "je hebt de **limiet van `165` toegestane tekens bereikt!",
+    "BIO4": "Hallo {{author}}, je hebt een nieuwe biografie gezet!",
+    "BIO5": "Je kunt het bekijken met het commando `{{prefix}}profile`"
+}

@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "サーバーからユーザーをキックします。",
+    "USAGE": "蹴る <user> [reason]\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "キック <user> [reason]",
+    "EXAMPLE": "チャットでスカイのスパムを蹴る",
+    "KICK": "追放された！",
+    "KICK1": "お前は追い出された",
+    "KICK2": "蹴られた:",
+    "KICK3": "理由:"
+}

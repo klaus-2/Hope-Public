@@ -1,0 +1,17 @@
+{
+    "DESCRIPTION": "获取有关某个国家/地区的 Covid-19 的实时信息。",
+    "USAGE": "covid [country]\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "covid [country]",
+    "EXAMPLE": "covid 美国 | covid",
+    "COVID": "冠状病毒统",
+    "COVID1": "确诊病例",
+    "COVID2": "今日案例",
+    "COVID3": "今天死亡",
+    "COVID4": "活跃",
+    "COVID5": "已恢复",
+    "COVID6": "死亡",
+    "COVID7": "测试",
+    "COVID8": "每个密尔的案例数",
+    "COVID9": "每万人死亡人数",
+    "COVID10": "上次更新"
+}

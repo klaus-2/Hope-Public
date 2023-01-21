@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Receba um conselho aleatorio da Hope.",
+    "USAGE": "conselho\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "conselho",
+    "EXAMPLE": "conselho",
+    "FCONSELHO_DESC": "./resources/other/conselhos-en.json",
+    "FCONSELHO": "Conselhos da {{bot}}"
+}

@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Avançar rapidamente o プレーヤーペロ・バロー特別な.",
+    "USAGE": "fastforward <time>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "早送り <time>",
+    "EXAMPLE": "早送り 1:00 | ffw 1:32:00",
+    "AVANÇAR": "よし、今の曲で`{{OLD}}`進んだ！現在の時刻は `{{NEW}}` です。",
+    "AVANÇAR1": "現在の曲の中にある。\n現在の時刻:",
+    "AVANÇAR2": "音楽は持っている"
+}

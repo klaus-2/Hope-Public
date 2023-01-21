@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Druk een set van scheld/blush uit.",
+    "USAGE": "blush [user]",
+    "USAGEE": "blush [user]",
+    "VERGONHA_DESCRIÇÃO": "<@{{author}}> is beschaamd",
+    "VERGONHA_DESCRIÇÃO1": "is beschaamd over"
+}

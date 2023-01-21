@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Zastosuj ostrzeżenie do użytkownika.",
+    "USAGE": "ostrzec <user> [time] [reason]\n💡 **Przykład: {{EXAMPLE}}",
+    "USAGEE": "ostrzec <user> [time] [reason]",
+    "EXAMPLE": "ostrzec @Hope 1h test"
+}

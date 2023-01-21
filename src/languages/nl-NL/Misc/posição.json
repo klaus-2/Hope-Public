@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "de inlogpositie van een gebruiker op de server weergeven.",
+    "USAGE": "positie <user>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "positie <user>",
+    "EXAMPLE": "positie @Hope",
+    "EPOS_DESC": "Join positie",
+    "EPOS_DESC1": "was de",
+    "EPOS_DESC2": "de gebruiker om binnen te komen"
+}

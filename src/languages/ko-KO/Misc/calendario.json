@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "작은 달력을 표시합니다.",
+    "USAGE": "캘린더\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "달력",
+    "EXAMPLE": "달력",
+    "ECALEN_DESC": "📅 | 캘린더",
+    "ECALEN_DESC1": "오늘 날짜:",
+    "ECALEN_DESC2": "즉,",
+    "ECALEN_DESC3": "요일:",
+    "ECALEN_DESC4": "일정:",
+    "ECALEN_DESC5": "10일 전 날짜:",
+    "ECALEN_DESC6": "지금부터 10일:"
+}

@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "누군가를 위해 흔들어.",
+    "USAGE": "wave [user]",
+    "USAGEE": "wave [user]",
+    "ACENAR_DESCRIÇÃO1": "<@{{author}}> 손을 흔들었다!",
+    "ACENAR_DESCRIÇÃO2": "<@{{user}}> 웨이브백",
+    "ACENAR_DESCRIÇÃO3": " 손을 흔들었다 "
+}

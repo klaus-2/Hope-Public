@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "プロフィールカードのプロフィールプロフィールプロフィールを設定します。",
+    "USAGE": "setbio <message>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "setbio <message>",
+    "EXAMPLE": "setbio 町で一番かっこいい人",
+    "BIO": "こんにちは {{author}}、あなたはすでに略歴を持っています",
+    "BIO1": "経歴を変えるには `{{prefix}}setbio <newMessage>` を使う",
+    "BIO2": "自己紹介のメッセージを設定する必要があります。",
+    "BIO3": "許可される**165文字の制限に達しました！",
+    "BIO4": "こんにちは {{author}}、新しい伝記を設定しました！",
+    "BIO5": "コマンド `{{prefix}}profile` で調べればいいよ"
+}

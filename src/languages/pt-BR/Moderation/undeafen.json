@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Reativa o audio de um usuario.",
+    "USAGE": "reaudio <user>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "reaudio <user>",
+    "EXAMPLE": "reaudio @Hope",
+    "REAUDIO": "Eu não posso ensurdecer alguém que não esteja em um canal de voz."
+}

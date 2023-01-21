@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "都市の気象情報を検索します。",
+    "USAGE": "weather <localization>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "天気 <localization>",
+    "EXAMPLE": "天気ニューヨーク | 天気ニューヨーク",
+    "TEMPO": "熱感覚:",
+    "TEMPO1": "度",
+    "TEMPO2": "タイムゾーン:",
+    "TEMPO3": "学位タイプ:",
+    "TEMPO4": "緯度と経度:",
+    "TEMPO5": "場所が無効です",
+    "TEMPO_TITULO": "天気- {{place}}",
+    "TEMPO_DESCRIÇÃO": "温度単位は多少異なる場合があります",
+    "TEMPO6": "温度:",
+    "TEMPO7": "空のテキスト:",
+    "TEMPO8": "湿度:",
+    "TEMPO9": "風速:",
+    "TEMPO10": "観測時間:",
+    "TEMPO11": "風の表示:"
+}

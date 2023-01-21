@@ -1,0 +1,18 @@
+{
+    "DESCRIPTION": "Zoek een personage op MyAnimeList.net",
+    "USAGE": "karakter <name>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "karakter <name>",
+    "EXAMPLE": "karakter mai sakurajima | anichar Mai Sakurajima | char Mai-san | karakter mai",
+    "APERSO_DESC": "Op zoek naar een teken met de naam **{{query}}** in <:MyAnimeList:827773575112425472> [MyAnimeList](https://myanimelist.net 'Site').",
+    "APERSO_DESC1": "Er zijn geen resultaten gevonden voor **{{query}}**!\n\nAls je denkt dat dit personage bestaat, probeer dan hun alternatieve namen.",
+    "APERSO_DESC2": "Ik heb een beperkt tarief op {{badge}}. Probeer het later nog eens.",
+    "APERSO_DESC3": "Kon geen toegang krijgen tot {{badge}}. De site is op dit moment mogelijk niet beschikbaar.",
+    "APERSO_DESC4": "Niets gevonden",
+    "APERSO_DESC5": "Reactiefout",
+    "APERSO_DESC6": "reageerde met HTTP-foutcode",
+    "APERSO_DESC7": "Lees meer",
+    "APERSO_DESC8": "visuals",
+    "APERSO_DESC9": "geen",
+    "APERSO_DESC10": "en",
+    "APERSO_DESC11": "meer!"
+}

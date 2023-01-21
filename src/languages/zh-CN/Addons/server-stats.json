@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "在服务器上显示统计信息。",
+    "USAGE": "服务器统计数据 <enable | disable>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "服务器统计数据 <enable | disable>",
+    "EXAMPLE": "启用服务器统计信息",
+    "STATS": "enable",
+    "STATS1": "“服务器统计信息” 插件已成功激活。",
+    "STATS2": "disable",
+    "STATS3": "“服务器统计信息” 插件已成功禁用。",
+    "STATS4": "哎呀！你需要先激活插件。"
+}

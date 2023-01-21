@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "在 Twitch 上获取有关用户的信息。",
+    "USAGE": "抽搐 <user>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "抽搐 <user>",
+    "EXAMPLE": "抽搐裹尸布",
+    "TWITCH": "是啊！等等，我正在收集一些信息...",
+    "TWITCH1": "传记：",
+    "TWITCH2": "该用户没有个人简历。",
+    "TWITCH3": "总浏览量",
+    "TWITCH4": "追随者",
+    "TWITCH5": "到",
+    "TWITCH6": "观众",
+    "TWITCH7": "找不到 Twitch 用户。"
+}

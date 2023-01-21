@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "点击所提及的用户。",
+    "USAGE": "tickle [user]",
+    "USAGEE": "tickle [user]",
+    "COCEGAS_DESCRIÇÃO": "停止 <@{{author}}>! Tickles~",
+    "COCEGAS_DESCRIÇÃO1": "\\❌ 有趣的打勾你自己**<@{{author}}>**!",
+    "COCEGAS_DESCRIÇÃO2": "打勾在"
+}

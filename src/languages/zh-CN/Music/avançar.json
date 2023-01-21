@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "avançar 快速或玩家 pelo valor specificado。",
+    "USAGE": "快进 <time>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "快进 <time>",
+    "EXAMPLE": "快进 1:00 | ffw 1:32:00",
+    "AVANÇAR": "好吧，我在当前歌曲中提高了 “{{OLD}}”！现在它的现在时间是：`{{NEW}}`。",
+    "AVANÇAR1": "在当前歌曲中。\n当前时间：",
+    "AVANÇAR2": "音乐只有"
+}

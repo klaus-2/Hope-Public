@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Activa o desactiva el complemento de sugerencias.",
+    "USAGE": "bv-channel <channelID>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "bv-canal <channelID>",
+    "EXAMPLE": "canal v 8973474238977",
+    "BV_CANAL": "El canal se ha actualizado correctamente a: "
+}

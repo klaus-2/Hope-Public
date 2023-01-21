@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "オートカーゴダスカイのエステサービス業のコンフィギュラー。",
+    "USAGE": "mod-channel <channelID>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "モッズチャネル <channelID>",
+    "EXAMPLE": "modチャンネル8654930377",
+    "MOD_CANAL": "設定:`サーバー`",
+    "MOD_CANAL1": "<: v_: 855859391835799582> `level` の設定が正常に更新されました。",
+    "MOD_CANAL2": "レベル設定",
+    "MOD_CANAL3": "チャンネルをから変更しました"
+}

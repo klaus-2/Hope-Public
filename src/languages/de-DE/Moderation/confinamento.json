@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "trancar um canal por um determinado tempo.",
+    "USAGE": "sperren <time>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "sperren <time>",
+    "EXAMPLE": "sperren 1",
+    "CONFINAMENTO": "ACHTUNG",
+    "CONFINAMENTO1": "Der Kanal",
+    "CONFINAMENTO2": "wurde unter Haft gesetzt für",
+    "CONFINAMENTO3": "Die Einschließung des Kanals",
+    "CONFINAMENTO4": "wurde aufgehoben."
+}

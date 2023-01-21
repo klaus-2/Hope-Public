@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "現在の曲をスキップします。",
+    "USAGE": "skip\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "スキップ",
+    "EXAMPLE": "スキップ"
+}

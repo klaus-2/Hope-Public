@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Erstelle eine gefälschte Clyde-Nachricht.",
+    "USAGE": "clyde <text>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "clyde <text>",
+    "EXAMPLE": "clyde Hope ist der beste Bot der Welt <3"
+}

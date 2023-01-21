@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Fügen Sie ein Lied zur Playlist hinzu.",
+    "USAGE": "p-add <playlist name> <song>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "p-add <playlist name> <song>",
+    "EXAMPLE": "p-add Test https://www.youtube.com/watch?v=4AnmemzByVY",
+    "P_ADD": "Etwas seltsam ist passiert",
+    "P_ADD1": "Keine Wiedergabeliste mit Namen gefunden: `{{name}}`.",
+    "P_ADD2": "{{num}} neue Lied(e) zur Wiedergabeliste hinzugefügt: `{{title}}`.",
+    "P_ADD3": "Ergebnisse für {{title}}",
+    "P_ADD4": "{{results}}\n\n\tWähle eine Zahl von 1-10 oder abbrechen.\n",
+    "P_ADD5": "Die angegebene Nummer war zu klein oder zu groß (1-{{num}})."
+}

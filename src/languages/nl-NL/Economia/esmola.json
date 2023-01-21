@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Vraag om aalmoezen en ontvang een klein bedrag.",
+    "USAGE": "palms\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "aalmoezen",
+    "EXAMPLE": "aalmoezen",
+    "ESMOLA": "<:cancel:855859391709577266> Heb je ooit onlangs gesmeekt",
+    "ESMOLA1": "Smeek er weer in",
+    "ESMOLA2": "en",
+    "ESMOLA3": "<:v_:855859391835799582> Je hebt gesmeekt en ontvangen",
+    "ESMOLA4": "skcoins"
+}

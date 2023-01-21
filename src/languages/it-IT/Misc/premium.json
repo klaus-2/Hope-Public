@@ -1,0 +1,18 @@
+{
+    "DESCRIPTION": "Exibe o status do usuario.",
+    "USAGE": "premium\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "premio",
+    "EXAMPLE": "premio",
+    "PREMIUM_AUTHOR": "Ciao, {{author}}",
+    "PREMIUM_DESC": "Queste sono le informazioni **Abbonamento Premium** per il server **{{guild}}**",
+    "PREMIUM_DESC1": "**Piano attuale** {{plan}}",
+    "PREMIUM_DESC2": "Codice: <unk> <unk> **{{code}} **<unk>",
+    "PREMIUM_DESC3": "Data di rimborso:** {{date}}",
+    "PREMIUM_DESC4": "**Riscatta da:** <@{{user}}>",
+    "PREMIUM_DESC5": "**Id Server:** {{guild}}",
+    "PREMIUM_DESC6": "**Scade il:** {{expires}}",
+    "PREMIUM_TITULO": "Ciao, {{author}}",
+    "PREMIUM_FOOTER": "Ricorda che dopo la scadenza del piano, tutte le funzioni premium saranno automaticamente disabilitate sul server.",
+    "PREMIUM_DESC7": "Così contento che siate interessati a diventare premium!\n\nPremium è il modo di un utente di restituirmi e ottenere alcuni benefici piacevoli da me.\n\n**BECOMING Hope PREMIUM YOU WILL BE ABLE TO:**\n• Mantenere Hope su un canale vocale 24/7\n• Fare il backup completo del server (Seriamente, Posso salvare tutti, categorie, canali, messaggi, emoji e posizioni)\n• Personalizzare addon embeds Ticket, Sticky e Compleanni.\n• Permesso di creare più di 2 playlist su HopeDJ <:SkyeOuvindoMusica:823046654554144768>\n• Bonus di denaro per il sistema di economia globale di Hope.\n• Eliminare fino a 1000 messaggi contemporaneamente con il comando chiaro.\n• Limite addon Auto-Response modificato da 10 a No limits.\n• È possibile creare più di 3 ruoli di reazione.\n• Aggiungi più di 10 anime in Auto-Animes addon\n• Aggiungi più di 10 canali in Auto-YouTube addon\n• Aggiungi più di 2 canali in Auto-Twitch addon\n\nÈ un sacco, non è vero? Immagine per avere accesso a tutto questo e gratuitamente? Non puoi crederci? hmmm. . perché credete! E ci sono due modi per ottenere premium:\n\n**1 - BOOST ON MY [SUPPORT SERVER]({{SupportServer}})**\nUna piccola spinta non farebbe male, vero? Oltre a rendere il mio server di supporto più intraprendente, mi permetterà di inviare emoji davvero cool nei miei messaggi.\nInoltre, boost sul server di supporto è equivalente a **30 giorni di PREMIUM**, e qualsiasi utente del tuo server o di qualsiasi amico, può aumentare il mio server e attivare il premio sul server per voi, se non si dispone di discord nitro.\n\n**2 - Hope VOTES**\nVotando per me mi aiuti a ottenere maggiore visibilità in modo da persone più cool come si può avere me sui loro server.\nPuoi controllare la lista delle botlist disponibili per la ricompensa con il comando `{{prefix}}vote`\nOh, e ogni voto equivale a **12 ore di PREMIUM**, e puoi votare ogni 12 ore.",
+    "PREMIUM_FOOTER1": "Ogni volta che si supporta Hope, si dimostra che lei è sulla giusta traccia, e dare al suo sviluppatore un super incentivo a continuare a farla meglio."
+}

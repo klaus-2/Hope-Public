@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Rétablir le son d'un utilisateur.",
+    "USAGE": "unmute <user> \n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "réactiver le son de <user>",
+    "EXAMPLE": "unmute Hope"
+}

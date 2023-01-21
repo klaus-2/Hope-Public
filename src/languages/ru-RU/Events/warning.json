@@ -1,0 +1,15 @@
+{
+    "WARNING_SYSTEM": "ВНИМАНИЕ",
+    "WARNING_SYSTEM1": "Вы получили предупреждение в {{guild}}.",
+    "WARNING_SYSTEM2": "Посоветовали:",
+    "WARNING_SYSTEM3": "Причина:",
+    "WARNING_SYSTEM4": "Предупреждение:",
+    "WARNING_SYSTEM5": "1/3",
+    "WARNING_SYSTEM6": "Вы получили еще одно предупреждение в {{guild}}.",
+    "WARNING_SYSTEM7": "2/3",
+    "WARNING_SYSTEM8": "[KICK]",
+    "WARNING_SYSTEM10": "[WARN]",
+    "WARNING_SYSTEM11": "Пользователь:",
+    "WARNING_SYSTEM12": "Модератор:",
+    "WARNING_SYSTEM13": "Предупреждения:"
+}

@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Define a quantidade de reputação de um usuario.",
+    "USAGE": "set-rep <user> <valor>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "set-rep <user> <valor>",
+    "EXAMPLE": "set-rep @User 17",
+    "SET_REP": "ユーザーレピュテーション{{member}}が{{received}}から{{valor}}に変更されました。",
+    "SET_REP1": "評判の値は数字でなければなりません。例：`.set-rep @User 15`."
+}

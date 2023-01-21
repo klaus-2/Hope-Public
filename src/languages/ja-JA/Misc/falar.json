@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "スカイに何か言わせて",
+    "USAGE": "<message>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "say <message>",
+    "EXAMPLE": "スカイは世界で最高のボットだと言って下さる<3",
+    "EFALAR_DESC": "こんにちは、私はスカイだ、と言いたかっただけだ..."
+}

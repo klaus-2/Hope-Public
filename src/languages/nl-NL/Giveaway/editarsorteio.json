@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Edita um sorteio ativo.",
+    "USAGE": "g-edit <messageID> <AddedTime> <newWinnerCount> <NewPrize>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "g-verwijderen <messageID>",
+    "EXAMPLE": "g-Verwijder 818821436255895612",
+    "EDIT_GIVEAWAY": "<:v_:855859391835799582> Succes! Giveaway wordt in minder dan {{time}} seconden bijgewerkt.",
+    "INCORRECT_WINNER_COUNT": "Hey, het aantal winnaars zou een getal moeten zijn van 0-100.\n Shhh... ja ik vertel het niemand, ik beloof het 🤞"
+}

@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "사용자에게 경고를 적용합니다.",
+    "USAGE": "경고 <user> [time] [reason]\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "경고 <user> [time] [reason]",
+    "EXAMPLE": "경고 @Hope 1시간 테스트"
+}

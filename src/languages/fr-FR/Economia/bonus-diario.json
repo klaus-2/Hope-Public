@@ -1,0 +1,23 @@
+{
+    "DESCRIPTION": "Obtenez une récompense quotidienne en espèces pour l'addon Economy.",
+    "USAGE": "quotidiennement\n💡**Exemple**: {{EXAMPLE}}",
+    "USAGEE": "tous les jours",
+    "EXAMPLE": "tous les jours",
+    "BONUS_DIARIO": "<:cancel:855859391709577266> Vous avez déjà collecté votre récompense quotidienne\n\nLa prochaine récompense sera disponible à",
+    "BONUS_DIARIO1": "et",
+    "BONUS_DIARIO2": "ok?",
+    "BONUS_DIARIO3": "<:v_:855859391835799582> Vous avez collecté votre récompense quotidienne de",
+    "BONUS_DIARIO4": "skcoins avec succès.",
+    "BONUS_DIARIO5": "**Merci pour votre soutien**",
+    "BONUS_DIARIO6": "Ah! Et bien sûr, j'ai remarqué votre majestueuse présence sur mon [serveur de support]({{SupportServer}}), et en guise de remerciement, je vous donne un cadeau",
+    "BONUS_DIARIO7": "bonus skcoins** extra !",
+    "BONUS_DIARIO8": "**Congratulations**",
+    "BONUS_DIARIO9": "<:SkyeComemorando:823248929503445026> **Vous avez reçu un objet plutôt cool pour votre profil comme cadeau!**: Vous avez gagné",
+    "BONUS_DIARIO10": "pour leurs récompenses quotidiennes. L'objet a déjà été ajouté à votre inventaire!",
+    "BONUS_DIARIO11": "**Avis bancaire** :",
+    "BONUS_DIARIO12": "⚠️ Attention! Votre portefeuille ne peut plus contenir d'argent. Elle a atteint la limite de 60 000 $ !\nVous devez transférer une partie de votre argent à votre banque !",
+    "BONUS_DIARIO13": "**Streak Lost**:",
+    "BONUS_DIARIO14": "⚠️ Comment se fait-il que vous ne collectiez pas vos récompenses chaque jour et que vous manquiez des récompenses incroyables ? Oh trop mal, pour l'instant votre série est **x1**.",
+    "BONUS_DIARIO15": "🔥 **Wow, ta série actuelle est",
+    "BONUS_DIARIO16": "Continuez comme ça"
+}

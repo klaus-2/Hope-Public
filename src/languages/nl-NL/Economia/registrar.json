@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Begin met het verdienen van credits Schrijf je in om je verdiende credits bij te houden!",
+    "USAGE": "registreren\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "registreren",
+    "EXAMPLE": "registreren",
+    "REGISTRAR": "oké! <:SkyeIssoai 1:823223048701739028 >Je bent al geregistreerd.\nControleer je profiel met {{prefix}}`profile` of je saldo met {{prefix}}`bal`",
+    "REGISTRAR1": "je bent succesvol geregistreerd in de database van Hope!\nAls beleefdheid voor de registratie geef ik je cadeau**$",
+    "REGISTRAR2": "skcoins**!\nOm je saldo te controleren, typ je `{{prefix}}bal`"
+}

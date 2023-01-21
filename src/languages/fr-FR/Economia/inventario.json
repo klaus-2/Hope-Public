@@ -1,0 +1,21 @@
+{
+    "DESCRIPTION": "Vérifiez vos articles.",
+    "USAGE": "inventaire\n💡**Exemple**: {{EXAMPLE}}",
+    "USAGEE": "inventaire",
+    "EXAMPLE": "inventaire",
+    "INV": "Bonjour {{author}} c'est votre inventaire!",
+    "INV1": "Vous trouverez ci-dessous tous les éléments que vous avez actuellement sur le serveur {{guild}}.",
+    "INV2": "Boutique du Ciel",
+    "INV3": "Page",
+    "INV4": "de",
+    "INV5": "Type :",
+    "INV6": "Prix de vente :",
+    "INV7": "Aperçu:",
+    "INV8": "viewitem",
+    "INV9": "Equip:",
+    "INV10": "utiliser",
+    "INV11": "Vente :",
+    "INV12": "vendre",
+    "INV13": "[quantity]",
+    "INV14": "votre inventaire est vide.\nAchetez des objets dans la boutique Hope (**{{prefix}}boutique**)"
+}

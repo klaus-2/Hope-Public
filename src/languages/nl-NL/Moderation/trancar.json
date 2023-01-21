@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Een kanaal vergrendelen.",
+    "USAGE": "lock\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "op slot doen",
+    "EXAMPLE": "op slot doen",
+    "TRANCAR": "🔒 <{{channel}}> was op slot.",
+    "TRANCAR1": "AANDACHT",
+    "TRANCAR_PERMISSÃO": "Je mag dit niet doen."
+}

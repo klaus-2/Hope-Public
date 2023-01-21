@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Vendi i tuoi oggetti in contanti.",
+    "USAGE": "sell <item id>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "vendi <item id>",
+    "EXAMPLE": "vendita 3 <unk> vendita 8 2",
+    "VENDER": "non è stato possibile trovare l'oggetto con **ID** fornito!\nAssicurati di inserire il **ID corretto** e riprova.",
+    "VENDER1": "non hai la quantità necessaria di",
+    "VENDER2": "per fare quella vendita.",
+    "VENDER3": "sfortunatamente,",
+    "VENDER4": "non può essere venduto.",
+    "VENDER5": "non hai un conto bancario nell'addon Economy di Hope.\nPer favore registrati usando il comando",
+    "VENDER6": "registrati",
+    "VENDER7": "hai venduto con successo",
+    "VENDER8": "per **$",
+    "VENDER9": "skcoins"
+}

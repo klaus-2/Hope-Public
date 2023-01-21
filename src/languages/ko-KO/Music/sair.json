@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "음성 채널에서 봇의 연결을 끊습니다.",
+    "USAGE": "dc\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "dc",
+    "EXAMPLE": "dc"
+}

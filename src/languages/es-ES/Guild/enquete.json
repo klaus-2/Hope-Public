@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "crear una encuesta para que los usuarios respondan.",
+    "USAGE": "poll <question>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "encuesta <question>",
+    "EXAMPLE": "encuesta ¿Va a llover hoy?",
+    "POLL_TITLE": "Encuesta creada por {{username}}",
+    "POLL_FOOTER": "Reacciona para votar.."
+}

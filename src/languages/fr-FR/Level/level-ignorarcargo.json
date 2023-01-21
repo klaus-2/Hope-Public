@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Configurez le rôle automatique Hope pour ce serveur.",
+    "USAGE": "level-ignorerole <roleID>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "level-ignorerole <roleID>",
+    "EXAMPLE": "level-ignorerole 328777266673",
+    "LVL_IGNCARGO": "Paramètres : `Niveau`",
+    "LVL_IGNCARGO1": "<:v_:855859391835799582>O `rôle automatique` a été mis à jour avec succès.",
+    "LVL_IGNCARGO2": "Rôle automatique",
+    "LVL_IGNCARGO3": "Changé de"
+}

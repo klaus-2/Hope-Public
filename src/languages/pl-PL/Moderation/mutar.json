@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Wycisz użytkownika.",
+    "USAGE": "wycisz <user> [time]\n💡 **Przykład: {{EXAMPLE}}",
+    "USAGEE": "wycisz <user> [time]",
+    "EXAMPLE": "wycisz @Hope 3h"
+}

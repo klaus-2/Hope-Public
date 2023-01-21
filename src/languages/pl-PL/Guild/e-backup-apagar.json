@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "usunąć kod zapasowy.",
+    "USAGE": "e-backup-delete <code>\n💡 **Przykład: {{EXAMPLE}}",
+    "USAGEE": "e-backup-delete <code>",
+    "EXAMPLE": "e-backup-delete Cg267T",
+    "E_BACKUP_APAGAR": "Halo, {{author}}",
+    "E_BACKUP_APAGAR1": ":x: | **Nie znaleziono kopii zapasowej**",
+    "E_BACKUP_APAGAR2": "**Kopia zapasowa została pomyślnie usunięta! ** ",
+    "E_BACKUP_APAGAR3": ":x: | **Ta kopia zapasowa nie została znaleziona. **"
+}

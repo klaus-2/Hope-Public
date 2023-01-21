@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Wyświetla poprzednie odtwarzane utwory.",
+    "USAGE": "poprzednie [pageNumber]\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "poprzednie [pageNumber]",
+    "EXAMPLE": "poprzednie 2",
+    "ANTERIOR": "Żadne poprzednie utwory nie zostały odtworzone",
+    "ANTERIOR1": "Poprzednie utwory",
+    "ANTERIOR2": "**Ostatni utóry**:",
+    "ANTERIOR3": "  Nic",
+    "ANTERIOR4": "Strona",
+    "ANTERIOR5": "piosenka (y)",
+    "ANTERIOR6": "Strona musi być liczbą.",
+    "ANTERIOR7": "Są tylko",
+    "ANTERIOR8": "strony dostępne."
+}

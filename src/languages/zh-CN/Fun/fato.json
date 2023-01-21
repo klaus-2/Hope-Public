@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "得到一个随机的事实。",
+    "USAGE": "事实\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "事实",
+    "EXAMPLE": "事实",
+    "FFATO_DESC": "。/资产/json/随机事实-en.json",
+    "FACT_TITLE": "随机事实："
+}

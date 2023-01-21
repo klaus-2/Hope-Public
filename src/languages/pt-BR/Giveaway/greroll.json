@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Refaz um sorteio.",
+    "USAGE": "refazersorteio <ID da mensage>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "refazersorteio <ID da mensage>",
+    "EXAMPLE": "refazersorteio 7886754353113",
+    "SUCCESS_GIVEAWAY": "<:v_:855859391835799582> Sucesso!\nO Sorteio foi atualizado.",
+    "CONGRAT": "🎉 Novo(s) vencedor(es): {winners}! Parabéns!",
+    "ERROR": "Nenhuma inscrição válida, nenhum vencedor pode ser escolhido!"
+}

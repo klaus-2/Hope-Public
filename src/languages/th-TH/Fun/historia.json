@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "to obtain a historical fact of today's day.",
+    "USAGE": "history\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "history",
+    "EXAMPLE": "history",
+    "FHIST_DESC": "ความจริงทางประวัติศาสตร์ในวันนี้ - ที่มา: wikipedia.org",
+	"FHIST_DESC1": "ขออภัย API ไม่ทำงานในขณะนี้!",
+	"FHIST_DESC2": "ปี:"
+}

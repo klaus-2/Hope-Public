@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "何でも答えをもらおう！",
+    "USAGE": "seer <question>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "シアー <question>",
+    "EXAMPLE": "先見者今日は雨が降るのかな？",
+    "FVIDENTE_DESC": "./resources/other/8ball-en.json",
+    "FVIDENTE_DESC1": "質問:",
+    "FVIDENTE_DESC2": "質問による質問",
+    "FVIDENTE_DESC3": "先見者、スカイ"
+}

@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "删除备份代码。",
+    "USAGE": "电子备份-删除 <code>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "电子备份-删除 <code>",
+    "EXAMPLE": "电子备份-删除 Cg267T",
+    "E_BACKUP_APAGAR": "你好， {{author}}",
+    "E_BACKUP_APAGAR1": ":x: | ** 找不到备份 **",
+    "E_BACKUP_APAGAR2": "** 备份已成功删除！** ",
+    "E_BACKUP_APAGAR3": ":x: | ** 找不到此备份。**"
+}

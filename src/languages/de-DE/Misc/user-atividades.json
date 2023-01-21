@@ -1,0 +1,23 @@
+{
+    "DESCRIPTION": "Ruft im Detail alle Statusaktivitäten des genannten Benutzers ab.",
+    "USAGE": "benutzeraktivitäten\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "nutzer-Aktivitäten [user]",
+    "EXAMPLE": "benutzeraktivitäten @Hope",
+    "EUAT_DESC": "**Kein Status**",
+    "EUAT_DESC1": "Dieser Benutzer hat keinen benutzerdefinierten Status!",
+    "EUAT_DESC2": "**Status**",
+    "EUAT_DESC3": "**Persönlicher Status**",
+    "EUAT_DESC4": "Ohne Emoji",
+    "EUAT_DESC5": "Aktuelle Aktivität von {{user}}",
+    "EUAT_DESC6": "**Type**",
+    "EUAT_DESC7": "Abspielen",
+    "EUAT_DESC8": "**App**",
+    "EUAT_DESC9": "**Details**",
+    "EUAT_DESC10": "Keine Details",
+    "EUAT_DESC11": "**Arbeitet in**",
+    "EUAT_DESC12": "Spotify | Songinformationen",
+    "EUAT_DESC13": "Name des Titels",
+    "EUAT_DESC14": "Album",
+    "EUAT_DESC15": "Autor",
+    "EUAT_DESC16": "Musik hören"
+}

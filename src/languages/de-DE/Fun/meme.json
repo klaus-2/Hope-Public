@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Sendet eine zufällige Meme.",
+    "USAGE": "meme\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "meme",
+    "EXAMPLE": "meme",
+    "FMEME_DESC": "URL der Meme fehlt"
+}

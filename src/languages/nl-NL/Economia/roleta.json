@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Zet een weddenschap op roulette voor geld.",
+    "USAGE": "roulette\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "roulette",
+    "EXAMPLE": "roulette",
+    "ROLETA": "<:cancel:855859391709577266> Geef een bedrag op om voor te spelen | {{prefix}}roulette <color> <quantity>",
+    "ROLETA1": "<:cancel:855859391709577266> Je inzet meer dan je hebt",
+    "ROLETA2": "<:cancel:855859391709577266> Geef een kleur op | Rood [1.5x] (normaal) Zwart [2x] (hard) Blauw [15x](zeldzaam)",
+    "ROLETA3": "zwart",
+    "ROLETA4": "rood",
+    "ROLETA5": "blauw",
+    "ROLETA6": "🔵 Je hebt {{dinheiro}} skcoins gewonnen\n\nVermenigvuldigd met: 15x",
+    "ROLETA7": "🔴 Je hebt {{dinheiro}} skcoins gewonnen\n\nVermenigvuldigd met: 1.5x",
+    "ROLETA8": "⬛ Je hebt {{dinheiro}} skcoins gewonnen\n\nVermenigvuldigd met: 2x",
+    "ROLETA9": "<:cancel:855859391709577266> Je bent {{dinheiro}} skcoins verloren\n\nVermenigvuldigd met: 0x"
+}

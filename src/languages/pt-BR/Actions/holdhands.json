@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Dê as mãos a alguém especial.",
+    "USAGE": "mãosdadas [user]\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "mãosdadas [user]",
+    "EXAMPLE": "mãosdadas @Hope | mãosdadas @user1 @User2",
+    "MAOS_DESCRIÇÃO": "\\❌ **<@{{author}}>**, de quem você gostaria de segurar as mãos ?!",  
+    "MAOS_DESCRIÇÃO1": "está segurando as mãos de",
+    "MAOS_DESCRIÇÃO2": "\\❌ **<@{{author}}>**, você precisar dizer de quem você gostaria de segurar as mãos"
+}

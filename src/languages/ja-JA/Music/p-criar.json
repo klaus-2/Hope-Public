@@ -1,0 +1,17 @@
+{
+    "DESCRIPTION": "プレイリストを作成する",
+    "USAGE": "p-create <playlist name> <search term/link>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "p 作成 <playlist name> <search term/link>",
+    "EXAMPLE": "p-Create テストリンク",
+    "P_CRIAR": "プレイリストのタイトルは32文字未満でなければなりません！",
+    "P_CRIAR1": "プレイリストに曲を追加しています (これには数秒かかる場合があります)...",
+    "P_CRIAR2": "プレミアムでは、プレイリストを 1 つではなく 3 つまで保存できます。",
+    "P_CRIAR3": "プレイリストを保存できなくなりました。最大:3",
+    "P_CRIAR4": "その名前のプレイリストは既に存在します。",
+    "P_CRIAR5": "次の名前のプレイリストを作成しました:",
+    "P_CRIAR6": "プレイリストの継続時間:",
+    "P_CRIAR7": "追加しました",
+    "P_CRIAR8": "トラック) を",
+    "P_CRIAR9": "収録曲:",
+    "P_CRIAR10": "プレイリストではない"
+}

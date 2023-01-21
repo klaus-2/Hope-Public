@@ -1,0 +1,19 @@
+{
+    "DESCRIPTION": "Altere o status de uma sugestão.",
+    "USAGE": "sugestões <AGUARDANDO | APROVADO | NEGADO>\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "set-sugestie",
+    "EXAMPLE": "set-sugestie",
+    "SUGESTÕES": "Ups! {{status}} to **Status nieznany**\nProszę użyć jednej z następujących opcji: `{{var}}”.",
+    "SUGESTÕES1": "Proszę użyć",
+    "SUGESTÕES2": "Wystąpił błąd, proszę zgłosić to w błędzie {{prefix}}",
+    "SUGESTÕES3": "Kanał sugestii już nie istnieje",
+    "SUGESTÕES4": "Ta wiadomość już nie istnieje",
+    "SUGESTÕES5": "zasugerował",
+    "SUGESTÕES6": "Chciałbyś coś zasugerować? Wystarczy wpisać ten kanał",
+    "SUGESTÕES7": "Status",
+    "SUGESTÕES8": "Komentarz administracji",
+    "SUGESTÕES9": "Status sugestii został pomyślnie zaktualizowany!",
+    "SUGESTÕES10": "<:informao:823004619805294643> Czekając na opinię społeczności, proszę głosować!",
+    "SUGESTÕES11": "<:v_:855859391835799582> Propozycja zaakceptowana! Czekamy na to wkrótce.",
+    "SUGESTÕES12": "<:cancel:855859391709577266> Dziękujemy za sugestię, ale w tej chwili nie jesteśmy zainteresowani."
+}

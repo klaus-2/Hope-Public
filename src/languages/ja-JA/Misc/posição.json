@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "サーバー上のユーザーのログイン位置を表示します。",
+    "USAGE": "位置 <user>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "位置 <user>",
+    "EXAMPLE": "ポジション @Hope",
+    "EPOS_DESC": "参加ポジション",
+    "EPOS_DESC1": "でしたっす",
+    "EPOS_DESC2": "入ってくるユーザー"
+}

@@ -1,0 +1,21 @@
+{
+    "DESCRIPTION": "Sprawdź swoje przedmioty.",
+    "USAGE": "spis\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "inwentaryzacji",
+    "EXAMPLE": "inwentaryzacji",
+    "INV": "Witaj {{author}} , to twój ekwipunek!",
+    "INV1": "Poniżej znajdują się wszystkie elementy, które aktualnie masz na serwerze {{guild}}.",
+    "INV2": "Sklep Hope",
+    "INV3": "Strona",
+    "INV4": "z",
+    "INV5": "Typ:",
+    "INV6": "Cena sprzedaży:",
+    "INV7": "Podgląd:",
+    "INV8": "viewitem",
+    "INV9": "Wyposaż:",
+    "INV10": "użycie",
+    "INV11": "Sprzedam:",
+    "INV12": "sprzedać",
+    "INV13": "[quantity]",
+    "INV14": "Twój ekwipunek jest pusty.\nZakup przedmiotów w sklepie Hope (**{{prefix}}sklep**)"
+}

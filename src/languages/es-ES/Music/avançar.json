@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "avançar rapidamente o jugador pelo valor especificado.",
+    "USAGE": "fastforward <time>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "fastforward <time>",
+    "EXAMPLE": "fastforward 1:00 | ffw 1:32:00",
+    "AVANÇAR": "Muy bien, ¡he avanzado{{OLD}}en la canción actual! Su hora actual es ahora: `{{NEW}}`.",
+    "AVANÇAR1": "en la canción actual.\nHora actual:",
+    "AVANÇAR2": "La música solo tiene"
+}

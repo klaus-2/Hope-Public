@@ -1,0 +1,17 @@
+{
+    "DESCRIPTION": "zoek naar een youtubekanaal.",
+    "USAGE": "youtube-channel <name>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "youtube-kanaal <name>",
+    "EXAMPLE": "youtube-channel ninja",
+    "YOUTUBE_CANAL": "Onbekende kanaalfout.",
+    "YOUTUBE_CANAL1": "Geen kanaalresultaten. Probeer het nog eens.",
+    "YOUTUBE_CANAL2": "Onbekende fout met kanaalgegevens.",
+    "YOUTUBE_CANAL3": "Naam van het kanaal",
+    "YOUTUBE_CANAL4": "Beschrijving van het kanaal",
+    "YOUTUBE_CANAL5": "Aantal abonnees",
+    "YOUTUBE_CANAL6": "Totaal aantal weergaven",
+    "YOUTUBE_CANAL7": "Totaal aantal video ('s)",
+    "YOUTUBE_CANAL8": "Datum aangemaakt",
+    "YOUTUBE_CANAL9": "Link",
+    "YOUTUBE_CANAL10": "U kunt deze termen niet zoeken op een niet-NSFW-kanaal."
+}

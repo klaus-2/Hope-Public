@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "autorole 애드온 사용 또는 사용 안 함",
+    "USAGE": "오토롤 <enable | disable>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "오토롤 <enable | disable>",
+    "EXAMPLE": "자동 역할 활성화"
+}

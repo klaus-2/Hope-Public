@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "从服务器上踢出用户。",
+    "USAGE": "踢 <user> [reason]\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "踢 <user> [reason]",
+    "EXAMPLE": "在聊天中踢 Hope 垃圾邮件",
+    "KICK": "被开除了！",
+    "KICK1": "你被赶出去了",
+    "KICK2": "被踢过：",
+    "KICK3": "原因："
+}

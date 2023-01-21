@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "以放大表情符号的大小。",
+    "USAGE": "ezoom <emoji>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "ezoom <emoji>",
+    "EXAMPLE": "放大 <: Hopetimida: 823046655632211989>",
+    "EZOOM_DESC": "{{emoji}}的扩展版本"
+}

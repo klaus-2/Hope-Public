@@ -1,0 +1,18 @@
+{
+    "DESCRIPTION": "스카이와 함께 바위, 종이, 가위를 연주하십시오.",
+    "USAGE": "rps <rock / paper / scissors>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "rps <rock / paper / scissors>",
+    "EXAMPLE": "rps",
+    "FPPT_DESC": "록",
+    "FPPT_DESC1": "종이",
+    "FPPT_DESC2": "가위",
+    "FPPT_DESC3": "록 - 페이퍼 - 가위",
+    "FPPT_DESC4": "옵션 선택",
+    "FPPT_DESC5": "그린 위드 스카이",
+    "FPPT_DESC6": "원",
+    "FPPT_DESC7": "잃었다",
+    "FPPT_DESC8": "다음을 선택했습니다.",
+    "FPPT_DESC9": "스카이는 선택했습니다",
+    "FPPT_DESC10": "결과: 당신",
+    "FPPT_DESC11": "너무 오래 걸렸습니다!"
+}

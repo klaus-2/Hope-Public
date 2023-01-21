@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Faça carinho no(s) usuário(s) que você mencionou!",
+    "USAGE": "carinho [user]",
+    "USAGEE": "carinho [user]",
+    "CARINHO_DESCRIÇÃO": "Вы не можете петь себя, оставьте его мне >.< <@{{member}}>!",
+    "CARINHO_Hope": " **меня**",
+    "CARINHO_Hope1": " в **м**",
+    "CARINHO_DESCRIÇÃO1": "привязанность к",
+    "CARINHO_HopeFRASE": "Хаа.. (<unk> <unk> <unk> <unk> ` ), пожалуйста, не останавливайтесь...",
+    "CARINHO_DESC": " и ",
+    "CARINHO_DESC1": ", и "
+}

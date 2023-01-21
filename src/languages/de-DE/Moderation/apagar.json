@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "apagar uma certa quantidade de mensagens.",
+    "USAGE": "apagar <1-1000> [user]\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "apagar <1-1000> [user]",
+    "EXAMPLE": "apagar 559",
+    "NO_PREM": "Der Server muss Premium sein, um mehr als `200` Nachrichten zu löschen.",
+    "TITLE": "Nachrichtenbestätigung löschen",
+    "DESC": "Du bist dabei, {{NUM}} Nachrichten von diesem Kanal zu löschen, bitte reagiere darauf, um diese Aktion zu bestätigen.",
+    "DEL_MSG": "Das Löschen von {{NUM}} Nachrichten dauert ungefähr {{TIME}} Sekunden.\nSENDE KEINE NACHRICHTEN NACHRICHTEN WIRD DIESE IST HAPPENING.",
+    "SUCCESS": "{{NUM}} Nachrichten wurden erfolgreich gelöscht.",
+    "CON_CNC": "Bestätigung abgebrochen",
+    "CON_TO": "Zeitüberschreitung der Bestätigung."
+}

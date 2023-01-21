@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Toont je waardering/niveau.",
+    "USAGE": "exp [user]\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "exp [user]",
+    "EXAMPLE": "exp @Hope",
+    "NO_MESSAGES": "Je bent nog niet gerangschikt. Stuur eerst wat berichten en probeer het dan opnieuw."
+}

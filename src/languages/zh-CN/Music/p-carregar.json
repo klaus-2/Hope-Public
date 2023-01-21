@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "加载播放列表",
+    "USAGE": "p-load <playlist name>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "p-荷载 <playlist name>",
+    "EXAMPLE": "p 负荷测试",
+    "P_CARREGAR": "正在加载播放列表（这可能需要几秒钟）...",
+    "P_CARREGAR1": "已排队",
+    "P_CARREGAR2": "歌曲 ** 来自",
+    "P_CARREGAR3": "找不到播放列表"
+}

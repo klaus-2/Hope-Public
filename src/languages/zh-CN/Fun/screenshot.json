@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "获取网站的屏幕截图。",
+    "USAGE": "屏幕截图 <url>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "屏幕截图 <url>",
+    "EXAMPLE": "屏幕截图 https://www.google.com/",
+    "FSS_DESC": "<a:loading:823004555884232724> 截取网站的屏幕截图。",
+    "FSS_DESC1": "缺少数据",
+    "INVALID_URL": "这不是有效的 URL。",
+    "BLACKLIST_WEBSITE": "您无法在非 NSFW 频道中查看此网站。",
+    "SS": "这是请求的 [URL]({{urls}}) 的屏幕截图",
+    "SS1": "请指定网址"
+}

@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "コマンドのカテゴリを有効または無効にします。",
+    "USAGE": "commands <category>\\n💡**例**: {{EXAMPLE}}",
+    "USAGEE": "コマンド <category>",
+    "EXAMPLE": "コマンド",
+    "COMANDOS": "Skyコマンドのカテゴリ一覧",
+    "COMANDOS1": "利用可能なカテゴリ: `{{default}} ` 。",
+    "COMANDOS2": "アクティブなカテゴリ: `{{active}} ` 。",
+    "COMANDOS3": "このサーバーにコマンドカテゴリー**{{addons}}**を追加しました。",
+    "COMANDOS4": "Yayy! このサーバー上のコマンドカテゴリ：**{{addons}}**を無効にしました。",
+    "COMANDOS5": "申し訳ありませんが、これは既存のコマンドカテゴリではありません。"
+}

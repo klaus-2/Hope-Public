@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "ボットの稼働時間を取得します。",
+    "USAGE": "uptime\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "稼働時間",
+    "EXAMPLE": "稼働時間",
+    "EUP_DESC": "スカイ | アップタイム",
+    "EUP_DESC1": "以来のオンライン"
+}

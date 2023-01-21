@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Verwijder verwijderde berichten.",
+    "USAGE": "snipe\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "snipe",
+    "EXAMPLE": "snipe",
+    "SNIPE": "Er zijn geen verwijderde berichten in dit kanaal!",
+    "SNIPE1": "📋 Snipe Message verwijderen 📋",
+    "SNIPE2": "=> Auteur: ```{{author}}```\n=> Bericht Verwijderen: ```{{content}}```\nClink :x: om dit bericht te wissen"
+}

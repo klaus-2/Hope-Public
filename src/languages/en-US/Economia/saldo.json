@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Displays your current balance.",
+    "USAGE": "balance\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "balance",
+    "EXAMPLE": "balance",
+    "SALDO": "Below are all information about your economy!",
+    "SALDO1": "<:carteira:855169963470880778> Wallet",
+    "SALDO2": "$",
+    "SALDO3": "skcoins in your wallet",
+    "SALDO4": "<:banco:855170000985391186> Bank",
+    "SALDO5": "skcoins on your bank",
+    "SALDO6": "Current Streak:",
+    "SALDO7": "All time best:",
+    "SALDO8": "left",
+    "SALDO9": "streak(s) to obtain a **Reward Item \\✨",
+    "SALDO10": "<:bonus:855181102893498438> Bonus",
+    "SALDO11": "✔️ The Daily Bonus has already been **claimed**! You can claim it again at",
+    "SALDO12": "and",
+    "SALDO13": "⚠️ Daily Bonus is **available**!\nUse `{{prefix}}daily` to redeem."
+}

@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "获取有关宠物小精灵的信息。",
+    "USAGE": "宠物小精灵 <pokemon>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "口袋妖怪 <pokemon>",
+    "EXAMPLE": "宠物小精灵喷火龙",
+    "FPOKE_DESC": "这个口袋妖怪的类型是",
+    "FPOKE_DESC1": "神奇宝贝弱点"
+}

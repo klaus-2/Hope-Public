@@ -1,0 +1,23 @@
+{
+    "ONE_DAY": "1日",
+    "DAYS": "{{amount}} 日",
+    "ONE_HOUR": "1 時間",
+    "HOURS": "{{amount}} 時間",
+    "ONE_MINUTE": "1分",
+    "MINUTES": "{{amount}} 分",
+    "ONE_SECOND": "1 秒",
+    "SECONDS": "{{amount}} 秒",
+    "NOT_NUMBER": "数値でなければなりません。",
+    "INCORRECT_DELIMITERS": "次のいずれかの時間区切り文字を使用してください: `d`、`h`、`m`、`s`。",
+    "MAX_TIME": "10日以内にすることはできません。",
+    "INVALID_TIME": "無効な数値が入力されました。(例: 1mまたは16h)",
+    "dia": "日",
+    "dias": "日",
+    "hora": "時",
+    "horas": "時間",
+    "minuto": "分",
+    "minutos": "分",
+    "segundo": "秒",
+    "segundos": "秒",
+    "e": "と"
+}

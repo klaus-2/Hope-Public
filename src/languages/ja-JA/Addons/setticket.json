@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "チケットアドオンを有効または無効にします。",
+    "USAGE": "setticket <enable | disable>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "setticket <enable | disable>",
+    "EXAMPLE": "setTicket有効"
+}

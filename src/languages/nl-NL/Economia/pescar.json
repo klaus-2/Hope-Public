@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Maak een visreis.",
+    "USAGE": "fish\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "vis",
+    "EXAMPLE": "vis",
+    "PESCAR": "<:annuleren: 855859391709577266> Whoa! Omdat het nog niet lang geleden is dat je een lijn hebt uitgebracht, zijn de vissen nog steeds bang.\nMisschien in een paar",
+    "PESCAR1": "en",
+    "PESCARR": "ze zijn al kalm om ze weer te zondigen <:SkyeIssoai 2:823248929700446228 >",
+    "PESCAR2": "🎣 Je lanceerde je lijn en nam een",
+    "PESCAR3": "Nadat je het verkocht hebt bij je Peter's visboer, heb je **$",
+    "PESCAR4": "skcoins!",
+    "PESCAR5": "list",
+    "PESCAR6": "beloningen",
+    "PESCAR7": "Lijst met visnamen en beloningen die je kunt krijgen",
+    "PESCAR8": "```\nPrullenbak :: Maximale beloning: 5, Minimum beloning: 1\n🐟Common :: Maximale beloning: 25, Minimum beloning: 10\n🐠Uncommon :: Maximale beloning: 50, Minimum beloning: 18\n🦑Rare :: Maximale beloning: 75, Minimum beloning: 30\nLegendarisch :: Maximale beloning: 100, Minimum beloning: 50```\n**Alle beloningen zijn willekeurig van max / min **"
+}

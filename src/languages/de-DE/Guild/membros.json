@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Überprüfen Sie alle Mitglieder einer bestimmten Position! oder vielleicht alle!",
+    "USAGE": "Mitglieder < alle | Rollenname | @role >\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "Mitglieder < alle | Rollenname | @role >",
+    "EXAMPLE": "mitglieder @role | Mitglieder alle | Mitglieder Rollenname",
+    "MEMBROS": "alle",
+    "MEMBROS1": "Liste",
+    "MEMBROS2": "Keine Mitglieder mit dem",
+    "MEMBROS3": "Rolle vorhanden!"
+}

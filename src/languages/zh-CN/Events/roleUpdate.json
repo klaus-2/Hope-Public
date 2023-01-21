@@ -1,0 +1,19 @@
+{
+    "ROLE_UPDATE": "角色：",
+    "ROLE_UPDATE1": "他的名字改了",
+    "ROLE_UPDATE2": "[事件 — 角色名称已更改]",
+    "ROLE_UPDATE3": "旧名字：",
+    "ROLE_UPDATE4": "新名字：",
+    "ROLE_UPDATE5": "角色的颜色：",
+    "ROLE_UPDATE6": "已经改变了",
+    "ROLE_UPDATE7": "[事件 — 角色颜色已更改]",
+    "ROLE_UPDATE8": "旧颜色：",
+    "ROLE_UPDATE9": "新颜色：",
+    "ROLE_UPDATE10": "角色的权限：",
+    "ROLE_UPDATE11": "已经改变了",
+    "ROLE_UPDATE12": "点击这里",
+    "ROLE_UPDATE13": "并了解这些数字的含义",
+    "ROLE_UPDATE14": "[事件 — 角色权限已更改]",
+    "ROLE_UPDATE15": "以前的权限：",
+    "ROLE_UPDATE16": "新权限："
+}

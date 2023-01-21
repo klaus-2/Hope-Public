@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "誰も乗っていない場合でも、音声チャンネルにとどまります。",
+    "USAGE": "247\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "247",
+    "EXAMPLE": "247",
+    "VINTEQUATRO": "24/7 モードは {{toggle}}になりました。",
+    "VINTEQUATRO1": "オン",
+    "VINTEQUATRO2": "オフ"
+}

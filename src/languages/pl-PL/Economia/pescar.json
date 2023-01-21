@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Wybierz się na wycieczkę na ryby.",
+    "USAGE": "fish\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "ryby",
+    "EXAMPLE": "ryby",
+    "PESCAR": "<:cancel:855859391709577266> Whoa! Ponieważ nie minęło dawno, odkąd wydałeś linię, ryby nadal są przerażone.\nByć może w kilku",
+    "PESCAR1": "W przypadku gdy państwo członkowskie lub Szwajcaria stwierdzi, że dane państwo członkowskie lub Szwajcaria spełniają warunki określone w art. 4 ust. 1 lit. a) i b) oraz w art. 5 ust. 1 lit. b) i c) rozporządzenia (WE) nr 207/2009 oraz w art. 5 ust. 1 lit. b) i c) rozporządzenia (WE) nr 207/2009 oraz w art. 5 ust. 1 lit. b) tego rozporządzenia i art. 6 ust. 1 lit. b) tego rozporządzenia i c) tego rozporządzenia stosuje się od dnia 1 stycznia 2018 r.",
+    "PESCARR": "są już spokojni, aby ponownie je zgrzeszyć <:Skyeissoai 2:823248929700446228 >",
+    "PESCAR2": "🎣 Uruchomiłeś swoją linię i wziąłeś",
+    "PESCAR3": "Po sprzedaniu go u swojego Petera, dostałeś $**$",
+    "PESCAR4": "skcoins!",
+    "PESCAR5": "list",
+    "PESCAR6": "nagrody",
+    "PESCAR7": "Lista nazw ryb i nagród, które możesz otrzymać",
+    "PESCAR8": "```\n🔧 Trash። Maksymalna nagroda: 5, Minimalna nagroda:\n🐟 Wspólna። Maksymalna nagroda: 25, Nagroda minimalna: 10\n🐠 Niezbyt często። Maksymalna nagroda: 50, Nagroda minimalna: 18\n🦑 Rzadkie። Maksymalna nagroda: 75, Minimalna nagroda: 30\n🐋 Legendarny። Maksymalna nagroda: 100, Minimalna nagroda: 50```\n**Wszystkie nagrody są losowo z maks/min**"
+}

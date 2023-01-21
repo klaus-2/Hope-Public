@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "fechar um 票。",
+    "USAGE": "票务 fechar\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "t-关闭",
+    "EXAMPLE": "t-关闭"
+}

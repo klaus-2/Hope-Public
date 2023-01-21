@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "翻一枚硬币。",
+    "USAGE": "翻转\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "翻转",
+    "EXAMPLE": "翻转",
+    "FLIP_CHOICE": "['Head'、'Tails'] [{{choice}}]"
+}

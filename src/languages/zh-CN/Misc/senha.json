@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "生成安全密码。",
+    "USAGE": "密码\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "密码",
+    "EXAMPLE": "密码",
+    "ESENHA_DESC": "不确定",
+    "ESENHA_DESC1": "非常安全",
+    "ESENHA_DESC2": "保险",
+    "ESENHA_DESC3": "Hope 密码生成器",
+    "ESENHA_DESC4": "密码",
+    "ESENHA_DESC5": "长度",
+    "ESENHA_DESC6": "安全级别",
+    "ESENHA_DESC7": "注意-您的密码永远不会存储在我们这边！",
+    "ESENHA_DESC8": "🚫 发送密码失败！",
+    "ESENHA_DESC9": "我不能给你发 DM！通过更改此服务器的隐私设置以允许直接发送消息来修复它！"
+}

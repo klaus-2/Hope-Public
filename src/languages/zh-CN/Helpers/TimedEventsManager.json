@@ -1,0 +1,7 @@
+{
+    "MESSAGE": "我会在大约 {{TIME}}中提醒你关于 “{{INFO}}” 的事情。",
+    "DESC": "消息链接",
+    "TITLE": "提醒",
+    "FOOTER": "{{TIME}} 前的提醒。",
+    "RESPONSE": "\n** 提醒：**\n {USER} 你的提醒： {{INFO}}"
+}

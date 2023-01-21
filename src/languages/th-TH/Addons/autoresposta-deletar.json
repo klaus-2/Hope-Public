@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Deletes an auto-response.",
+    "USAGE": "deleteautoresponse <command>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "deleteautoresponse <command>",
+    "EXAMPLE": "deleteautoresponse hi",
+    "DELETAR_RESPOSTA": "<:cancel:855859391709577266> ชื่อคำสั่งของคุณสูงกว่า 30 ตัวอักษร!",
+	"DELETAR_RESPOSTA1": "ลบ Auto Response",
+	"DELETAR_RESPOSTA2": "ถูกลบเรียบร้อยแล้ว",
+	"DELETAR_RESPOSTA3": "โอ้! ขออภัย แต่ฉันไม่พบคำสั่งนี้! คุณแน่ใจหรือว่าถูกต้อง?"
+}

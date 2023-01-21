@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Deposita um valor em dinheiro em sua conta bancaria.",
+    "USAGE": "depositar <valor>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "depositar <valor>",
+    "EXAMPLE": "depositar 5000",
+    "DEPOSITAR": "tudo",
+    "DEPOSITAR1": "<:cancel:855859391709577266> Você não tem dinheiro para depositar",
+    "DEPOSITAR2": "<:v_:855859391835799582> Você depositou todas as suas moedas em seu banco",
+    "DEPOSITAR3": "<:cancel:855859391709577266> Especifique um valor para depositar",
+    "DEPOSITAR4": "<:cancel:855859391709577266> Seu valor não é um número!",
+    "DEPOSITAR5": "<:cancel:855859391709577266> Você não pode depositar dinheiro negativo",
+    "DEPOSITAR6": "você não possui essa quantia disponivel para depositar em seu banco.",
+    "DEPOSITAR7": "<:v_:855859391835799582> Você depositou",
+    "DEPOSITAR8": "skcoins em sua conta bancaria"
+}

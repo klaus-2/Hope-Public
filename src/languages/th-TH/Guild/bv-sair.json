@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Enable or disable the message addon when a user logs out from the server.",
+    "USAGE": "bv-leave <enable | disable>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "bv-leave <enable | disable>",
+    "EXAMPLE": "bv-leave on"
+}

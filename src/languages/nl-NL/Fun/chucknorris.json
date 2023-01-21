@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "krijg willekeurige grappen van Chuck Norris.",
+    "USAGE": "chucknorris\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "chucknorris",
+    "EXAMPLE": "chucknorris",
+    "FNORRIS_DESC": "./resources/other/chucknorris-en.json"
+}

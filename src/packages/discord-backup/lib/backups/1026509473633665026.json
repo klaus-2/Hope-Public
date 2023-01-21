@@ -1,0 +1,123 @@
+{
+    "name": "Teste Site",
+    "verificationLevel": 0,
+    "explicitContentFilter": 0,
+    "defaultMessageNotifications": 0,
+    "afk": null,
+    "widget": {
+        "enabled": null,
+        "channel": null
+    },
+    "channels": {
+        "categories": [],
+        "others": [
+            {
+                "type": "GUILD_VOICE",
+                "name": "Text Channels",
+                "parent": null,
+                "permissions": []
+            },
+            {
+                "type": "GUILD_VOICE",
+                "name": "double-62281565",
+                "parent": null,
+                "permissions": []
+            },
+            {
+                "type": "GUILD_VOICE",
+                "name": "Voice Channels",
+                "parent": null,
+                "permissions": []
+            }
+        ]
+    },
+    "roles": [
+        {
+            "name": "Xd",
+            "color": "#e91e63",
+            "hoist": false,
+            "permissions": "2199022731263",
+            "mentionable": false,
+            "position": 9,
+            "isEveryone": false
+        },
+        {
+            "name": "new role",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "1071698660929",
+            "mentionable": false,
+            "position": 8,
+            "isEveryone": false
+        },
+        {
+            "name": "teste",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "1071698660929",
+            "mentionable": false,
+            "position": 7,
+            "isEveryone": false
+        },
+        {
+            "name": "xxx",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "1071698660929",
+            "mentionable": false,
+            "position": 6,
+            "isEveryone": false
+        },
+        {
+            "name": "Xd",
+            "color": "#e91e63",
+            "hoist": false,
+            "permissions": "2199022731263",
+            "mentionable": false,
+            "position": 4,
+            "isEveryone": false
+        },
+        {
+            "name": "new role",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "1071698660929",
+            "mentionable": false,
+            "position": 3,
+            "isEveryone": false
+        },
+        {
+            "name": "teste",
+            "color": "#9b59b6",
+            "hoist": false,
+            "permissions": "1071698660929",
+            "mentionable": false,
+            "position": 2,
+            "isEveryone": false
+        },
+        {
+            "name": "xxx",
+            "color": "#1abc9c",
+            "hoist": false,
+            "permissions": "1071698660929",
+            "mentionable": false,
+            "position": 1,
+            "isEveryone": false
+        },
+        {
+            "name": "@everyone",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "1071698660929",
+            "mentionable": false,
+            "position": 0,
+            "isEveryone": true
+        }
+    ],
+    "bans": [],
+    "emojis": [],
+    "members": [],
+    "createdTimestamp": 1664809330138,
+    "guildID": "932060771423256616",
+    "id": "1026509473633665026"
+}

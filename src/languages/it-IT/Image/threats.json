@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Crea un memo di minacce.",
+    "USAGE": "threats [user] <unk> [file]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "minacce [user] <unk> [file]",
+    "EXAMPLE": "minacce utente <unk> minacce <attachment>"
+}

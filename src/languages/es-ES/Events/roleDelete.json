@@ -1,0 +1,5 @@
+{
+    "ROLE_DELETE": "Se ha eliminado un rol en el servidor\n**Nombre:",
+    "ROLE_DELETE1": "Mención:",
+    "ROLE_DELETE2": "[EVENTO: SE HA ELIMINADO UN ROL]"
+}

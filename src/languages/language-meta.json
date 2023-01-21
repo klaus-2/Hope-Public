@@ -1,0 +1,217 @@
+[
+    {
+        "name": "en-US",
+        "nativeName": "English",
+        "moment": "en",
+        "defaultMomentFormat": "MMMM Do YYYY",
+        "default": true,
+        "aliases": [
+            "English",
+            "english",
+            "en",
+            "en-us",
+            "en_us",
+            "en_US"
+        ]
+    },
+    {
+        "name": "pt-BR",
+        "nativeName": "Portuguese - Brazil",
+        "moment": "pt-br",
+        "defaultMomentFormat": "Do MMMMM YYYY",
+        "default": false,
+        "aliases": [
+            "Portugues",
+            "portugues",
+            "portuguese",
+            "pt",
+            "pt-br",
+            "pt_br",
+            "pt_BR",
+            "Portuguese"
+        ]
+    },
+    {
+        "name": "fr-FR",
+        "nativeName": "French",
+        "moment": "fr",
+        "defaultMomentFormat": "Do MMMM YYYY",
+        "default": false,
+        "aliases": [
+		    "Français",
+            "français",
+            "French",
+            "french",
+            "fr",
+            "fr-fr",
+            "fr_fr",
+            "fr_FR"
+        ]
+    },
+    {
+        "name": "th-TH",
+        "nativeName": "Thai",
+        "moment": "th",
+        "defaultMomentFormat": "Do MMMM YYYY",
+        "default": false,
+        "aliases": [
+		    "Thai",
+            "Thailand",
+            "Tailandês",
+            "thai",
+            "th",
+            "th-th",
+            "th_TH",
+            "th-TH",
+            "th_th"
+        ]
+    },
+    {
+        "name": "it-IT",
+        "nativeName": "Italian",
+        "moment": "it",
+        "defaultMomentFormat": "Do MMMM YYYY",
+        "default": false,
+        "aliases": [
+		    "Italian",
+            "Italiano",
+            "it",
+            "it-IT",
+            "it_IT",
+            "it-it",
+            "it_it"
+        ]
+    },
+    {
+        "name": "de-DE",
+        "nativeName": "German",
+        "moment": "de",
+        "defaultMomentFormat": "Do MMMM YYYY",
+        "default": false,
+        "aliases": [
+		    "German",
+            "Deutsch",
+            "Alemão",
+            "de",
+            "de-de",
+            "de-DE",
+            "de_de",
+            "de_DE"
+        ]
+    },
+    {
+        "name": "es-ES",
+        "nativeName": "Spanish, Spain",
+        "moment": "es-ES",
+        "defaultMomentFormat": "Do MMMM YYYY",
+        "default": false,
+        "aliases": [
+		    "Spanish",
+            "Spain",
+            "Espanhol",
+            "es",
+            "es-ES",
+            "es_ES",
+            "es-es",
+            "es_es"
+        ]
+    },
+    {
+        "name": "ru-RU",
+        "nativeName": "Russian",
+        "moment": "ru",
+        "defaultMomentFormat": "Do MMMM YYYY",
+        "default": false,
+        "aliases": [
+		    "Russian",
+            "Russo",
+            "ru",
+            "ru-ru",
+            "ru_ru",
+            "ru-RU",
+            "ru_RU"
+        ]
+    },
+    {
+        "name": "zh-CN",
+        "nativeName": "Chinese Simplified",
+        "moment": "zh-CN",
+        "defaultMomentFormat": "Do MMMM YYYY",
+        "default": false,
+        "aliases": [
+		    "Chinese",
+            "Chinese Simplified",
+            "Chines",
+            "cn",
+            "zh-CN",
+            "zh_CN",
+            "cn-CN",
+            "cn_CN"
+        ]
+    },
+    {
+        "name": "ko-KO",
+        "nativeName": "Korean",
+        "moment": "ko",
+        "defaultMomentFormat": "Do MMMM YYYY",
+        "default": false,
+        "aliases": [
+		    "Korean",
+            "Coreano",
+            "ko",
+            "ko-KO",
+            "ko_KO",
+            "ko-ko",
+            "ko_ko"
+        ]
+    },
+    {
+        "name": "pl-PL",
+        "nativeName": "Polish",
+        "moment": "pl",
+        "defaultMomentFormat": "Do MMMM YYYY",
+        "default": false,
+        "aliases": [
+		    "Polish",
+            "Polones",
+            "pl",
+            "pl-pl",
+            "pl_pl",
+            "pl-PL",
+            "pl_PL"
+        ]
+    },
+    {
+        "name": "ja-JA",
+        "nativeName": "Japanese",
+        "moment": "ja",
+        "defaultMomentFormat": "Do MMMM YYYY",
+        "default": false,
+        "aliases": [
+		    "Japanese",
+            "Japones",
+            "Japan",
+            "ja",
+            "ja-JA",
+            "ja_JA",
+            "ja-ja",
+            "ja_jA"
+        ]
+    },
+    {
+        "name": "nl-NL",
+        "nativeName": "Dutch",
+        "moment": "nl",
+        "defaultMomentFormat": "Do MMMM YYYY",
+        "default": false,
+        "aliases": [
+		    "Dutch",
+            "Holandês",
+            "nl",
+            "nl-nl",
+            "nl_nl",
+            "nl_NL",
+            "nl-NL"
+        ]
+    }
+]

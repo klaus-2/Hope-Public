@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Sets the Economia birthday for your Economia card.",
+    "USAGE": "setbirthday <d-m>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "setbirthday <d-m>",
+    "EXAMPLE": "setbirthday 02-12",
+    "NIVER": "กรุณาใส่วันเกิดของคุณ!",
+    "NIVER1": "โปรดป้อนวันที่ในรูปแบบ **DD-MM**",
+    "NIVER2": "วันเกิดของคุณได้รับการอัปเดตเป็น"
+}

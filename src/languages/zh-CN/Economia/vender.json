@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "卖掉你的物品换现金。",
+    "USAGE": "卖 <item id>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "卖 <item id>",
+    "EXAMPLE": "卖出 3 | 卖出 8 2",
+    "VENDER": "找不到提供了 **ID** 的商品！\n确保输入正确的 **ID** 然后重试。",
+    "VENDER1": "你没有必要数量的",
+    "VENDER2": "去做那笔交易。",
+    "VENDER3": "不幸的是，",
+    "VENDER4": "不能出售。",
+    "VENDER5": "你在 Hope 的经济插件中没有银行账户。\n请使用命令注册",
+    "VENDER6": "注册",
+    "VENDER7": "你已经成功卖出",
+    "VENDER8": "对于 **$",
+    "VENDER9": "skcoins"
+}

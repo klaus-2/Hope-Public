@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "¡Presenta tus respetos!",
+    "USAGE": "f\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "f",
+    "EXAMPLE": "f",
+    "F": "ha presentado sus respetos.",
+    "F1": "Presiona F para presentar tus respetos.",
+    "F2": "ha presentado sus respetos a",
+    "F3": "Presiona F para presentar tus respetos."
+}

@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Oferuje propozycję pozbycia się nudy.",
+    "USAGE": "znudzony\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "znudzony",
+    "EXAMPLE": "znudzony",
+    "FTEDIO_DESC": "./resources/other/bored-en.json",
+    "FTEDIO_DESC1": "Jesteś znudzona?"
+}

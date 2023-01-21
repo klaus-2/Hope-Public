@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Usuwanie listy odtwarzania",
+    "USAGE": "p-delete <playlist name>\n💡 **Przyklad**: {{EXAMPLE}}",
+    "USAGEE": "p-delete <playlist name>",
+    "EXAMPLE": "p-delete Test",
+    "P_DEL": "Nie mogłem znaleźć playlisty o nazwie **{{name}}**.",
+    "P_DEL1": "Pomyślnie usunięto"
+}

@@ -1,0 +1,23 @@
+{
+    "DESCRIPTION": "Toont de resterende tijd voor de volgende aflevering van een bepaalde anime. Keert terug naar het schema van deze dag als er geen anime is opgegeven.",
+    "USAGE": "nextep [anime]\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "volgende",
+    "EXAMPLE": "nextairing | nextair boruto | nextep zwarte klaver | nextepisode aanval op titan | pep tensura",
+    "APEP_DESC": "Niets gevonden!",
+    "APEP_DESC2": "Reactiefout",
+    "APEP_DESC3": "**{{member}}**, Er is een onverwachte fout opgetreden!\n\n",
+    "APEP_DESC4": "Probeer het over een paar minuten opnieuw. Dit wordt meestal veroorzaakt door uitvaltijd van de server.",
+    "APEP_DESC5": "**{{member}}**, Deze anime is misschien al **klaar met uitzend**, ",
+    "APEP_DESC6": "heeft de **volgende ep date onbekend**, of die anime kan **nooit bestaan**!",
+    "APEP_DESC7": "Aflevering",
+    "APEP_DESC8": "Laatste aflevering",
+    "APEP_DESC9": "van",
+    "APEP_DESC10": "zal ongeveer inluchten",
+    "APEP_DESC11": "Uitzenddatum volgende aflevering op",
+    "APEP_DESC12": "is momenteel onbekend.",
+    "APEP_DESC13": "Volgende première",
+    "APEP_DESC14": "wordt uitgezonden",
+    "APEP_DESC15": "De datum van de volgende aflevering is momenteel **onbekend**..\n",
+    "APEP_DESC16": "Het wordt later uitgezonden.",
+    "APEP_DESC17": "Er is de komende 7 dagen geen anime gevonden.\n"
+}

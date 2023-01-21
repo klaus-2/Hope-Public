@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Kiss the user(s) you mentioned!",
+    "USAGE": "kiss [user]",
+    "USAGEE": "kiss [user]",
+    "BEIJAR_DESCRIÇÃO": "คุณไม่สามารถจูบ แต่ให้ฉันจูบคุณแทน <@{{member}}>!",
+    "BEIJAR_Hope": " **ผม**",
+    "BEIJAR_DESCRIÇÃO1": "จูบ",
+    "BEIJAR_HopeFRASE": "ไม่ใช่ว่าฉันอยากให้เธอจูบฉันหรืออะไรทั้งนั้น・:*(〃・ｪ・〃人)*:・",
+    "BEIJAR_DESC": " และ ",
+    "BEIJAR_DESC1": ", และ "
+}

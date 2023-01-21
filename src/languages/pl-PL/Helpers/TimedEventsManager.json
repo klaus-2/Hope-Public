@@ -1,0 +1,7 @@
+{
+    "MESSAGE": "Przypomnę ci o „{{INFO}}” w około {{TIME}}.",
+    "DESC": "Link do wiadomości",
+    "TITLE": "Przypomnienie",
+    "FOOTER": "Przypomnienie sprzed {{TIME}}.",
+    "RESPONSE": "\n**PRZYMNIENIE: **\n {USER} Twoje przypomnienie: {{INFO}}"
+}

@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "생성된 백업 목록을 표시합니다.",
+    "USAGE": "전자 백업 목록\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "e-백업 리스트",
+    "EXAMPLE": "e-백업 리스트",
+    "E_BACKUP_LISTA": ":x: | **사용자가 만든 백업이 없습니다.**",
+    "E_BACKUP_LISTA1": ":x: | **사용자가 생성한 백업이 없습니다.**",
+    "E_BACKUP_LISTA2": "이 목록이 백업 목록입니다.",
+    "E_BACKUP_LISTA3": "서버 이름 | 백업 ID | 이모티콘 양",
+    "E_BACKUP_LISTA4": "안녕하세요, {{author}}"
+}

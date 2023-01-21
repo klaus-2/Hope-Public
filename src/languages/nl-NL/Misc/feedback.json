@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Laat feedback achter op Hope's server over haar.",
+    "USAGE": "feedback <stars> <comment>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "feedback <stars> <comment>",
+    "EXAMPLE": "feedback 5 Hope is een uitstekende bot die voldoet aan alle eisen op mijn server",
+    "EFEED_DESC": "Nieuwe feedback ontvangen",
+    "EFEED_DESC1": "Sterren:",
+    "EFEED_DESC2": "Commentaar:",
+    "EFEED_DESC3": "Ingediend door",
+    "EFEED_DESC4": "Laat Hope feedback achter met de opdracht {{prefix}}feedback",
+    "EFEED_DESC5": "<:SkyeOi:823047534577975366> Uw feedback is succesvol verzonden naar de ondersteuningsserver van Hope!"
+}

@@ -1,0 +1,6 @@
+{
+    "GUILD_CREATE": "[EVENT — DODANO SERWER]",
+    "GUILD_CREATE1": "Nazwa serwera",
+    "GUILD_CREATE2": "Właściciel serwera",
+    "GUILD_CREATE3": "Liczba członków"
+}

@@ -1,0 +1,22 @@
+{
+    "DESCRIPTION": "Sets the auto-anime addon.",
+    "USAGE": "<prefix><commandName> <option>\n💡**Example**\n{{EXAMPLE}}",
+    "USAGEE": "<prefix><commandName> <option>",
+    "EXAMPLE": "{{prefix}}auto-animes enable **- to activate the addon**\n{{prefix}}auto-animes disable **- to disable the addon**\n{{prefix}}auto-animes add ** - to add an anime**\n{{prefix}}auto-animes remove ** - to remove an anime**\n{{prefix}}auto-animes list ** - to see the list of current animes**",
+    "ANIMES": "enable",
+    "ANIMES1": "The `Auto-Animes` addon has been successfully activated.",
+    "ANIMES2": "disable",
+    "ANIMES3": "The `Auto-Animes` addon was disabled successfully.",
+    "ANIMES4": "channel",
+    "ANIMES5": "Oops! I don't seem to have access to this channel, or it doesn't exist on this server. Check and try again!",
+    "ANIMES6": "The channel has been successfully updated to <#{{channel}}> in the `Auto-Animes` addon.",
+    "ANIMES7": "add",
+    "ANIMES8": "Oops! Something happened here.\n1- The typed name of the anime may be wrong, in this case you just check and try again.\n2- The anime is no longer in exhibition, in this case, check the current anime in exhibition and their correct names at [this link](https://anilist.co/search/anime?year=2021&airing%20status=RELEASING) and try again.",
+    "ANIMES9": "Oops! Sorry, but you've reached the 10 anime limit! Make this server premium to add unlimited animes.",
+    "ANIMES10": "Oops! It seems that this anime has already been added to the `Auto-Animes` addon. Check the current list in **{{prefix}}autoanimes list**.",
+    "ANIMES11": "Oops! It appears you have reached the maximum limit of 999.",
+    "ANIMES12": "Anime {{title}} has been successfully added to the `Auto-Animes` addon.",
+    "ANIMES13": "remove",
+    "ANIMES14": "Anime {{search}} has been successfully removed from the `Auto-Animes` addon.",
+    "ANIMES15": "Oops! It appears that this anime was not added to the `Auto-Animes` addon. To check the current anime list, use `{{prefix}}autoanimes list`."
+}

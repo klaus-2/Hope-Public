@@ -1,0 +1,23 @@
+{
+    "DESCRIPTION": "显示英雄联盟中用户的最大等级。",
+    "USAGE": "elo <nick>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "elo <nick>",
+    "EXAMPLE": "elo yassuo",
+    "ELO": "目前处于水平",
+    "ELO1": "Elo",
+    "ELO2": "W/L",
+    "ELO3": "赢率",
+    "ELO4": "LP",
+    "ELO5": "na1",
+    "ELO6": "宗师",
+    "ELO7": "青铜",
+    "ELO8": "铁",
+    "ELO9": "银",
+    "ELO10": "黄金",
+    "ELO11": "铂",
+    "ELO12": "钻石",
+    "ELO13": "主人",
+    "ELO14": "挑战者",
+    "ELO15": "英雄联盟简介",
+    "ELO16": "Foi Mal，masesse invocador 不存在。\nVerifique se esescreveu o nome 更正 e ente tente overtra vez."
+}

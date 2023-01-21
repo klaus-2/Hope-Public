@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Risposte con un numero casuale.",
+    "USAGE": "random\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "casuale",
+    "EXAMPLE": "casuale 2 10",
+    "FRANDOM_DESC": ":one: Aspetta, sto scegliendo un numero...",
+    "FRANDOM_DESC1": "{{num}} Aspetta, sto scegliendo un numero...",
+    "FRANDOM_DESC2": "🔢 Il tuo numero è **{{random}}**!"
+}

@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "erhalte eine Antwort für alles!",
+    "USAGE": "seer <question>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "seer <question>",
+    "EXAMPLE": "seer Wird es heute regnen?",
+    "FVIDENTE_DESC": "./resources/other/8ball-en.json",
+    "FVIDENTE_DESC1": "Frage:",
+    "FVIDENTE_DESC2": "Frage von",
+    "FVIDENTE_DESC3": "Himmel, der Seher"
+}

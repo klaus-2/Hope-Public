@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "ランダムなアニメ引用符を生成する",
+    "USAGE": "aniquote\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "aniquote",
+    "EXAMPLE": "aniquote アニメワンピース | アニメフレームキャラクター NARUTO-ナルト | AF",
+    "AFRASE_FIELD": "* {{anime}} より引用 *",
+    "AFRASE_FOOTER": "aniquote [アニメ <name>] [キャラクター <name>]"
+}

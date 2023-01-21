@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Wikipediaで指定された用語を検索してください。",
+    "USAGE": "ウィキペディア <term>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "wikipedia <term>",
+    "EXAMPLE": "ウィキペディア雨",
+    "WIKIPEDIA": "おっっ！ウィキペディアでそれを見つけられなかった。\n正しく綴ったのかな？",
+    "WIKIPEDIA1": "リンク",
+    "WIKIPEDIA2": "この段落は埋め込みには長すぎます。提供されたリンクをクリックしてください。",
+    "WIKIPEDIA3": "えん"
+}

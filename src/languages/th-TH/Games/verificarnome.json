@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Check if there is an summoner name in the League of Legends.",
+    "USAGE": "verifyname\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "verifyname <nick>",
+    "EXAMPLE": "verifyname yassuo",
+    "VERFNOME": "ตรวจสอบชื่อเล่น: {{arg}}",
+    "VERFNOME1": "นิคนี้สามารถใช้ได้",
+    "VERFNOME2": "ชื่อเล่นนี้ถูกใช้งานอยู่"
+}

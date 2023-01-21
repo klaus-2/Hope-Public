@@ -1,0 +1,17 @@
+{
+    "DESCRIPTION": "Get real-time information about Covid-19 in a country.",
+    "USAGE": "covid [country]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "covid [country]",
+    "EXAMPLE": "covid united states | covid",
+    "COVID": "Coronavirus Stats",
+    "COVID1": "Confirmed Cases",
+    "COVID2": "Today Cases",
+    "COVID3": "Today Deaths",
+    "COVID4": "Active",
+    "COVID5": "Recovered",
+    "COVID6": "Deaths",
+    "COVID7": "Tests",
+    "COVID8": "Cases Per Mil",
+    "COVID9": "Deaths Per Mil",
+    "COVID10": "Last Updated"
+}

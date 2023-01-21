@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "フォートナイトのアカウントから情報を取得します。",
+    "USAGE": "fortnite <kbm / gamepad / touch> <user>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "フォートナイト <kbm / gamepad / touch> <user>",
+    "EXAMPLE": "フォートナイト kbm ニンジャ",
+    "FORTNITE": "<a:loading:823004555884232724> Hold on...研究してる！",
+    "FORTNITE1": "{{username}}の統計情報",
+    "FORTNITE2": "上位のプレースメント",
+    "FORTNITE3": "合計ポイント:",
+    "FORTNITE4": "試合数:",
+    "FORTNITE5": "勝利:",
+    "FORTNITE6": "勝率:",
+    "FORTNITE7": "キル:",
+    "FORTNITE8": "あま:"
+}

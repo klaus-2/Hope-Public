@@ -1,0 +1,8 @@
+{
+  "DESCRIPTION": "Modifier les données d'un utilisateur",
+  "USAGE": "utilisateur <id> [premium / banni] [vrai / faux]",
+  "SUCCESS_PREM": "La mise à jour de la prime de l'utilisateur a réussi.",
+  "SUCCESS_BAN": "Ban global de l'utilisateur mis à jour avec succès.",
+  "SUCCESS_RANK": "L'arrière-plan du classement de l'utilisateur a été mis à jour avec succès.",
+  "SUCCESS_RESET": "Les données de l'utilisateur ont été réinitialisées avec succès."
+}

@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "在个人资料中设置您的区域。",
+    "USAGE": "设置区域 <region>\n💡 ** Explo**： {{EXAMPLE}}",
+    "USAGEE": "设置区域 <region>",
+    "EXAMPLE": "设置区域我们",
+    "REG": "您所在的地区已成功更新为 “美利坚合众国”！",
+    "REG1": "您所在的地区已成功更新为 `Brazil`！"
+}

@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "启用或禁用抗污染模式。",
+    "USAGE": "抗污染 <enable | disable>\n💡**示例**: {{EXAMPLE}}",
+    "USAGEE": "抗污染 <enable | disable>",
+    "EXAMPLE": "能够防止污染",
+    "ANTI": "\"抗污染\"模式已成功激活！",
+    "ANTI1": "\"抗污染\"模式已成功停用！"
+}

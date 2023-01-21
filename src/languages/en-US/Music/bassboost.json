@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "apply the bassboost effect to the music.",
+    "USAGE": "bassboost [value] | [off]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "bassboost [value] | [off]",
+    "EXAMPLE": "bassboost 8 | bb -4 | bassboost off",
+    "ON": "Turned on **bassboost**.\nThis may take a few seconds...",
+    "BASSBOOST1": "<:defaultdisabled:1025607277736112248><:enabled:1025606172272762972> **Bassboost** has been enabled.",
+    "OFF": "Turning off **bassboost**.\nThis may take a few seconds...",
+    "BASSBOOST2": "<:disabled:1025606174986469446><:defaultenabled:1025606173673672734> **Bassboost** has been disabled.",
+    "BASSBOOST4": "Uh-oh! Sorry, but the *quantity* must be a **real number**. Please check and try again!",
+    "BASSBOOST5": "Setting bassboost to",
+    "BASSBOOST6": "That may take a few seconds...",
+    "BASSBOOST7": "<:defaultdisabled:1025607277736112248><:enabled:1025606172272762972> **Bassboost** has been enabled. Value set to:"
+}

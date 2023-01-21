@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "为你的个人资料卡设置个人简历。",
+    "USAGE": "setbio <message>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "setbio <message>",
+    "EXAMPLE": "setbio 镇上最酷的人",
+    "BIO": "你好 {{author}}，你已经有传记了",
+    "BIO1": "要更改你的传记，请使用 `{{prefix}}setbio <newMessage>`",
+    "BIO2": "你需要为你的简历设置一条消息。",
+    "BIO3": "你已经达到了 ** 允许的 `165 个字符的限制！",
+    "BIO4": "你好 {{author}}，你已经设定了新的传记！",
+    "BIO5": "你可以使用命令 `{{prefix}}profile` 来查看"
+}

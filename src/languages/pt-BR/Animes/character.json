@@ -1,0 +1,18 @@
+{
+    "DESCRIPTION": "Procura um personagem em MyAnimeList.net",
+    "USAGE": "personagem <nome>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "personagem <nome>",
+    "EXAMPLE": "personagem mai sakurajima | personagem Mai-san | personagem mai",
+    "APERSO_DESC": "Procurando por um personagem chamado **{{query}}** em <:MyAnimeList:827773575112425472> [MyAnimeList](https://myanimelist.net 'Site').",
+    "APERSO_DESC1": "Nenhum resultado foi encontrado para **{{query}}**!\n\nSe você acredita que esse personagem existe, tente seus nomes alternativos.",
+    "APERSO_DESC2": "Estou tendo uma taxa limitada em {{badge}}. Por favor, tente novamente mais tarde.",
+    "APERSO_DESC3": "Não foi possível acessar {{badge}}. O site pode estar fora do ar no momento.",
+    "APERSO_DESC4": "Nada encontrado",
+    "APERSO_DESC5": "Erro de resposta",
+    "APERSO_DESC6": "respondeu com código de erro HTTP",
+    "APERSO_DESC7": "Ler mais",
+    "APERSO_DESC8": "visuais",
+    "APERSO_DESC9": "Nenhum",
+    "APERSO_DESC10": "e",
+    "APERSO_DESC11": "mais!"
+}

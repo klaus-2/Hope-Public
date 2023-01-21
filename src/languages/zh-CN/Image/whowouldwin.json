@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "创建一个 whowouldwin 映像。",
+    "USAGE": "谁会赢 <user1> [user2]\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "谁会赢 <user1> [user2]",
+    "EXAMPLE": "谁会赢 @user @user | 谁会赢 @user <attachment>"
+}

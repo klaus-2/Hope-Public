@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "charger une sauvegarde.",
+    "USAGE": "e-backup-load <code>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "e-backup-load <code>",
+    "EXAMPLE": "e-backup-load ExOBdl",
+    "E_BACKUP_CARREGAR": "Vous êtes sûr?",
+    "E_BACKUP_CARREGAR1": "Bonjour, {{author}}",
+    "E_BACKUP_CARREGAR2": "Vous êtes sûr de vouloir charger la sauvegarde ?\n\n<:Informao:823004619805294643> Note: Il n'ajoutera des emojis que s'il y a suffisamment d'espace sur le serveur.\nAssurez-vous donc que s'il y a plus d'emojis dans la sauvegarde que d'espace sur le serveur, il ne s'agit pas d'un bug, mais d'un manque d'espace.",
+    "E_BACKUP_CARREGAR3": "**Le chargement de la sauvegarde a été annulé.**",
+    "E_BACKUP_CARREGAR4": ":x: | **Ce code de sauvegarde n'a pas été trouvé** \nVérifiez si vous utilisez le code correct et réessayez.",
+    "E_BACKUP_CARREGAR5": ":x: | **Il n'y a pas d'émoticônes dans cette sauvegarde !**",
+    "E_BACKUP_CARREGAR6": "Il n'y a plus d'espace pour les nouveaux émojis.",
+    "E_BACKUP_CARREGAR7": "<:v_:855859391835799582> **La sauvegarde a été chargée.**",
+    "E_BACKUP_CARREGAR8": ":x: | **La sauvegarde n'a pas été trouvée !**"
+}

@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "krijg overal een antwoord op!",
+    "USAGE": "ziener <question>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "ziener <question>",
+    "EXAMPLE": "ziener Gaat het vandaag regenen?",
+    "FVIDENTE_DESC": "./resources/other/8ball-en.json",
+    "FVIDENTE_DESC1": "Vraag:",
+    "FVIDENTE_DESC2": "Vraag van",
+    "FVIDENTE_DESC3": "Hope, de ziener"
+}

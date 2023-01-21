@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Wykonuj role reakcji",
+    "USAGE": "reactionrole <messagelink>\n💡 **Przykład: {{EXAMPLE}}",
+    "USAGEE": "role reakcji <messagelink>",
+    "EXAMPLE": "role reakcyjne https://discord.com/channels/450822670105082938/451619652009787331/747357221053937082",
+    "RR_REMOVER": "Nieprawidłowe łącze wiadomości",
+    "RR_REMOVER1": "Pomyślnie usunięta rola reakcji"
+}

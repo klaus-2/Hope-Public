@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "download an emoji from some server in PNG or GIF!",
+    "USAGE": "downloademoji <emoji>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "downloademoji <emoji>",
+    "EXAMPLE": "downloademoji emoji",
+    "EBEM_DESC": "Emoji แปลงเป็นลิงค์สำเร็จ!",
+    "EBEM_DESC1": "ลิงค์:",
+    "EBEM_DESC2": "[คลิกที่นี่เพื่อดาวน์โหลด]({{Link}})",
+    "EMOJI_INVALIDO": "โปรดจำเป็นต้องมี Emoji ที่ถูกต้อง!",
+	"EMOJI_PADRÃO": "emojis มาตรฐานไม่สามารถแปลงเป็นดาวน์โหลดได้"
+}

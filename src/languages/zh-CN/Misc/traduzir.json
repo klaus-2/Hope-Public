@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "把你的句子翻译成任何语言！对于列表，请使用 <prefix>种翻译语言。",
+    "USAGE": "翻译 <language> <text>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "翻译 <language> <text>",
+    "EXAMPLE": "翻译语言",
+    "ETRA_DESC": "目前可用的语言",
+    "ETRA_DESC1": "🇧🇬-保加利亚语使用 `{{prefix}}` 翻译 bg <text>`\n🇵🇱-波兰语使用`{{prefix}}`翻译 pl <text>`\n🇳🇱-荷兰语使用 `{{prefix}}`翻译 nl <text>`\n🇩🇰-丹麦语使用 `{{prefix}}` 翻译 da <text>`\n🇩🇪-德语使用`{{prefix}}`翻译 de <text>`\n🇮🇹-意大利语使用 `{{prefix}}` 翻译 <text>`\n🇷🇺-俄语使用`{{prefix}}`翻译 ru <text>`\n🇪🇸-西班牙语使用`{{prefix}}`翻译 es <text>`\n🇹🇷-土耳其语使用 `{{prefix}}` 翻译 tr <text>`\n🇫🇷-法语使用`{{prefix}}`翻译 fr <text>`",
+    "ETRA_DESC2": "你好，我是 {{user}}",
+    "ETRA_DESC3": "你知道吗？",
+    "ETRA_DESC4": "在",
+    "ETRA_DESC5": "意味着",
+    "ETRA_DESC6": "<: Hopeuau: 823047534670774303> 哇！有趣的是吧？"
+}

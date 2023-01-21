@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "разблокировать канал.",
+    "USAGE": "unlock\n💡 **Пример**: {{EXAMPLE}}",
+    "USAGEE": "разблокировать",
+    "EXAMPLE": "разблокировать",
+    "DESTRANCAR": "🔓 Канал <{{channel}}> был разблокирован.",
+    "DESTRANCAR1": "ВНИМАНИЕ"
+}

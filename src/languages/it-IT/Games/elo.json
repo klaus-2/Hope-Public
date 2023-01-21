@@ -1,0 +1,23 @@
+{
+    "DESCRIPTION": "Mostra il rango più grande di un utente nella Lega delle Leggende.",
+    "USAGE": "elo <nick>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "elo <nick>",
+    "EXAMPLE": "elo yassuo",
+    "ELO": "è attualmente a livello",
+    "ELO1": "Elo",
+    "ELO2": "W/L",
+    "ELO3": "Tasso Di Vittoria",
+    "ELO4": "LP",
+    "ELO5": "na1",
+    "ELO6": "GRANDMASTER",
+    "ELO7": "BRONZE",
+    "ELO8": "FERRO",
+    "ELO9": "SILVER",
+    "ELO10": "ORO",
+    "ELO11": "PLATINUM",
+    "ELO12": "DIAMONDO",
+    "ELO13": "MASTER",
+    "ELO14": "CHALLENGER",
+    "ELO15": "Profilo Lega delle Leggende",
+    "ELO16": "Foi mal, mas esse invocador não existe.\nVerifique se escreveu o nome corretamente e tente outra vez."
+}

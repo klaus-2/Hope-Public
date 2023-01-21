@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "显示用户收到的警告数量。",
+    "USAGE": "警告 [user]\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "警告 [user]",
+    "EXAMPLE": "警告 @Hope",
+    "NO_WARNINGS": "此用户之前没有被警告过。",
+    "WARNS_TITLE": "{{user}}的警告列表。",
+    "AVISOS": "警告",
+    "AVISOS1": "用户离开",
+    "AVISOS2": "发行日期："
+}

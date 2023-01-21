@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Mettez à jour l'addon de logs.",
+    "USAGE": "logs <option> [data]\n💡**Exemple** : {{EXAMPLE}}",
+    "USAGEE": "logs <option> [data]",
+    "LOG": "Vous trouverez ci-dessous la liste des journaux disponibles dans chaque catégorie.\n\nVous pouvez cliquer sur les boutons ci-dessous pour activer tous les journaux de cette catégorie ou, si vous préférez, vous pouvez utiliser les commandes suivantes pour les configurer manuellement.\n\nActiver/désactiver un événement : __.\n__Set the Logs channel to Moderation Logging:__ (Régler le canal des journaux sur la modération)\n`{{prefix}}`**logs modchannel <channel>**\n__Set the Logs channel to Server Events:__.\n`{{prefix}}`**logs serverchannel <channel>**\n`{{prefix}}`**logs memberchannel <channel>**\n__Set the Logs channel to Message Events:__.\n`{{prefix}}`**logs msgchannel <channel>**",
+    "LOG1": "Pas encore défini",
+    "LOG2": "enable",
+    "LOG3": "disable"
+}

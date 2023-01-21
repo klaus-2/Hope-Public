@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Włącz lub wyłącz dodatek do autoroli.",
+    "USAGE": "autorole <enable | disable>\n💡**Przykład**: {{EXAMPLE}}",
+    "USAGEE": "autorola <enable | disable>",
+    "EXAMPLE": "Włącz autorole"
+}

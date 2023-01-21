@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "추천 애드온을 사용 또는 사용 중지합니다.",
+    "USAGE": "bv 채널 <channelID>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "bv 채널 <channelID>",
+    "EXAMPLE": "비브-채널 8973474238977",
+    "BV_CANAL": "채널이 성공적으로 업데이트되었습니다. "
+}

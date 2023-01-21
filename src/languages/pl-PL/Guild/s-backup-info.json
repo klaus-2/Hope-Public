@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Uzyskać informacje z kopii zapasowej serwera.",
+    "USAGE": "s-backup-info <backupID>\n💡 **Przykład: {{EXAMPLE}}",
+    "USAGEE": "s-backup-info <backupID>",
+    "EXAMPLE": "s-backup-info 2334",
+    "S_BACKUP_INFO": "Musisz określić poprawny identyfikator kopii zapasowej",
+    "S_BACKUP_INFO1": "** BACKUP INF**\n ID kopii zapasowej",
+    "S_BACKUP_INFO2": "ID serwera:",
+    "S_BACKUP_INFO3": "Rozmiar kopii zapasowej:",
+    "S_BACKUP_INFO4": "mb \n Kopia zapasowa utworzona w:"
+}

@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Aktualizuj globalną listę blo",
+    "USAGE": "czarna lista <add / remove> <userID> [reason]",
+    "MISSING_USER": "Nieprawidłowa nazwa użytkownika.",
+    "AUTHOR": "{{TAG}} zostało zakazane na całym świecie",
+    "DESC": "**Powód: ** {{REASON}}",
+    "ALRDY_BAN": "Użytkownik: {{ID}} jest już zablokowane.",
+    "SUCC_UNBAN": "Pomyślnie odbanowany użytkownik."
+}

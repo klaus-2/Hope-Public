@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Imposta la velocità di riproduzione del giocatore.",
+    "USAGE": "speed <value>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "regime <value>",
+    "EXAMPLE": "velocità 4",
+    "ON_SPD": "Aggiornamento della velocità di riproduzione. Questo potrebbe richiedere alcuni secondi...",
+    "VELOCIDADE": "La velocità è stata cambiata in {{num}}"
+}

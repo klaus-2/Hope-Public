@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Wave for someone.",
+    "USAGE": "wave [user]",
+    "USAGEE": "wave [user]",
+    "ACENAR_DESCRIÇÃO1": "<@{{author}}> โบกมือ!",
+    "ACENAR_DESCRIÇÃO2": "<@{{user}}> โบกมือกลับ",
+    "ACENAR_DESCRIÇÃO3": " โบกมือให้ "
+}

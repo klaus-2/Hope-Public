@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "apply the pitch effect to the music.",
+    "USAGE": "pitch <value | off>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "pitch <value | off>",
+    "EXAMPLE": "pitch off | pitch 6",
+    "PITCH": "Deactivating the effect **Pitch**. <:SkyeOuvindoMusica:823046654554144768>\nThat may take a few seconds...",
+    "PITCH1": "<:disabled:1025606174986469446><:defaultenabled:1025606173673672734> **Pitch** has been disabled.",
+    "PITCH2": "The quantity must be a real number.",
+    "PITCH3": "Pitch must be between 0 and 10.",
+    "PITCH4": "Activating the **Pitch** effect and setting its value to:",
+    "PITCH5": "That may take a few seconds...",
+    "PITCH6": "<:defaultdisabled:1025607277736112248><:enabled:1025606172272762972> **Pitch** has been enabled. Value set to:"
+}

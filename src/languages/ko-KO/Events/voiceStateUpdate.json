@@ -1,0 +1,20 @@
+{
+    "VOICE_STATE_UPDATE": "오디오 출신",
+    "VOICE_STATE_UPDATE1": "서버에서",
+    "VOICE_STATE_UPDATE2": "유엔",
+    "VOICE_STATE_UPDATE3": "채널에서 귀가 들렸다.",
+    "VOICE_STATE_UPDATE4": "사용자 ID:",
+    "VOICE_STATE_UPDATE5": "[이벤트 — 오디오]",
+    "VOICE_STATE_UPDATE6": "마이크로폰",
+    "VOICE_STATE_UPDATE7": "서버에서",
+    "VOICE_STATE_UPDATE8": "유엔",
+    "VOICE_STATE_UPDATE9": "운하에서 음소거",
+    "VOICE_STATE_UPDATE10": "사용자 ID:",
+    "VOICE_STATE_UPDATE11": "[이벤트 — 마이크]",
+    "VOICE_STATE_UPDATE12": "시작",
+    "VOICE_STATE_UPDATE13": "중지되었습니다",
+    "VOICE_STATE_UPDATE14": "방송 켜기",
+    "VOICE_STATE_UPDATE15": "사용자 ID:",
+    "VOICE_STATE_UPDATE16": "[이벤트 — 스트리밍]",
+    "VOICE_STATE_UPDATE17": "비활성 때문에 🔉 ** {{vcName}} ** 연결이 끊어졌습니다. 연중무휴 음성 채널을 계속 사용하고 싶다면**`{{prefix}}`premium**에서 프리미엄을 받으실 수 있습니다."
+}

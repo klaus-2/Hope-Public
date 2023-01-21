@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Zwaai voor iemand.",
+    "USAGE": "golf [user]",
+    "USAGEE": "golf [user]",
+    "ACENAR_DESCRIÇÃO1": "<@{{author}}> gewacht!",
+    "ACENAR_DESCRIÇÃO2": "<@{{user}}> keert terug",
+    "ACENAR_DESCRIÇÃO3": " zwaait naar "
+}

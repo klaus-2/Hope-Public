@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Ativa ou desativa o addon de comandos da Hope no servidor.",
+    "USAGE": "mod-comandos <ativar | desativar>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "mod-comandos <ativar | desativar>",
+    "EXAMPLE": "mod-comandos ativar"
+}

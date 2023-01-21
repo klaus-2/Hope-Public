@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "applies the random order to the playlist.",
+    "USAGE": "shuffle\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "shuffle",
+    "EXAMPLE": "shuffle",
+    "OA": "<:v_:855859391835799582> Playlist has been successfully shuffled."
+}

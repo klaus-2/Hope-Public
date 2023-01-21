@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "mostrar informações de uma partida no League of Legends.",
+    "USAGE": "ingame <nick>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "elo <nick>",
+    "EXAMPLE": "elo yassuo",
+    "INGAME": "<:Skye Observando:823223048060534833> Hallo! Wacht even, ik verzamel alle informatie.",
+    "INGAME1": "Summoner niet gevonden",
+    "INGAME2": "na",
+    "INGAME3": "Blauw team",
+    "INGAME4": "Rood team",
+    "INGAME5": "Oeps, ik heb hier goed gezocht en ontdekte dat {{nom}} momenteel niet in een match zit 😕"
+}

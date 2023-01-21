@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "サーバーアイコンを取得します。",
+    "USAGE": "guildicon\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "ギルディソン",
+    "EXAMPLE": "ギルディコン | servericon",
+    "NO_GUILD_ICON": "このサーバーにはサーバーアイコンがありません。",
+    "GUILD_ICON": "ダウンロード"
+}

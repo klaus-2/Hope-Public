@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "load a backup.",
+    "USAGE": "e-backup-load <code>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "e-backup-load <code>",
+    "EXAMPLE": "e-backup-load ExOBdl",
+    "E_BACKUP_CARREGAR": "Are you sure?",
+    "E_BACKUP_CARREGAR1": "Hello, {{author}}",
+    "E_BACKUP_CARREGAR2": "Are you sure you want to load the backup?\n\n<:Informao:823004619805294643> Note: It will only add emojis while there was enough space on the server.\nSo make sure that if there are more emojis in the backup than server space, it's not a bug, but a lack of space.",
+    "E_BACKUP_CARREGAR3": "**Backup loading has been canceled.**",
+    "E_BACKUP_CARREGAR4": ":x: | **This backup code was not found** \nVerify if you are using the correct code and try again.",
+    "E_BACKUP_CARREGAR5": ":x: | **There are no emojis in that backup!**",
+    "E_BACKUP_CARREGAR6": "There is no more space for new emojis.",
+    "E_BACKUP_CARREGAR7": "<:v_:855859391835799582> **The backup was successfully loaded.**",
+    "E_BACKUP_CARREGAR8": ":x: | **The backup was not found!**"
+}

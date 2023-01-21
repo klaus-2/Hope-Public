@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "安全なパスワードを生成します。",
+    "USAGE": "パスワード\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "パスワード",
+    "EXAMPLE": "パスワード",
+    "ESENHA_DESC": "わからない",
+    "ESENHA_DESC1": "とても安全",
+    "ESENHA_DESC2": "保険",
+    "ESENHA_DESC3": "スカイパスワードジェネレーター",
+    "ESENHA_DESC4": "[パスワード]",
+    "ESENHA_DESC5": "[長さ]",
+    "ESENHA_DESC6": "セキュリティレベル",
+    "ESENHA_DESC7": "注-あなたのパスワードは決して私たちの側には保存されません！",
+    "ESENHA_DESC8": "🚫 パスワードの送信に失敗しました！",
+    "ESENHA_DESC9": "DM送れない！ダイレクトメッセージを許可するようにこのサーバーのプライバシー設定を変更して修正してください！"
+}

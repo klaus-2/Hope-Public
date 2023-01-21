@@ -1,0 +1,23 @@
+{
+    "DESCRIPTION": "Zeigen Sie den größten Rang eines Benutzers in der Liga der Legenden.",
+    "USAGE": "elo <nick>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "elo <nick>",
+    "EXAMPLE": "elo yassuo",
+    "ELO": "ist derzeit auf Ebene",
+    "ELO1": "Elo",
+    "ELO2": "P/L",
+    "ELO3": "Gewinnrate",
+    "ELO4": "PN",
+    "ELO5": "na1",
+    "ELO6": "GRANDMASTER",
+    "ELO7": "BRONZE",
+    "ELO8": "IRON",
+    "ELO9": "SILVER",
+    "ELO10": "GOLD",
+    "ELO11": "PLATINUM",
+    "ELO12": "DIAMONT",
+    "ELO13": "MASTER",
+    "ELO14": "CHALLENGER",
+    "ELO15": "Liga der Legenden Profil",
+    "ELO16": "Foi mal, mas esse invocador não existe.\nVerifique se escreveu o nome corretamente e tente outra vez."
+}

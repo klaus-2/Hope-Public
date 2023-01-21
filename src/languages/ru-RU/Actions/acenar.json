@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Волна для кого-то.",
+    "USAGE": "волна [user]",
+    "USAGEE": "волна [user]",
+    "ACENAR_DESCRIÇÃO1": "<@{{author}}> волна!",
+    "ACENAR_DESCRIÇÃO2": "<@{{user}}> вернулся",
+    "ACENAR_DESCRIÇÃO3": " waved к "
+}

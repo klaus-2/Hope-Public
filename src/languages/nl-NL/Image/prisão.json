@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Stuur iemand naar de gevangenis!",
+    "USAGE": "jail\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "gevangenis",
+    "EXAMPLE": "gevangenis"
+}

@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Eliminar una canción de la lista de reproducción",
+    "USAGE": "p-remove <playlist name> <position> [position]\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "p-eliminar <playlist name> <position> [position]",
+    "EXAMPLE": "p-remove Prueba 3 | p-remove Prueba 3 5",
+    "P_REMOVER": "No es una opción",
+    "P_REMOVER1": "La canción se ha eliminado correctamente de la lista de reproducción.",
+    "P_REMOVER2": "No se ha encontrado ninguna lista de reproducción."
+}

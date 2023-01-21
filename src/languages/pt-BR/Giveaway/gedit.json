@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Edita um sorteio ativo.",
+    "USAGE": "editarsorteio <ID da mensagem> <Tempo adicional> <nova quantidade de ganhadores> <novo premio>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "editarsorteio <ID da mensagem> <Tempo adicional> <nova quantidade de ganhadores> <novo premio>",
+    "EXAMPLE": "editarsorteio 87643578231 30m 1 nitro classic 1",
+    "EDIT_GIVEAWAY": "<:v_:855859391835799582> Sucesso!\nO Sorteio será atualizado em menos de {{time}} segundos.",
+    "INCORRECT_WINNER_COUNT": "Eeeei, a contagem de vencedores deve ser um número de 0-100.\n Shhh...tá eu não conto para ninguém, prometo 🤞"
+}

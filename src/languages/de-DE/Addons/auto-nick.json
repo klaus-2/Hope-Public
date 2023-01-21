@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Konfiguriert das Auto-Nick-Addon.",
+    "USAGE": "auto-nick",
+    "USAGEE": "auto-nick",
+    "EXAMPLE": "auto-nick aktivieren\n💡**Exemplo**: {{EXAMPLE}}",
+    "NICK": "enable",
+    "NICK1": "Das `Auto-Nick` Addon wurde erfolgreich aktiviert.",
+    "NICK2": "disable",
+    "NICK3": "Das `Auto-Nick` Addon wurde erfolgreich deaktiviert.",
+    "NICK4": "nick",
+    "NICK5": "Bitte geben Sie einen Nicknamen ein.",
+    "NICK6": "Hoppla! Der Benutzername muss zwischen 2-32 Zeichen lang sein.",
+    "NICK7": "Der Prenickname des `Auto-Nick` Addons wurde erfolgreich aktualisiert auf `{{nick}}`."
+}

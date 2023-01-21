@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "创建一条虚假的 Twitter 推文。",
+    "USAGE": "推特 [user] <text>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "叽叽喳喳 [user] <text>",
+    "EXAMPLE": "推特 @user 我爱 Hope。"
+}

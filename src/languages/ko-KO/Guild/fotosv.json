@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "서버 아이콘을 가져옵니다.",
+    "USAGE": "길디컨\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "길디슨",
+    "EXAMPLE": "길디콘 | 서버아이콘",
+    "NO_GUILD_ICON": "이 서버에는 서버 아이콘이 없습니다.",
+    "GUILD_ICON": "다운로드"
+}

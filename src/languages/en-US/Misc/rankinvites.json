@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "show the invitation rank of the server.",
+    "USAGE": "rankinvites\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "rankinvites",
+    "EXAMPLE": "rankinvites",
+    "ERANKC_DESC": "<:SkyeComVergonha:823248929508032513> Ohhh, it seems that I do not have permissions to see invitations on this server... please notify the administration and try again.",
+    "ERANKC_DESC1": "invitations",
+    "ERANKC_DESC2": "🏆 Invitations Ranking 🏆"
+}

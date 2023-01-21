@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Berechne eine mathematische Gleichung.",
+    "USAGE": "rechner\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "rechner>",
+    "EXAMPLE": "rechner",
+    "EQUAÇÃO": "- Hey! Das ist keine gültige Gleichung... versuchen Sie es bitte erneut.",
+    "CALC": "Hallo, das ist Hope Taschenrechner. Klicke auf die Schaltflächen unten, um deine Gleichung zu machen!",
+    "CALC1": "- Rechner deaktiviert"
+}

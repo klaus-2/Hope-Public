@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Carica un backup dal server.",
+    "USAGE": "s-backup-load <backupID>\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "s-backup-load <backupID>",
+    "EXAMPLE": "s-backup-load 2334",
+    "S_BACKUP_CARREGAR": "Aah {{author}}, I'm sorry :(",
+    "S_BACKUP_CARREGAR1": "È necessario disporre dei permessi per gestire i messaggi per creare un backup in questo server.",
+    "S_BACKUP_CARREGAR2": ":warning: Tutti i canali, i ruoli e le impostazioni del server saranno cancellati. Vuoi continuare? Invia `confirm` o `cancel`!",
+    "S_BACKUP_CARREGAR3": "conferma",
+    "S_BACKUP_CARREGAR4": "annulla",
+    "S_BACKUP_CARREGAR5": "Backup caricato con successo!",
+    "S_BACKUP_CARREGAR6": "Nessun backup trovato per ID: **{{backupID}}**",
+    "S_BACKUP_CARREGAR7": "Si è verificato un errore:",
+    "S_BACKUP_CARREGAR8": ":x: Annullato.",
+    "S_BACKUP_CARREGAR9": ":x: Comando scaduto! Riprova."
+}

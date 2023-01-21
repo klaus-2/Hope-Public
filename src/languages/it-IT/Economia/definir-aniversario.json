@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Imposta il compleanno di Economia per la tua carta Economia.",
+    "USAGE": "setbirthday <d-m>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "setbirthday <d-m>",
+    "EXAMPLE": "setbirthday 02-12",
+    "NIVER": "inserisci il tuo **compleanno**!",
+    "NIVER1": "inserire la data nel formato **DD-MM**",
+    "NIVER2": "la tua data di compleanno è stata aggiornata a"
+}

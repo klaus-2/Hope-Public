@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Define a quantidade de reputação de um usuario.",
+    "USAGE": "set-rep <user> <valor>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "set-rep <user> <valor>",
+    "EXAMPLE": "set-rep @User 17",
+    "SET_REP": "사용자 평판 {{member}}이(가) {{received}}에서 {{valor}}(으)로 성공적으로 변경되었습니다!",
+    "SET_REP1": "평판 값은 숫자여야 합니다! 예: `.set-rep @User 15`"
+}

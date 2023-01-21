@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "재생 목록에서 노래 삭제하기",
+    "USAGE": "p-제거 <playlist name> <position> [position]\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "p-제거 <playlist name> <position> [position]",
+    "EXAMPLE": "p-제거 테스트 3 | p-제거 테스트 3 5",
+    "P_REMOVER": "옵션 아님",
+    "P_REMOVER1": "노래가 재생 목록에서 성공적으로 제거되었습니다.",
+    "P_REMOVER2": "재생목록을 찾을 수 없습니다."
+}

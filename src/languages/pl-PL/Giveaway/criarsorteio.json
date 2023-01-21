@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Rozpocznij gratisowy",
+    "USAGE": "g-start <time> <number of winners> <prize>\n💡 **Przykład: {{EXAMPLE}}",
+    "USAGEE": "g-start <time> <number of winners> <prize>",
+    "EXAMPLE": "g-start 2h30m 3 nitro classic",
+    "CRIAR_SORTEIO": "Nagroda musi mieć mniej niż 256 znaków.",
+    "CRIAR_SORTEIO1": "rozpoczął gratisów na serwerze:",
+    "CRIAR_SORTEIO2": "Ups, wzmianki nie są nagrodami, spróbuj ponownie.",
+    "giveaway": "<:sorteio 1:823004177064132658 > **GIVEAWA** <:sorteio 1:823004177064132658 >",
+    "giveawayEnded": "<:sorteio 1:823004177064132658 > **ZGIVEAWAY END** <:sorteio 1:823004177064132658 >",
+    "timeRemaining": "<:tempo:823004079831384074> Pozostały czas: **{duration}**!",
+    "inviteToParticipate": "Aby wziąć udział, zareaguj z <:sorteio:823004188292022303>!",
+    "winMessage": "<:confetti:823008227033350163> Gratulacje, {winners}! Kontakt {this.hostedBy}, aby otrzymać **{this.prize}**!\nGiveaway link: {messageURL}",
+    "noWinner": "Och 😕 Jaka szkoda! Losowanie zostało anulowane, ponieważ nie było prawidłowych wpisów.\nHmm.. spróbujmy jeszcze raz?",
+    "hostedBy": "💳 Obsługiwane przez: {this.hostedBy}",
+    "winners": "🏆 {this.winnerCount} zwycięzca(y)",
+    "endedAt": "Zakończone na",
+    "CRIAR_SORTEIO3": "Nagroda musi mieć mniej niż 256 znaków.",
+    "FOOTER": "Sorteio"
+}

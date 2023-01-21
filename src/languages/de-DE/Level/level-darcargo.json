@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Hope automatische Rolle für diesen Server einrichten.",
+    "USAGE": "level-giverole <new roleID>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "giverole <new roleID>",
+    "EXAMPLE": "level giverole 328328777266673",
+    "LVL_CARGO": "\"Keine\"",
+    "LVL_CARGO1": "Einstellungen: `Level`",
+    "LVL_CARGO2": "<:v_:855859391835799582>O `auto role` wurde erfolgreich aktualisiert.",
+    "LVL_CARGO3": "Automatische Rolle",
+    "LVL_CARGO4": "Geändert von"
+}

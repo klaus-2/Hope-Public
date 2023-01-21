@@ -1,0 +1,7 @@
+{
+    "MESSAGE": "Ik herinner je aan `{{INFO}}` in ongeveer {{TIME}}.",
+    "DESC": "Bericht link",
+    "TITLE": "Herinnering",
+    "FOOTER": "Herinnering van {{TIME}} geleden.",
+    "RESPONSE": "\n**HERINNER: **\n {USER} uw herinnering: {{INFO}}"
+}

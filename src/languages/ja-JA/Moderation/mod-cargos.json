@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "オートカーゴダスカイのエステサービス業のコンフィギュラー。",
+    "USAGE": "mod-roles <newRoleID>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "モッズロール <newRoleID>",
+    "EXAMPLE": "mod-roles 865493021322177",
+    "MOD_CARGOS": "構成:`Servidor`",
+    "MOD_CARGOS1": "<: v_: 855859391835799582> O `Cargo de moderação` foi atualizado com sucesso.",
+    "MOD_CARGOS2": "カーゴ・デ・モデラソン",
+    "MOD_CARGOS3": "アルテラードデ"
+}

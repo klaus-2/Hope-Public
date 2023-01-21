@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "smantellare un utente.",
+    "USAGE": "unban <userID> [reason]\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "unban <userID> [reason]",
+    "EXAMPLE": "test unban 432567667533123"
+}

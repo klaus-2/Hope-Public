@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "生成兑换代码。",
+    "USAGE": "生成代码 <month | year>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "生成码 <month | year>",
+    "EXAMPLE": "ggeneratecode mês",
+    "NOVO_PREMIUM": "月",
+    "NOVO_PREMIUM1": "年",
+    "NOVO_PREMIUM2": "提供计划！",
+    "NOVO_PREMIUM3": "已生成",
+    "NOVO_PREMIUM4": "高级代码",
+    "NOVO_PREMIUM5": "类型：",
+    "NOVO_PREMIUM6": "过期："
+}

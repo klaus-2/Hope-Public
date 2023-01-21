@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Obtén información sobre un usuario en Twitch.",
+    "USAGE": "twitch <user>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "contracción <user>",
+    "EXAMPLE": "sudario de contracción",
+    "TWITCH": "¡Yahh! Espera, estoy recopilando información...",
+    "TWITCH1": "Biografía:",
+    "TWITCH2": "Este usuario no tiene biografía.",
+    "TWITCH3": "Vistas totales",
+    "TWITCH4": "Seguidores",
+    "TWITCH5": "a",
+    "TWITCH6": "espectadores",
+    "TWITCH7": "No se ha encontrado el usuario de Twitch."
+}

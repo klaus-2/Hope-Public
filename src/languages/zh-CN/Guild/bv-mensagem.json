@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "配置加入服务器时要在频道中发送给用户的消息。",
+    "USAGE": "bv 消息 <message>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "bv-消息 <message>",
+    "EXAMPLE": "bv-message 你好 {user}，欢迎来到 **{server}**！",
+    "BV_MENSAGEM": "<: v_: 855859391835799582> 消息已成功更新为："
+}

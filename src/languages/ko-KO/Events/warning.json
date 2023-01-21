@@ -1,0 +1,15 @@
+{
+    "WARNING_SYSTEM": "주의",
+    "WARNING_SYSTEM1": "{{guild}} 에서 경고를 받았습니다.",
+    "WARNING_SYSTEM2": "조언자:",
+    "WARNING_SYSTEM3": "이유:",
+    "WARNING_SYSTEM4": "경고:",
+    "WARNING_SYSTEM5": "1/3",
+    "WARNING_SYSTEM6": "{{guild}} 에서 또 다른 경고를 받았습니다.",
+    "WARNING_SYSTEM7": "2/3",
+    "WARNING_SYSTEM8": "[KICK]",
+    "WARNING_SYSTEM10": "[WARN]",
+    "WARNING_SYSTEM11": "사용자:",
+    "WARNING_SYSTEM12": "사회자:",
+    "WARNING_SYSTEM13": "경고:"
+}

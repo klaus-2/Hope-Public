@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Inizia a guadagnare crediti. Registrati per tenere traccia dei tuoi crediti guadagnati!",
+    "USAGE": "registrati\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "registrati",
+    "EXAMPLE": "registrati",
+    "REGISTRAR": "va bene! <:SkyeIssoai1:823223048701739028>Sei già registrato.\nControlla il tuo profilo con {{prefix}}`profile` o il tuo saldo con {{prefix}}`bal`",
+    "REGISTRAR1": "sei stato registrato con successo nel database di Hope!\nCome cortesia per la registrazione, ti sto dando come regalo **$",
+    "REGISTRAR2": "skcoins**!\nPer controllare il tuo saldo, digita `{{prefix}}bal`"
+}

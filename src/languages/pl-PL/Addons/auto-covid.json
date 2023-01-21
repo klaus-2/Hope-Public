@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Konfiguruje dodatek Auto-Covid.",
+    "USAGE": "auto-kovid | <channelID>",
+    "USAGEE": "auto-kovid | <channelID>",
+    "EXAMPLE": "auto-covid 62349322567745\n💡**Przykład**: {{EXAMPLE}}",
+    "CAC_TITULO": "Ustawienia: `Auto-Covid`",
+    "CAC_FIELD": "<:Informao:823004619805294643> Auto-Posting Addon dla zaktualizowanych informacji na temat covid-19 co 1 godzinę.",
+    "CAC_FIELD1": "Kanał",
+    "CAC_FIELD2": "Status",
+    "CAC_FIELD3": "`Skonfiguruj dodatek`",
+    "CORONA_DESCRIÇÃO": "Aby użyć tej komendy, wymagane jest uprawnienie `ADMINISTRATOR`.",
+    "CORONA_DESCRIÇÃO1": "Dodatek **AUTO-CORONA** został zresetowany, ponieważ nie dostarczono żadnych kanałów.",
+    "CORONA_DESCRIÇÃO2": "Dodatek **AUTO-CORONA** został ustawiony na <#{{channel}}>"
+}

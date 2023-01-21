@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Exibe registros de convites de um usuario.",
+    "USAGE": "convites-logs <user>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "convites-logs <user>",
+    "EXAMPLE": "convites-logs @User",
+    "CONVITE": "Convites de bots não são registrados.",
+    "CONVITE1": "não convidou ninguém para o servidor!",
+    "CONVITE2": "Registros de convites",
+    "CONVITE3": "Informações sobre convites de",
+    "CONVITE4": "**Pessoas convidadas:**",
+    "CONVITE5": "Códigos de convite\n\n"
+}

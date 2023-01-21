@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Unequip a certain item.",
+    "USAGE": "unequip <type>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "unequip <type>",
+    "EXAMPLE": "unequip planodefundo",
+    "DESEQUIPAR": "โปรดเลือกหนึ่งในตัวเลือกต่อไปนี้:",
+    "DESEQUIPAR1": "คุณไม่สามารถทำได้",
+    "DESEQUIPAR2": "ประสบความสำเร็จ!"
+}

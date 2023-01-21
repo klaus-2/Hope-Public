@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "配置自动货运 da Hope 对于 ESTE Servidor。",
+    "USAGE": "音乐-cargodj <ID do novo cargo>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "移动 <music position> <new position>",
+    "EXAMPLE": "移动 4 8",
+    "MUSICA_CARGODJ": "设置：`Music `",
+    "MUSICA_CARGODJ1": "<: v_: 855859391835799582>O “DJ 角色” 已成功更新。",
+    "MUSICA_CARGODJ2": "DJ 角色",
+    "MUSICA_CARGODJ3": "已从"
+}

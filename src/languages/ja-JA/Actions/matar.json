@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "誰かを殺す反応を表現してください。",
+    "USAGE": "[user] を殺す",
+    "USAGEE": "[user] を殺す",
+    "MATAR_DESCRIÇÃO": "<@{{member}}>を止めてください！私を殺すことはできません！",
+    "MATAR_DESCRIÇÃO1": "殺された"
+}

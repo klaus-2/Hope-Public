@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "vertaal je zin in elke taal! Gebruik voor een lijst <prefix>vertaaltalen.",
+    "USAGE": "vertalen <language> <text>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "vertalen <language> <text>",
+    "EXAMPLE": "talen vertalen",
+    "ETRA_DESC": "Momenteel beschikbare talen",
+    "ETRA_DESC1": "🇧🇬 -Bulgaars gebruik `{{prefix}}`translate bg <text>`\n🇵🇱 -Pools gebruik `{{prefix}}`translate pl <text>`\n🇳🇱 -Nederlands gebruik `{{prefix}}`translate nl <text>`\n🇩🇰 -Deens gebruik`{{prefix}}`translate da <text>`\n🇩🇪 -Duits gebruik`{{prefix}}`translate de <text>`\n🇮🇹 -Italiaans gebruik`{{prefix}}`translate it <text>`\n🇷🇺 -Russisch gebruik`{{prefix}}`translate ru <text>`\n🇪🇸 -Spaans gebruik`{{prefix}}`translate es <text>`\n🇹🇷 -Turks gebruik`{{prefix}}`translate tr <text>`\n🇫🇷 -Frans gebruik`{{prefix}}`translate fr <text>`",
+    "ETRA_DESC2": "Hallo, ik ben {{user}}",
+    "ETRA_DESC3": "Wist je dat?",
+    "ETRA_DESC4": "te",
+    "ETRA_DESC5": "betekent",
+    "ETRA_DESC6": "<:Skye Uau:823047534670774303 > Wauw! Interessant, hè?"
+}

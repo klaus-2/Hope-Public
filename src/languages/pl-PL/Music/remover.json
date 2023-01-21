@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "usunąć utwór z kolejki.",
+    "USAGE": "usuń <position> [position]\n💡 **Przyklad**: {{EXAMPLE}}",
+    "USAGEE": "usunąć <position> [position]",
+    "EXAMPLE": "usunąć 3 | usunąć 3 7",
+    "REMOVER": "Nie można usunąć utworu, który jest już odtwarzany. Aby usunąć aktualnie odtwarzany utwór: `{{prefix}}skip`",
+    "REMOVER1": "Nie mogłem znaleźć tej piosenki.",
+    "REMOVER2": "Usunięto **{{title}}** z kolejki.",
+    "REMOVER3": "Wartość końcowa musi być większa niż wartość początkowa.",
+    "REMOVER4": "Usunięte",
+    "REMOVER5": "piosenki w kolejce.",
+    "REMOVER6": "Nieprawidłowy numer."
+}

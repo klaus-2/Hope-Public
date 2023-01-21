@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Blurpifier une image.",
+    "USAGE": "blurpify [user] | [attached]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "flou [user] | [attached]",
+    "EXAMPLE": "blurpify @Hope | blurp [attached]"
+}

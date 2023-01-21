@@ -1,0 +1,19 @@
+{
+    "DESCRIPTION": "Altere o status de uma sugestão.",
+    "USAGE": "sugesto<unk> es <AGUARDANDO | APROVADO | NEGADO>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "set-Vorschläge",
+    "EXAMPLE": "set-Vorschläge",
+    "SUGESTÕES": "Hoppla! {{status}} ist ein **Status unbekannt**\nBitte verwende eine der folgenden Optionen: `{{var}}`.",
+    "SUGESTÕES1": "Bitte verwenden",
+    "SUGESTÕES2": "Ein Fehler ist aufgetreten, bitte melden Sie dies in {{prefix}}Fehler",
+    "SUGESTÕES3": "Der Vorschlagskanal existiert nicht mehr",
+    "SUGESTÕES4": "Diese Nachricht existiert nicht mehr",
+    "SUGESTÕES5": "vorgeschlagen",
+    "SUGESTÕES6": "Möchtest du etwas vorschlagen? Gib diesen Kanal einfach ein",
+    "SUGESTÕES7": "Status",
+    "SUGESTÕES8": "Kommentar von Administration",
+    "SUGESTÕES9": "Vorschlagsstatus wurde erfolgreich aktualisiert!",
+    "SUGESTÕES10": "<:Informao:823004619805294643> Warte auf Feedback von der Community, bitte abstimmen!",
+    "SUGESTÕES11": "<:v_:855859391835799582> Vorschlag angenommen! Sei bald darauf gespannt.",
+    "SUGESTÕES12": "<:cancel:855859391709577266> Vielen Dank für den Vorschlag, aber wir interessieren uns derzeit nicht dafür."
+}

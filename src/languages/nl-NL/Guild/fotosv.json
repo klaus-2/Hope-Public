@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "krijg het servericoon.",
+    "USAGE": "guildicon\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "guildicon",
+    "EXAMPLE": "guildicon | servericon",
+    "NO_GUILD_ICON": "Deze server heeft geen serverpictogram.",
+    "GUILD_ICON": "Downloaden"
+}

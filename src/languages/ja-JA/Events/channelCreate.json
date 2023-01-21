@@ -1,0 +1,8 @@
+{
+    "CHANNEL_CREATE": "テキストチャンネル",
+    "CHANNEL_CREATE1": "ボイスチャンネル",
+    "CHANNEL_CREATE2": "カテゴリー",
+    "CHANNEL_CREATE3": "新規",
+    "CHANNEL_CREATE4": "作成済み:",
+    "CHANNEL_CREATE5": "[イベント — チャンネルが作成されました]"
+}

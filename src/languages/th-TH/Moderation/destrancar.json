@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "unlock a channel.",
+    "USAGE": "unlock\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "unlock",
+    "EXAMPLE": "unlock",
+    "DESTRANCAR": "🔓 <#{{channel}}> ถูกปลดล็อก",
+    "DESTRANCAR1": "การดูแล"
+}

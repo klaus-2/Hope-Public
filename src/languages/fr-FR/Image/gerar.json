@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "générer une image personnalisée.",
+    "USAGE": "generate <option> [user]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "générer <option> [user]",
+    "EXAMPLE": "générer un utilisateur de 3000ans | générer une belle <attachment>",
+    "GENERATE_DESC": "**1 image est nécessaire**:\n`{{IMG_1}}`. \n**2 images sont nécessaires** :\n`{{IMG_2}}`.",
+    "NEED_TWOIMG": "Télécharger 2 fichiers ou mentionner 2 utilisateurs."
+}

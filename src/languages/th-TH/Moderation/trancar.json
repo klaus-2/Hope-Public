@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Lock a channel.",
+    "USAGE": "lock\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "lock",
+    "EXAMPLE": "lock",
+    "TRANCAR": "🔒 <#{{channel}}> ถูกล็อค",
+    "TRANCAR1": "การดูแล",
+    "TRANCAR_PERMISSÃO": "คุณไม่ได้รับอนุญาตให้ทําเช่นนี้"
+}

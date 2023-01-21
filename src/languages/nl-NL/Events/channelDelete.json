@@ -1,0 +1,8 @@
+{
+    "CHANNEL_CREATE": "Tekst kanaal",
+    "CHANNEL_CREATE1": "Voice Channel",
+    "CHANNEL_CREATE2": "Categorie",
+    "CHANNEL_DELETE": "De",
+    "CHANNEL_DELETE1": "is verwijderd",
+    "CHANNEL_DELETE2": "[EVENT — KANAAL VERWIJDERD]"
+}

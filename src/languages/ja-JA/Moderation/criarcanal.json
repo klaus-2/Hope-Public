@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "テキストチャンネルを作成します。",
+    "USAGE": "create-channel <name>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "チャンネルを作成 <name>",
+    "EXAMPLE": "チャンネル作成テスト"
+}

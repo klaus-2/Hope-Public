@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "创建一个民意调查供用户回答。",
+    "USAGE": "轮询 <question>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "民意调查 <question>",
+    "EXAMPLE": "民意调查今天会下雨吗？",
+    "POLL_TITLE": "由 {{username}}创建的民意调查",
+    "POLL_FOOTER": "做出反应以投票.."
+}

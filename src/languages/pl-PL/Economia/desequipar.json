@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Zjedz pewien przedmiot.",
+    "USAGE": "unequip <type>\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "jednoznaczna <type>",
+    "EXAMPLE": "jednoznaczna planodefundo",
+    "DESEQUIPAR": "wybierz jedną z następujących opcji:",
+    "DESEQUIPAR1": "masz niepodbity",
+    "DESEQUIPAR2": "pomyślnie!"
+}

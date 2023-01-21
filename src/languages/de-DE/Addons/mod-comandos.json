@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Aktiviert oder deaktiviert Hopes Kommando-Addon auf dem Server.",
+    "USAGE": "mod-Befehle <enable | disable>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "mod-Befehle <enable | disable>",
+    "EXAMPLE": "mod-comandos aktivieren"
+}

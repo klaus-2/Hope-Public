@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "mostrar informac<unk> o<unk> es de uma partida no League of Legends.",
+    "USAGE": "ingame <nick>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "elo <nick>",
+    "EXAMPLE": "elo yassuo",
+    "INGAME": "<:SkyeObservando:823223048060534833> Hallo! Warte ein wenig, ich sammle alle Informationen.",
+    "INGAME1": "Beschwörer nicht gefunden",
+    "INGAME2": "a",
+    "INGAME3": "Blaues Team",
+    "INGAME4": "Rotes Team",
+    "INGAME5": "Hoppla, ich habe hier eine gute Suche durchgeführt und festgestellt, dass {{nom}} derzeit nicht in Übereinstimmung mit :confused_face steht:"
+}

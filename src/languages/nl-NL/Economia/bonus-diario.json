@@ -1,0 +1,23 @@
+{
+    "DESCRIPTION": "Ontvang dagelijks een contante beloning voor de Economy add-on.",
+    "USAGE": "daily\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "dagelijks",
+    "EXAMPLE": "dagelijks",
+    "BONUS_DIARIO": "<:cancel:855859391709577266> Je hebt je dagelijkse beloning al opgehaald\n\nDe volgende beloning is beschikbaar op",
+    "BONUS_DIARIO1": "en",
+    "BONUS_DIARIO2": "oké?",
+    "BONUS_DIARIO3": "<:v_:855859391835799582> Je hebt je dagelijkse beloning van",
+    "BONUS_DIARIO4": "skcoins met succes.",
+    "BONUS_DIARIO5": "**Bedankt voor je steun**",
+    "BONUS_DIARIO6": "Ah! En natuurlijk merkte ik je majestueuze aanwezigheid daar op mijn [Support Server] ({{SupportServer}}), en als dank geef ik je een cadeau",
+    "BONUS_DIARIO7": "bonus skcoins** extra!",
+    "BONUS_DIARIO8": "**Felicitaties**",
+    "BONUS_DIARIO9": "<:SkyeComemorando:823248929503445026> **Je hebt als cadeau een leuk item voor je profiel ontvangen! **: Je hebt gewonnen",
+    "BONUS_DIARIO10": "voor hun dagelijkse beloningen. Het item is al aan je inventaris toegevoegd!",
+    "BONUS_DIARIO11": "**Bankkennisgeving**:",
+    "BONUS_DIARIO12": "⚠️ Let op! Je portemonnee kan geen geld meer bevatten. Ze heeft de limiet van $60.000 bereikt!\nJe moet een deel van je geld overmaken naar je bank!",
+    "BONUS_DIARIO13": "**Streak Lost**:",
+    "BONUS_DIARIO14": "⚠️ Hoe komt het dat je niet elke dag je beloningen verzamelt en je geweldige beloningen mist? Jammer, voor nu is je streak **x1**.",
+    "BONUS_DIARIO15": "🔥 **Wauw, je huidige streak is",
+    "BONUS_DIARIO16": "Houd het vol"
+}

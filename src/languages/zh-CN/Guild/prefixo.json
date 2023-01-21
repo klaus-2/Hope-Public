@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "为此服务器设置 Hope 的前缀。",
+    "USAGE": "前缀 <new prefix>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "前缀 <new prefix>",
+    "EXAMPLE": "前缀！",
+    "PREFIXO": "<: Hopeola 1:823223308744130580 > 哇！遗憾的是，前缀长度不能超过 3 个字符。",
+    "PREFIXO1": "设置：`Server`",
+    "PREFIXO2": "<: v_: 855859391835799582> “前缀” 已成功更新。",
+    "PREFIXO3": "前缀",
+    "PREFIXO4": "已更改自"
+}

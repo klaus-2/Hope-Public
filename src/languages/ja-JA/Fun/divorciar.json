@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "ユーザーの離婚。",
+    "USAGE": "divorce\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "離婚",
+    "EXAMPLE": "離婚",
+    "FDIV_DESC": "🙁 | <@{{author}}>、お前は独身だ。",
+    "FDIV_DESC1": "結婚するには{{prefix}}marry <user>を使用します。",
+    "FDIV_DESC2": "離婚したいですか",
+    "FDIV_DESC3": "で答える:``yes`` または ``no`` で決心する。",
+    "FDIV_DESC4": "<@{{author}}>、おめでとう！まだ結婚してる！、💕",
+    "FDIV_DESC5": "<@{{author}}、残念ながら、お二人は離婚されたのですね、💔。"
+}

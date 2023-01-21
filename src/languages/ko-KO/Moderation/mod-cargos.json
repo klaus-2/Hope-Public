@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Hope에서 이 서버까지 자동 화물을 구성하십시오.",
+    "USAGE": "모드 역할 <newRoleID>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "모드 역할 <newRoleID>",
+    "EXAMPLE": "모드-역할 865493021322177",
+    "MOD_CARGOS": "구성: `서버`",
+    "MOD_CARGOS1": "<:V_:855859391835799582>모데라카고 드 모데라카고는 다음과 같은 서비스를 제공합니다.",
+    "MOD_CARGOS2": "카고 드 모더라카오",
+    "MOD_CARGOS3": "알터라도 데"
+}

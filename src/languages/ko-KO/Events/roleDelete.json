@@ -1,0 +1,5 @@
+{
+    "ROLE_DELETE": "서버에서 역할이 삭제되었습니다.\n**이름:",
+    "ROLE_DELETE1": "언급:",
+    "ROLE_DELETE2": "[EVENT — 역할이 삭제되었습니다.]"
+}

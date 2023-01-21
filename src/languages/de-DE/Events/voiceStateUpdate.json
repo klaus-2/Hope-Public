@@ -1,0 +1,20 @@
+{
+    "VOICE_STATE_UPDATE": "Audio von",
+    "VOICE_STATE_UPDATE1": "auf dem Server war",
+    "VOICE_STATE_UPDATE2": "ein",
+    "VOICE_STATE_UPDATE3": "taub im Kanal",
+    "VOICE_STATE_UPDATE4": "Benutzer-ID:",
+    "VOICE_STATE_UPDATE5": "[EVENT — AUDIO]",
+    "VOICE_STATE_UPDATE6": "Das Mikrofon von",
+    "VOICE_STATE_UPDATE7": "auf dem Server war",
+    "VOICE_STATE_UPDATE8": "ein",
+    "VOICE_STATE_UPDATE9": "stumm im Kanal",
+    "VOICE_STATE_UPDATE10": "Benutzer-ID:",
+    "VOICE_STATE_UPDATE11": "[EVENT — MICROPHONE]",
+    "VOICE_STATE_UPDATE12": "gestartet",
+    "VOICE_STATE_UPDATE13": "gestoppt",
+    "VOICE_STATE_UPDATE14": "eine Sendung am",
+    "VOICE_STATE_UPDATE15": "Benutzer-ID:",
+    "VOICE_STATE_UPDATE16": "[EVENT — STREAMING]",
+    "VOICE_STATE_UPDATE17": "🔉 **{{vcName}}** aufgrund von Inaktivität getrennt. Wenn du möchtest, dass ich im Sprachkanal 24/7 bleibe, erhältst du Premium unter **`{{prefix}}`premium**"
+}

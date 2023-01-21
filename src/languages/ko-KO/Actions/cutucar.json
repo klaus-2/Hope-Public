@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "사용자를 찌르십시오.",
+    "USAGE": "찌르기 <user>",
+    "USAGEE": "찌르기 <user>",
+    "CUTUCAR_DESCRIÇÃO": "\\ ❌ **<@{{author}}>**, 누구를 찌를 수 있나요?",
+    "CUTUCAR_DESCRIÇÃO1": "벌써 왔어!뭐가 필요한가요?",
+    "CUTUCAR_DESCRIÇÃO2": "\\ ❌ 나는 그렇게 하지 않을거야, **<@{{author}}>**!",
+    "CUTUCAR_DESCRIÇÃO3": "조금씩 찌르다"
+}

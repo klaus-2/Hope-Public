@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Diga obrigado a um usuário.",
+    "USAGE": "rep <user>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "rep <user>",
+    "EXAMPLE": "rep @Hope",
+	"REP": "Por favor, mencione alguém para agradecer.",
+	"REP1": "Você não pode agradecer a sí mesmo.",
+	"REP2": "Você já agradeceu alguém nas ultimas {{hours}} horas.",
+	"REP3": "Você agradeceu",
+	"REP4": "pela ajuda! Ele já foi agradecido",
+	"REP5": "vezes."
+}

@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "임시 운하 운하를 외치십시오.",
+    "USAGE": "임시 채널 <categoryID> <time in minutes>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "임시 채널 <categoryID> <time in minutes>",
+    "EXAMPLE": "임시 채널 804851508944306237 1",
+    "CANALTEMP": "이미 임시 채널이 있습니다.",
+    "CANALTEMP1": "채널에 태그가 지정되어 있습니다. 확인하시기 바랍니다.",
+    "CANALTEMP2": "채널 임시",
+    "CANALTEMP3": "이 채널은 임시 채널입니다.\n {{expire}} 분 안에 삭제됩니다."
+}

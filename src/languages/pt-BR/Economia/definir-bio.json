@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Define sua biografia em seu perfil.",
+    "USAGE": "definir-bio <mensagem>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "definir-bio <mensagem>",
+    "EXAMPLE": "definir-bio A pessoa mais legal da cidade.",
+    "BIO": "Oi {{author}}, você já possui uma biografia",
+    "BIO1": "Para alterar sua biografia, use `{{prefix}}definir-bio <novaMensagem>`",
+    "BIO2": "Você precisar definir uma mensagem para sua biografia.",
+    "BIO3": "você atingiu o **limite de `165` caracteres permitidos!",
+    "BIO4": "Oi {{author}}, você definiu uma nova biografia!",
+    "BIO5": "Você pode conferi-la pelo comando `{{prefix}}perfil`"
+}

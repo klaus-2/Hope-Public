@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Konfiguruje dodatek Auto-nick.",
+    "USAGE": "auto-nick",
+    "USAGEE": "auto-nick",
+    "EXAMPLE": "auto-nick włącz\n💡**Exemplo**: {{EXAMPLE}}",
+    "NICK": "enable",
+    "NICK1": "Dodatek `Auto-nick` został pomyślnie aktywowany.",
+    "NICK2": "disable",
+    "NICK3": "Dodatek `Auto-nick` został pomyślnie dezaktywowany.",
+    "NICK4": "nick",
+    "NICK5": "Wprowadź nazwę użytkownika.",
+    "NICK6": "Ups! Nick użytkownika musi mieć od 2 do 32 znaków.",
+    "NICK7": "Prenick dodatku `Auto-nick` został pomyślnie zaktualizowany do `{{nick}}`."
+}

@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Silenzia un utente.",
+    "USAGE": "mute <user> [time]\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "muto <user> [time]",
+    "EXAMPLE": "mute @Hope 3h"
+}

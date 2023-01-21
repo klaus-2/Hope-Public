@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Customize your profile background with an image of your choice.",
+    "USAGE": "custom-background [attachment | url]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "custom-background [attachment | url]",
+    "EXAMPLE": "custom-background https://i.imgur.com/ru3E3zd.png",
+    "BG": "Hello {{author}}",
+    "BG1": "Your purchase was successful!\n$",
+    "BG2": "skcoins were deducted from your wallet to complete the transaction!\nYour new background is [{{url}}](link)",
+    "BG3": "To see how it looks, use the command {{prefix}}profile",
+    "BG4": "skcoins were deducted from your wallet to complete the transaction!\nYour new background is [{{args}}](link)",
+    "BG5": "you need to attach an image or insert your link to set a new background!",
+    "BG6": "You don't have enough money!\nMissing",
+    "BG7": "to change background"
+}

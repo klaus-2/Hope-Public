@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "verplaats het opgegeven nummer naar de opgegeven positie.",
+    "USAGE": "move <music position> <new position>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "verplaatsen <music position> <new position>",
+    "EXAMPLE": "verplaatsen 4 8",
+    "MOVER": "Kan een nummer dat al wordt afgespeeld, niet verplaatsen. Om het huidige afgespeelde nummer over te slaan: `{{prefix}}skip`",
+    "MOVER1": "Nummer niet gevonden.",
+    "MOVER2": "Yayy! **{{title}}** verplaatst naar het begin van de wachtrij.",
+    "MOVER3": "verhuisd",
+    "MOVER4": "naar de positie",
+    "MOVER5": "vanuit de wachtrij.",
+    "MUSICA6": "Ongeldig nummer."
+}

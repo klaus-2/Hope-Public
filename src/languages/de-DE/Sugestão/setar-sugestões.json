@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Setzt den Vorschlagskanal in der Datenbank.",
+    "USAGE": "set-Vorschläge\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "set-Vorschläge",
+    "EXAMPLE": "set-Vorschläge",
+    "SETAR_SUGESTÕES": "Der Vorschlagskanal wurde in <#{{channel}} > definiert",
+    "SETAR_SUGESTÕES1": "Der Vorschlagskanal wurde zurückgesetzt und deaktiviert."
+}

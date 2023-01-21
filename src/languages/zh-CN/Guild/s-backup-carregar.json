@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "从服务器加载备份。",
+    "USAGE": "s 备份加载 <backupID>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "s 备份加载 <backupID>",
+    "EXAMPLE": "s-备份加载 2334",
+    "S_BACKUP_CARREGAR": "啊 {{author}}，对不起 :(",
+    "S_BACKUP_CARREGAR1": "您需要具有管理邮件权限才能在此服务器上创建备份。",
+    "S_BACKUP_CARREGAR2": ":warning: 将清除所有服务器频道、角色和设置。你想继续吗？发送 “确认” 或 “取消”！",
+    "S_BACKUP_CARREGAR3": "确认",
+    "S_BACKUP_CARREGAR4": "取消",
+    "S_BACKUP_CARREGAR5": "备份已成功加载！",
+    "S_BACKUP_CARREGAR6": "找不到 ID 的备份：**{{backupID}}**",
+    "S_BACKUP_CARREGAR7": "发生了错误：",
+    "S_BACKUP_CARREGAR8": ":x: 已取消。",
+    "S_BACKUP_CARREGAR9": ":x: 命令超时了！请重试。"
+}

@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "informare sull'addon del biglietto.",
+    "USAGE": "ticket\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "t-close",
+    "EXAMPLE": "t-close",
+    "TICKET_REAÇÃO": "reaction",
+    "TICKET_REAÇÃO1": "Segretario Hope",
+    "TICKET_REAÇÃO2": "Ciao! Sono Hope e sono qui per aiutarti ad aprire un biglietto. È molto semplice, basta cliccare sul pulsante sotto <:SkyeCorreta:823047534602616832>",
+    "TICKET_REAÇÃO3": "Ciao! Sono Hope e vi assisterò in questo processo.\n\nInnanzitutto, ricordiamo che `<> è necessario` e `[] è opzionale`!\n\nAvanti, hai due opzioni per aprire un biglietto:\n La prima opzione è di andare al messaggio inviato da me nel canale Biglietti di questo server e reagire con 🎟.\n\nLa seconda opzione è digitare in chat il comando `{{prefix}}t-<create | open> [reason]` - per aprire un ticket.\n\n<a:sirene:823004235440062464> I comandi sottostanti sono disponibili solo per l'amministrazione di questo server, ok?!\n\n`{{prefix}}reazioni ticket` - crea un messaggio di reazione per aprire un ticket.\n`{{prefix}}t-setup` - per configurare il comando ticket su questo server.",
+    "TICKET_REAÇÃO4": "Apri un ticket"
+}

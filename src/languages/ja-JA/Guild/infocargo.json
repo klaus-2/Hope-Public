@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "ロールに関する情報を取得します。",
+    "USAGE": "roleinfo <role>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "ロール情報 <role>",
+    "EXAMPLE": "roleinfo @role",
+    "ROLE_NAME": "ロール | {{roleName}}",
+    "ROLE_MEMBERS": "メンバー:",
+    "ROLE_COLOR": "色:",
+    "ROLE_POSITION": "ポジション:",
+    "ROLE_MENTION": "言及:",
+    "ROLE_HOISTED": "ホイスト:",
+    "ROLE_MENTIONABLE": "言及可能:",
+    "ROLE_PERMISSION": "キーの権限:",
+    "ROLE_CREATED": "作成場所:",
+    "ROLE_FOOTER": "{{MEMBER}} によって要求されました | ロール ID: {{ID}}"
+}

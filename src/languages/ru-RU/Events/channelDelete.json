@@ -1,0 +1,8 @@
+{
+    "CHANNEL_CREATE": "Текстовый канал",
+    "CHANNEL_CREATE1": "Голосовой канал",
+    "CHANNEL_CREATE2": "Категория",
+    "CHANNEL_DELETE": "The",
+    "CHANNEL_DELETE1": "была удалена",
+    "CHANNEL_DELETE2": "[EVENT — КАНАЛ УДАЛЕН]"
+}

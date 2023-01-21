@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "このサーバーの Hope チャンネル無視を設定します。",
+    "USAGE": "level-ignorechannel <channelID>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "レベル無視チャネル <channelID>",
+    "EXAMPLE": "level-ignorechannel 328328777266673",
+    "LVL_IGNCANAL": "設定: `Level`",
+    "LVL_IGNCANAL1": "<: v_: 855859391835799582> `level` の設定が正常に更新されました。",
+    "LVL_IGNCANAL2": "レベル設定",
+    "LVL_IGNCANAL3": "チャンネルをから変更しました"
+}

@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "ユーザーにお金を追加する。マイナス記号 (**-**) を使ってユーザーからお金を取り出せ！",
+    "USAGE": "セットマネー <user> <value>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "セットマネー <user> <value>",
+    "EXAMPLE": "セットマネー @Hope 5000 | セットマネー @Hope -5000",
+    "SETAR_DINHEIRO": "通知された値は数値ではありません！\nユーザーが言及した後の引数が**NUMBER**であることを確認してください。",
+    "SETAR_DINHEIRO1": "**$を正常に削除しました",
+    "SETAR_DINHEIRO2": "**有効なユーザーを入力してください。**",
+    "SETAR_DINHEIRO3": "のウォレットの",
+    "SETAR_DINHEIRO4": "現在の残高:",
+    "SETAR_DINHEIRO5": "$",
+    "SETAR_DINHEIRO6": "スコイン",
+    "SETAR_DINHEIRO7": "**$ を正常に追加しました"
+}

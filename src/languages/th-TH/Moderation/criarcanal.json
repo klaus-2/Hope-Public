@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Create a text channel.",
+    "USAGE": "create-channel <name>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "create-channel <name>",
+    "EXAMPLE": "create-channel test"
+}

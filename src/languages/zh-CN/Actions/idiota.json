@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "呼叫某人是个异常。",
+    "USAGE": "idiot [user]",
+    "USAGEE": "idiot [user]",
+    "IDIOTA_DESCRIÇÃO": "\\❌ 无 **<@{{author}}>**, 你不是个性!"
+}

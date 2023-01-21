@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "음성 채널을 만듭니다.",
+    "USAGE": "생성-보이스 채널 <name>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "생성-보이스채널 <name>",
+    "EXAMPLE": "생성-보이스 채널 테스트"
+}

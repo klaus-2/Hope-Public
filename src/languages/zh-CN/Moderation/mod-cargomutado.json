@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "为此服务器设置 Hope 的自动位置。",
+    "USAGE": "mod-mutedrole <newRoleID>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "mod-mutedrole <newRoleID>",
+    "EXAMPLE": "模组频道 865493021377",
+    "MOD_CARGOMUTADO": "设置：`Server`",
+    "MOD_CARGOMUTADO1": "<: v_: 855859391835799582>o “自动角色” 已成功更新。",
+    "MOD_CARGOMUTADO2": "自动角色",
+    "MOD_CARGOMUTADO3": "已更改自"
+}

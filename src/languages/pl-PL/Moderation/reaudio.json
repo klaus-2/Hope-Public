@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "ponownie aktywować dźwięk użytkownika.",
+    "USAGE": "undeafen <user>\n💡 **Przykład: {{EXAMPLE}}",
+    "USAGEE": "undeafen <user>",
+    "EXAMPLE": "undeafen @Hope",
+    "REAUDIO": "Nie mogę ogłuszać kogoś, kto nie jest na kanale głosowym."
+}

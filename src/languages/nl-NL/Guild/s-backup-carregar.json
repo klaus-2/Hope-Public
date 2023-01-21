@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Laad een back-up vanaf de server.",
+    "USAGE": "s-backup-load <backupID>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "s-backup-load <backupID>",
+    "EXAMPLE": "s-backup-load 2334",
+    "S_BACKUP_CARREGAR": "Aah {{author}}, het spijt me :(",
+    "S_BACKUP_CARREGAR1": "Je hebt de machtigingen voor berichten beheren nodig om een back-up te maken op deze server.",
+    "S_BACKUP_CARREGAR2": ":warning: Alle serverkanalen, rollen en instellingen worden gewist. Wil je verder gaan? Verzend `confirm` of `cancel`!",
+    "S_BACKUP_CARREGAR3": "bevestigen",
+    "S_BACKUP_CARREGAR4": "annuleren",
+    "S_BACKUP_CARREGAR5": "Backup is succesvol geladen!",
+    "S_BACKUP_CARREGAR6": "Geen back-up gevonden voor ID: **{{backupID}}**",
+    "S_BACKUP_CARREGAR7": "Er is een fout opgetreden:",
+    "S_BACKUP_CARREGAR8": ":x: Geannuleerd.",
+    "S_BACKUP_CARREGAR9": ":x: Commando time-out! Probeer het alsjeblieft opnieuw."
+}

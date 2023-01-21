@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "配置 auto-nick 插件。",
+    "USAGE": "自动昵称",
+    "USAGEE": "自动昵称",
+    "EXAMPLE": "自动昵称启用\n💡**Exemplo**: {{EXAMPLE}}",
+    "NICK": "enable",
+    "NICK1": "已成功激活 \"自动昵称\" 插件。",
+    "NICK2": "disable",
+    "NICK3": "\"自动昵称\" 插件已成功停用。",
+    "NICK4": "nick",
+    "NICK5": "请输入昵称。",
+    "NICK6": "哎呀！用户昵称必须介于2-32个字符之间。",
+    "NICK7": "\"自动昵称\" 插件的预昵称已成功更新到 \"{{nick}}\"。"
+}

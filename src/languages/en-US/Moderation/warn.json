@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Apply a warning to a user.",
+    "USAGE": "warn <user> [time] [reason]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "warn <user> [time] [reason]",
+    "EXAMPLE": "warn @Hope 1h test"
+}

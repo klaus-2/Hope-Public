@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Ola para alguien.",
+    "USAGE": "onda [user]",
+    "USAGEE": "onda [user]",
+    "ACENAR_DESCRIÇÃO1": "¡<@{{author}}> ha salido!",
+    "ACENAR_DESCRIÇÃO2": "<@{{user}}> se devolvió",
+    "ACENAR_DESCRIÇÃO3": " agitado a "
+}

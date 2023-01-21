@@ -1,0 +1,17 @@
+{
+    "DESCRIPTION": "ある国のCovid-19に関するリアルタイムの情報を取得します。",
+    "USAGE": "covid [country]\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "covid [country]",
+    "EXAMPLE": "コビッドアメリカ | covid",
+    "COVID": "コロナウイルス統計",
+    "COVID1": "確認済みケース",
+    "COVID2": "今日の事例",
+    "COVID3": "今日死亡",
+    "COVID4": "アクティブ",
+    "COVID5": "回復した",
+    "COVID6": "死亡",
+    "COVID7": "テスト",
+    "COVID8": "ミルあたりのケース数",
+    "COVID9": "1ミルあたりの死亡数",
+    "COVID10": "最終更新日"
+}

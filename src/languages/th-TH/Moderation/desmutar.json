@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Unmute a user.",
+    "USAGE": "unmute <user> \n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "unmute <user>",
+    "EXAMPLE": "unmute Hope"
+}

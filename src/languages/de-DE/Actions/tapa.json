@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Schlage einen Benutzer.",
+    "USAGE": "schlup [user]",
+    "USAGEE": "schlup [user]",
+    "TAPA_DESCRIÇÃO": "<@{{member}}>, bitte treffen Sie sich nicht!",
+    "TAPA_DESCRIÇÃO1": "**Ich**",
+    "TAPA_DESCRIÇÃO2": "lappend",
+    "TAPA_HopeFRASE": "(;<unk> ;<unk> ) Ich entschuldige mich. Du kannst sie niederschlagen, aber bitte n-don't hit me...",
+    "TAPA_DESC": " und ",
+    "TAPA_DESC1": ", und ",
+    "TAPA_DESC2": "mir"
+}

@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "genera una password sicura.",
+    "USAGE": "password\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "password",
+    "EXAMPLE": "password",
+    "ESENHA_DESC": "Non sicuro",
+    "ESENHA_DESC1": "Molto sicuro",
+    "ESENHA_DESC2": "Assicurazione",
+    "ESENHA_DESC3": "Generatore Password Hope",
+    "ESENHA_DESC4": "Password",
+    "ESENHA_DESC5": "Lunghezza",
+    "ESENHA_DESC6": "Livello di sicurezza",
+    "ESENHA_DESC7": "Nota - Le tue password non sono mai memorizzate dalla nostra parte!",
+    "ESENHA_DESC8": "🚫 Impossibile inviare la password!",
+    "ESENHA_DESC9": "Non posso inviarti un DM! Correggilo modificando le tue impostazioni sulla privacy per questo server per consentire messaggi diretti!"
+}

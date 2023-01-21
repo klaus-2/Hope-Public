@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "repetir a mu<unk> sica ou fila.",
+    "USAGE": "loop [coda / canzone]\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "ciclo [coda / canzone]",
+    "EXAMPLE": "coda di ripetizione <unk> loop brano <unk> loop",
+    "REPETIR": "canzone",
+    "ENABLED": "abilitato",
+    "DISABLED": "disabilitato",
+    "REPETIR3": "{{trackRepeat}} ripetizione traccia.",
+    "REPETIR4": "coda",
+    "REPETIR7": "{{queueRepeat}} coda ripetuta."
+}

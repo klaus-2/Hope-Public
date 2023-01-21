@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "티켓 애드온 사용 또는 사용 중지",
+    "USAGE": "세트티켓 <enable | disable>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "세트티켓 <enable | disable>",
+    "EXAMPLE": "세트티켓 활성화"
+}

@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "ユーザーから警告を削除します。",
+    "USAGE": "clear-warnings <user>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "クリア警告 <user>",
+    "EXAMPLE": "警告をクリアする @Hope",
+    "CLEARED_WARNINGS": "<@{{user}}> の警告はクリアされました。"
+}

@@ -1,0 +1,10 @@
+{
+    "MESSAGE_DELETE_BULK": "Несколько сообщений были удалены в",
+    "MESSAGE_DELETE_BULK1": "Идентификатор канала:",
+    "MESSAGE_DELETE_BULK2": "[EVENT — УДАЛЕННЫЕ СООБЩЕНИЯ]",
+    "MESSAGE_DELETE_BULK3": "Количество сообщений:",
+    "MESSAGE_DELETE_BULK4": "Удаленные сообщения:",
+    "MESSAGE_DELETE_BULK5": "увидеть",
+    "MESSAGE_DELETE_BULK6": "на сервере",
+    "MESSAGE_DELETE_BULK7": "DeletedMessages.txt"
+}

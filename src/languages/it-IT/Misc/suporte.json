@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "ricevere invito dal server di supporto Hope.",
+    "USAGE": "supporto\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "supporto",
+    "EXAMPLE": "supporto",
+    "ESUP_DESC": "Servidor de suporte da Hope",
+    "ESUP_DESC1": "Clicca su [here](https://discord.gg/KCjWHUf4zV) per accedere al Server di Supporto!",
+    "ESUP_DESC2": "Altri link",
+    "ESUP_DESC3": "**[Invita Hope](https://discord.com/oauth2/authorize?client_id=901243176814276680&permissions=1644971949559&scope=applications.commands%20bot) <unk> ",
+    "ESUP_DESC4": "[Twitter](#)**"
+}

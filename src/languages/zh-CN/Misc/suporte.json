@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "收到来自 Hope 支持服务器的邀请。",
+    "USAGE": "支持\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "支撑",
+    "EXAMPLE": "支撑",
+    "ESUP_DESC": "Hope 的 Servidor de Sporte",
+    "ESUP_DESC1": "单击 [here](https://discord.gg/KCjWHUf4zV) 进入支持服务器！",
+    "ESUP_DESC2": "其他链接",
+    "ESUP_DESC3": "** [邀请 Hope] (https://discordapp.com/oauth2/authorize?client_id =${bot.user.id}&scope = bot & 权限 =8) | ",
+    "ESUP_DESC4": "[Twitter](#) **"
+}

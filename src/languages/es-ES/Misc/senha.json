@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "generar una contraseña segura.",
+    "USAGE": "contraseña\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "contraseña",
+    "EXAMPLE": "contraseña",
+    "ESENHA_DESC": "Inseguro",
+    "ESENHA_DESC1": "Muy seguro",
+    "ESENHA_DESC2": "Seguro",
+    "ESENHA_DESC3": "Generador de contraseñas Hope",
+    "ESENHA_DESC4": "Contraseña",
+    "ESENHA_DESC5": "Longitud",
+    "ESENHA_DESC6": "Nivel de seguridad",
+    "ESENHA_DESC7": "Nota: ¡Tus contraseñas nunca se guardan de nuestra parte!",
+    "ESENHA_DESC8": "🚫 No se ha podido enviar la contraseña",
+    "ESENHA_DESC9": "¡No puedo enviarte un DM! Arréglalo cambiando la configuración de privacidad de este servidor para permitir mensajes directos."
+}

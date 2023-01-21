@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "获取机器人的状态。",
+    "USAGE": "ping2",
+    "PING": "Ping：",
+    "CLIENT": "客户端 API：",
+    "MONGO": "MongoDB："
+}

@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "사용자로부터 경고를 제거합니다.",
+    "USAGE": "clear-warnings <user>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "clear-warnings <user>",
+    "EXAMPLE": "클리어 워닝 @Hope",
+    "CLEARED_WARNINGS": "<@{{user}}>에 대한 경고가 지워졌습니다."
+}

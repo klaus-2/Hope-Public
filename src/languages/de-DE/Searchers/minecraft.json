@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Erhalte Informationen von einem Minecraft-Server.",
+    "USAGE": "minecraft <IP> [Port]\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "minecraft <IP> [Port]",
+    "EXAMPLE": "mc eu.hypixel.net",
+    "MINECRAFT": "Serverinformationen",
+    "MINECRAFT1": "Status",
+    "MINECRAFT2": "online",
+    "MINECRAFT3": "offline",
+    "MINECRAFT4": "Online-Spieler:",
+    "MINECRAFT5": "Server-IP:",
+    "MINECRAFT6": "Server-Version:",
+    "MINECRAFT7": "Ich habe diesen Server nicht gefunden."
+}

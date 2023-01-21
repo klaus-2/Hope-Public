@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "applica l'effetto bassboost alla musica.",
+    "USAGE": "bassboost [value] <unk> [off]\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "bassboost [value] | [off]",
+    "EXAMPLE": "bassboost 8 <unk> bb -4 <unk> bassboost off",
+    "ON": "Attivando l'effetto **bassboost**. <:SkyeDana:823046653371482114> Potrebbe volerci qualche secondo...",
+    "BASSBOOST1": "<:v_:855859391835799582> **bassboost** è stato attivato.",
+    "OFF": "Disattivazione dell'effetto **bassboost**. <:SkyeOuvindoMusica:823046654554144768>\nQuesto potrebbe richiedere alcuni secondi...",
+    "BASSBOOST2": "<:cancel:855859391709577266> **bassboost** è stato disattivato.",
+    "BASSBOOST4": "La quantità deve essere un numero reale.",
+    "BASSBOOST5": "Impostazione bassboost a",
+    "BASSBOOST6": "Questo potrebbe richiedere alcuni secondi...",
+    "BASSBOOST7": "Bassboost impostato a:"
+}

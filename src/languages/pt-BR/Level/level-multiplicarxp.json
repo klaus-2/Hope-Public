@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Configure o nivel de multiplicação de XP no addon Level.",
+    "USAGE": "level-multiplicarxp <0-1000>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "level-multiplicarxp <0-1000>",
+    "EXAMPLE": "level-multiplicarxp 2",
+    "LVL_XPMULT": "Configurações: `Level`",
+    "LVL_XPMULT1": "<:v_:855859391835799582>A configuração de `level` foi atualizado com sucesso.",
+    "LVL_XPMULT2": "Configuração de Level",
+    "LVL_XPMULT3": "Multiplicador alterado de"
+}

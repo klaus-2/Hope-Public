@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Hold hands with someone special.",
+    "USAGE": "holdhands <user>",
+    "USAGEE": "holdhands <user>",
+    "MAOS_DESCRIÇÃO": "\\❌ **<@{{author}}>**, คุณต้องการจับมือใคร?!",  
+    "MAOS_DESCRIÇÃO1": "กําลังจับมือกัน",
+    "MAOS_DESCRIÇÃO2": "\\❌ **<@{{author}}>**, คุณต้องบอกใครว่าคุณอยากจับมือใคร"
+}

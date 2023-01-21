@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "在该服务器上创建表情符号的备份。",
+    "USAGE": "电子备份创建\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "e-Backup-创建/创建",
+    "EXAMPLE": "e-Backup-创建/创建",
+    "E_BACKUP_CRIAR": "你好， {{author}}",
+    "E_BACKUP_CRIAR1": "** 此服务器上没有用于备份的表情符号。** ",
+    "E_BACKUP_CRIAR2": "你好，你的备份代码是：",
+    "E_BACKUP_CRIAR3": ":x: | ** 我无法向你发送 dm，请确保你的私有功能已启用。**",
+    "E_BACKUP_CRIAR4": "** 备份已成功创建！** 我已经将备份 ID 发送给你的私人账户了，好吗？"
+}

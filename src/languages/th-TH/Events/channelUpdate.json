@@ -1,0 +1,20 @@
+{
+    "CHANNEL_UPDATE": "ประเภท",
+    "CHANNEL_UPDATE1": "ช่อง",
+    "CHANNEL_UPDATE2": "has had its name changed",
+    "CHANNEL_UPDATE3": "[เหตุการณ์ — เปลี่ยนชื่อ]",
+    "CHANNEL_UPDATE4": "ชื่อเก่า:",
+    "CHANNEL_UPDATE5": "ชื่อใหม่:",
+    "CHANNEL_UPDATE6": "มีหัวข้อของเขาเปลี่ยนไป",
+    "CHANNEL_UPDATE7": "[เหตุการณ์ — หัวข้อที่เปลี่ยนแปลง]",
+    "CHANNEL_UPDATE8": "จาก:",
+    "CHANNEL_UPDATE9": "ถึง:",
+    "CHANNEL_UPDATE10": "*หัวข้อที่ว่างเปล่า*",
+    "CHANNEL_UPDATE11": "มีการอนุญาตให้เปลี่ยนไปแล้ว**\n*บันทึก:* ดู [เอกสาร](https://discordapp.com/developers/docs/topics/permissions) หากต้องการทราบว่าตัวเลขหมายถึงอะไร",
+    "CHANNEL_UPDATE12": "[เหตุการณ์ — หัวข้อที่เปลี่ยนแปลง]",
+    "CHANNEL_UPDATE13": "อนุญาตให้:",
+    "CHANNEL_UPDATE14": "ดัดผมถูกปฏิเสธ:",
+    "CHANNEL_UPDATE15": "การทดแทนถูกแยกออก",
+    "CHANNEL_UPDATE16": "[เหตุการณ์ — ภูมิภาคมีการเปลี่ยนแปลง]",
+    "CHANNEL_UPDATE17": "มีการเปลี่ยนแปลงภูมิภาค"
+}

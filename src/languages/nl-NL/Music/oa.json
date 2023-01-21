@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "past de willekeurige volgorde toe op de afspeellijst.",
+    "USAGE": "shuffle\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "schuifelen",
+    "EXAMPLE": "schuifelen",
+    "OA": "<:v_:855859391835799582> Afspeellijst is met succes geschud."
+}

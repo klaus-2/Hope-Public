@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "プロフィールにアイテムを装備する。",
+    "USAGE": "equip <item id>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "equip <item id>",
+    "EXAMPLE": "22を装備",
+    "EQUIPAR": "この商品はインベントリにありません！",
+    "EQUIPAR1": "お詫び申し上げますが、この商品はもう使えません！",
+    "EQUIPAR2": "装備してますよ",
+    "EQUIPAR3": "成功しました！"
+}

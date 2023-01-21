@@ -1,0 +1,21 @@
+{
+    "DESCRIPTION": "Steam에서 게임/앱을 검색합니다.",
+    "USAGE": "스팀 스토어 <game>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "스팀 스토어 <game>",
+    "EXAMPLE": "스팀 스토어 코난 망명자",
+    "STEAM_LOJA": "\\❌ <:steam:767062357952167946> 스팀에서**{{query}} **을 (를) 찾을 수 없습니다.",
+    "STEAM_LOJA1": "$",
+    "STEAM_LOJA2": "무료",
+    "STEAM_LOJA3": "***추가 참고 사항:",
+    "STEAM_LOJA4": "시스템 요구 사항",
+    "STEAM_LOJA5": "가격",
+    "STEAM_LOJA6": "메타코어",
+    "STEAM_LOJA7": "권장 사항",
+    "STEAM_LOJA8": "출시 날짜",
+    "STEAM_LOJA9": "개발자",
+    "STEAM_LOJA10": "출판사",
+    "STEAM_LOJA11": "카테고리",
+    "STEAM_LOJA12": "장르",
+    "STEAM_LOJA13": "DLC 금액",
+    "STEAM_LOJA14": "지원되는 언어"
+}

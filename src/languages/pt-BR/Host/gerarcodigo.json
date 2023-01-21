@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Gerar um codigo para resgate.",
+    "USAGE": "gerarcodigo <mes | ano>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "gerarcodigo <mes | ano>",
+    "EXAMPLE": "gerarcodigo mês",
+    "NOVO_PREMIUM": "mes",
+	"NOVO_PREMIUM1": "ano",
+	"NOVO_PREMIUM2": "Providencie um Plano!",
+	"NOVO_PREMIUM3": "Gerado",
+	"NOVO_PREMIUM4": "Código(s) Premium",
+	"NOVO_PREMIUM5": "Tipo:",
+	"NOVO_PREMIUM6": "Expira:"
+}

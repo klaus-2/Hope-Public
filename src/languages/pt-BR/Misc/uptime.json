@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Obtém o tempo de atividade da Hope.",
+    "USAGE": "uptime\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "uptime",
+    "EXAMPLE": "uptime",
+    "EUP_DESC": "Hope | Uptime",
+    "EUP_DESC1": "Online desde"
+}

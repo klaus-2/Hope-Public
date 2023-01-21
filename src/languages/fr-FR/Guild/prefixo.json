@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "configurer le préfixe de Hope pour ce serveur.",
+    "USAGE": "prefix <new prefix>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "préfixe <new prefix>",
+    "EXAMPLE": "préfixe !",
+    "PREFIXO": "<:SkyeOla1:823223308744130580> Oh! Malheureusement, le préfixe ne peut pas contenir plus de 3 caractères.",
+    "PREFIXO1": "Paramètres: `Serveur`",
+    "PREFIXO2": "<:v_:855859391835799582> Le `prefix` a été mis à jour avec succès.",
+    "PREFIXO3": "Préfixe",
+    "PREFIXO4": "Changé de"
+}

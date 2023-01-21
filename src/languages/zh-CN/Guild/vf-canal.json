@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "配置消息验证插件频道。",
+    "USAGE": "vf-channel <channelID>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "vf 频道 <channelID>",
+    "EXAMPLE": "上品频道 98789623672631",
+    "VF_CANAL": "频道已成功更新为：`{{channel}}`"
+}

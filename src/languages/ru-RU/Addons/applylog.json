@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Журнал применения сборки",
+    "USAGE": "applylog <enable #channel | disable>\n💡**Пример**: {{EXAMPLE}}",
+    "USAGEE": "применить журнал <enable #channel | disable>",
+    "EXAMPLE": "applylog включить"
+}

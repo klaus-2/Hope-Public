@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Włącz lub wyłącz dodatek moderacji.",
+    "USAGE": "moderacja <enable | disable>\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "moderacja <enable | disable>",
+    "EXAMPLE": "moderacja włącz"
+}

@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Définir les logs d'application de la guilde",
+    "USAGE": "applylog <enable #channel | disable>\n💡**Exemple**: {{EXAMPLE}}",
+    "USAGEE": "log_application_application <enable #channel | disable>",
+    "EXAMPLE": "applylog enable #test"
+}

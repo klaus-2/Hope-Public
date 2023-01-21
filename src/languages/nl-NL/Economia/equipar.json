@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Stel een item uit in je profiel.",
+    "USAGE": "equip <item id>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "uitrusten <item id>",
+    "EXAMPLE": "uitrusten 22",
+    "EQUIPAR": "je hebt dit item niet in je inventaris!",
+    "EQUIPAR1": "Mijn excuses, maar dit item kan niet meer worden gebruikt!",
+    "EQUIPAR2": "jij uitgerust",
+    "EQUIPAR3": "succesvol!"
+}

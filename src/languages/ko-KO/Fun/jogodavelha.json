@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "틱택 토 게임을 시작하십시오.",
+    "USAGE": "틱택 토\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "틱택토 <user>",
+    "EXAMPLE": "틱택토 @User",
+    "VELHA": "tictactoE에서 도전하고 싶은 사람을 언급하십시오."
+}

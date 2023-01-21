@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "환영 메시지 애드온을 활성화 또는 비활성화합니다.",
+    "USAGE": "bv-애드온 <enable | disable>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "bv-애드온 <enable | disable>",
+    "EXAMPLE": "bv-애드온 활성화"
+}

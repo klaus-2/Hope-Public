@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Dempen van een gebruiker ongedaan maken.",
+    "USAGE": "unmute <user> \n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "dempen <user>",
+    "EXAMPLE": "Hope dempen"
+}

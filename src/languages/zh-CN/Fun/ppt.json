@@ -1,0 +1,18 @@
+{
+    "DESCRIPTION": "和 Hope 一起玩石头、纸张、剪刀。",
+    "USAGE": "rps <rock / paper / scissors>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "rps <rock / paper / scissors>",
+    "EXAMPLE": "rps",
+    "FPPT_DESC": "岩石",
+    "FPPT_DESC1": "纸",
+    "FPPT_DESC2": "剪刀",
+    "FPPT_DESC3": "Rock-Paper-剪刀",
+    "FPPT_DESC4": "选择一个选项",
+    "FPPT_DESC5": "和斯凯一起画",
+    "FPPT_DESC6": "赢了",
+    "FPPT_DESC7": "失去了",
+    "FPPT_DESC8": "你选择了：",
+    "FPPT_DESC9": "斯凯选择了",
+    "FPPT_DESC10": "结果：你",
+    "FPPT_DESC11": "花了太长时间！"
+}

@@ -1,0 +1,23 @@
+{
+    "DESCRIPTION": "Obtiene en detalle todas las actividades de estado del usuario mencionado.",
+    "USAGE": "actividades de usuario\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "actividades de usuario [user]",
+    "EXAMPLE": "actividades de usuario @Hope",
+    "EUAT_DESC": "**Sin estado**",
+    "EUAT_DESC1": "¡Este usuario no tiene un estado personalizado!",
+    "EUAT_DESC2": "**Estado**",
+    "EUAT_DESC3": "**Estado personalizado**",
+    "EUAT_DESC4": "Sin emoji",
+    "EUAT_DESC5": "Actividad actual de {{user}}",
+    "EUAT_DESC6": "**Tipo**",
+    "EUAT_DESC7": "Jugando",
+    "EUAT_DESC8": "**Aplicación**",
+    "EUAT_DESC9": "**Detalles**",
+    "EUAT_DESC10": "Sin detalles",
+    "EUAT_DESC11": "**Trabajar en**",
+    "EUAT_DESC12": "Spotify | Información de la canción",
+    "EUAT_DESC13": "Nombre de la canción",
+    "EUAT_DESC14": "Álbum",
+    "EUAT_DESC15": "Autor",
+    "EUAT_DESC16": "Escucha la música"
+}

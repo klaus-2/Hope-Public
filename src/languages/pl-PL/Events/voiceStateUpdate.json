@@ -1,0 +1,20 @@
+{
+    "VOICE_STATE_UPDATE": "Dźwięk z",
+    "VOICE_STATE_UPDATE1": "na serwerze został",
+    "VOICE_STATE_UPDATE2": "un",
+    "VOICE_STATE_UPDATE3": "ogłuszone w kanale",
+    "VOICE_STATE_UPDATE4": "Nazwa użytkownika:",
+    "VOICE_STATE_UPDATE5": "[ZDARZENIE — AUDIO]",
+    "VOICE_STATE_UPDATE6": "Mikrofon",
+    "VOICE_STATE_UPDATE7": "na serwerze został",
+    "VOICE_STATE_UPDATE8": "un",
+    "VOICE_STATE_UPDATE9": "wyciszony w kanale",
+    "VOICE_STATE_UPDATE10": "Nazwa użytkownika:",
+    "VOICE_STATE_UPDATE11": "[EVENT — MIKROFON]",
+    "VOICE_STATE_UPDATE12": "rozpoczął się",
+    "VOICE_STATE_UPDATE13": "zatrzymany",
+    "VOICE_STATE_UPDATE14": "transmisja na",
+    "VOICE_STATE_UPDATE15": "Nazwa użytkownika:",
+    "VOICE_STATE_UPDATE16": "[EVENT — STREAMOWANIE]",
+    "VOICE_STATE_UPDATE17": "Odłączony 🔉 **{{vcName}}** z powodu braku aktywności. Jeśli chcesz, żebym został na kanale głosowym 24/7, możesz otrzymać Premium w cenie **`{{prefix}}`premium**"
+}

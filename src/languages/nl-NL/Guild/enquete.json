@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "maak een peiling die gebruikers kunnen beantwoorden.",
+    "USAGE": "poll <question>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "poll <question>",
+    "EXAMPLE": "poll Gaat het vandaag regenen?",
+    "POLL_TITLE": "Poll gemaakt door {{username}}",
+    "POLL_FOOTER": "Reageer op stemmen.."
+}

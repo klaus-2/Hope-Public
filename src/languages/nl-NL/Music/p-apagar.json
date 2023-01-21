@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Een afspeellijst verwijderen",
+    "USAGE": "p-verwijderen <playlist name>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "p-verwijderen <playlist name>",
+    "EXAMPLE": "p-verwijderen test",
+    "P_DEL": "Ik kon geen afspeellijst vinden met de naam **{{name}}**.",
+    "P_DEL1": "Succesvol verwijderd"
+}

@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "create a poll for users to answer.",
+    "USAGE": "poll <question>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "poll <question>",
+    "EXAMPLE": "poll Is it going to rain today?",
+    "POLL_TITLE": "Poll created by {{username}}",
+    "POLL_FOOTER": "React to vote.."
+}

@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Configura o addon do Auto-Reddit.",
+    "USAGE": "auto-reddit <add | remover >\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "auto-reddit <add | remover >",
+    "EXAMPLE": "auto-reddit add",
+    "REDDIT": "add",
+    "REDDIT1": "Oops! Parece que este Reddit não existe ou está totalmente vazio. Por favor, verifique e tente novamente.",
+    "REDDIT2": "O Reddit foi adicionado com sucesso ao canal <#{{channel}}>!",
+    "REDDIT3": "remover",
+    "REDDIT4": "O Auto-Reddit foi desativado com sucesso!",
+    "REDDIT5": "Oops! Parece que você digitou o nome do subreddit errado, ou ele não existe no banco de dados do addon.\nVerifique e tente novamente.",
+    "REDDIT6": "O Canal <#{{canal}}> foi removido com sucesso do subreddit **{{sub}}**",
+    "REDDIT7": "desativar"
+}

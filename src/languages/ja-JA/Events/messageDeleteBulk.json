@@ -1,0 +1,10 @@
+{
+    "MESSAGE_DELETE_BULK": "で複数のメッセージが削除されました",
+    "MESSAGE_DELETE_BULK1": "チャネル ID:",
+    "MESSAGE_DELETE_BULK2": "[イベント — 削除されたメッセージ]",
+    "MESSAGE_DELETE_BULK3": "メッセージ数:",
+    "MESSAGE_DELETE_BULK4": "削除されたメッセージ:",
+    "MESSAGE_DELETE_BULK5": "見る",
+    "MESSAGE_DELETE_BULK6": "サーバー上",
+    "MESSAGE_DELETE_BULK7": "DeletedMessages.txt"
+}

@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Muestra el número de advertencias que tiene un usuario.",
+    "USAGE": "advertencias [user]\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "advertencias [user]",
+    "EXAMPLE": "advertencias @Hope",
+    "NO_WARNINGS": "No se ha avisado a este usuario antes.",
+    "WARNS_TITLE": "Lista de advertencias de {{user}}.",
+    "AVISOS": "Advertencias",
+    "AVISOS1": "Usuario dejado",
+    "AVISOS2": "Fecha de emisión:"
+}

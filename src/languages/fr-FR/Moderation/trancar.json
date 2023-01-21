@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Verrouiller une chaîne.",
+    "USAGE": "verrouille\n💡**Exemple **: {{EXAMPLE}}",
+    "USAGEE": "lock",
+    "EXAMPLE": "lock",
+    "TRANCAR": "🔒 <#{{channel}}> a été verrouillé.",
+    "TRANCAR1": "ATTENTION",
+    "TRANCAR_PERMISSÃO": "Vous n'êtes pas autorisé à le faire."
+}

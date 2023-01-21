@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Улыбка для пользователя.",
+    "USAGE": "улыбка [user]",
+    "USAGEE": "улыбка [user]",
+    "SORRIR_DESCRIÇÃO": "<@{{author}}> улыбается!",
+    "SORRIR_DESCRIÇÃO1": "<@{{author}}> улыбка!",
+    "SORRIR_DESCRIÇÃO2": "Я отдаю улыбку",
+    "SORRIR_DESCRIÇÃO3": "улыбка в"
+}

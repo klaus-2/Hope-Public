@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "レーティング/レベルを表示します。",
+    "USAGE": "exp [user]\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "経験値 [user]",
+    "EXAMPLE": "exp @Hope",
+    "NO_MESSAGES": "お前はまだランク付けされてない最初にメッセージを送信してから、もう一度お試しください。"
+}

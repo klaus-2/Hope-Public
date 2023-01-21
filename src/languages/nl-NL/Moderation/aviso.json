@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Pas een waarschuwing toe aan een gebruiker.",
+    "USAGE": "waarschuwen <user> [time] [reason]\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "waarschuwen <user> [time] [reason]",
+    "EXAMPLE": "waarschuw @Hope 1u test"
+}

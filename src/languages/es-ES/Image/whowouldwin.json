@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Crea una imagen de quién ganaría.",
+    "USAGE": "whowouldwin <user1> [user2]\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "quién ganaría <user1> [user2]",
+    "EXAMPLE": "quién ganaría @user @user | quién ganaría @user <attachment>"
+}

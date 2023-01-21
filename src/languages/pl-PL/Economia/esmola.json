@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Poproś o jałmużnę i otrzymaj niewielką ilość pieniędzy.",
+    "USAGE": "jałmużna\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "jałmuż",
+    "EXAMPLE": "jałmuż",
+    "ESMOLA": "<:cancel:855859391709577266> Błagałeś ostatnio",
+    "ESMOLA1": "Błagaj ponownie",
+    "ESMOLA2": "W przypadku gdy państwo członkowskie lub Szwajcaria stwierdzi, że dane państwo członkowskie lub Szwajcaria spełniają warunki określone w art. 4 ust. 1 lit. a) i b) oraz w art. 5 ust. 1 lit. b) i c) rozporządzenia (WE) nr 207/2009 oraz w art. 5 ust. 1 lit. b) i c) rozporządzenia (WE) nr 207/2009 oraz w art. 5 ust. 1 lit. b) tego rozporządzenia i art. 6 ust. 1 lit. b) tego rozporządzenia i c) tego rozporządzenia stosuje się od dnia 1 stycznia 2018 r.",
+    "ESMOLA3": "<:v_:855859391835799582> Błagałeś i otrzymałeś",
+    "ESMOLA4": "skcoins"
+}

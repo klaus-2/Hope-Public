@@ -1,0 +1,5 @@
+{
+    "DESCRIPTION": "Actief ons desatief om de geldigheidsniveaus toe te voegen.",
+    "USAGE": "level <ativar | desativar>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "niveau <ativar | desativar>"
+}

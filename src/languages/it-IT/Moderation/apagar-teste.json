@@ -1,0 +1,4 @@
+{
+    "DESCRIPTION": "Cancella una certa quantità di messaggi.",
+    "USAGE": "clear <Number> [member]"
+}

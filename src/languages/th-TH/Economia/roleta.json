@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Place a bet on roulette for money.",
+    "USAGE": "roulette\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "roulette",
+    "EXAMPLE": "roulette",
+    "ROLETA": "<:cancel:855859391709577266> ระบุจำนวนที่จะเล่น | {{prefix}}roulette <color> <quantity>",
+    "ROLETA1": "<:cancel:855859391709577266> คุณกำลังเดิมพันมากกว่าที่คุณมี",
+    "ROLETA2": "<:cancel:855859391709577266> ระบุสี | Red [1.5x] (normal) Black [2x] (hard) Blue [15x](rare)",
+    "ROLETA3": "black",
+    "ROLETA4": "red",
+    "ROLETA5": "blue",
+    "ROLETA6": "🔵 คุณชนะแล้ว {{dinheiro}} skcoins\n\nคูณด้วย: 15x",
+    "ROLETA7": "🔴 คุณชนะแล้ว {{dinheiro}} skcoins\n\nคูณด้วย: 1.5x",
+    "ROLETA8": "⬛ คุณชนะแล้ว {{dinheiro}} skcoins\n\nคูณด้วย: 2x",
+    "ROLETA9": "<:cancel:855859391709577266> คุณแพ้ {{dinheiro}} skcoins\n\nคูณด้วย: 0x"
+}

@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Vuelva a iniciar el arranque.",
+    "USAGE": "re\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "re",
+    "EXAMPLE": "re",
+    "HRE_DESC": ":white_check_mark: ** ¡Reiniciando Hope! **",
+    "HRE_DESC1": "Eso puede tardar unos segundos...",
+    "HRE_DESC2": ":white_check_mark: ¡Reiniciando Hope!\nEso puede tardar unos segundos..."
+}

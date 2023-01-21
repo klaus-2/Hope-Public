@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "自動アドオンを有効または無効にします。",
+    "USAGE": "autorole <enable | disable>\n💡**例**: {{EXAMPLE}}",
+    "USAGEE": "オートロール <enable | disable>",
+    "EXAMPLE": "自動ロールを有効にする"
+}

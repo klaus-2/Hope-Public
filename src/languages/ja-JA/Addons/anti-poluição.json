@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "アンチ汚染モードを有効または無効にします。",
+    "USAGE": "公害防止 <enable | disable>\n💡**例**: {{EXAMPLE}}",
+    "USAGEE": "公害防止 <enable | disable>",
+    "EXAMPLE": "公害対策を有効にする",
+    "ANTI": "「汚染防止」モードを有効にしました！",
+    "ANTI1": "「汚染防止」モードが正常に無効になりました！"
+}

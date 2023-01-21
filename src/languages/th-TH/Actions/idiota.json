@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Call someone an idiot.",
+    "USAGE": "idiot [user]",
+    "USAGEE": "idiot [user]",
+    "IDIOTA_DESCRIÇÃO": "\\❌ ไม่มี **<@{{author}}>**คุณไม่ได้โง่!"
+}

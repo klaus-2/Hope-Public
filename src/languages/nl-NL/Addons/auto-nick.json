@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Configureert de Auto-nick addon.",
+    "USAGE": "automatisch bijnaam",
+    "USAGEE": "automatisch bijnaam",
+    "EXAMPLE": "auto-nick inschakelen\n💡**Exemplo**: {{EXAMPLE}}",
+    "NICK": "enable",
+    "NICK1": "De `Auto-nick` addon is succesvol geactiveerd.",
+    "NICK2": "disable",
+    "NICK3": "De `Auto-nick` addon is succesvol gedeactiveerd.",
+    "NICK4": "nick",
+    "NICK5": "Voer een bijnaam in.",
+    "NICK6": "Oeps! De gebruiker moet tussen 2-32 tekens lang zijn.",
+    "NICK7": "De voorbarige van de `Auto-nick` add-on is succesvol bijgewerkt naar `{{nick}}`."
+}

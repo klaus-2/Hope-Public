@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "인스타그램 계정에서 정보를 얻으세요.",
+    "USAGE": "인스 타 그램 <user>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "Instagram <user>",
+    "EXAMPLE": "인스 타 그램 불화",
+    "INSTAGRAM": "<a:loading:823004555884232724> 홀드 온...연구 중이야!",
+    "INSTAGRAM1": "사용자 이름:",
+    "INSTAGRAM2": "전체 이름:",
+    "INSTAGRAM3": "약력:",
+    "INSTAGRAM4": "없음",
+    "INSTAGRAM5": "간행물:",
+    "INSTAGRAM6": "팔로워:",
+    "INSTAGRAM7": "다음:",
+    "INSTAGRAM8": "비공개 계정:",
+    "INSTAGRAM9": "예 🔒",
+    "INSTAGRAM10": "아니요 🔓",
+    "INSTAGRAM11": "확인된 계정:",
+    "INSTAGRAM12": "예 ✅",
+    "INSTAGRAM13": "아니요 ❌"
+}

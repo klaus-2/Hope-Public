@@ -1,0 +1,21 @@
+{
+    "DESCRIPTION": "在 Steam 上搜索游戏/应用程序。",
+    "USAGE": "蒸汽存储 <game>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "蒸汽商店 <game>",
+    "EXAMPLE": "蒸汽商店柯南流放者",
+    "STEAM_LOJA": "在 <:steam:767062357952167946> 蒸汽上找不到 **{{query}}**",
+    "STEAM_LOJA1": "$",
+    "STEAM_LOJA2": "免费",
+    "STEAM_LOJA3": "* ** 附加说明：",
+    "STEAM_LOJA4": "系统要求",
+    "STEAM_LOJA5": "價格",
+    "STEAM_LOJA6": "Metascore",
+    "STEAM_LOJA7": "推荐",
+    "STEAM_LOJA8": "发行日期",
+    "STEAM_LOJA9": "开发者",
+    "STEAM_LOJA10": "出版商",
+    "STEAM_LOJA11": "分类",
+    "STEAM_LOJA12": "类型",
+    "STEAM_LOJA13": "DLC 的数量",
+    "STEAM_LOJA14": "支持的语言"
+}

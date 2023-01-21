@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Configura o addon de Reputação.",
+    "USAGE": "reputac<unk> a<unk> o\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "Ruf <unk> a<unk> o",
+    "EXAMPLE": "Ruf <unk> a<unk> o",
+    "REP": "O Ranking de Reputação será atualizado em 30 segundos."
+}

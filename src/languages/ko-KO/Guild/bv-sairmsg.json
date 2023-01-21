@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "사용자가 서버를 떠날 때 채널에서 전송될 메시지를 구성합니다.",
+    "USAGE": "bv-리벤스그 <message>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "bv-리벤스그 <message>",
+    "EXAMPLE": "bv-leavemsg **{user}** has just logged off the server.",
+    "BV_SAIRMENSAGEM": "<:v_:855859391835799582> 채널이 성공적으로 업데이트되었습니다."
+}

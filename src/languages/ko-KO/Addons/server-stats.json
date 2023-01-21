@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "서버에 통계를 표시합니다.",
+    "USAGE": "서버 통계 <enable | disable>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "서버 통계 <enable | disable>",
+    "EXAMPLE": "서버 통계 활성화",
+    "STATS": "enable",
+    "STATS1": "`서버 통계' 애드온 이 성공적으로 활성화되었습니다.",
+    "STATS2": "disable",
+    "STATS3": "'서버 통계' 애드온 기능이 성공적으로 비활성화되었습니다.",
+    "STATS4": "죄송합니다!먼저 애드온 을 활성화해야 합니다."
+}

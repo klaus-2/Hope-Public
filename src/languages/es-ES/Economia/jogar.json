@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Juega algunos juegos para ganar créditos.",
+    "USAGE": "game <game name>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "juego <game name>",
+    "EXAMPLE": "verdugo juego",
+    "JOGAR": "proporcione uno de los juegos a continuación que desee jugar.",
+    "JOGAR1": "no es un juego jugable. Por favor, selecciona una de las siguientes opciones:"
+}

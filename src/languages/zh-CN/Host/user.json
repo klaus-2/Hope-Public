@@ -1,0 +1,8 @@
+{
+  "DESCRIPTION": "编辑用户的数据",
+  "USAGE": "用户 <id> [高级版/已禁止] [true /false]",
+  "SUCCESS_PREM": "已成功更新用户的高级版。",
+  "SUCCESS_BAN": "已成功更新用户的全局禁令。",
+  "SUCCESS_RANK": "成功更新了用户的排名背景。",
+  "SUCCESS_RESET": "成功重置用户的数据。"
+}

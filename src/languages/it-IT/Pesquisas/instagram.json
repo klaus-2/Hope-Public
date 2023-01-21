@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Ottieni informazioni da un account Instagram.",
+    "USAGE": "instagram <user>\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "instagram <user>",
+    "EXAMPLE": "instagram discord",
+    "INSTAGRAM": "<a:loading:823004555884232724> Attenersi... Sto cercando!",
+    "INSTAGRAM1": "Utente:",
+    "INSTAGRAM2": "Nome completo:",
+    "INSTAGRAM3": "Biografia:",
+    "INSTAGRAM4": "Nessuno",
+    "INSTAGRAM5": "Pubblicazioni:",
+    "INSTAGRAM6": "Seguiti:",
+    "INSTAGRAM7": "Seguendo:",
+    "INSTAGRAM8": "Account privato:",
+    "INSTAGRAM9": "Sì 🔒",
+    "INSTAGRAM10": "No 🔓",
+    "INSTAGRAM11": "Account Verificato:",
+    "INSTAGRAM12": "Sì ✅",
+    "INSTAGRAM13": "No ❌"
+}

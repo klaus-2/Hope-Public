@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Affiche les pistes précédentes qui ont été lues.",
+    "USAGE": "previous [pageNumber]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "[pageNumber] précédent",
+    "EXAMPLE": "2 précédents",
+    "ANTERIOR": "Aucune piste précédente n'a été jouée",
+    "ANTERIOR1": "Pistes précédentes",
+    "ANTERIOR2": "**Dernière piste**:",
+    "ANTERIOR3": "  Rien",
+    "ANTERIOR4": "Page",
+    "ANTERIOR5": "chanson(s)",
+    "ANTERIOR6": "La page doit être un nombre.",
+    "ANTERIOR7": "Il n'y a que",
+    "ANTERIOR8": "pages disponibles."
+}

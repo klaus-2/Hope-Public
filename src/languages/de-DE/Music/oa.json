@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "wendet die zufällige Reihenfolge auf die Wiedergabeliste an.",
+    "USAGE": "shuffle\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "mischen",
+    "EXAMPLE": "mischen",
+    "OA": "<:v_:855859391835799582> Playlist wurde erfolgreich gemischt."
+}

@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "あなたの文章をどんな言語にも翻訳しましょう！リストには、 <prefix>の翻訳言語を使用します。",
+    "USAGE": "<language> <text>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "translate <language> <text>",
+    "EXAMPLE": "言語を翻訳する",
+    "ETRA_DESC": "現在利用可能な言語",
+    "ETRA_DESC1": "🇧🇬-Bulgarian use `{{prefix}}`translate bg <text>`。\n🇵🇱-ポーランド語使用 `{{prefix}}`translate pl <text>`。\n🇳🇱-オランダ語使用 `{{prefix}}`translate nl <text>`\n🇩🇰-デンマーク語では `{{prefix}}`translate da <text>` となります。\n🇩🇪-ドイツ語使用 `{{prefix}}`translate de <text>`。\n🇮🇹-イタリア語では `{{prefix}}` 翻訳すると <text>` となります。\n🇷🇺-ロシア語使用 `{{prefix}}`translate ru <text>`。\n🇪🇸-スペイン語使用 `{{prefix}}`translate es <text>`\n🇹🇷-トルコ語使用 `{{prefix}}`translate tr <text>`\n🇫🇷-フランス語使用 `{{prefix}}`translate fr <text>`",
+    "ETRA_DESC2": "こんにちは、私は {{user}}",
+    "ETRA_DESC3": "それをご存知でしたか",
+    "ETRA_DESC4": "で",
+    "ETRA_DESC5": "手段",
+    "ETRA_DESC6": "<: HopeuAU: 823047534670774303> すごい！面白い、ハァッ？"
+}

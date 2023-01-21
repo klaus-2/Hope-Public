@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Stel Hope automatisch opladen in voor deze server.",
+    "USAGE": "levelmsg <message>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "levelmsg <message>",
+    "EXAMPLE": "levelmsg GG {user}, je bent gevorderd naar niveau {Level}!",
+    "LVL_MSG": "Instellingen: `Level`",
+    "LVL_MSG1": "<:v_:855859391835799582>De configuratie van `level` is succesvol bijgewerkt.",
+    "LVL_MSG2": "Niveau instelling",
+    "LVL_MSG3": "Mensagem is veranderd van"
+}

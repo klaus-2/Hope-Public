@@ -1,0 +1,5 @@
+{
+    "DESCRIPTION": "아티브 또는 레벨 애드온.",
+    "USAGE": "레벨 <ativar | desativar>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "레벨 <ativar | desativar>"
+}

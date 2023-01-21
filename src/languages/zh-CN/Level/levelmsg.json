@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "为此服务器设置 Hope 自动充电。",
+    "USAGE": "levelmsg <message>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "levelmsg <message>",
+    "EXAMPLE": "levelmsg GG {user}, you advanced to Level {Level}!",
+    "LVL_MSG": "设置：`Level `",
+    "LVL_MSG1": "<: v_: 855859391835799582> “关卡” 的配置已成功更新。",
+    "LVL_MSG2": "级别设置",
+    "LVL_MSG3": "Mensagem 从"
+}

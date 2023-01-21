@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "对某人一波浪。",
+    "USAGE": "波浪 [user]",
+    "USAGEE": "波浪 [user]",
+    "ACENAR_DESCRIÇÃO1": "<@{{author}}> 波浪！",
+    "ACENAR_DESCRIÇÃO2": "<@{{user}}> wacked",
+    "ACENAR_DESCRIÇÃO3": " 唤醒到 "
+}

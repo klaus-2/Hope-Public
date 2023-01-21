@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "서버에 로그인할 때 사용자의 비공개로 전송되도록 메시지를 구성합니다.",
+    "USAGE": "bv-msg프라이빗 <mensagem>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "bv-msg프라이빗 <message>",
+    "EXAMPLE": "bv-msgprivate Have a great time here at **{server}**!",
+    "BV_MENSAGEMPRIVADO": "<:v_:855859391835799582> 채널이 성공적으로 업데이트되었습니다."
+}

@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Charger une sauvegarde depuis le serveur.",
+    "USAGE": "s-backup-load <backupID>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "s-backup-load <backupID>",
+    "EXAMPLE": "-charge de sauvegarde 2334",
+    "S_BACKUP_CARREGAR": "Aah {{author}}, I'm sorry :(",
+    "S_BACKUP_CARREGAR1": "Vous devez avoir les permissions de gestion des messages pour créer une sauvegarde sur ce serveur.",
+    "S_BACKUP_CARREGAR2": ":warning: Tous les canaux, rôles et paramètres du serveur seront effacés. Voulez-vous continuer? Envoyez `confirm` ou `annuler`!",
+    "S_BACKUP_CARREGAR3": "confirm",
+    "S_BACKUP_CARREGAR4": "annuler",
+    "S_BACKUP_CARREGAR5": "Sauvegarde chargée avec succès!",
+    "S_BACKUP_CARREGAR6": "Aucune sauvegarde trouvée pour l'ID : **{{backupID}}**",
+    "S_BACKUP_CARREGAR7": "Une erreur est survenue :",
+    "S_BACKUP_CARREGAR8": ":x: Annulé.",
+    "S_BACKUP_CARREGAR9": "La commande :x: a expiré! Veuillez réessayer."
+}

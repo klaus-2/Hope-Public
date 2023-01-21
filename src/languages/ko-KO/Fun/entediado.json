@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "지루함을 없애기위한 제안을 제공합니다.",
+    "USAGE": "지루한\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "지루해",
+    "EXAMPLE": "지루해",
+    "FTEDIO_DESC": "./resources/other/bored-en.json",
+    "FTEDIO_DESC1": "지루해?"
+}

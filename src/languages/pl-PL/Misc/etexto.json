@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "zwraca tekst podany w formie emotikony (emotikony).",
+    "USAGE": "etext <message>\n💡 **Przyklad**: {{EXAMPLE}}",
+    "USAGEE": "etext <message>",
+    "EXAMPLE": "etext Teste"
+}

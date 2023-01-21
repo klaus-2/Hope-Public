@@ -1,0 +1,20 @@
+{
+    "FLAGS": "attendere prego",
+    "FLAGS1": "per giocare **bandiere** di nuovo.",
+    "FLAGS2": "Indovina il paese dalla sua bandiera in meno di 30 secondi:",
+    "FLAGS3": "- La prima domanda assegnerà $300",
+    "FLAGS4": "- Dopo il primo, ogni captcha corretto vale $100",
+    "FLAGS5": "- Hai solo 1 tentativo per domanda",
+    "FLAGS6": "- Il gioco inizia tra 5 secondi...",
+    "FLAGS7": "indovinare il paese da questa bandiera in meno di 30 secondi:",
+    "FLAGS8": "Paese sbagliato! La risposta corretta è",
+    "FLAGS9": "Il tuo tempo è finito! La risposta corretta è",
+    "FLAGS11": "paese giusto! Hai vinto $100!",
+    "FLAGS12": "hai perso il tuo primo tentativo.",
+    "FLAGS13": "Hai $200 per provare!",
+    "FLAGS14": "⚠️ATTENZIONE DALLA BANCA! Si prega di depositare alcuni dei tuoi soldi nella tua **banca**. Hai ricevuto solo $",
+    "FLAGS15": "questa volta!",
+    "FLAGS16": "congratulazioni!",
+    "FLAGS17": "Hai ricevuto **$",
+    "FLAGS18": "dolares** per risposta"
+}

@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Zeigt den Rang der reichsten Personen auf dem Server an.",
+    "USAGE": "moneylb\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "moneylb",
+    "EXAMPLE": "moneylb",
+    "MAIS_RICOS7": ":trophie: Rang des reichsten in",
+    "MAIS_RICOS8": "<User unknown>",
+    "MAIS_RICOS9": "wird als der reichste eingestuft mit",
+    "MAIS_RICOS10": "skcoins insgesamt!"
+}

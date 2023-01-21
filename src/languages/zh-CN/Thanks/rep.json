@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "对用户说谢谢。",
+    "USAGE": "rep <user>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "代表 <user>",
+    "EXAMPLE": "rep @Hope",
+    "REP": "请提一个人说谢谢。",
+    "REP1": "你不能感谢你自己。",
+    "REP2": "在过去的 {{hours}} 个小时里你有没有感谢过任何人。",
+    "REP3": "你说了谢谢",
+    "REP4": "为了你的帮助！他已经被感谢了",
+    "REP5": "次。"
+}

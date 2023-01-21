@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "提案アドオンを有効または無効にします。",
+    "USAGE": "bv-channel <channelID>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "bv-channel <channelID>",
+    "EXAMPLE": "BVチャンネル 8973474238977",
+    "BV_CANAL": "チャンネルは正常に更新されました: "
+}

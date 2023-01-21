@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Ask for alms and receive a small amount of money.",
+    "USAGE": "alms\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "alms",
+    "EXAMPLE": "alms",
+    "ESMOLA": "<:cancel:855859391709577266> Have you ever begged recently",
+    "ESMOLA1": "Beg again in",
+    "ESMOLA2": "and",
+    "ESMOLA3": "<:v_:855859391835799582> You begged and received",
+    "ESMOLA4": "skcoins"
+}

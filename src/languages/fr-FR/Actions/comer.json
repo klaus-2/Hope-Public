@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Mangez quelque chose avec le ou les utilisateurs que vous avez mentionnés !",
+    "USAGE": "flux [user]",
+    "USAGEE": "flux [user]",
+    "COMER_DESCRIÇÃO": "<@{{member}}> vous allez manger... seul même?!",
+    "COMER_Hope": " **moi**",
+    "COMER_DESCRIÇÃO1": "mange avec",
+    "COMER_DESCRIÇÃO2": "m'a nourri",
+    "COMER_HopeFRASE": "Nyaa~ s-senpai... ('Å'∗)...",
+    "COMER_HopeFRASE1": "Ne me nourrissez pas ! Je ne vais pas te montrer de photos !",
+    "COMER_APIOFF": "hmmm, l'api est en panne, désolé !",
+    "COMER_DESC": " et ",
+    "COMER_DESC1": ", et "
+}

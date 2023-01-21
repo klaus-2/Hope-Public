@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "用一个特殊的手掌。",
+    "USAGE": "手持手 <user>",
+    "USAGEE": "手持手 <user>",
+    "MAOS_DESCRIÇÃO": "\\❌ **<@{{author}}>**, 你想要由谁来掌控？",
+    "MAOS_DESCRIÇÃO1": "正在握手：",
+    "MAOS_DESCRIÇÃO2": "\\❌ **<@{{author}}>**, 你需要告诉谁你想要握手"
+}

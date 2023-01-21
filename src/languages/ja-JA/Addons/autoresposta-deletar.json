@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "自動応答を削除します。",
+    "USAGE": "deleteautoresponse <command>\n💡**例**: {{EXAMPLE}}",
+    "USAGEE": "deleteautoresponse <command>",
+    "EXAMPLE": "deleteautoresponse hi",
+    "DELETAR_RESPOSTA": "<:cancel:855859391709577266>コマンド名は30文字以上です！",
+    "DELETAR_RESPOSTA1": "自動応答を削除",
+    "DELETAR_RESPOSTA2": "正常に削除されました。",
+    "DELETAR_RESPOSTA3": "ああ！申し訳ありませんが、このコマンドが見つかりませんでした。本当に正しいですか？"
+}

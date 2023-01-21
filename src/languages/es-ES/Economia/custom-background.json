@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Personaliza el fondo de tu perfil con una imagen de tu elección.",
+    "USAGE": "fondo personalizado [archivo adjunto | url]\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "fondo personalizado [archivo adjunto | url]",
+    "EXAMPLE": "fondo personalizado https://i.imgur.com/ru3E3zd.png",
+    "BG": "Hola {{author}}",
+    "BG1": "¡Tu compra se ha realizado correctamente!\n$",
+    "BG2": "¡skcoins se dedujeron de tu monedero para completar la transacción!\nTu nuevo fondo es [{{url}}] (enlace)",
+    "BG3": "Para ver cómo se ve, usa el comando {{prefix}}profile",
+    "BG4": "¡skcoins se dedujeron de tu monedero para completar la transacción!\nTu nuevo fondo es [{{args}}] (enlace)",
+    "BG5": "necesitas adjuntar una imagen o insertar tu enlace para establecer un nuevo fondo.",
+    "BG6": "¡No tienes suficiente dinero!\nDesaparecidos",
+    "BG7": "cambiar el fondo"
+}

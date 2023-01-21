@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "为您的 Economia 卡设置 Economia 生日。",
+    "USAGE": "设置生日 <d-m>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "设置生日 <d-m>",
+    "EXAMPLE": "设置生日 02-12",
+    "NIVER": "请输入你的 ** 生日 **！",
+    "NIVER1": "请以 **DD-MM** 格式输入日期",
+    "NIVER2": "你的生日日期已更新为"
+}

@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Postaw zakład na ruletkę dla pieniędzy.",
+    "USAGE": "ruletka\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "ruletka",
+    "EXAMPLE": "ruletka",
+    "ROLETA": "<:cancel:855859391709577266> Określ kwotę do gry | {{prefix}}ruletka <color> <quantity>",
+    "ROLETA1": "<:cancel:855859391709577266> Stawiasz więcej niż masz",
+    "ROLETA2": "<:cancel:855859391709577266> Określ kolor | Czerwony [1.5x] (normalny) Czarny [2x] (twardy) Niebieski [15x](rzadki)",
+    "ROLETA3": "czarny",
+    "ROLETA4": "czerwony",
+    "ROLETA5": "niebieski",
+    "ROLETA6": "🔵 Wygrałeś {{dinheiro}} skcoins\n\npomnożone przez: 15x",
+    "ROLETA7": "🔴 Wygrałeś {{dinheiro}} skcoins\n\npomnożone przez: 1.5x",
+    "ROLETA8": "⬛ Wygrałeś {{dinheiro}} skcoins\n\npomnożone przez: 2x",
+    "ROLETA9": "<:cancel:855859391709577266> Straciłeś {{dinheiro}} skcoins\n\npomnożone przez: 0x"
+}

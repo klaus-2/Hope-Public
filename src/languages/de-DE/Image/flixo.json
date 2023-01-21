@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Spielen Sie das Foto eines Benutzers im Papierkorb.",
+    "USAGE": "trash [user]\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "abfall",
+    "EXAMPLE": "trash @Hope",
+    "FLIXO_DESC": "nur geworfen",
+    "FLIXO_DESC1": "im Papierkorb",
+    "FLIXO_DESC2": "Willst du das loslassen?",
+    "FLIXO_DESC3": "und erhalte sogar 😈",
+    "FLIXO_DESC4": "Whoa!"
+}

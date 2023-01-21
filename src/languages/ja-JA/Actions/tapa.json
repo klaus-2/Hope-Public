@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "ユーザーを叩きます。",
+    "USAGE": "平手打ち [user]",
+    "USAGEE": "平手打ち [user]",
+    "TAPA_DESCRIÇÃO": "<@{{member}}>、自分を叩かないでください！",
+    "TAPA_DESCRIÇÃO1": "**me**",
+    "TAPA_DESCRIÇÃO2": "平手打ちされた",
+    "TAPA_HopeFRASE": "(;<unk> ;<unk> ) 申し訳ありません。叩けばいいのですが、叩かないでください...",
+    "TAPA_DESC": " と ",
+    "TAPA_DESC1": "と ",
+    "TAPA_DESC2": "私..."
+}

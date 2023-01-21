@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Serversicherung löschen.",
+    "USAGE": "s-backup-delete <backupID>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "s-Backup-Löschen <backupID>",
+    "EXAMPLE": "s-backup-delete 2334",
+    "S_BACKUP_APAGAR": "Aah {{author}}, I'm sorry :(",
+    "S_BACKUP_APAGAR1": "Status Premium: :small_blue_diamond: **NORMAL BENUTZER** :small_blue_diamond:\nLeider <:SkyeFoiMal:823046654374314044> Sie können diesen Befehl nicht verwenden, da Sie kein Premium-Benutzer auf dem **Hope Support Server** sind.",
+    "S_BACKUP_APAGAR2": "💡 Premium ist ein Vorteil für Benutzer, die Skys Support-Server erhöhen. {{prefix}}Hope",
+    "S_BACKUP_APAGAR3": "Zum Entfernen muss eine gültige Backup-ID angegeben werden",
+    "S_BACKUP_APAGAR4": "** BACKUP LÖSCHEN**",
+    "S_BACKUP_APAGAR5": "** NEUES BACKUP LÖSCHT**\n Autor: {{author}}",
+    "S_BACKUP_APAGAR6": "Keine Sicherung für {{backupID}} gefunden"
+}

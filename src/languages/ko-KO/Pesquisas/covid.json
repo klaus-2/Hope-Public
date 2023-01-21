@@ -1,0 +1,17 @@
+{
+    "DESCRIPTION": "한 국가의 Covid-19에 대한 실시간 정보를 얻을 수 있습니다.",
+    "USAGE": "코비드 [country]\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "코비드 [country]",
+    "EXAMPLE": "코비드 미국 | 코비드",
+    "COVID": "코로나 바이러스 통계",
+    "COVID1": "확인된 케이스",
+    "COVID2": "오늘 사례",
+    "COVID3": "오늘의 죽음",
+    "COVID4": "액티브",
+    "COVID5": "복구됨",
+    "COVID6": "죽음",
+    "COVID7": "테스트",
+    "COVID8": "밀당 케이스",
+    "COVID9": "밀당 사망자 수",
+    "COVID10": "최종 업데이트"
+}

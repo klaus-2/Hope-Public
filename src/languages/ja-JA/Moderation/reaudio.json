@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "ユーザーのオーディオを再アクティブ化します。",
+    "USAGE": "undeafen <user>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "undeafen <user>",
+    "EXAMPLE": "undeafen @Hope",
+    "REAUDIO": "音声チャンネルにいない誰かを聞き取りがつかない。"
+}

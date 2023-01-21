@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Aktiviert oder deaktiviert den Anti Pollution Modus.",
+    "USAGE": "Schadstoffbekämpfung <enable | disable>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "Schadstoffabwehr <enable | disable>",
+    "EXAMPLE": "verunreinigungsschutz aktivieren",
+    "ANTI": "Der `Anti-Pollution` Modus wurde erfolgreich aktiviert!",
+    "ANTI1": "Der `Anti-Pollution` Modus wurde erfolgreich deaktiviert!"
+}

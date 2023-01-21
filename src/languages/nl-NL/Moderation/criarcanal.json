@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Maak een tekstkanaal aan.",
+    "USAGE": "create-channel <name>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "create-channel <name>",
+    "EXAMPLE": "create-channel-test"
+}

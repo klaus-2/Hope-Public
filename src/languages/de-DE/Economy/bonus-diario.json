@@ -1,0 +1,23 @@
+{
+    "DESCRIPTION": "Erhalten Sie eine tägliche Bargeldbelohnung für das Economy Addon.",
+    "USAGE": "täglich\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "täglich",
+    "EXAMPLE": "täglich",
+    "BONUS_DIARIO": "<:cancel:855859391709577266> Du hast bereits deine tägliche Belohnung\n\nabgeholt. Die nächste Belohnung wird verfügbar sein um",
+    "BONUS_DIARIO1": "und",
+    "BONUS_DIARIO2": "ok?",
+    "BONUS_DIARIO3": "<:v_:855859391835799582> Du hast deine tägliche Belohnung für",
+    "BONUS_DIARIO4": "skcoins erfolgreich.",
+    "BONUS_DIARIO5": "**Danke für deine Unterstützung**",
+    "BONUS_DIARIO6": "Ah! Und natürlich habe ich deine majestätische Präsenz dort auf meinem [Support Server]({{SupportServer}}), und als Dankeschön gebe ich dir ein Geschenk",
+    "BONUS_DIARIO7": "bonus skcoins** extra!",
+    "BONUS_DIARIO8": "**Congratulations**",
+    "BONUS_DIARIO9": "<:SkyeComemorando:823248929503445026> **Du hast ein ziemlich cooles Item für dein Profil als Geschenk erhalten!**: Du hast gewonnen",
+    "BONUS_DIARIO10": "für ihre täglichen Belohnungen. Der Gegenstand wurde bereits deinem Inventar hinzugefügt!",
+    "BONUS_DIARIO11": "**Bankmitteilung**:",
+    "BONUS_DIARIO12": "⚠️ Achtung! Ihre Brieftasche kann nicht mehr Geld enthalten. Sie hat das Limit von $60.000 erreicht!\nDu musst einen Teil deines Geldes an deine Bank überweisen!",
+    "BONUS_DIARIO13": "**Streak Lost**:",
+    "BONUS_DIARIO14": "⚠️ Wie kommt es, dass du nicht jeden Tag deine Belohnungen einsammelst und du vermisst erstaunliche Belohnungen? Oh zu schlecht, denn jetzt ist deine Serie **x1**.",
+    "BONUS_DIARIO15": "🔥 **Wow, deine aktuelle Serie ist",
+    "BONUS_DIARIO16": "Halte es auf"
+}

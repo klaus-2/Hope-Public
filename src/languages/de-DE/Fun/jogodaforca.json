@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "starten Sie ein Hangman-Spiel.",
+    "USAGE": "hangman\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "hangman",
+    "EXAMPLE": "hangman"
+}

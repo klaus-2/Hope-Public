@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "将正在播放的曲目的位置设置为指定位置。",
+    "USAGE": "寻求 <time>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "寻求 <time>",
+    "EXAMPLE": "寻找 01:00",
+    "IRPARA": "时间短于当前歌曲的长度：`{{time}}`"
+}

@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "ottenere una bella foto di un cane.",
+    "USAGE": "cane\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "cane",
+    "EXAMPLE": "cane"
+}

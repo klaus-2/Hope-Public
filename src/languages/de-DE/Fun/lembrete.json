@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "definieren Sie etwas, was in einer Weile zu merken ist.",
+    "USAGE": "Erinnerung <time> <message>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "Erinnerung <time> <message>",
+    "EXAMPLE": "Erinnerung 1h füttern meine Katze",
+    "FLEMBRETE_DESC": "Sie müssen einen Zeitraum festlegen, der gespeichert werden soll!",
+    "FLEMBRETE_DESC1": "Die angegebene Zeit",
+    "FLEMBRETE_DESC2": "das 31-Tages-Limit überschritten",
+    "FLEMBRETE_DESC3": "Du musst eine Nachricht schreiben, um daran zu erinnern!",
+    "FLEMBRETE_DESC4": "Hallo",
+    "FLEMBRETE_DESC5": "du kannst auf meine Hilfe zählen! Ich erinnere dich von hier an",
+    "FLEMBRETE_DESC6": "Du kannst darauf vertrauen, dass ich mich daran erinnere, ~~*Ich denke, ~~"
+}

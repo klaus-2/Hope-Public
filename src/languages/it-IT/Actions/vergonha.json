@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Esprimere una serie di vergogna/arrossamento.",
+    "USAGE": "rossore [user]",
+    "USAGEE": "rossore [user]",
+    "VERGONHA_DESCRIÇÃO": "<@{{author}}> si vergogna",
+    "VERGONHA_DESCRIÇÃO1": "si vergogna di"
+}

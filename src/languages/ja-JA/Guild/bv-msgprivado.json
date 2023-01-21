@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "サーバーへのログイン時にユーザーのプライベートで送信されるメッセージを構成します。",
+    "USAGE": "bv-msgprivate <mensagem>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "bv-msgprivate <message>",
+    "EXAMPLE": "bv-msgprivate Have a great time here at **{server}**!",
+    "BV_MENSAGEMPRIVADO": "<: v_: 855859391835799582> チャンネルが正常に更新されました:"
+}

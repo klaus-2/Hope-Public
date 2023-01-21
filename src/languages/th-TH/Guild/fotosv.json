@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "get the server icon.",
+    "USAGE": "guildicon\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "guildicon",
+    "EXAMPLE": "guildicon | servericon",
+    "NO_GUILD_ICON": "เซิร์ฟเวอร์นี้ไม่มีไอคอนเซิร์ฟเวอร์",
+    "GUILD_ICON": "ดาวน์โหลด"
+}

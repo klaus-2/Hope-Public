@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Mantenga las manos con alguien especial.",
+    "USAGE": "sostén <user>",
+    "USAGEE": "sostén <user>",
+    "MAOS_DESCRIÇÃO": "\\❌ **<@{{author}}>**, ¿a quién te gustaría tenerte las manos?!",
+    "MAOS_DESCRIÇÃO1": "tiene las manos de",
+    "MAOS_DESCRIÇÃO2": "\\❌ **<@{{author}}>**, necesitas decir a quién te gustaría agarrar las manos"
+}

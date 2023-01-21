@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Pas je profielachtergrond aan met een afbeelding naar keuze.",
+    "USAGE": "custom-background [attachment | url]\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "custom-background [attachment | url]",
+    "EXAMPLE": "custom-achtergrond https://i.imgur.com/ru3E3zd.png",
+    "BG": "Hallo {{author}}",
+    "BG1": "Je aankoop was succesvol!\n$",
+    "BG2": "skcoins zijn afgetrokken van je portemonnee om de transactie te voltooien!\nJe nieuwe achtergrond is [{{url}}] (link)",
+    "BG3": "Gebruik het commando {{prefix}}profiel om te zien hoe het eruit ziet",
+    "BG4": "skcoins zijn afgetrokken van je portemonnee om de transactie te voltooien!\nJe nieuwe achtergrond is [{{args}}] (link)",
+    "BG5": "je moet een afbeelding toevoegen of je link invoegen om een nieuwe achtergrond in te stellen!",
+    "BG6": "Je hebt niet genoeg geld!\nOntbreekt",
+    "BG7": "om de achtergrond te veranderen"
+}

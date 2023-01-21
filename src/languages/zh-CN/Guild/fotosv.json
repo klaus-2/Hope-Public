@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "获取服务器图标。",
+    "USAGE": "guildicon\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "guildicon",
+    "EXAMPLE": "guildicon | servericon",
+    "NO_GUILD_ICON": "此服务器没有服务器图标。",
+    "GUILD_ICON": "下载"
+}

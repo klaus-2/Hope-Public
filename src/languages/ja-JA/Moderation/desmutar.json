@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "ユーザーのミュートを解除します。",
+    "USAGE": "ミュート解除 <user> \n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "ミュート解除 <user>",
+    "EXAMPLE": "スカイのミュート解除"
+}

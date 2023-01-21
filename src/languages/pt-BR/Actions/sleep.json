@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Coloca o usuário para dormir.",
+    "USAGE": "dormir [user]\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "dormir [user]",
+    "EXAMPLE": "dormir @Hope",
+    "DORMIR_DESCRIÇÃO": "<@{{author}}> adormeceu!",  
+    "DORMIR_DESCRIÇÃO1": "adormeceu com",
+    "DORMIR_DESCRIÇÃO2": "<@{{author}}>, eu não estou com sono...."
+}

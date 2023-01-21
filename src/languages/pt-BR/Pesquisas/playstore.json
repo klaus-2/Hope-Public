@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Mostra informações de um jogo/app na Playstore.",
+    "USAGE": "playstore <jogo/app>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "playstore <jogo/app>",
+    "EXAMPLE": "playstore free fire",
+    "PLAYSTORE": "Preço",
+    "PLAYSTORE1": "Desenvolvedor",
+    "PLAYSTORE2": "Pontuação"
+}

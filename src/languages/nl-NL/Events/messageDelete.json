@@ -1,0 +1,11 @@
+{
+    "MESSAGE_DELETE": "Het bericht van",
+    "MESSAGE_DELETE1": "werd verwijderd in",
+    "MESSAGE_DELETE2": "Auteur-ID:",
+    "MESSAGE_DELETE3": "Bericht-ID:",
+    "MESSAGE_DELETE4": "[EVENT — VERWIJDERDE BERICHT]",
+    "MESSAGE_DELETE5": "Inhoud",
+    "MESSAGE_DELETE6": "(verkort)",
+    "MESSAGE_DELETE7": "*leeg*",
+    "MESSAGE_DELETE8": "Hulpstukken"
+}

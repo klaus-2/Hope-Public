@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Génère un mème d'anime aléatoire à partir des subreddits sélectionnés.",
+    "USAGE": "memes\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "memes",
+    "EXAMPLE": "memes | animeme | ameme | animememe",
+    "AMEMES_DESC": "Échec de"
+}

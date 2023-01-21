@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "codeer een bericht in binair.",
+    "USAGE": "coderen <message>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "coderen <message>",
+    "EXAMPLE": "coderen Hope é a melhor bot do mundo <3"
+}

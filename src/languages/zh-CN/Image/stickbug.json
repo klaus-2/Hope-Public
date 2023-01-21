@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "创建一个 stickbug 模因。",
+    "USAGE": "stickbug [user] | [file]\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "stickbug [user] | [file]",
+    "EXAMPLE": "stickbug 用户 | stickbug <attachment>"
+}

@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "ユーザーのためのスマイル。",
+    "USAGE": "スマイル [user]",
+    "USAGEE": "スマイル [user]",
+    "SORRIR_DESCRIÇÃO": "<@{{author}}> が笑顔です！",
+    "SORRIR_DESCRIÇÃO1": "<@{{author}}> スマイル！",
+    "SORRIR_DESCRIÇÃO2": "私は笑顔を返します",
+    "SORRIR_DESCRIÇÃO3": "笑顔で"
+}

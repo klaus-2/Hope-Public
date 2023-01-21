@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "ランダムミームを送信します。",
+    "USAGE": "meme\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "meme",
+    "EXAMPLE": "meme",
+    "FMEME_DESC": "ミームのURLが抜けてる"
+}

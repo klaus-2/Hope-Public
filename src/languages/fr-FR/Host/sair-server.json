@@ -1,0 +1,4 @@
+{
+    "DESCRIPTION": "Forcer Mai à quitter un serveur",
+    "USAGE": "sair-server <ID do servidor>"
+}

@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Juego de tragamonedas | 9x - raro | 3x - común",
+    "USAGE": "slots <bet amount>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "ranuras <bet amount>",
+    "EXAMPLE": "ranuras 5000",
+    "SLOTS": "¡Yaayy! <:Skyecomemorando:828375859832160286> Felicidades, has ganado",
+    "SLOTS1": "skcoins",
+    "SLOTS2": "<:Skyeaff:823057603135012874> Ahh... qué lástima, perdiste",
+    "SLOTS3": "<:cancel:855859391709577266> Você está apostando mais do que você tem",
+    "SLOTS4": "necesitas especificar un valor.",
+    "SLOTS5": "$",
+    "SLOTS6": "skcoins"
+}

@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "사용자에 대해 깜박입니다.",
+    "USAGE": "윙크 <user>",
+    "USAGEE": "윙크 <user>",
+    "PISCAR_DESCRIÇÃO": "<@{{author}}> 플래시되었습니다!",
+    "PISCAR_DESCRIÇÃO1": "번쩍였다."
+}

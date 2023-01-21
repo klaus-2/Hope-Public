@@ -1,0 +1,15 @@
+{
+    "WARNING_SYSTEM": "注意",
+    "WARNING_SYSTEM1": "你在 {{guild}}中收到警告。",
+    "WARNING_SYSTEM2": "建议者：",
+    "WARNING_SYSTEM3": "原因：",
+    "WARNING_SYSTEM4": "警告：",
+    "WARNING_SYSTEM5": "1/3",
+    "WARNING_SYSTEM6": "你在 {{guild}}中收到另一个警告。",
+    "WARNING_SYSTEM7": "2/3",
+    "WARNING_SYSTEM8": "[KICK]",
+    "WARNING_SYSTEM10": "[WARN]",
+    "WARNING_SYSTEM11": "用户：",
+    "WARNING_SYSTEM12": "主持人：",
+    "WARNING_SYSTEM13": "警告："
+}

@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Elimina una scaletta",
+    "USAGE": "p-delete <playlist name>\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "p-delete <playlist name>",
+    "EXAMPLE": "Test p-delete",
+    "P_DEL": "Non ho trovato una playlist con il nome **{{name}}**.",
+    "P_DEL1": "Eliminato con successo"
+}

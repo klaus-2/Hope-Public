@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Exibe o elo de um usuario no TFT.",
+    "USAGE": "tft <nick>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "tft <nick>",
+    "EXAMPLE": "tft esA"
+}

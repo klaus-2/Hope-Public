@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "사용자 이혼.",
+    "USAGE": "이혼\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "이혼",
+    "EXAMPLE": "이혼",
+    "FDIV_DESC": "🙁 | <@{{author}}>, 당신은 독신 입니다.",
+    "FDIV_DESC1": "{{prefix}}marry <user>결혼을 사용하십시오.",
+    "FDIV_DESC2": "이혼하고 싶은가?",
+    "FDIV_DESC3": "마음을 정돈하기 위해 ``yes`` 또는 ``no`` 로 대답하십시오.",
+    "FDIV_DESC4": "<@{{author}}>, 아직 결혼 중이셨다는 것을 축하합니다!, 💕",
+    "FDIV_DESC5": "<@{{author}}>, 너무 나쁜, 너희들은 이혼 했어, 💔"
+}

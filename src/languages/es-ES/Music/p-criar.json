@@ -1,0 +1,17 @@
+{
+    "DESCRIPTION": "Crea una lista de reproducción",
+    "USAGE": "p-create <playlist name> <search term/link>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "p-crear <playlist name> <search term/link>",
+    "EXAMPLE": "p-create Enlace de prueba",
+    "P_CRIAR": "El título de la lista de reproducción debe tener menos de 32 caracteres.",
+    "P_CRIAR1": "Añadir canción (s) a tu lista de reproducción (esto puede tardar unos segundos)...",
+    "P_CRIAR2": "Premium te permite guardar hasta 3 listas de reproducción en lugar de 1.",
+    "P_CRIAR3": "No puedes guardar más listas de reproducción. Máximo: 3",
+    "P_CRIAR4": "Ya existe una lista de reproducción con ese nombre.",
+    "P_CRIAR5": "Has creado una lista de reproducción con el nombre:",
+    "P_CRIAR6": "Duración de la lista de reproducción:",
+    "P_CRIAR7": "Añadido",
+    "P_CRIAR8": "pistas) a",
+    "P_CRIAR9": "Canciones:",
+    "P_CRIAR10": "no es una lista de reproducción"
+}

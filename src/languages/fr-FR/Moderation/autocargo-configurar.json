@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "configurer l'auto cargo de Hope pour ce serveur.",
+    "USAGE": "autorole-setup <roleID>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "paramétrage automatique <roleID>",
+    "EXAMPLE": "autorole-setup 8973263628081",
+    "AC_CONFIG": "Paramètres: `Serveur`",
+    "AC_CONFIG1": "<:v_:855859391835799582>O `rôle automatique` a été mis à jour avec succès.",
+    "AC_CONFIG2": "Rôle automatique",
+    "AC_CONFIG3": "Changé de"
+}

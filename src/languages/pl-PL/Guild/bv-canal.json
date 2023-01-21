@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Włącz lub wyłącz dodatek sugestii.",
+    "USAGE": "bv-channel <channelID>\n💡 **Przyklad**: {{EXAMPLE}}",
+    "USAGEE": "kanał bv <channelID>",
+    "EXAMPLE": "kanał bv-8973474238977",
+    "BV_CANAL": "Kanał pomyślnie zaktualizowany do: "
+}

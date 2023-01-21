@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Configura o addon de Reputação.",
+    "USAGE": "reputação\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "reputação",
+    "EXAMPLE": "reputação",
+    "REP": "อันดับชื่อเสียงจะอัปเดตใน 30 วินาที"
+}

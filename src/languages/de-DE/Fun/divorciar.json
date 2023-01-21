@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Scheidung eines Benutzers.",
+    "USAGE": "divorce\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "scheiden",
+    "EXAMPLE": "scheiden",
+    "FDIV_DESC": "🙁 | <@{{author}}>, du bist Single.",
+    "FDIV_DESC1": "Benutze {{prefix}}heiraten <user> um zu heiraten",
+    "FDIV_DESC2": "Möchtest du Scheidung",
+    "FDIV_DESC3": "Antworte mit: ``yes`` oder ``no`` um deine Meinung zu entscheiden.",
+    "FDIV_DESC4": "<@{{author}}>, herzlichen Glückwunsch, du hast immer noch geheiratet!, 💕",
+    "FDIV_DESC5": "<@{{author}}>, zu schlecht, du bist geschieden, 💔"
+}

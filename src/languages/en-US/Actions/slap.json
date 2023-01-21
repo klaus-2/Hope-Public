@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Slap a user.",
+    "USAGE": "slap [user]",
+    "USAGEE": "slap [user]",
+    "TAPA_DESCRIÇÃO": "<@{{member}}>, Please don't hit yourself!",  
+    "TAPA_DESCRIÇÃO1": "**me**",
+    "TAPA_DESCRIÇÃO2": "slapped",
+    "TAPA_HopeFRASE": "(；︿ ；✿) I-I'm sorry. You can slap them, but please n-don't hit me...",      
+    "TAPA_DESC": " and ",
+    "TAPA_DESC1": ", and ",    
+    "TAPA_DESC2": "me"
+}

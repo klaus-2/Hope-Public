@@ -1,0 +1,19 @@
+{
+    "DESCRIPTION": "Generiere ein zufälliges nsfw-Bild mit der angegebenen Abfrage. Gib `ansfw list` ein, um alle verfügbaren Kategorien für diesen Befehl zurückzugeben.",
+    "USAGE": "anime-nsfw <category>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "Anime-nsfw-Liste",
+    "EXAMPLE": "ansfw list | ansfw blowjob | anime-nsfw classic",
+    "ANSFW_AUTHOR": "Random Booru: NSFW",
+    "ANSFW_FIELD": "Charakter",
+    "ANSFW_FIELD1": "Copyright",
+    "ANSFW_FIELD2": "Interpret(e)",
+    "ANSFW_FIELD3": "Meta",
+    "ANSFW_FIELD4": "Uploader",
+    "ANSFW_FIELD5": "Tags",
+    "ANSFW_FIELD6": "Tags, zufällig, Bilder, Hentai, Beute, reddit",
+    "ANSFW_AUTHOR1": "Anime-NSFW Befehlskategorien.",
+    "ANSFW_FIELD7": "Tut uns leid,",
+    "ANSFW_FIELD8": "es ist keine gültige nsfw-Kategorie. Geben Sie ein",
+    "ANSFW_FIELD9": "um verfügbare Kategorien zu sehen.",
+    "ANSFW_FIELD10": "um diesen Befehl korrekt zu verwenden, folgen Sie diesem Beispiel:"
+}

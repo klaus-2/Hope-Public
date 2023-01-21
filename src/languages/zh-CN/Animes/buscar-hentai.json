@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "请咨询 hanime.tv 以获取特定的无尽信息。最多返回 10 个结果",
+    "USAGE": "hanime <name>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "Hanime <anime>",
+    "EXAMPLE": "hanime | searchhentai mankitsu 正在发生 | hanisearch 辍学 | hanime tamashii 插入",
+    "AHENTAI_DESC": "没有找到任何结果",
+    "AHENTAI_DESC1": "Page",
+    "AHENTAI_DESC2": "从",
+    "AHENTAI_DESC3": "命令",
+    "AHENTAI_DESC4": "发布于",
+    "AHENTAI_DESC5": "排名",
+    "AHENTAI_DESC6": "下载",
+    "AHENTAI_DESC7": "喜欢",
+    "AHENTAI_DESC8": "兴趣",
+    "AHENTAI_DESC9": "意见",
+    "AHENTAI_DESC10": "看",
+    "AHENTAI_DESC11": "受到谴责",
+    "AHENTAI_DESC12": "未经审查",
+    "AHENTAI_DESC13": "在"
+}

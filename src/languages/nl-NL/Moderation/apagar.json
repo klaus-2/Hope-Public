@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "apagar uma certa quantidade de mensagens.",
+    "USAGE": "apagar <1-1000> [user]\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "apagar <1-1000> [user]",
+    "EXAMPLE": "apagar 559",
+    "NO_PREM": "De server moet premium zijn om meer dan `200` berichten te kunnen wissen.",
+    "TITLE": "Bevestiging van het bericht wissen",
+    "DESC": "Je staat op het punt {{NUM}} berichten van dit kanaal te wissen, reageer alsjeblieft om deze actie te bevestigen.",
+    "DEL_MSG": "Het verwijderen van {{NUM}} berichten duurt ongeveer {{TIME}} seconden.\nSTUUR GEEN BERICHTEN TERWIJL DIT GEBEURT.",
+    "SUCCESS": "{{NUM}} berichten zijn met succes verwijderd.",
+    "CON_CNC": "Bevestiging geannuleerd",
+    "CON_TO": "Time-out voor bevestiging."
+}

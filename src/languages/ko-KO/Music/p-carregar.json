@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "재생목록 불러오기",
+    "USAGE": "P-로드 <playlist name>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "p- 로드 <playlist name>",
+    "EXAMPLE": "p-부하 테스트",
+    "P_CARREGAR": "재생 목록 로드 중 (몇 초 정도 걸릴 수 있음)...",
+    "P_CARREGAR1": "대기열에",
+    "P_CARREGAR2": "노래**",
+    "P_CARREGAR3": "재생목록을 찾을 수 없음"
+}

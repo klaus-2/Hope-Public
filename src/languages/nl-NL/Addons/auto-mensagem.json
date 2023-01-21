@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Configureert de Auto-Message addon.",
+    "USAGE": "automatisch bericht",
+    "USAGEE": "automatisch bericht",
+    "EXAMPLE": "auto-bericht inschakelen\n💡**Exemplo**: {{EXAMPLE}}",
+    "MENSAGEM": "enable",
+    "MENSAGEM1": "De `Auto-Message` add-on is succesvol geactiveerd.",
+    "MENSAGEM2": "disable",
+    "MENSAGEM3": "De `Auto-Message` addon is succesvol uitgeschakeld.",
+    "MENSAGEM4": "channel",
+    "MENSAGEM5": "De `Auto-Message` addon channel is succesvol bijgewerkt naar <#{{channel}}>.",
+    "MENSAGEM6": "counter",
+    "MENSAGEM7": "Voer een nummer in voor de berichtenteller.",
+    "MENSAGEM8": "De teller moet tussen de 1 en 100 berichten zijn.",
+    "MENSAGEM9": "De teller van het bericht voor de `Auto-Message` add-on is succesvol bijgewerkt naar `{{amount}}`.",
+    "MENSAGEM10": "message",
+    "MENSAGEM11": "Gelieve een bericht te rapporteren.",
+    "MENSAGEM12": "De teller moet maximaal `2000` tekens bevatten.",
+    "MENSAGEM13": "Het toevoegen van het `Auto-Bericht` bericht is bijgewerkt."
+}

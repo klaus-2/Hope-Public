@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "créer une sauvegarde des émoticônes sur ce serveur.",
+    "USAGE": "e-backup-create\n💡**Exemple** : {{EXAMPLE}}",
+    "USAGEE": "e-backup-create",
+    "EXAMPLE": "e-backup-create",
+    "E_BACKUP_CRIAR": "Bonjour, {{author}}",
+    "E_BACKUP_CRIAR1": "**Il n'y a pas d'émoticônes sur ce serveur pour la sauvegarde.** ",
+    "E_BACKUP_CRIAR2": "Bonjour, votre code de sauvegarde est :",
+    "E_BACKUP_CRIAR3": ":x: | **Je n'ai pas pu vous envoyer de dm, assurez-vous que votre privé est activé.**",
+    "E_BACKUP_CRIAR4": "**La sauvegarde a été créée avec succès ! **J'ai déjà envoyé l'ID de sauvegarde à votre privé, ok ?"
+}

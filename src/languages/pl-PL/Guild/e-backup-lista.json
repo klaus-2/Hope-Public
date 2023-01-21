@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "wyświetli listę utworzonych kopii zapasowych.",
+    "USAGE": "e-backup-list\n💡 **Przykład: {{EXAMPLE}}",
+    "USAGEE": "e-backup-list",
+    "EXAMPLE": "e-backup-list",
+    "E_BACKUP_LISTA": ":x: | **Nie utworzono przez Ciebie kopii zapasowej. **",
+    "E_BACKUP_LISTA1": ":x: | **Nie utworzono przez Ciebie kopii zapasowych. **",
+    "E_BACKUP_LISTA2": "To jest Twoja lista kopii zapasowych",
+    "E_BACKUP_LISTA3": "Nazwa serwera | Identyfikator kopii zapasowej | Ilość emoji",
+    "E_BACKUP_LISTA4": "Halo, {{author}}"
+}

@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Configura la carga automática de Hope para este servidor.",
+    "USAGE": "level-multiplicarxp <0-1000>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "nivel-multiplyxp <0-1000>",
+    "EXAMPLE": "nivel-multiplyxp 2",
+    "LVL_XPMULT": "Configuración: `Level`",
+    "LVL_XPMULT1": "<:v_:855859391835799582>La configuración de `level` se ha actualizado correctamente.",
+    "LVL_XPMULT2": "Ajuste de nivel",
+    "LVL_XPMULT3": "Se ha cambiado el multiplicador de"
+}

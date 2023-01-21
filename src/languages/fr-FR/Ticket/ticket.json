@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "informer sur le module complémentaire de ticket.",
+    "USAGE": "ticket\n💡**Exemple**: {{EXAMPLE}}",
+    "USAGEE": "t-close",
+    "EXAMPLE": "t-close",
+    "TICKET_REAÇÃO": "réaction",
+    "TICKET_REAÇÃO1": "Secrétaire Hope",
+    "TICKET_REAÇÃO2": "Bonjour ! Je suis Hope et je suis ici pour vous aider à ouvrir un ticket. C'est très simple, il suffit de cliquer sur le bouton ci-dessous <:SkyeCorreta:823047534602616832>",
+    "TICKET_REAÇÃO3": "Bonjour ! Je suis Hope et je vais vous aider dans ce processus.\n\nTout d'abord, rappelons que `<> est nécessaire` et que `[] est facultatif` !\n\nAllez, vous avez deux options pour ouvrir un ticket :\n La première option est d'aller voir le message que j'ai envoyé dans le canal Tickets de ce serveur et d'y réagir avec 🎟.\n\nLa deuxième option consiste à taper dans le chat la commande `{{prefix}}t-<create | open> [reason]` - pour ouvrir un ticket.\n\n<a:sirene:823004235440062464> Les commandes ci-dessous ne sont accessibles qu'à l'Administration de ce serveur, ok ? !\n\n`{{prefix}}ticket reaction` - crée un message de réaction pour ouvrir un ticket.\n`{{prefix}}t-setup` - pour configurer la commande ticket sur ce serveur.",
+    "TICKET_REAÇÃO4": "Ouvrir un ticket"
+}

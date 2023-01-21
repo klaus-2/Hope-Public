@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "以获得今天的历史事实。",
+    "USAGE": "历史记录\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "历史",
+    "EXAMPLE": "历史",
+    "FHIST_DESC": "今天的历史事实-来源：wikipedia.org",
+    "FHIST_DESC1": "抱歉，API 目前无法正常工作！",
+    "FHIST_DESC2": "年份："
+}

@@ -1,0 +1,17 @@
+{
+    "DESCRIPTION": "재생목록 만들기",
+    "USAGE": "p-크리에이트 <playlist name> <search term/link>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "p-생성 <playlist name> <search term/link>",
+    "EXAMPLE": "p-테스트 링크 생성",
+    "P_CRIAR": "재생 목록 제목은 32자 미만이어야 합니다!",
+    "P_CRIAR1": "재생 목록에 노래 추가하기 (몇 초 정도 걸릴 수 있음)...",
+    "P_CRIAR2": "Premium을 사용하면 재생 목록을 1개가 아닌 최대 3개까지 저장할 수 있습니다.",
+    "P_CRIAR3": "더 이상 재생 목록을 저장할 수 없습니다.최대: 3",
+    "P_CRIAR4": "해당 이름의 재생 목록이 이미 있습니다.",
+    "P_CRIAR5": "이름으로 재생 목록을 생성했습니다.",
+    "P_CRIAR6": "재생 목록 지속 시간:",
+    "P_CRIAR7": "추가됨",
+    "P_CRIAR8": "트랙)",
+    "P_CRIAR9": "노래:",
+    "P_CRIAR10": "재생 목록이 아님"
+}

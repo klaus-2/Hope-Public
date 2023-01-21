@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "接頭辞なしでトリガーされる自動応答を作成します！",
+    "USAGE": "autoresponse <command> <response>\n💡**例**: {{EXAMPLE}}",
+    "USAGEE": "autoresponse <command> <response>",
+    "EXAMPLE": "autoresponse hi Hello!",
+    "AUTO_RESPOSTA": "<:cancel:855859391709577266>あなたのオートレスポンス名は30文字以上です！",
+    "AUTO_RESPOSTA1": "<:cancel:855859391709577266> 自動返信の内容は2000文字を超えています！",
+    "AUTO_RESPOSTA2": "<:cancel:855859391709577266> 自動応答制限に達しました **(10)**\n\n[Upgrade Premium Here for unlimited commands]({{config}})",
+    "AUTO_RESPOSTA3": "追加された自動応答:",
+    "AUTO_RESPOSTA4": "次の自動応答を使用して削除する",
+    "AUTO_RESPOSTA5": "deleteresponse <autoresponse-name>",
+    "AUTO_RESPOSTA6": "次の自動応答は既に存在するコマンドです！"
+}

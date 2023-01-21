@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "チャック・ノリスのジョークをランダムに手に入れよう。",
+    "USAGE": "chucknorris\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "チャックノリス",
+    "EXAMPLE": "チャックノリス",
+    "FNORRIS_DESC": "./resources/other/chucknorris-en.json"
+}

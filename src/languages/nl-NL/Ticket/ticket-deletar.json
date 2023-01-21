@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "sluit een kaartje.",
+    "USAGE": "t-verwijderen\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "t-verwijderen",
+    "EXAMPLE": "t-verwijderen",
+    "TICKET": "Dit ticket wordt binnen **10** seconden verwijderd."
+}

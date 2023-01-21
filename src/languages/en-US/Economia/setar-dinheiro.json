@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "add money to a user. Use a negative sign (**-**) to remove money from the user!",
+    "USAGE": "set-money <user> <value>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "set-money <user> <value>",
+    "EXAMPLE": "set-money @Hope 5000 | set-money @Hope -5000",
+    "SETAR_DINHEIRO": "The value informed is not a number!\nPlease make sure that the argument after the user mention is a **NUMBER**.",
+    "SETAR_DINHEIRO1": "I have successfully removed **$",
+    "SETAR_DINHEIRO2": "**Please enter a valid user!**",
+    "SETAR_DINHEIRO3": "of the wallet of",
+    "SETAR_DINHEIRO4": "Current balance:",
+    "SETAR_DINHEIRO5": "$",
+    "SETAR_DINHEIRO6": "skcoins",
+    "SETAR_DINHEIRO7": "I have successfully added **$"
+}

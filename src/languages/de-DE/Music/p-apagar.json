@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Playlist löschen",
+    "USAGE": "p-Löschen <playlist name>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "p-Löschen <playlist name>",
+    "EXAMPLE": "p-Löschtest",
+    "P_DEL": "Ich konnte keine Wiedergabeliste mit dem Namen **{{name}} ** finden.",
+    "P_DEL1": "Erfolgreich gelöscht"
+}

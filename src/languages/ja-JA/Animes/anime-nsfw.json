@@ -1,0 +1,19 @@
+{
+    "DESCRIPTION": "提供されたクエリを使用して、ランダムな nsfw イメージを生成します。`ansfw list` と入力すると、このコマンドで利用可能なすべてのカテゴリが返されます。",
+    "USAGE": "anime-nsfw <category>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "anime-nsfw 一覧",
+    "EXAMPLE": "ansfw リスト | ansfw フェラチオ | アニメ-nsfw クラシック",
+    "ANSFW_AUTHOR": "ランダムぼーる:NSFW",
+    "ANSFW_FIELD": "キャラクター",
+    "ANSFW_FIELD1": "著作権",
+    "ANSFW_FIELD2": "アーティスト",
+    "ANSFW_FIELD3": "メタ",
+    "ANSFW_FIELD4": "アップローダー",
+    "ANSFW_FIELD5": "タグ",
+    "ANSFW_FIELD6": "タグ, ランダム, 画像, 変態, 戦利品, reddit",
+    "ANSFW_AUTHOR1": "アニメ-NSFW コマンドのカテゴリです。",
+    "ANSFW_FIELD7": "申し訳ありませんが、",
+    "ANSFW_FIELD8": "それは有効なnsfwカテゴリではありません。Enter",
+    "ANSFW_FIELD9": "を使用して、使用可能なカテゴリを表示します。",
+    "ANSFW_FIELD10": "このコマンドを正しく使用するには、次の例に従います。"
+}

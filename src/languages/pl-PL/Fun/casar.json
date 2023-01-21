@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Poślubić użytkownika.",
+    "USAGE": "poślubić <user>\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "poślubić <user>",
+    "EXAMPLE": "poślubić @Hope",
+    "FCASAR_DESC": "🙁 | <@{{author}}>, jesteś singlem.",
+    "FCASAR_DESC1": "Użyj {{prefix}}poślubić <user> do małżeństwa.",
+    "FCASAR_DESC2": "jesteś żonaty",
+    "FCASAR_DESC3": "Od ({{date}})",
+    "FCASAR_DESC4": "Nie mogłem znaleźć osoby z",
+    "FCASAR_DESC5": "Chciałbyś się ożenić",
+    "FCASAR_DESC6": "Odpowiedz na: ``tak`` lub ``no``",
+    "FCASAR_DESC7": "Odrzuciłeś propozycję",
+    "FCASAR_DESC8": "Gratulacje jesteś żonaty, dużo miłości do ciebie 💕"
+}

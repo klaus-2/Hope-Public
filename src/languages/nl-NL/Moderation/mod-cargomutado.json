@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "stel Hope's automatische positie in voor deze server.",
+    "USAGE": "mod-mutedrole <newRoleID>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "mod-mutedrole <newRoleID>",
+    "EXAMPLE": "mod-kanaal 865493021377",
+    "MOD_CARGOMUTADO": "Instellingen: `Server`",
+    "MOD_CARGOMUTADO1": "<:v_:855859391835799582>O `auto role` is met succes bijgewerkt.",
+    "MOD_CARGOMUTADO2": "Automatische rol",
+    "MOD_CARGOMUTADO3": "Gewijzigd van"
+}

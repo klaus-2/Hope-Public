@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "ゴミ箱にあるユーザーの写真を再生します。",
+    "USAGE": "trash [user]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "ゴミ箱",
+    "EXAMPLE": "ゴミ @Hope",
+    "FLIXO_DESC": "ただ投げた",
+    "FLIXO_DESC1": "ゴミ箱の中に",
+    "FLIXO_DESC2": "こっちは手放すの？",
+    "FLIXO_DESC3": "そして偶数になれ 😈",
+    "FLIXO_DESC4": "おっ！"
+}

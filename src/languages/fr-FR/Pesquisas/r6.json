@@ -1,0 +1,22 @@
+{
+    "DESCRIPTION": "Obtenez des statistiques sur un compte R6.",
+    "USAGE": "r6 <user> [pc / xbox / ps4] [eu / na / as]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "r6 <user> [pc / xbox / ps4] [eu / na / as]",
+    "EXAMPLE": "r6 ThatGingerGuy02 | r6 ThatGingerGuy02",
+    "R6": "Veuillez spécifier un nom d'utilisateur à rechercher",
+    "R6_1": "<a:loading:823004555884232724> Attendez... Je cherche !",
+    "R6_2": "Statistiques pour",
+    "R6_3": "région en",
+    "R6_4": "Général:",
+    "R6_5": "Statistiques:",
+    "R6_6": "Victoires :",
+    "R6_7": "Pertes :",
+    "R6_8": "Ratio de victoire/perte :",
+    "R6_9": "Kills",
+    "R6_10": "Morts:",
+    "R6_11": "Ratio K/D",
+    "R6_12": "Temps de jeu:",
+    "R6_13": "heures",
+    "R6_14": "Chasse terroriste :",
+    "R6_15": "Données du joueur bruyant"
+}

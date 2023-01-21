@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Atualize o addon de logów.",
+    "USAGE": "logów <option> [data]\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "logi <option> [data]",
+    "LOG": "Poniżej znajduje się lista dzienników dostępnych w każdej kategorii.\n\nMożesz kliknąć poniższe przyciski, aby aktywować wszystkie dzienniki w tej kategorii lub jeśli wolisz, możesz użyć następujących poleceń, aby skonfigurować je ręcznie.\n\n__Włącz/Wyłącz zdarzenie:__\n__Ustaw kanał Dzienniki na Rejestrowanie moderacji:__\n`{{prefix}}`**logi modchannel <channel>**\n__ Ustaw kanał Dzienniki na Server Zdarzenia:__\n`{{prefix}}`**logi serverchannel <channel>**\n`{{prefix}}`**logi memberchannel <channel>**\n__Ustaw kanał Logs do Wiadomości:__\n`{{prefix}}`**logs msgchannel <channel>**\n",
+    "LOG1": "Jeszcze nie zdefiniowano",
+    "LOG2": "enable",
+    "LOG3": "disable"
+}

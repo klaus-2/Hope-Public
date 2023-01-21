@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "ユーザーを報告する。",
+    "USAGE": "報告 <user> [reason]\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "レポート <user> [reason]",
+    "EXAMPLE": "@Hope テストを報告",
+    "REPORTAR": "{{author}} はユーザーを報告しました",
+    "REPORTAR1": "<: User: 823004014055522326> メンバー:",
+    "REPORTAR2": "<: Moderao:823004537756844073> 報告者:",
+    "REPORTAR3": "<: Proxima: 823004353316126721> 報告場所:",
+    "REPORTAR4": "<: Frase: 823004814551810068> 理由:",
+    "REPORTAR5": "<@{{user}}> は正常に報告されました。"
+}

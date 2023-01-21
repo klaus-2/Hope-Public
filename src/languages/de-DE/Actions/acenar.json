@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Welle für jemanden.",
+    "USAGE": "Welle [user]",
+    "USAGEE": "Welle [user]",
+    "ACENAR_DESCRIÇÃO1": "<@{{author}}> gewellt!",
+    "ACENAR_DESCRIÇÃO2": "<@{{user}}> zurück gewellt",
+    "ACENAR_DESCRIÇÃO3": " gewellt auf "
+}

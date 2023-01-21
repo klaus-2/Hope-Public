@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Active ou désactive le mode Anti-Pollution.",
+    "USAGE": "anti-pollution <enable | disable>\n💡**Exemple**: {{EXAMPLE}}",
+    "USAGEE": "anti-pollution <enable | disable>",
+    "EXAMPLE": "anti-pollution enable",
+    "ANTI": "Le mode `Anti-Pollution` a été activé avec succès !",
+    "ANTI1": "Le mode `Anti-Pollution` a été désactivé avec succès !"
+}

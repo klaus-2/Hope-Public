@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Encara o usuário que você mencionou!",
+    "USAGE": "olhar <user>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "olhar [user]",
+    "EXAMPLE": "olhar @Hope",
+    "OLHAR_DESCRIÇÃO": "Se divertindo olhando para o nada?", 
+    "OLHAR_DESCRIÇÃO1": "Eu sou realmente tão atraente?", 
+    "OLHAR_DESCRIÇÃO2": "Impossível, você não pode ficar olhando para si mesmo!", 
+    "OLHAR_DESCRIÇÃO3": "está olhando fixamente para"
+}

@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Ustawia urodziny Economia dla karty Economia.",
+    "USAGE": "setbirthday <d-m>\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "seturodziny <d-m>",
+    "EXAMPLE": "seturodziny 02-12",
+    "NIVER": "Proszę wpisać swoje **urodziny**!",
+    "NIVER1": "podaj datę w formacie **DD-MM**",
+    "NIVER2": "data urodzin została zaktualizowana do"
+}

@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Rzuć monetą.",
+    "USAGE": "flip\n💡 **Przyklad**: {{EXAMPLE}}",
+    "USAGEE": "klapki",
+    "EXAMPLE": "klapki",
+    "FLIP_CHOICE": "['Głowa', 'Ogony'] [{{choice}}]"
+}

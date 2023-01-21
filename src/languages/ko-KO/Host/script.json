@@ -1,0 +1,4 @@
+{
+    "DESCRIPTION": "스크립트 파일을 실행합니다.",
+    "USAGE": "스크립트 <file name> [...params]"
+}

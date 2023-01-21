@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Take a fishing trip.",
+    "USAGE": "fish\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "fish",
+    "EXAMPLE": "fish",
+    "PESCAR": "<:cancel:855859391709577266> Whoa! Since it has not been long since you released a line, the fish are still scared.\nPerhaps in a few",
+    "PESCAR1": "and",
+    "PESCARR": "they are already calm for you to sin them again <:SkyeIssoai2:823248929700446228>",
+    "PESCAR2": "🎣 You launched your line and took a",
+    "PESCAR3": "After selling it at your Peter's fishmonger's, you got **$",
+    "PESCAR4": "skcoins!",
+    "PESCAR5": "list",
+    "PESCAR6": "rewards",
+    "PESCAR7": "List of fish names and rewards you can get",
+    "PESCAR8": "```\n🔧Trash      :: Maximum reward: 5, Minimum reward: 1\n🐟Common    :: Maximum reward: 25, Minimum reward: 10\n🐠Uncommon  :: Maximum reward: 50, Minimum reward: 18\n🦑Rare      :: Maximum reward: 75, Minimum reward: 30\n🐋Legendary :: Maximum reward: 100, Minimum reward: 50```\n**All rewards are random from max / min **​"
+}

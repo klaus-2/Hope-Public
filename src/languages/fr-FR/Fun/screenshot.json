@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Obtenir une capture d'écran d'un site Web.",
+    "USAGE": "capture d'écran <url>\n💡**Exemple** : {{EXAMPLE}}",
+    "USAGEE": "capture d'écran <url>",
+    "EXAMPLE": "capture d'écran https://www.google.com/",
+    "FSS_DESC": "<a:loading:823004555884232724> Prise d'une capture d'écran du site.",
+    "FSS_DESC1": "Données manquantes",
+    "INVALID_URL": "Ce n'est pas une URL valide.",
+    "BLACKLIST_WEBSITE": "Vous ne pouvez pas voir ces sites Web dans un canal non NSFW.",
+    "SS": "Voici une capture d'écran de la demande [URL]({{urls}})",
+    "SS1": "Veuillez spécifier l'url"
+}

@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "当用户从服务器注销时，启用或禁用消息插件。",
+    "USAGE": "bv-leave <enable | disable>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "bv-leave <enable | disable>",
+    "EXAMPLE": "bv-离开"
+}

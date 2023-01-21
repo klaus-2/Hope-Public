@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "特別な誰かと手を握りなさい。",
+    "USAGE": "holdhands <user>",
+    "USAGEE": "holdhands <user>",
+    "MAOS_DESCRIÇÃO": "\\❌ **<@{{author}}>**、誰が手を握りたいですか?!",
+    "MAOS_DESCRIÇÃO1": "手を握っているのは",
+    "MAOS_DESCRIÇÃO2": "\\❌ **<@{{author}}>**、手を握りたい相手を教える必要があります"
+}

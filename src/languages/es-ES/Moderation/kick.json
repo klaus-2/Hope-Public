@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "expulsar a un usuario del servidor.",
+    "USAGE": "kick <user> [reason]\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "patada <user> [reason]",
+    "EXAMPLE": "patear el spam de Hope en el chat",
+    "KICK": "EXPULSADO!",
+    "KICK1": "Te echaron de",
+    "KICK2": "Pateado por:",
+    "KICK3": "Razón:"
+}

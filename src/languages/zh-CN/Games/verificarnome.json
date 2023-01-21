@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "检查英雄联盟中是否有召唤师的名字。",
+    "USAGE": "验证名称\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "验证名称 <nick>",
+    "EXAMPLE": "验证名 yassuo",
+    "VERFNOME": "查看昵称： {{arg}}",
+    "VERFNOME1": "这个昵称可用。",
+    "VERFNOME2": "这个昵称已经在使用中。"
+}

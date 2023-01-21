@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "给你提到的用户吃东西！",
+    "USAGE": "订阅源 [user]",
+    "USAGEE": "订阅源 [user]",
+    "COMER_DESCRIÇÃO": "<@{{member}}> 你要吃……偶然？！",
+    "COMER_Hope": " **我**",
+    "COMER_DESCRIÇÃO1": "正在吃用",
+    "COMER_DESCRIÇÃO2": "喂我了",
+    "COMER_HopeFRASE": "*Nom Nom Nom* Arigatoo~",
+    "COMER_HopeFRASE1": "不要给我喂！我不想给你看任何图片！",
+    "COMER_APIOFF": "hmm, api 已经倒下，很抱歉！",
+    "COMER_DESC": " 和 ",
+    "COMER_DESC1": "和 "
+}

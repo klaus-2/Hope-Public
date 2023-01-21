@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "aplica el efecto nightcore a la música.",
+    "USAGE": "nightcore\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "nightcore",
+    "EXAMPLE": "nightcore | nightcore off",
+    "OFF": "Desactivación del efecto **nightcore**. <:Skyeouvindomusica:823046654554144768> Eso puede tardar unos segundos...",
+    "NIGHTCORE2": "<:v_:855859391835799582> **nightcore** se ha desactivado.",
+    "ON": "Activando el efecto **Nightcore**. <:Skyedana:823046653371482114> Eso puede tardar unos segundos...",
+    "NIGHTCORE1": "**Nightcore** se ha activado."
+}

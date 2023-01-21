@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "capovolgere una moneta.",
+    "USAGE": "flip\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "capovolgi",
+    "EXAMPLE": "capovolgi",
+    "FLIP_CHOICE": "['Head', 'Tails'][{{choice}}]"
+}

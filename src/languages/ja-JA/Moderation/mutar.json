@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "ユーザーをミュートします。",
+    "USAGE": "mute <user> [time]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "ミュート <user> [time]",
+    "EXAMPLE": "ミュート @Hope 3h"
+}

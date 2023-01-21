@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Abilitare o disabilitare l'addon del messaggio quando un utente si disconnette dal server.",
+    "USAGE": "bv-leave <enable | disable>\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "bv-leave <enable | disable>",
+    "EXAMPLE": "bv-leave on"
+}

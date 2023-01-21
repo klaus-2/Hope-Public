@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Set the position of the track being played to the specified position.",
+    "USAGE": "seek <time>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "seek <time>",
+    "EXAMPLE": "seek 01:00",
+    "IRPARA": "Choose a time between 0 and: `{{time}}`"
+}

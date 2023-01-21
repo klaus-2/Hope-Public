@@ -1,0 +1,21 @@
+{
+    "DESCRIPTION": "Recherchez l'un des meilleurs animés sur MyAnimeList.net ou retournez un animal.",
+    "USAGE": "anitop [number]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "anitop",
+    "EXAMPLE": "anitop ou topanimes 5 ou bestanime 50",
+    "ATOP_DESC": "Il y a une limite de recherche allant jusqu'à 15",
+    "ATOP_DESC1": "Vous ne pouvez pas voir Doujinshis sur un canal Sfw! Déplacez-vous à un canal Nsfw pour voir cela.",
+    "ATOP_DESC2": "Score",
+    "ATOP_DESC3": "Favoris",
+    "ATOP_DESC4": "Anniversary",
+    "ATOP_DESC5": "Épisodes",
+    "ATOP_DESC6": "Volumes",
+    "ATOP_DESC7": "Animeography",
+    "ATOP_DESC8": "Inconnu",
+    "ATOP_DESC9": "Membres",
+    "ATOP_DESC10": "Mangaography",
+    "ATOP_DESC11": "Date de début",
+    "ATOP_DESC12": "Date de fin",
+    "ATOP_DESC13": "Page",
+    "ATOP_DESC14": "de"
+}

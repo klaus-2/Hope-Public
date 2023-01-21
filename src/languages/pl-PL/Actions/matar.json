@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Wyraź reakcję kogoś zabijającego.",
+    "USAGE": "zabójstwo [user]",
+    "USAGEE": "zabójstwo [user]",
+    "MATAR_DESCRIÇÃO": "Zatrzymaj <@{{member}}>! Nie możesz mnie zabić!",
+    "MATAR_DESCRIÇÃO1": "właśnie zabity"
+}

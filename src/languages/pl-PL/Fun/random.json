@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Odpowiedzi z liczbą losową.",
+    "USAGE": "losowo\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "losowy",
+    "EXAMPLE": "losowo 2 10",
+    "FRANDOM_DESC": ":one: Czekaj, wybieram numer...",
+    "FRANDOM_DESC1": "{{num}} Czekaj, wybieram numer...",
+    "FRANDOM_DESC2": "🔢 Twój numer to **{{random}}**!"
+}

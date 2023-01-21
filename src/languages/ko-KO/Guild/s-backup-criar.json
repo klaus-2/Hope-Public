@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "전체 서버 백업을 생성합니다.",
+    "USAGE": "s 백업 크리에이터\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "s 백업-만들기 <backupID>",
+    "EXAMPLE": "s 백업-크리에이트 2334",
+    "S_BACKUP_CRIAR": "**누락된 권한**",
+    "S_BACKUP_CRIAR1": "이 명령을 사용하려면 [관리자, MANAGE_GUILD] 권한이 있어야 합니다!",
+    "S_BACKUP_CRIAR2": "백업 생성 중... ",
+    "S_BACKUP_CRIAR3": "새 백업 생성\n **백업 ID**:",
+    "S_BACKUP_CRIAR4": "**길드 이름**:",
+    "S_BACKUP_CRIAR5": "백업이 생성되었습니다. ",
+    "S_BACKUP_CRIAR6": "** 새 백업 생성**\n백업 ID:",
+    "S_BACKUP_CRIAR7": "백업 작성자:",
+    "S_BACKUP_CRIAR8": "길드:"
+}

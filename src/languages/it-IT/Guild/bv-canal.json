@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Abilita o disabilita l'addon del suggerimento.",
+    "USAGE": "bv-channel <channelID>\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "bv-channel <channelID>",
+    "EXAMPLE": "bv-canale 8973474238977",
+    "BV_CANAL": "Canale aggiornato correttamente a: "
+}

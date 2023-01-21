@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Aktivieren oder deaktivieren Sie das Willkommens-Addon.",
+    "USAGE": "willkommen <enable | disable>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "willkommen <enable | disable>",
+    "EXAMPLE": "willkommene aktivieren"
+}

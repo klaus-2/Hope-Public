@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "現在のサーバーのすべてのユーザーに役割を追加します。",
+    "USAGE": "addroleall <role>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "addroleall <role>",
+    "EXAMPLE": "addroleall @role | addroleAll 43656543212",
+    "ROLE": "私の役割は** {{role}} ** ロールより十分に高くありません！\n自分の役職をトップに移動して、これを修正してください。",
+    "ROLE1": "有効な役割を指定してください",
+    "ROLE2": "** {{role}} ** を全員に正常に追加しました"
+}

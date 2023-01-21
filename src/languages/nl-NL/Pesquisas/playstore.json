@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Toon informatie uit een game/app in de Playstore.",
+    "USAGE": "playstore <game/app>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "playstore <game/app>",
+    "EXAMPLE": "playstore gratis vuur",
+    "PLAYSTORE": "Prijs",
+    "PLAYSTORE1": "Ontwikkelaar",
+    "PLAYSTORE2": "score"
+}

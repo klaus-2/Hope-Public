@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Configure the message verification Addon channel.",
+    "USAGE": "vf-channel <channelID>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "vf-channel <channelID>",
+    "EXAMPLE": "vf-channel 98789623672631",
+    "VF_CANAL": "อัปเดตช่องสำเร็จเป็น: `{{channel}}`"
+}

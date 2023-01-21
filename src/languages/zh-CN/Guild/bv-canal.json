@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "启用或禁用建议插件。",
+    "USAGE": "bv 频道 <channelID>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "bv 频道 <channelID>",
+    "EXAMPLE": "bv 频道 8973474238977",
+    "BV_CANAL": "频道已成功更新为： "
+}

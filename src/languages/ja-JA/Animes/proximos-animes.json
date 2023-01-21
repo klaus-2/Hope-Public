@@ -1,0 +1,18 @@
+{
+    "DESCRIPTION": "近日公開のアニメの一覧を表示します。",
+    "USAGE": "nextani\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "ネクスターニ",
+    "EXAMPLE": "nextani | PA tv | p-animes ona | proximos-animes ova | p-animes movie | paスペシャル | 今後-",
+    "APROX_DESC": "次を検索中",
+    "APROX_DESC1": "のアニメ",
+    "APROX_DESC2": "レスポンスエラー",
+    "APROX_DESC3": "**{{member}}**、予期しないエラーが発生しました！\n\n",
+    "APROX_DESC4": "myAnimeList がエラーコード {{status}}で返信しました",
+    "APROX_DESC5": "次のアニメリスト",
+    "APROX_DESC6": "ジャンル:",
+    "APROX_DESC7": "すべて",
+    "APROX_DESC8": "コマンド",
+    "APROX_DESC9": "[ページ]",
+    "APROX_DESC10": "の",
+    "APROX_DESC11": "あらすじはまだありません。"
+}

@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "refaz um sorteio。",
+    "USAGE": "g-reroll <ID da mensage>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "g-reroll <messageID>",
+    "EXAMPLE": "g-reroll 818821436255895612",
+    "SUCCESS_GIVEAWAY": "<: v_: 855859391835799582> 成功！Giveaway 再巻き！",
+    "CONGRAT": "🎉 新しい勝者: {winners}！おめでとう！",
+    "ERROR": "有効なエントリーはありません。受賞者は選択できません！"
+}

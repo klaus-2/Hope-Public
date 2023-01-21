@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "将歌曲添加到播放列表。",
+    "USAGE": "p-add <playlist name> <song>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "p-add <playlist name> <song>",
+    "EXAMPLE": "p-add 测试 https://www.youtube.com/watch?v=4AnmemzByVY",
+    "P_ADD": "发生了奇怪的事",
+    "P_ADD1": "未找到名称为 “{{name}}” 的播放列表。",
+    "P_ADD2": "在播放列表中添加了 {{num}} 首新歌曲：`{{title}}`。",
+    "P_ADD3": "{{title}}的搜索结果",
+    "P_ADD4": "{{results}}\n\n\t从 1-10 中选择一个号码或取消。\n",
+    "P_ADD5": "您提供的数字太小或太大 (1-{{num}})。"
+}

@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "wind de speler terug met de opgegeven waarde.",
+    "USAGE": "terugspoelen <time>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "terugspoelen <tijd",
+    "EXAMPLE": "terugspoelen 1:00 | terugspoelen 1:32:00",
+    "RETROCEDER": "Een nummer mag niet korter dan 0 seconden duren",
+    "RETROCEDER1": "Teruggespoeld",
+    "RETROCEDER2": "naar:",
+    "RETROCEDER3": "Tijd in ongeldig formaat"
+}

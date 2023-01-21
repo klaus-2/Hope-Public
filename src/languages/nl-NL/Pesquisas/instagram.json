@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Krijg informatie van een Instagram-account.",
+    "USAGE": "instagram <user>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "instagram <user>",
+    "EXAMPLE": "instagram onenigheid",
+    "INSTAGRAM": "<a:loading:823004555884232724> Houd vast... Ik ben aan het onderzoeken!",
+    "INSTAGRAM1": "Gebruikersnaam:",
+    "INSTAGRAM2": "Volledige naam:",
+    "INSTAGRAM3": "Biografie:",
+    "INSTAGRAM4": "geen",
+    "INSTAGRAM5": "Publicaties:",
+    "INSTAGRAM6": "Volgers:",
+    "INSTAGRAM7": "Volgende:",
+    "INSTAGRAM8": "Privéaccount:",
+    "INSTAGRAM9": "Ja 🔒",
+    "INSTAGRAM10": "Nee 🔓",
+    "INSTAGRAM11": "Geverifieerd account:",
+    "INSTAGRAM12": "Ja ✅",
+    "INSTAGRAM13": "Nee ❌"
+}

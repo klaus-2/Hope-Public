@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "返回以表情符号（表情）形式提供的文本。",
+    "USAGE": "etext <message>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "etext <message>",
+    "EXAMPLE": "etext 测试"
+}

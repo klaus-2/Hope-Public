@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Generate a random anime quote",
+    "USAGE": "aniquote\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "aniquote",
+    "EXAMPLE": "aniquote anime one piece | anime-frase character naruto | af",
+    "AFRASE_FIELD": "*อ้างจาก {{anime}}*",
+    "AFRASE_FOOTER": "aniquote [anime <ชื่อ>] [character <ชื่อ>]"
+}

@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "반응 역할 만들기",
+    "USAGE": "반응역할 <messagelink>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "반응역할 <messagelink>",
+    "EXAMPLE": "반응역할 https://discord.com/channels/450822670105082938/451619652009787331/747357221053937082",
+    "RR_REMOVER": "잘못된 메시지 링크",
+    "RR_REMOVER1": "반응 역할을 성공적으로 삭제했습니다."
+}

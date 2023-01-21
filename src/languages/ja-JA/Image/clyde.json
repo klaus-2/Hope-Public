@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "偽の Clyde メッセージを作成してください。",
+    "USAGE": "クライド <text>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "クライド <text>",
+    "EXAMPLE": "クライド・スカイは世界一のボットです<3"
+}

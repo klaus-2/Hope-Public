@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Stel Hope automatisch opladen in voor deze server.",
+    "USAGE": "leveloption <0-2>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "niveau-optie <0-2>",
+    "EXAMPLE": "niveau-optie 2",
+    "LVL_OPC": "Instellingen: `Level`",
+    "LVL_OPC1": "<:v_:855859391835799582>De configuratie van `level` is succesvol bijgewerkt.",
+    "LVL_OPC2": "Niveau instelling",
+    "LVL_OPC3": "veranderd van"
+}

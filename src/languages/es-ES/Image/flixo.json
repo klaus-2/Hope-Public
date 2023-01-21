@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Reproduce la foto de un usuario en la papelera.",
+    "USAGE": "trash [user]\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "basura",
+    "EXAMPLE": "basura @Hope",
+    "FLIXO_DESC": "acaba de tirado",
+    "FLIXO_DESC1": "en la basura",
+    "FLIXO_DESC2": "¿Vas a dejarlo pasar?",
+    "FLIXO_DESC3": "y ponerte a la mano 😈",
+    "FLIXO_DESC4": "¡Guau!"
+}

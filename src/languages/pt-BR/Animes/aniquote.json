@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Gere uma citação de anime aleatória.",
+    "USAGE": "anime-frase [anime <nome>] [personagem <nome>]\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "anime-frase",
+    "EXAMPLE": "anime-frase anime one piece | af personagem naruto | af",
+    "AFRASE_FIELD": "*Citação de {{anime}}*",
+    "AFRASE_FOOTER": "anime-frase [anime <nome>] [character <nome>]\n💡 Não existe API em português, use o comando"
+}

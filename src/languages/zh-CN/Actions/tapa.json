@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "放置一个用户。",
+    "USAGE": "衣服 [user]",
+    "USAGEE": "衣服 [user]",
+    "TAPA_DESCRIÇÃO": "<@{{member}}>，请不要点击自己！",
+    "TAPA_DESCRIÇÃO1": "**我**",
+    "TAPA_DESCRIÇÃO2": "已平移",
+    "TAPA_HopeFRASE": "(;cond;x) I-我很抱歉。你可以将他们放下，但请不要打我...",
+    "TAPA_DESC": " 和 ",
+    "TAPA_DESC1": "和 ",
+    "TAPA_DESC2": "我"
+}

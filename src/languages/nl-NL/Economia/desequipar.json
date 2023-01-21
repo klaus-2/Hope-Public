@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Een bepaald item ongedaan maken.",
+    "USAGE": "unequip <type>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "ontoerusten <type>",
+    "EXAMPLE": "planodefundo ontoerusten",
+    "DESEQUIPAR": "selecteer een van de volgende opties:",
+    "DESEQUIPAR1": "jij hebt niet uitgerust",
+    "DESEQUIPAR2": "succesvol!"
+}

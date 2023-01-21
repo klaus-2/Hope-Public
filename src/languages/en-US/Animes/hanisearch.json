@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Consult hanime.tv for a specific hentai. Returns a maximum of 10 results",
+    "USAGE": "hanime <name>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "hanime <anime>",
+    "EXAMPLE": "hanime | searchhentai mankitsu happening | hanisearch dropout | hanime tamashii insert",
+    "AHENTAI_DESC": "no results were found for",
+    "AHENTAI_DESC1": "Page",
+    "AHENTAI_DESC2": "from",
+    "AHENTAI_DESC3": "command",
+    "AHENTAI_DESC4": "Released in",
+    "AHENTAI_DESC5": "Rank",
+    "AHENTAI_DESC6": "Downloads",
+    "AHENTAI_DESC7": "Likes",
+    "AHENTAI_DESC8": "Interests",
+    "AHENTAI_DESC9": "Views",
+    "AHENTAI_DESC10": "Watch",
+    "AHENTAI_DESC11": "CENSURED",
+    "AHENTAI_DESC12": "UNCENSORED",
+    "AHENTAI_DESC13": "in"
+}

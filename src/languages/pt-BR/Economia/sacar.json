@@ -1,0 +1,23 @@
+{
+    "DESCRIPTION": "Saque dinheiro diretamente da sua conta bancaria.",
+    "USAGE": "sacar <valor> | [tudo]\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "sacar <valor> | [tudo]",
+    "EXAMPLE": "sacar 5000 | sacar tudo",
+    "SACAR": "tudo",
+    "SACAR1": "<:cancel:855859391709577266> **Você não tem dinheiro para sacar!**",
+    "SACAR2": "<:v_:855859391835799582> Você sacou todo seu dinheiro da sua conta bancaria. <:SkyeTimida:823046655632211989> Cuidado para não ser roubado!",
+    "SACAR3": "<:cancel:855859391709577266> Especifique uma quantia para sacar!",
+    "SACAR4": "<:cancel:855859391709577266> Seu valor não é um número!",
+    "SACAR5": "<:cancel:855859391709577266> Você não pode retirar dinheiro negativo!",
+    "SACAR6": "<:cancel:855859391709577266> Você não tem muito dinheiro no banco! `use ${prefix}saldo` para saber quanto possui.",
+    "SACAR7": "Você sacou",
+    "SACAR8": "skcoins da sua conta bancaria!",
+    "SACAR9": "você não tem dinheiro suficiente no seu banco para prosseguir com esta transação.",
+    "SACAR10": "Você só possui **R$",
+    "SACAR11": "skcoins** em sua conta.\nAinda falta **R$",
+    "SACAR12": "skcoins** para concluir a transação.\n(**Lembre-se que há uma Taxa de transação de 5% incluída**)",
+    "SACAR13": "Para sacar todo o seu dinheiro de uma só vez, por favor, digite",
+    "SACAR14": "sacar tudo",
+    "SACAR15": "você não pode sacar esta grande quantidade de dinheiro! \n(Você só pode possuir até 50 mil skcoins em sua carteira, por segurança.)",
+    "SACAR16": "(**Taxa de transação de +5% inclusa**)."
+}

@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "repetir a música ou fila.",
+    "USAGE": "loop [queue/song]\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "loop [cola/canción]",
+    "EXAMPLE": "cola de repetición | canción de bucle | bucle",
+    "REPETIR": "canción",
+    "ENABLED": "habilitado",
+    "DISABLED": "discapacitado",
+    "REPETIR3": "{{trackRepeat}} repetición de pista.",
+    "REPETIR4": "cola",
+    "REPETIR7": "{{queueRepeat}} repetición de cola."
+}

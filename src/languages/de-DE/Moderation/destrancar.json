@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "einen Kanal freischalten.",
+    "USAGE": "entsperren\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "entsperren",
+    "EXAMPLE": "entsperren",
+    "DESTRANCAR": ":ungesperrt: Der Kanal <#{{channel}}> wurde freigeschaltet.",
+    "DESTRANCAR1": "ACHTUNG"
+}

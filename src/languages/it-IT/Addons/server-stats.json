@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Visualizza statistiche sul tuo server.",
+    "USAGE": "server-stats <enable | disable>\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "statistiche server <enable | disable>",
+    "EXAMPLE": "server-stats enable",
+    "STATS": "enable",
+    "STATS1": "L'addon `Server Stats` è stato attivato correttamente.",
+    "STATS2": "disable",
+    "STATS3": "L'addon `Server Stats` è stato disabilitato con successo.",
+    "STATS4": "Oops! Devi prima attivare l'addon."
+}

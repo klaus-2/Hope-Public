@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "显示服务器的邀请等级。",
+    "USAGE": "排名邀请\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "排名邀请",
+    "EXAMPLE": "排名邀请",
+    "ERANKC_DESC": "<: HopecomvergonHA: 823248929508032513> 哦，看来我没有权限在此服务器上看到邀请... 请通知管理部门然后重试。",
+    "ERANKC_DESC1": "邀请函",
+    "ERANKC_DESC2": "🏆 邀请排名 🏆"
+}

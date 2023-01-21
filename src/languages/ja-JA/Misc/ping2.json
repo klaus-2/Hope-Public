@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "ボットのステータスを取得します。",
+    "USAGE": "ping2",
+    "PING": "Ping:",
+    "CLIENT": "クライアント API:",
+    "MONGO": "MongoDB:"
+}

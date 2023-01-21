@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "检查某个位置的所有成员！或者也许是所有人！",
+    "USAGE": "成员 < all | role name | @role >\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "成员 < all | role name | @role >",
+    "EXAMPLE": "成员 @role | 全部成员 | 成员角色名称",
+    "MEMBROS": "所有",
+    "MEMBROS1": "清单",
+    "MEMBROS2": "没有成员使用",
+    "MEMBROS3": "角色存在！"
+}

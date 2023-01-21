@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "从播放列表中删除歌曲",
+    "USAGE": "p-删除 <playlist name> <position> [position]\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "p-删除 <playlist name> <position> [position]",
+    "EXAMPLE": "p-删除测试 3 | p-移除测试 3 5",
+    "P_REMOVER": "不是一种选择",
+    "P_REMOVER1": "歌曲已成功从播放列表中删除。",
+    "P_REMOVER2": "找不到播放列表。"
+}

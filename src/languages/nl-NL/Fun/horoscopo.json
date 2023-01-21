@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "krijg vandaag informatie over horoscoop.",
+    "USAGE": "horoscoop <sign>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "horoscoop <sign>",
+    "EXAMPLE": "horoscoop taurus",
+    "FHOR_DESC": "Geef me alsjeblieft een teken om zijn horoscoop te krijgen!",
+    "FHOR_DESC1": "Dat is geen geldig teken!",
+    "FHOR_DESC2": "Sorry! Mijn API (Horoscope Machine) werkt niet!",
+    "FHOR_DESC3": "Stemming",
+    "FHOR_DESC4": "Geen data.",
+    "FHOR_DESC5": "Intensiteit",
+    "FHOR_DESC6": "trefwoorden"
+}

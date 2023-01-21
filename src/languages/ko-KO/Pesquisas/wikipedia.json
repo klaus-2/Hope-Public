@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "위키백과에서 지정된 용어를 검색하십시오.",
+    "USAGE": "위키백과 <term>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "위키백과 <term>",
+    "EXAMPLE": "위키백과 비",
+    "WIKIPEDIA": "오!위키백과에서 찾을 수 없었습니다.\n철자를 정확하게 입력했는지 궁금합니다.",
+    "WIKIPEDIA1": "링크",
+    "WIKIPEDIA2": "이 단락이 삽입하기에 너무 길었습니다. 제공된 링크를 클릭하십시오.",
+    "WIKIPEDIA3": "en"
+}

@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Set up Hope auto charge for this server.",
+    "USAGE": "level-multiplicarxp <0-1000>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "level-multiplyxp <0-1000>",
+    "EXAMPLE": "level-multiplyxp 2",
+    "LVL_XPMULT": "Settings: `Level`",
+    "LVL_XPMULT1": "<:v_:855859391835799582>The configuration of `level` has been successfully updated.",
+    "LVL_XPMULT2": "Level Setting",
+    "LVL_XPMULT3": "Multiplier changed from"
+}

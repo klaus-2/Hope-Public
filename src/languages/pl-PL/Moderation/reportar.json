@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "zgłosić użytkownika.",
+    "USAGE": "raport <user> [reason]\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "raport <user> [reason]",
+    "EXAMPLE": "raport @Hope test",
+    "REPORTAR": "{{author}} zgłosiło użytkownika",
+    "REPORTAR1": "<:user:823004014055522326> Użytkownik:",
+    "REPORTAR2": "<:Moderao:823004537756844073> Zgłoszone przez:",
+    "REPORTAR3": "<:proxima:823004353316126721> Zgłoszono w:",
+    "REPORTAR4": "<:frase:823004814551810068> Powód:",
+    "REPORTAR5": "<@{{user}}> został pomyślnie zgłoszony."
+}

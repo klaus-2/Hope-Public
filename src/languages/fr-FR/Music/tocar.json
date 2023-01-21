@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "jouer une chanson.",
+    "USAGE": "play <link / song name>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "jouer à <link / song name>",
+    "EXAMPLE": "play palaye royale | play <attachment> | play https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "TOCAR": "File d'attente",
+    "TOCAR1": "chansons",
+    "TOCAR2": "a été ajouté à la file d'attente en cours.",
+    "TOCAR3": "Veuillez entrer un nom/url de la chanson",
+    "TOCAR4": "En file d'attente **{{num}}** pistes",
+    "TOCAR5": "Ajouté à la file d'attente : [{{title}}]({{url}})"
+}

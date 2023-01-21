@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Gera um gif aleatorio de um anime.",
+    "USAGE": "animegif\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "animegif",
+    "EXAMPLE": "animegif"
+}

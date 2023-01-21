@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "display a small calendar.",
+    "USAGE": "calendar\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "calendar",
+    "EXAMPLE": "calendar",
+    "ECALEN_DESC": "📅 | ปฏิทิน",
+    "ECALEN_DESC1": "วันนี้วันที่:",
+    "ECALEN_DESC2": "นั่นคือ,",
+    "ECALEN_DESC3": "วันของสัปดาห์:",
+    "ECALEN_DESC4": "กำหนดการ:",
+    "ECALEN_DESC5": "วันที่ 10 วันที่แล้ว:",
+    "ECALEN_DESC6": "สิบวันนับจากนี้:"    
+}

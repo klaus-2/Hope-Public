@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Einen Benutzer heiraten.",
+    "USAGE": "heiraten <user>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "heiraten <user>",
+    "EXAMPLE": "heiraten @Hope",
+    "FCASAR_DESC": "🙁 | <@{{author}}>, du bist Single.",
+    "FCASAR_DESC1": "Benutze {{prefix}}heiraten <user> um zu heiraten.",
+    "FCASAR_DESC2": "du bist verheiratet mit",
+    "FCASAR_DESC3": "Seit ({{date}})",
+    "FCASAR_DESC4": "Ich konnte keine Person mit nur finden",
+    "FCASAR_DESC5": "Möchten Sie heiraten",
+    "FCASAR_DESC6": "Antwort mit: ``yes`` oder ``no``",
+    "FCASAR_DESC7": "Sie haben den Vorschlag des",
+    "FCASAR_DESC8": "Herzlichen Glückwunsch, du bist verheiratet, viel Liebe zu dir :zwei_Herzen:"
+}

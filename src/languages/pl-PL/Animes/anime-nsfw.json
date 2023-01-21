@@ -1,0 +1,19 @@
+{
+    "DESCRIPTION": "Generuj losowy obraz nsfw za pomocą dostarczonego zapytania. Wpisz `ansfw list`, aby zwrócić wszystkie dostępne kategorie dla tego polecenia.",
+    "USAGE": "anime-nsfw <category>\n💡 **Przykład: {{EXAMPLE}}",
+    "USAGEE": "lista anime-nsfw",
+    "EXAMPLE": "ansfw lista | ansfw Geje | anime-nsfw klasyczny",
+    "ANSFW_AUTHOR": "Losowo Booru: NSFW",
+    "ANSFW_FIELD": "Charakter",
+    "ANSFW_FIELD1": "Prawo autorskie",
+    "ANSFW_FIELD2": "Artysta (y)",
+    "ANSFW_FIELD3": "Meta",
+    "ANSFW_FIELD4": "Przesyłacz",
+    "ANSFW_FIELD5": "Tagi",
+    "ANSFW_FIELD6": "Tagi, Losowy, Zdjęcia, Hentai, Łup, Reddit",
+    "ANSFW_AUTHOR1": "Kategorie poleceń Anime-NSFW.",
+    "ANSFW_FIELD7": "Przepraszam,",
+    "ANSFW_FIELD8": "to nie jest prawidłowa kategoria nsfw. Wprowadź",
+    "ANSFW_FIELD9": ", aby wyświetlić dostępne kategorie.",
+    "ANSFW_FIELD10": ", aby poprawnie użyć tego polecenia, wykonaj poniższy przykład:"
+}

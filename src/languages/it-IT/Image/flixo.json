@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Gioca la foto di un utente nel cestino.",
+    "USAGE": "cestino [user]\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "cestino",
+    "EXAMPLE": "trash @Hope",
+    "FLIXO_DESC": "appena lanciato",
+    "FLIXO_DESC1": "nel cestino",
+    "FLIXO_DESC2": "Tu lasci andare questo?",
+    "FLIXO_DESC3": "e ottieni anche 😈",
+    "FLIXO_DESC4": "Cha!"
+}

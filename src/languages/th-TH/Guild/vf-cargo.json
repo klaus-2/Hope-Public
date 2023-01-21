@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "configure the verification position.",
+    "USAGE": "vf-role <newroleID>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "vf-role <newroleID>",
+    "EXAMPLE": "vf-role 98789623672631",
+    "VF_CARGO": "การตั้งค่า: `Server`",
+    "VF_CARGO1": "<:v_:855859391835799582>`auto role` ได้รับการปรับปรุงเรียบร้อยแล้ว",
+    "VF_CARGO2": "บทบาทของการตรวจสอบ",
+    "VF_CARGO3": "เปลี่ยนจาก"
+}

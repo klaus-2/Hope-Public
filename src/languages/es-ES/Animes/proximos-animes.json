@@ -1,0 +1,18 @@
+{
+    "DESCRIPTION": "Muestra la lista de los próximos animes.",
+    "USAGE": "nextani\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "próximo tani",
+    "EXAMPLE": "nextani | pa tv | p-animes ona | proximos-animes ova | película p-animes | pa especial | próxima -",
+    "APROX_DESC": "Buscar a continuación",
+    "APROX_DESC1": "anime de",
+    "APROX_DESC2": "Error de respuesta",
+    "APROX_DESC3": "**{{member}}**, Se ha producido un error inesperado.\n\n",
+    "APROX_DESC4": "MyAnimeList respondió con el código de error {{status}}",
+    "APROX_DESC5": "Siguiente lista de anime",
+    "APROX_DESC6": "Género:",
+    "APROX_DESC7": "TODOS",
+    "APROX_DESC8": "comando",
+    "APROX_DESC9": "Página",
+    "APROX_DESC10": "de",
+    "APROX_DESC11": "Aún no hay sinopsis."
+}

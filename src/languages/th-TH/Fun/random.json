@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Replies with a random number.",
+    "USAGE": "random\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "random",
+    "EXAMPLE": "random 2 10",
+    "FRANDOM_DESC": ":one: รอฉันกำลังเลือกตัวเลข...",
+	"FRANDOM_DESC1": "{{num}} รอฉันกำลังเลือกตัวเลข...",
+	"FRANDOM_DESC2": "🔢 หมายเลขของคุณคือ **{{random}}**!"
+}

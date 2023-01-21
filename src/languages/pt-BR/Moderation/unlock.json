@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Destranca um canal.",
+    "USAGE": "destrancar\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "destrancar",
+    "EXAMPLE": "destrancar",
+    "DESTRANCAR": "🔓 O canal <#{{channel}}> foi destrancado.",
+    "DESTRANCAR1": "ATENÇÃO"
+}

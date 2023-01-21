@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "別のサーバーから絵文字をコピーし、サーバーに追加します。",
+    "USAGE": "copyemoji <emoji>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "コピー絵文字 <emoji>",
+    "EXAMPLE": "コピー絵文字 <emoji>",
+    "ECOE_DESC": "絵文字がサーバーに追加されました！",
+    "ECOE_DESC1": "名前:",
+    "ECOE_DESC2": "プレビュー:[クリックして表示] ({{Link}})",
+    "EURL_DESC": "こんにちは、",
+    "EMOJI_INVALIDO": "有効な絵文字が必要です。",
+    "EMOJI_PADRÃO": "標準の絵文字はダウンロードに変換できません。"
+}

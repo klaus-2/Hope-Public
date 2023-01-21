@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Vende tus artículos por dinero en efectivo.",
+    "USAGE": "sell <item id>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "vender <item id>",
+    "EXAMPLE": "vender 3 | vender 8 2",
+    "VENDER": "no se ha podido encontrar el artículo con **ID** proporcionado.\nAsegúrate de introducir el **ID** correcto e inténtalo de nuevo.",
+    "VENDER1": "no tienes la cantidad necesaria de",
+    "VENDER2": "para hacer esa venta.",
+    "VENDER3": "desafortunadamente,",
+    "VENDER4": "no se puede vender.",
+    "VENDER5": "no tienes una cuenta bancaria en el complemento Economía de Hope.\nPor favor, regístrese con el comando",
+    "VENDER6": "registrarse",
+    "VENDER7": "has vendido correctamente",
+    "VENDER8": "por **$",
+    "VENDER9": "skcoins"
+}

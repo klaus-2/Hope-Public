@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Speel de vorige regel van de wachtrij af.",
+    "USAGE": "terug\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "rug",
+    "EXAMPLE": "terug | prev | vorige"
+}

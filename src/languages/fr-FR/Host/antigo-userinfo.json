@@ -1,0 +1,4 @@
+{
+    "DESCRIPTION": "Obtenir des informations sur le serveur.",
+    "USAGE": "infouser [utilisateur]"
+}

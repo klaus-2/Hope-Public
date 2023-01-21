@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "breng het pitch-effect aan op de muziek.",
+    "USAGE": "standplaats <value | off>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "standplaats <value | off>",
+    "EXAMPLE": "pitch off | standplaats 6",
+    "PITCH": "Deactivering van het effect **pitch**. <:SkyeOuvindoMusica:823046654554144768> Dat kan een paar seconden duren...",
+    "PITCH1": "<:v_:855859391835799582> **pitch** is gedeactiveerd.",
+    "PITCH2": "De hoeveelheid moet een reëel getal zijn.",
+    "PITCH3": "De standplaats moet tussen 0 en 10 liggen.",
+    "PITCH4": "Pitch instellen op",
+    "PITCH5": "Dat kan een paar seconden duren...",
+    "PITCH6": "Standplaats ingesteld op"
+}

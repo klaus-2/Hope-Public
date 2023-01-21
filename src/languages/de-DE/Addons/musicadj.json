@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Ative ou desative o addon de level.",
+    "USAGE": "musicadj <ativar | desativar>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "musicadj <ativar | desativar>",
+    "EXAMPLE": "musicdj aktivieren"
+}

@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Koop iets in de winkel van Hope.",
+    "USAGE": "koop [item-ID]\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "koop [item-ID]",
+    "EXAMPLE": "koop 32",
+    "COMPRAR": "je kunt slechts één keer een**gratis artikel** kopen.",
+    "COMPRAR1": "je kunt niet meer dan **1.000** items tegelijk kopen.",
+    "COMPRAR2": "je hebt niet genoeg geld om door te gaan met deze transactie!\nJe hebt meer **$ nodig",
+    "COMPRAR3": "** skcoins om te kopen",
+    "COMPRAR4": "je kunt slechts één keer een**gratis artikel** kopen.",
+    "COMPRAR5": "jij hebt gekocht",
+    "COMPRAR6": "succesvol!"
+}

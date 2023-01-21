@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Update wereldwijde banlijst",
+    "USAGE": "zwarte lijst <add / remove> <userID> [reason]",
+    "MISSING_USER": "Onjuiste gebruikers-ID.",
+    "AUTHOR": "{{TAG}} is wereldwijd verboden",
+    "DESC": "**Reden: ** {{REASON}}",
+    "ALRDY_BAN": "Gebruiker: {{ID}} is al verbannen.",
+    "SUCC_UNBAN": "De gebruiker is succesvol ontbannen."
+}

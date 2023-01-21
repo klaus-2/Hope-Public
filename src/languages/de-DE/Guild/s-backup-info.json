@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Informationen von einem Server-Backup erhalten.",
+    "USAGE": "s-backup-Info <backupID>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "s-backup-Info <backupID>",
+    "EXAMPLE": "s-backup-Info 2334",
+    "S_BACKUP_INFO": "Sie müssen eine gültige Backup-ID angeben",
+    "S_BACKUP_INFO1": "** BACKUP INFO **\n Backup ID:",
+    "S_BACKUP_INFO2": "Server-ID:",
+    "S_BACKUP_INFO3": "Sicherungsgröße:",
+    "S_BACKUP_INFO4": "mb \n Backup erstellt am:"
+}

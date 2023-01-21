@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "applica l'ordine casuale alla playlist.",
+    "USAGE": "shuffle\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "mischia",
+    "EXAMPLE": "mischia",
+    "OA": "<:v_:855859391835799582> La scaletta è stata rimossa con successo."
+}

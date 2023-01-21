@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Włącz lub wyłącz dodatek powitalny.",
+    "USAGE": "witaj <enable | disable>\n💡**Przykład**: {{EXAMPLE}}",
+    "USAGEE": "powitaj <enable | disable>",
+    "EXAMPLE": "Włącz powitanie"
+}

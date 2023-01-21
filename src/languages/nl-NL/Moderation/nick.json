@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "wijzig de bijnaam van een gebruiker.",
+    "USAGE": "nick <user> <newNick>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "nick <user> <newNick>",
+    "EXAMPLE": "nick @Hope @Hope <3",
+    "ENTER_NICKNAME": "Voer een bijnaam in.",
+    "LONG_NICKNAME": "Bijnaam moet korter zijn dan 32 tekens."
+}

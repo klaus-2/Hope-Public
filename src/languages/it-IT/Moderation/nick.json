@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "cambia il soprannome di un utente.",
+    "USAGE": "nick <user> <newNick>\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "nick <user> <newNick>",
+    "EXAMPLE": "nick @Hope @Hope <3",
+    "ENTER_NICKNAME": "Inserisci un nickname.",
+    "LONG_NICKNAME": "Il soprannome deve essere più corto di 32 caratteri."
+}

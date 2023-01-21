@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "サーバからバックアップをロードします。",
+    "USAGE": "s-backup-load <backupID>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "s-backup-load <backupID>",
+    "EXAMPLE": "s-backup-load 2334",
+    "S_BACKUP_CARREGAR": "ああ {{author}}、ごめんなさい :(",
+    "S_BACKUP_CARREGAR1": "このサーバでバックアップを作成するには、メッセージの管理権限が必要です。",
+    "S_BACKUP_CARREGAR2": ":warning: すべてのサーバーチャネル、役割、設定がクリアされます。続行しますか?`confirm`か`cancel`を送れ！",
+    "S_BACKUP_CARREGAR3": "確認する",
+    "S_BACKUP_CARREGAR4": "キャンセル",
+    "S_BACKUP_CARREGAR5": "バックアップが正常に読み込まれました。",
+    "S_BACKUP_CARREGAR6": "ID のバックアップが見つかりませんでした:**{{backupID}}**",
+    "S_BACKUP_CARREGAR7": "エラーが発生しました:",
+    "S_BACKUP_CARREGAR8": ":x: キャンセルされました。",
+    "S_BACKUP_CARREGAR9": ":x: コマンドがタイムアウトしました！再試行してください。"
+}

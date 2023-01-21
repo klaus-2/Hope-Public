@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "プレイリストを読み込む",
+    "USAGE": "p-load <playlist name>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "p-load <playlist name>",
+    "EXAMPLE": "p-負荷テスト",
+    "P_CARREGAR": "プレイリストを読み込んでいます (これには数秒かかる場合があります)...",
+    "P_CARREGAR1": "キューに入った",
+    "P_CARREGAR2": "曲**から",
+    "P_CARREGAR3": "プレイリストが見つかりません"
+}

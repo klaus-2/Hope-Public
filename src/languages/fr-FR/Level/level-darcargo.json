@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Configurez le rôle automatique Hope pour ce serveur.",
+    "USAGE": "level-giverole <new roleID>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "level-giverole <new roleID>",
+    "EXAMPLE": "level-giverole 328777266673",
+    "LVL_CARGO": "`Aucun`",
+    "LVL_CARGO1": "Paramètres : `Niveau`",
+    "LVL_CARGO2": "<:v_:855859391835799582>O `rôle automatique` a été mis à jour avec succès.",
+    "LVL_CARGO3": "Rôle automatique",
+    "LVL_CARGO4": "Changé de"
+}

@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "プロファイルでユーザーの性別を設定します。",
+    "USAGE": "set-gender <genero>\n💡 **Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "セットジェンダー <gender>",
+    "EXAMPLE": "セットジェンダー男性",
+    "GEN": "男性",
+    "GEN1": "女性",
+    "GEN2": "性別が `Male` に正常に更新されました！",
+    "GEN3": "あなたの性別は `Female` に正常に更新されました！"
+}

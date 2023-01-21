@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "在你的个人资料中装备一件物品。",
+    "USAGE": "装备 <item id>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "装备 <item id>",
+    "EXAMPLE": "装备 22",
+    "EQUIPAR": "你的库存中没有这件商品！",
+    "EQUIPAR1": "抱歉，但是这件商品不能再使用了！",
+    "EQUIPAR2": "你装备好了",
+    "EQUIPAR3": "成功了！"
+}

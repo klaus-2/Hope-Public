@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "가짜 클라이드 메시지를 생성합니다.",
+    "USAGE": "클라이드 <text>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "클라이드 <text>",
+    "EXAMPLE": "클라이드 스카이는 세계 최고의 봇입니다. <3"
+}

@@ -1,0 +1,19 @@
+{
+    "ROLE_UPDATE": "O cargo:",
+    "ROLE_UPDATE1": "teve seu nome alterado",
+    "ROLE_UPDATE2": "[EVENTO — NOME DO CARGO ALTERADO]",
+    "ROLE_UPDATE3": "Nome antigo:",
+    "ROLE_UPDATE4": "Novo nome:",
+    "ROLE_UPDATE5": "A cor do cargo:",
+    "ROLE_UPDATE6": "foi alterada",
+    "ROLE_UPDATE7": "[EVENTO — COR DO CARGO ALTERADA]",
+    "ROLE_UPDATE8": "Cor antiga:",
+    "ROLE_UPDATE9": "Nova cor:",
+    "ROLE_UPDATE10": "As permissões do cargo:",
+    "ROLE_UPDATE11": "foram alteradas",
+    "ROLE_UPDATE12": "clique aqui",
+    "ROLE_UPDATE13": "e entenda o que esses números significam",
+    "ROLE_UPDATE14": "[EVENTO — PERMISSÕES DO CARGO ALTERADAS]",
+    "ROLE_UPDATE15": "Permissões anteriores:",
+    "ROLE_UPDATE16": "Novas permissões:"
+}

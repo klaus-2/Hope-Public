@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "anular la prohibición de un usuario.",
+    "USAGE": "unban <userID> [reason]\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "desbanar <userID> [reason]",
+    "EXAMPLE": "unban 432567667533123 prueba"
+}

@@ -1,0 +1,23 @@
+{
+    "DESCRIPTION": "Resgate sua recompensa diária <3",
+    "USAGE": "bonus-diario\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "bonus-diario",
+    "EXAMPLE": "bonus-diario",
+    "BONUS_DIARIO": "<:cancel:855859391709577266> Você já coletou sua recompensa diária\n\nA proxima recompensa estará disponivel em",
+    "BONUS_DIARIO1": "e",
+    "BONUS_DIARIO2": "ok?",
+    "BONUS_DIARIO3": "<:v_:855859391835799582> Você coletou sua recompensa diária de",
+    "BONUS_DIARIO4": "skcoins com sucesso.",
+    "BONUS_DIARIO5": "**Obrigado pelo apoio**",
+    "BONUS_DIARIO6": "Ah! E é claro que eu notei a sua majestosa presença lá no meu [Servidor de Suporte]({{SupportServer}}), e como agradecimento estou te dando de presente",
+    "BONUS_DIARIO7": "skcoins** a mais de bônus!",
+    "BONUS_DIARIO8": "**Parabéns**",
+    "BONUS_DIARIO9": "<:SkyeComemorando:823248929503445026> **Você recebeu um item beeeem legal para seu perfil de presente!**: Você ganhou",
+    "BONUS_DIARIO10": "pelas suas recompensas diárias. O Item já foi adicionado ao seu inventário!",
+    "BONUS_DIARIO11": "**Aviso bancario**:",
+    "BONUS_DIARIO12": "⚠️ Atenção! Sua carteira não consegue guardar mais dinheiro. Ela atingiu o limite de 60 mil skcoins!\nVocê precisa de transferir um pouco do seu dinheiro para o seu banco!",
+    "BONUS_DIARIO13": "**Streak Lost**:",
+    "BONUS_DIARIO14": "⚠️ Como assim você não está coletando suas recompensa todos os dias e está perdendo incriveis recompensas? Ah que pena, por enquanto sua streak é **x1**.",
+    "BONUS_DIARIO15": "🔥 **Uau, sua streak atual é de",
+    "BONUS_DIARIO16": "Continue assim"
+}

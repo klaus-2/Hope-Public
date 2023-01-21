@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Uzyskać informacje o roli.",
+    "USAGE": "roleinfo <role>\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "roleinfo <role>",
+    "EXAMPLE": "roleinfo @role",
+    "ROLE_NAME": "Rola | {{roleName}}",
+    "ROLE_MEMBERS": "Członkowie:",
+    "ROLE_COLOR": "Kolor:",
+    "ROLE_POSITION": "Pozycja:",
+    "ROLE_MENTION": "Wzmianka:",
+    "ROLE_HOISTED": "Podnoszone:",
+    "ROLE_MENTIONABLE": "Wzmianą:",
+    "ROLE_PERMISSION": "Uprawnienia klucza:",
+    "ROLE_CREATED": "Utworzony w:",
+    "ROLE_FOOTER": "Żądane przez {{MEMBER}} | Identyfikator roli: {{ID}}"
+}

@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Set the playback speed of the player.",
+    "USAGE": "speed <value>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "speed <value>",
+    "EXAMPLE": "speed 4",
+    "ON_SPD": "Updating playback speed. This may take a few seconds...",
+    "VELOCIDADE": "The speed has been changed to {{num}}"
+}

@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Genera un codice per il riscatto.",
+    "USAGE": "generatecode <month | year>\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "generatecode <month | year>",
+    "EXAMPLE": "ggeneratecode me<unk> s",
+    "NOVO_PREMIUM": "mese",
+    "NOVO_PREMIUM1": "anno",
+    "NOVO_PREMIUM2": "Fornisci un piano!",
+    "NOVO_PREMIUM3": "Generato",
+    "NOVO_PREMIUM4": "Codici Premium",
+    "NOVO_PREMIUM5": "Tipo:",
+    "NOVO_PREMIUM6": "Scadenza:"
+}

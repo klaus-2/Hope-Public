@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Holen Sie sich das städtische Wörterbuch eines Wortes.",
+    "USAGE": "urbane <word>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "urbane <word>",
+    "EXAMPLE": "urbane <word>",
+    "INCORRECT_URBAN": "Phrase: `{{phrase}}` wurde im städtischen Wörterbuch nicht gefunden.",
+    "URBAN_TITLE": "Definition von {{word}}",
+    "URBAN_DESCRIPTION": "{{definition}}\n**Beispiel:**\n{{examples}}"
+}

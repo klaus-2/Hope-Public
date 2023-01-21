@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "konfigurieren Sie die Nachricht, die im Kanal gesendet werden soll, wenn ein Benutzer den Server verlässt.",
+    "USAGE": "bv-leavemsg <message>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "bv-leavemsg <message>",
+    "EXAMPLE": "bv-leavemsg **{user}** hat sich gerade vom Server abgemeldet.",
+    "BV_SAIRMENSAGEM": "<:v_:855859391835799582> Kanal erfolgreich aktualisiert auf:"
+}

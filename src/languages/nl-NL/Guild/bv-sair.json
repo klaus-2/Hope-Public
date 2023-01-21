@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Schakel de berichtadd-on in of uit wanneer een gebruiker zich afmeldt bij de server.",
+    "USAGE": "bv-leave <enable | disable>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "bv-verlof <enable | disable>",
+    "EXAMPLE": "bv-verlof"
+}

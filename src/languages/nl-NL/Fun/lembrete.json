@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "definieer iets om in een tijdje te onthouden.",
+    "USAGE": "herinnering <time> <message>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "herinnering <time> <message>",
+    "EXAMPLE": "herinnering 1u voer mijn kat",
+    "FLEMBRETE_DESC": "Je moet een tijdsperiode instellen om herinnerd te worden!",
+    "FLEMBRETE_DESC1": "De gegeven tijd",
+    "FLEMBRETE_DESC2": "overschreden de limiet van 31 dagen",
+    "FLEMBRETE_DESC3": "Je moet een bericht schrijven om herinnerd te worden!",
+    "FLEMBRETE_DESC4": "Hallo",
+    "FLEMBRETE_DESC5": "je kunt op mijn hulp rekenen okaaay! Ik zal je er vanaf hier aan herinneren",
+    "FLEMBRETE_DESC6": "Je kunt erop vertrouwen dat ik het me zal herinneren, ~~*Ik denk*~~"
+}

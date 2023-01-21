@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Verwijder de waarschuwingen van een gebruiker.",
+    "USAGE": "duidelijke waarschuwingen <user>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "duidelijke waarschuwingen <user>",
+    "EXAMPLE": "duidelijke waarschuwingen @Hope",
+    "CLEARED_WARNINGS": "Waarschuwingen voor <@{{user}}> zijn gewist."
+}

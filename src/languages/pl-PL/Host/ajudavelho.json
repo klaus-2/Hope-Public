@@ -1,0 +1,4 @@
+{
+    "DESCRIPTION": "Envia informações sobre todos os os comandos que posso fazer:",
+    "USAGE": "ajuda [comando | addon]"
+}

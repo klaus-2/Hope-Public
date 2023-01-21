@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "zmienić pseudonim użytkownika.",
+    "USAGE": "nick <user> <newNick>\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "nick <user> <newNick>",
+    "EXAMPLE": "nick @Hope @Hope <3",
+    "ENTER_NICKNAME": "Wprowadź nazwę użytkownika.",
+    "LONG_NICKNAME": "Pseudonim musi być krótszy niż 32 znaki."
+}

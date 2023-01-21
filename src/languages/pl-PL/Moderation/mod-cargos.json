@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "configurar o auto cargo da Hope para este servidor.",
+    "USAGE": "mod-roles <newRoleID>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "ról modowych <newRoleID>",
+    "EXAMPLE": "role modowe 865493021322177",
+    "MOD_CARGOS": "Configurações: `Servidor`",
+    "MOD_CARGOS1": "<:v_:855859391835799582>O `Cargo de moderação` foi atualizado com sucesso.",
+    "MOD_CARGOS2": "Cargo de moderação",
+    "MOD_CARGOS3": "Alterado de"
+}

@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "fechar um ticket.",
+    "USAGE": "t-close\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "t-close",
+    "EXAMPLE": "t-close"
+}

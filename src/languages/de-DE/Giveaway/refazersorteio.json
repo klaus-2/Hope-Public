@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Refaz um sorteio.",
+    "USAGE": "g-reroll <ID da mensage>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "g-reroll <messageID>",
+    "EXAMPLE": "g-reroll 818821436255895612",
+    "SUCCESS_GIVEAWAY": "<:v_:855859391835799582> Erfolgreich! Weitervergeben!",
+    "CONGRAT": "🎉 Neuer Sieger(n): {winners}! Herzlichen Glückwunsch!",
+    "ERROR": "Keine gültigen Einträge, keine Gewinner können ausgewählt werden!"
+}

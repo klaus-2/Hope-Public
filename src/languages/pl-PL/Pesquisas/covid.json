@@ -1,0 +1,17 @@
+{
+    "DESCRIPTION": "Uzyskaj informacje w czasie rzeczywistym o programie Covid-19 w danym kraju.",
+    "USAGE": "covid [country]\n💡 **Przyklad**: {{EXAMPLE}}",
+    "USAGEE": "covid [country]",
+    "EXAMPLE": "covid Stany Zjednoczone | covid",
+    "COVID": "Statystyki koronawirusa",
+    "COVID1": "Potwierdzone przypadki",
+    "COVID2": "Przypadki dzisiaj",
+    "COVID3": "Dzisiejsze zgony",
+    "COVID4": "Aktywny",
+    "COVID5": "Zregenerowany",
+    "COVID6": "Zgonów",
+    "COVID7": "Testy",
+    "COVID8": "Przypadki na Mil",
+    "COVID9": "Zgonów na Mil",
+    "COVID10": "Ostatnia aktualizacja"
+}

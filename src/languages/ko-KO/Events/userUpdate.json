@@ -1,0 +1,8 @@
+{
+    "USERUPDATE": "{{username}} 의 프로필 사진이 변경되었습니다.",
+    "USERUPDATE1": "이전 사진을 옆으로 보거나 아래 링크에서 이전 사진과 새 사진을 볼 수 있습니다.",
+    "USERUPDATE2": "[이벤트 - 변경된 프로필 사진]",
+    "USERUPDATE3": "이전 사진 링크",
+    "USERUPDATE4": "[보려면 여기를 클릭하십시오.]",
+    "USERUPDATE5": "새 사진 링크"
+}

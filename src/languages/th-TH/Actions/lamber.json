@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Lick the user you mentioned!",
+    "USAGE": "lick [user]",
+    "USAGEE": "lick [user]",
+    "LAMBER_DESCRIÇÃO": "<@{{member}}> จะเลีย... ด้วย ตน เอง !",  
+    "LAMBER_DESCRIÇÃO1": "ผม",
+    "LAMBER_DESCRIÇÃO2": "เลีย",
+    "LAMBER_DESCRIÇÃO3": "Nyaa..♡(｡￫ˇ艸￩) คุณอยู่ที่ไหน เลียฉัน...",    
+    "LAMBER_DESCRIÇÃO4": "เลีย",  
+    "LAMBER_DESC": " และ ",
+    "LAMBER_DESC1": ", และ "
+}

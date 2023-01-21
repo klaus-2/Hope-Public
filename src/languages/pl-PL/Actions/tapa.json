@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Pogrupuj użytkownika.",
+    "USAGE": "okrąg [user]",
+    "USAGEE": "okrąg [user]",
+    "TAPA_DESCRIÇÃO": "<@{{member}}>, Proszę nie uderzać siebie!",
+    "TAPA_DESCRIÇÃO1": "**mnie**",
+    "TAPA_DESCRIÇÃO2": "ukryte",
+    "TAPA_HopeFRASE": "(;<unk> ;<unk> ) Przykro mi. Możesz je zrzucić, ale proszę nie uderzać mnie...",
+    "TAPA_DESC": " W przypadku gdy państwo członkowskie lub Szwajcaria stwierdzi, że dane państwo członkowskie lub Szwajcaria spełniają warunki określone w art. 4 ust. 1 lit. a) i b) oraz w art. 5 ust. 1 lit. b) i c) rozporządzenia (WE) nr 207/2009 oraz w art. 5 ust. 1 lit. b) i c) rozporządzenia (WE) nr 207/2009 oraz w art. 5 ust. 1 lit. b) tego rozporządzenia i art. 6 ust. 1 lit. b) tego rozporządzenia i c) tego rozporządzenia stosuje się od dnia 1 stycznia 2018 r. ",
+    "TAPA_DESC1": ", oraz ",
+    "TAPA_DESC2": "mnie"
+}

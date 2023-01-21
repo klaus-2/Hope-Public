@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "더 많은 돈을 벌기 위해 노력하십시오.",
+    "USAGE": "작업\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "일",
+    "EXAMPLE": "일",
+    "TRABALHAR": "../../../assets/json/works-en.json",
+    "TRABALHAR1": "죄송합니다",
+    "TRABALHAR2": "근무를 마친 지 오래지 않았습니다.\n\n여기서 다시 시도해 보는 게 좋겠네요",
+    "TRABALHAR3": "과",
+    "TRABALHAR4": "아니면 나처럼 끝날 거예요 <:스카이인소니아:8230466531539026>",
+    "TRABALHAR5": "skcoins"
+}

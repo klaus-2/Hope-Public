@@ -1,0 +1,21 @@
+{
+    "DESCRIPTION": "Wyszukaj jeden z najlepszych anime na MyAnimeList.net lub zwróć losowy jeden.",
+    "USAGE": "anitop [number]\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "anitop",
+    "EXAMPLE": "anitop ou topanimes 5 ou bestanime 50",
+    "ATOP_DESC": "Istnieje limit wyszukiwania do 15",
+    "ATOP_DESC1": "Nie widać doujinshis na kanale sfw! Przejdź do kanału nsfw, aby to zobaczyć.",
+    "ATOP_DESC2": "Wynik",
+    "ATOP_DESC3": "Ulubione",
+    "ATOP_DESC4": "rocznica",
+    "ATOP_DESC5": "Odcinki",
+    "ATOP_DESC6": "Tomy",
+    "ATOP_DESC7": "Animeografia",
+    "ATOP_DESC8": "Nieznane",
+    "ATOP_DESC9": "Członkowie",
+    "ATOP_DESC10": "Mangaografia",
+    "ATOP_DESC11": "Data rozpoczęcia",
+    "ATOP_DESC12": "Data zakończenia",
+    "ATOP_DESC13": "Strona",
+    "ATOP_DESC14": "z"
+}

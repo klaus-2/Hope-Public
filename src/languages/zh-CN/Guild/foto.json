@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "显示用户头像",
+    "USAGE": "头像 [user]\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "阿凡达 [user]",
+    "EXAMPLE": "头像用户 ID | 头像 @mention | 头像用户名",
+    "AVATAR_TITLE": "{{user}}的阿凡达",
+    "AVATAR_DESCRIPTION": "** 链接：**",
+    "FOTO": "这是要求的照片。",
+    "FOTO1": "** 最后 5 张以前的照片：**"
+}

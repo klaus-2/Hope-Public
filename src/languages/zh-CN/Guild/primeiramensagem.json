@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "接收频道的第一条消息。",
+    "USAGE": "第一条消息 [channel]\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "第一条消息 [channel]",
+    "EXAMPLE": "第一条消息 #test",
+    "PRIMEIRA_MENSAGEM": "❯ 转到留言"
+}

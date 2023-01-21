@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "사용자를 위한 스마일.",
+    "USAGE": "스마일 [user]",
+    "USAGEE": "스마일 [user]",
+    "SORRIR_DESCRIÇÃO": "<@{{author}}> 웃고 있어요!",
+    "SORRIR_DESCRIÇÃO1": "<@{{author}}> 스마일!",
+    "SORRIR_DESCRIÇÃO2": "나는 미소를 돌려 준다.",
+    "SORRIR_DESCRIÇÃO3": "미소 짓다"
+}

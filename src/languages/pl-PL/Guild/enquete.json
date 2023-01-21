@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "utworzyć ankietę, aby użytkownicy mogli odpowiedzieć.",
+    "USAGE": "ankieta <question>\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "sondaż <question>",
+    "EXAMPLE": "Czy będzie dzisiaj padać?",
+    "POLL_TITLE": "Ankieta stworzona przez {{username}}",
+    "POLL_FOOTER": "Reagować na głosowanie.."
+}

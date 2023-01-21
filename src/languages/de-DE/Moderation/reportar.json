@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "einen Benutzer melden.",
+    "USAGE": "berichten <user> [reason]\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "berichte <user> [reason]",
+    "EXAMPLE": "melde @Hope Test",
+    "REPORTAR": "{{author}} hat einen Benutzer gemeldet",
+    "REPORTAR1": "<:User:823004014055522326> Mitglied:",
+    "REPORTAR2": "<:Moderao:823004537756844073> Gemeldet von:",
+    "REPORTAR3": "<:Proxima:823004353316126721> Gemeldet in:",
+    "REPORTAR4": "<:Frase:823004814551810068> Grund:",
+    "REPORTAR5": "<@{{user}}> wurde erfolgreich gemeldet."
+}

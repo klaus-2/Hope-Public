@@ -1,0 +1,17 @@
+{
+    "DESCRIPTION": "Krijg realtime informatie over Covid-19 in een land.",
+    "USAGE": "covid [country]\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "covid [country]",
+    "EXAMPLE": "covid verenigde staten | covid",
+    "COVID": "Coronavirus-statistieken",
+    "COVID1": "Bevestigde gevallen",
+    "COVID2": "Vandaag cases",
+    "COVID3": "Vandaag Sterfgevallen",
+    "COVID4": "Actief",
+    "COVID5": "Hersteld",
+    "COVID6": "Sterfgevallen",
+    "COVID7": "Tests",
+    "COVID8": "Hoesjes per mil",
+    "COVID9": "Sterfgevallen per miljoen",
+    "COVID10": "Laatst bijgewerkt"
+}

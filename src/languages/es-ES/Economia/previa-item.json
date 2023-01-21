@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Comprueba lo que puedes comprar en la tienda.",
+    "USAGE": "viewitem <id>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "ver artículo <id>",
+    "EXAMPLE": "ver artículo 23",
+    "PRE": "especifique el **ID del artículo**",
+    "PRE1": "¡No he podido encontrar ningún artículo con este **ID**! Comprueba que has introducido el **ID** correcto e inténtalo de nuevo.",
+    "PRE2": "VISTA PREVIA DEL ID DEL ARTÍCULO",
+    "PRE3": "Nombre:",
+    "PRE4": "Tipo:",
+    "PRE5": "Precio:"
+}

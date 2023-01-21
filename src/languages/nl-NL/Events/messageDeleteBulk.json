@@ -1,0 +1,10 @@
+{
+    "MESSAGE_DELETE_BULK": "Er zijn verschillende berichten verwijderd in",
+    "MESSAGE_DELETE_BULK1": "Kanaal-ID:",
+    "MESSAGE_DELETE_BULK2": "[EVENT — VERWIJDERDE BERICHTEN]",
+    "MESSAGE_DELETE_BULK3": "Aantal berichten:",
+    "MESSAGE_DELETE_BULK4": "Verwijderde berichten:",
+    "MESSAGE_DELETE_BULK5": "zien",
+    "MESSAGE_DELETE_BULK6": "op de server",
+    "MESSAGE_DELETE_BULK7": "DeletedMessages.txt"
+}

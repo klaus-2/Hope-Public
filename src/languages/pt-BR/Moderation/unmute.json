@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Desilencia um usuario.",
+    "USAGE": "desmutar <user> \n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "desmutar <user>",
+    "EXAMPLE": "desmutar Hope"
+}

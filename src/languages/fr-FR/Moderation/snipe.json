@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Recevoir les messages supprimés.",
+    "USAGE": "snipe\n💡**Exemple**: {{EXAMPLE}}",
+    "USAGEE": "snipe",
+    "EXAMPLE": "snipe",
+    "SNIPE": "Il n'y a aucun message supprimé dans ce salon !",
+    "SNIPE1": "Message 📋Snipe Delete📋",
+    "SNIPE2": "=> Auteur: ```{{author}}```\n=> Message Delete:```{{content}}```\nClink :x: pour effacer ce message"
+}

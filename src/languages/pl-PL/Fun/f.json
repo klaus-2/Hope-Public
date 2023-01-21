@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Złóż szacunek!",
+    "USAGE": "f\n💡 **Przykład: {{EXAMPLE}}",
+    "USAGEE": "f",
+    "EXAMPLE": "f",
+    "F": "wypłacił szacunek.",
+    "F1": "Naciśnij klawisz F, aby złożyć szacunek.",
+    "F2": "wypłacił szacunek",
+    "F3": "Naciśnij klawisz F, aby złożyć szacunek."
+}

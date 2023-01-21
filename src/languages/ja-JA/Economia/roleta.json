@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "お金のためにルーレットにベットします。",
+    "USAGE": "roulette\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "ルーレット",
+    "EXAMPLE": "ルーレット",
+    "ROLETA": "<: cancel: 855859391709577266> プレイする金額を指定する | {{prefix}}ルーレット <color> <quantity>",
+    "ROLETA1": "<: cancel: 855859391709577266> おまえは持ってる以上に賭けてる",
+    "ROLETA2": "<:cancel:855859391709577266> 色の指定｜赤[1.5x](ノーマル) 黒[2x](ハード) 青[15x](レア)",
+    "ROLETA3": "ブラック",
+    "ROLETA4": "赤",
+    "ROLETA5": "青",
+    "ROLETA6": "🔵 {{dinheiro}} のスキンコインを獲得しました。\n\n掛けています。 15x",
+    "ROLETA7": "🔴 {{dinheiro}} skcoins を獲得しました\n\n乗算: 1.5x",
+    "ROLETA8": "⬛ {{dinheiro}} skcoinsを獲得しました\n\n乗算: 2x",
+    "ROLETA9": "<: cancel: 855859391709577266> 負けた {{dinheiro}} skcoins\n\n掛けた:0x"
+}

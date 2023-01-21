@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "ギルドのログを設定します",
+    "USAGE": "applylog <enable #channel | disable>\n💡**例**: {{EXAMPLE}}",
+    "USAGEE": "applylog <enable #channel | disable>",
+    "EXAMPLE": "applylog enable #test"
+}

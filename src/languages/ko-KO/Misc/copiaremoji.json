@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "다른 서버에서 이모티콘을 복사하여 서버에 추가합니다.",
+    "USAGE": "카피이모티콘 <emoji>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "카피이모티콘 <emoji>",
+    "EXAMPLE": "카피이모티콘 <emoji>",
+    "ECOE_DESC": "이모티콘이 서버에 성공적으로 추가되었습니다!",
+    "ECOE_DESC1": "이름:",
+    "ECOE_DESC2": "미리보기: [보려면 클릭] ({{Link}})",
+    "EURL_DESC": "안녕하세요,",
+    "EMOJI_INVALIDO": "올바른 그림 이모티콘이 필요합니다!",
+    "EMOJI_PADRÃO": "표준 이모티콘은 다운로드로 변환할 수 없습니다."
+}

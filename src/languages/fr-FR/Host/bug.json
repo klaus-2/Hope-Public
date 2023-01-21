@@ -1,0 +1,22 @@
+{
+    "DESCRIPTION": "signaler un bogue à mon développeur.",
+    "USAGE": "bug <message>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "bogue <message>",
+    "EXAMPLE": "bogue que j'essaie d'utiliser la commande de test mais cela ne fonctionne pas.",
+    "HBUG_DESC": "Vous devez attendre 5 minutes avant d'utiliser cette commande à nouveau!",
+    "HBUG_DESC1": "Nom:",
+    "HBUG_DESC2": "ID:",
+    "HBUG_DESC3": "Compte créé le",
+    "HBUG_DESC4": "Message :",
+    "HBUG_DESC5": "Veuillez utiliser le modèle ci-dessous pour répondre",
+    "HBUG_DESC6": "> RÉPONDRE EN PRIVÉ",
+    "HBUG_DESC7": "  u.send(`**Re: Feedback/Bug**\nMESSAGE HERE`)`",
+    "HBUG_DESC8": "> RESPONSABLE SUR LA CHAÎNE",
+    "HBUG_DESC9": "Re: Feedback/Bug**\nMESSAGE ICI",
+    "HBUG_DESC10": "Envoyé depuis le serveur",
+    "HBUG_DESC11": "Dans",
+    "HBUG_DESC12": "Il y a eu un problème, veuillez le signaler sur mon serveur de support ```{{prefix}}support```",
+    "HBUG_DESC13": "Salut {{author}}, tout s'est bien passé !",
+    "HBUG_DESC14": "Votre rapport a déjà atteint mon développeur et il répondra dès que possible, soyez patient.",
+    "HBUG_DESC15": "Si vous abusez de ceci, vous serez empêché d'utiliser cette commande !\nOh et désolé pour le désagrément si vous avez eu un problème. <:SkyeAmor:823223048290172928>"
+}

@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "找到服务器上最老的成员。",
+    "USAGE": "旧\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "旧",
+    "EXAMPLE": "旧",
+    "FOLD_DESC": "哇！我在这台服务器上找到了最老的成员",
+    "FOLD_DESC1": "是中年龄最大的用户",
+    "FOLD_DESC2": "你的 Discord 账户是在以下位置创建的",
+    "FOLD_DESC3": "哎呀，那已经很长时间了！"
+}

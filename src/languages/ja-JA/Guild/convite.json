@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "このサーバーへの招待を作成します。",
+    "USAGE": "invite [temp]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "[temp]を招待する",
+    "EXAMPLE": "誘う",
+    "CONVITE": "リクエストされたもの:",
+    "CONVITE1": "このサーバーへの招待は正常に生成されました。"
+}

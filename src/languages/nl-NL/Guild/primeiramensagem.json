@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Ontvangt het eerste bericht van het kanaal.",
+    "USAGE": "eerste bericht [channel]\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "eerste bericht [channel]",
+    "EXAMPLE": "eerste bericht #test",
+    "PRIMEIRA_MENSAGEM": "❯ Ga naar het bericht"
+}

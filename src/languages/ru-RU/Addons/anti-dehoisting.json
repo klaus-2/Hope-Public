@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Настройка модуля автоматического аддона анти-дезактивирования.",
+    "USAGE": "anti-dehoisting\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "anti-dehoisting",
+    "EXAMPLE": "anti-dehoisting 2",
+    "DEHOISTING": "enable",
+    "DEHOISTING1": "`[AUTO-MOD]` Анти-детолист был успешно активирован.",
+    "DEHOISTING2": "disable",
+    "DEHOISTING3": "`[AUTO-MOD]` Анти-детолист был успешно отключен."
+}

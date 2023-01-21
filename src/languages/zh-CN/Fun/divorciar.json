@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "用户离婚。",
+    "USAGE": "离婚\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "离婚",
+    "EXAMPLE": "离婚",
+    "FDIV_DESC": "🙁 | <@{{author}}>，你是单身。",
+    "FDIV_DESC1": "用 {{prefix}}结婚 <user> 结婚",
+    "FDIV_DESC2": "你想离婚吗",
+    "FDIV_DESC3": "回答：“是” 或 “否” 来下定决心。",
+    "FDIV_DESC4": "<@{{author}}>，恭喜你还结婚了！，💕",
+    "FDIV_DESC5": "<@{{author}}>，太糟糕了，你们离婚了，💔"
+}

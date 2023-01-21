@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "wiederholen Sie ein Mu<unk> sica oder fila.",
+    "USAGE": "schleife [Warteschlange / Song]\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "schleife [Warteschlange / Song]",
+    "EXAMPLE": "wiederhole Warteschlange | Loop-Song | Schleife",
+    "REPETIR": "sonde",
+    "ENABLED": "aktiviert",
+    "DISABLED": "deaktiviert",
+    "REPETIR3": "{{trackRepeat}} Track-Wiederholung.",
+    "REPETIR4": "Warteschlange",
+    "REPETIR7": "{{queueRepeat}} Warteschlange wiederholen."
+}

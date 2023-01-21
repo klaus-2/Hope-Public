@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "afficher la position de connexion d'un utilisateur sur le serveur.",
+    "USAGE": "position <user>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "position <user>",
+    "EXAMPLE": "position @Hope",
+    "EPOS_DESC": "Rejoindre le poste",
+    "EPOS_DESC1": "était le",
+    "EPOS_DESC2": "l'utilisateur dans lequel vous souhaitez entrer"
+}

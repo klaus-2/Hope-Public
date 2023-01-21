@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "在垃圾桶中播放用户的照片。",
+    "USAGE": "垃圾桶 [user]\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "垃圾桶",
+    "EXAMPLE": "垃圾 @Hope",
+    "FLIXO_DESC": "刚刚扔了",
+    "FLIXO_DESC1": "在垃圾桶里",
+    "FLIXO_DESC2": "你会放开这个吗？",
+    "FLIXO_DESC3": "甚至得到 😈",
+    "FLIXO_DESC4": "哇！"
+}

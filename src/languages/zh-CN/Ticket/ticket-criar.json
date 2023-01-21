@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "criar 嗯票。",
+    "USAGE": "票证 criar [motivo]\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "票务设置",
+    "EXAMPLE": "票务设置",
+    "TICKET_CRIAR": "用户创建了票证",
+    "TICKET_CRIAR1": "票证创建成功！",
+    "TICKET_CRIAR2": "<: v_: 855859391835799582> 你可以在频道上看到它：<{{channel}}>",
+    "TICKET_CRIAR3": "你好 {{author}}，我是 Hope",
+    "TICKET_CRIAR4": "你在等待来自的人时接受 ☕",
+    "TICKET_CRIAR5": "我来找你说话？\n\n嗯...他们花的时间太长了，等等，我会打电话给他们！\n📢 哦",
+    "TICKET_CRIAR6": "是时候上班了！",
+    "TICKET_CRIAR7": "你来这里的原因是：",
+    "TICKET_CRIAR8": "门票开了！",
+    "TICKET_CRIAR9": "Ticket",
+    "TICKET_CRIAR10": "用户",
+    "TICKET_CRIAR11": "原因",
+    "TICKET_CRIAR12": "由... 打开",
+    "COOLDOWN": "你可以在 {{NUM}} 分钟内开票。"
+}

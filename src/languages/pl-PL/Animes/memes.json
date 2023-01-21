@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Generuj losowy meme anime z wybranych podzredditów.",
+    "USAGE": "memes\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "memy",
+    "EXAMPLE": "memy | animeme | ameme | animememe",
+    "AMEMES_DESC": "Nie udało się"
+}

@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Abilita o disabilita il comando addon di Skype sul server.",
+    "USAGE": "mod-commands <enable | disable>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "mod-commands <enable | disable>",
+    "EXAMPLE": "mod-comandos abilita"
+}

@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Ustaw szybkość odtwarzania odtwarzacza.",
+    "USAGE": "prędkość <value>\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "prędkość <value>",
+    "EXAMPLE": "prędkość 4",
+    "ON_SPD": "Aktualizacja szybkości odtwarzania. Może to potrwać kilka sekund...",
+    "VELOCIDADE": "Prędkość została zmieniona na {{num}}"
+}

@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "den langsamen Modus auf einem Kanal aktivieren.",
+    "USAGE": "slowmode <time / off>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "slowmode <time / off>",
+    "EXAMPLE": "slowmode 20m | langsamer Modus aus"
+}

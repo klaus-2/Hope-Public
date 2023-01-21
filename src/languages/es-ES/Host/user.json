@@ -1,0 +1,8 @@
+{
+  "DESCRIPTION": "Editar los datos de un usuario",
+  "USAGE": "usuario <id> [premium/prohibido] [true/false]",
+  "SUCCESS_PREM": "Se ha actualizado correctamente la prima del usuario.",
+  "SUCCESS_BAN": "Se ha actualizado correctamente la prohibición global del usuario.",
+  "SUCCESS_RANK": "Se ha actualizado correctamente el fondo de clasificación del usuario.",
+  "SUCCESS_RESET": "Restablecer correctamente los datos del usuario."
+}

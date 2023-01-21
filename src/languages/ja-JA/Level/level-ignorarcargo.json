@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "このサーバーの Hope 自動ロールを設定します。",
+    "USAGE": "level-ignorerole <roleID>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "レベル無視ロール <roleID>",
+    "EXAMPLE": "level-ignorerole 328328777266673",
+    "LVL_IGNCARGO": "設定: `Level`",
+    "LVL_IGNCARGO1": "<: v_: 855859391835799582> O `auto role` が正常に更新されました。",
+    "LVL_IGNCARGO2": "自動ロール",
+    "LVL_IGNCARGO3": "から変更されました"
+}

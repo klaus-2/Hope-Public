@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "在轮盘赌上下注以赚钱。",
+    "USAGE": "轮盘赌\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "轮盘赌",
+    "EXAMPLE": "轮盘赌",
+    "ROLETA": "<: 取消:855859391709577266> 指定要玩的金额 | {{prefix}}轮盘赌 <color> <quantity>",
+    "ROLETA1": "<: 取消:855859391709577266> 你的赌注超过了你的投注",
+    "ROLETA2": "<: 取消:855859391709577266> 指定颜色 | 红色 [1.5x] （正常）黑色 [2x] （硬）蓝色 [15x]（稀有）",
+    "ROLETA3": "黑色",
+    "ROLETA4": "红色",
+    "ROLETA5": "蓝色",
+    "ROLETA6": "🔵 你赢了 {{dinheiro}} 个 skcoins\n\n乘以：15 倍",
+    "ROLETA7": "🔴 你赢了 {{dinheiro}} 个 skcoins\n\n乘以：1.5 倍",
+    "ROLETA8": "⬛ 你赢了 {{dinheiro}} 个 skcoins\n\n乘以：2 倍",
+    "ROLETA9": "<: 取消:855859391709577266> 你失去了 {{dinheiro}} 个斯科币\n\n乘以:0x"
+}

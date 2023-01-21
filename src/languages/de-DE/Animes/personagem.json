@@ -1,0 +1,18 @@
+{
+    "DESCRIPTION": "Suche einen Charakter auf MyAnimeList.net",
+    "USAGE": "Zeichen <name>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "Zeichen <name>",
+    "EXAMPLE": "character mai sakurajima | anichar Mai Sakurajima | char Mai-san | character mai",
+    "APERSO_DESC": "Suche nach einem Zeichen namens **{{query}}** in <:MyAnimeList:827773575112425472> [MyAnimeList](https://myanimelist.net 'Site').",
+    "APERSO_DESC1": "Es wurden keine Ergebnisse für **{{query}}** gefunden!\n\nWenn du glaubst, dass dieses Zeichen existiert, versuche es mit ihren alternativen Namen.",
+    "APERSO_DESC2": "Ich habe eine begrenzte Rate auf {{badge}}. Bitte versuche es später erneut.",
+    "APERSO_DESC3": "Konnte nicht auf {{badge}}zugreifen. Die Seite ist im Moment nicht verfügbar.",
+    "APERSO_DESC4": "Nichts gefunden",
+    "APERSO_DESC5": "Antwortfehler",
+    "APERSO_DESC6": "antwortete mit HTTP-Fehlercode",
+    "APERSO_DESC7": "Lesen Sie mehr",
+    "APERSO_DESC8": "visuelle",
+    "APERSO_DESC9": "Keine",
+    "APERSO_DESC10": "und",
+    "APERSO_DESC11": "mehr!"
+}

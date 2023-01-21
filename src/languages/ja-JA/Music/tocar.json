@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "曲を再生する。",
+    "USAGE": "play <link / song name>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "<link / song name>を再生",
+    "EXAMPLE": "play palaye royale | play <attachment> | play https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "TOCAR": "キュー",
+    "TOCAR1": "曲",
+    "TOCAR2": "が現在のプレイキューに追加されました。",
+    "TOCAR3": "曲名/URL を入力してください",
+    "TOCAR4": "キューに入った **{{num}}** トラック",
+    "TOCAR5": "キューに追加されました:[{{title}}] ({{url}})"
+}

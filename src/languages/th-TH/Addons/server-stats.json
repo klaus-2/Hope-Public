@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Display statistics on your server.",
+    "USAGE": "server-stats <enable | disable>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "server-stats <enable | disable>",
+    "EXAMPLE": "server-stats enable",
+    "STATS": "enable",
+    "STATS1": "addon ของโปรแกรม `Server-Stats` ได้รับการเปิดใช้งานเรียบร้อยแล้ว",
+    "STATS2": "disable",
+    "STATS3": "addon ของ `Server Stats` ถูกปิดใช้งานเรียบร้อยแล้ว",
+    "STATS4": "อ๊ะ! คุณต้องเปิดใช้งาน Addon ก่อน"
+}

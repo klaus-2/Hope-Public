@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "为此服务器设置 Hope 自动角色。",
+    "USAGE": "级别忽略角色 <roleID>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "级别忽略角色 <roleID>",
+    "EXAMPLE": "级别忽略角色 328328777266673",
+    "LVL_IGNCARGO": "设置：`Level `",
+    "LVL_IGNCARGO1": "<: v_: 855859391835799582>o “自动角色” 已成功更新。",
+    "LVL_IGNCARGO2": "自动角色",
+    "LVL_IGNCARGO3": "已更改自"
+}

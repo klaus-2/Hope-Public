@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "创建一个 QR 码。",
+    "USAGE": "二维码 <text / file>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "二维码 <text / file>",
+    "EXAMPLE": "qrcode https://www.google.com/ | 二维码 <attachment> | 二维码你好，怎么了",
+    "QR1": "你好",
+    "QR2": "你转换了：",
+    "QR3": "在 QRCODE 中成功使用。"
+}

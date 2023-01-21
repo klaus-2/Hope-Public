@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "ランダムなwaifuを生成する。",
+    "USAGE": "waifu\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "waifu",
+    "EXAMPLE": "waifu",
+    "AWAIFU_DESC": "このコマンドはまだ開発中です。画像はときどきNSFWになることがあります。このコマンドの仕組みを確認するには、NSFWチャンネルに行ってください。",
+    "AWAIFU_DESC1": "の"
+}

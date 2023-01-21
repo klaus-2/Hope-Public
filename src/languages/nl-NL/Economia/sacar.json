@@ -1,0 +1,23 @@
+{
+    "DESCRIPTION": "Neem direct geld op van je bankrekening.",
+    "USAGE": "<value> intrekken | [all]\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "terugtrekken <value> | [all]",
+    "EXAMPLE": "5000 intrekken | alles opnemen",
+    "SACAR": "allemaal",
+    "SACAR1": "<:cancel:855859391709577266> **Je hebt geen geld om te tekenen! **",
+    "SACAR2": "<:v_:855859391835799582> Je hebt al je geld van je bankrekening opgenomen. <:SkyeTimida:823046655632211989> Pas op voor beroofd worden!",
+    "SACAR3": "<:cancel:855859391709577266> Geef een bedrag op dat u wilt opnemen!",
+    "SACAR4": "<:cancel:855859391709577266> Uw waarde is geen getal!",
+    "SACAR5": "<:cancel:855859391709577266> Je kunt geen negatief geld opnemen!",
+    "SACAR6": "<:cancel:855859391709577266> Je hebt niet veel geld op de bank! `gebruik {{prefix}}saldo` om erachter te komen hoeveel je bezit.",
+    "SACAR7": "Je hebt het.",
+    "SACAR8": "skcoins van je bankrekening!",
+    "SACAR9": "je hebt niet genoeg geld in je bank om door te gaan met deze transactie.",
+    "SACAR10": "Je hebt alleen**R$",
+    "SACAR11": "skcoins** op je account.\nNog steeds over**$",
+    "SACAR12": "skcoins** om de transactie te voltooien.\n(**Vergeet niet dat er 5% transactiekosten zijn inbegrepen**)",
+    "SACAR13": "Als u al uw geld in één keer wilt opnemen, typt u",
+    "SACAR14": "alles tekenen",
+    "SACAR15": "je kunt deze grote hoeveelheid geld niet opnemen! \n(Je kunt maar tot 50 duizend skcoins in je portemonnee hebben, voor de veiligheid).",
+    "SACAR16": "(** +5% transactiekosten inbegrepen**)."
+}

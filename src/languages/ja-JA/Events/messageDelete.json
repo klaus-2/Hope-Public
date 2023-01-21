@@ -1,0 +1,11 @@
+{
+    "MESSAGE_DELETE": "からのメッセージ",
+    "MESSAGE_DELETE1": "で削除されました",
+    "MESSAGE_DELETE2": "著者 ID:",
+    "MESSAGE_DELETE3": "メッセージ ID:",
+    "MESSAGE_DELETE4": "[イベント — 削除されたメッセージ]",
+    "MESSAGE_DELETE5": "コンテンツ",
+    "MESSAGE_DELETE6": "（短縮）",
+    "MESSAGE_DELETE7": "*空*",
+    "MESSAGE_DELETE8": "添付ファイル"
+}

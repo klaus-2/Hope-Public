@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "显示 Hope 的最新消息。",
+    "USAGE": "新闻\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "新闻",
+    "EXAMPLE": "新闻",
+    "NEWS": "Hope 新闻",
+    "NEWS1": "发布日期："
+}

@@ -1,0 +1,20 @@
+{
+    "CHANNEL_UPDATE": "ザ・カテゴリー",
+    "CHANNEL_UPDATE1": "ザ・チャンネル",
+    "CHANNEL_UPDATE2": "名前が変更されました",
+    "CHANNEL_UPDATE3": "[イベント — 名前が変更されました]",
+    "CHANNEL_UPDATE4": "古い名前:",
+    "CHANNEL_UPDATE5": "新しい名前:",
+    "CHANNEL_UPDATE6": "彼の話題は変わったの",
+    "CHANNEL_UPDATE7": "[イベント — トピックが変更されました]",
+    "CHANNEL_UPDATE8": "から:",
+    "CHANNEL_UPDATE9": "To:",
+    "CHANNEL_UPDATE10": "*空のトピック*",
+    "CHANNEL_UPDATE11": "権限が変更されました**\n*注意:* 数字の意味を知るために [ドキュメント](https://discordapp.com/developers/docs/topics/permissions) を参照してください。",
+    "CHANNEL_UPDATE12": "[イベント — トピックが変更されました]",
+    "CHANNEL_UPDATE13": "許可されるパーマ:",
+    "CHANNEL_UPDATE14": "パーマが拒否されました:",
+    "CHANNEL_UPDATE15": "代替品は除外されました",
+    "CHANNEL_UPDATE16": "[イベント — 地域が変更されました]",
+    "CHANNEL_UPDATE17": "その地域は変わった"
+}

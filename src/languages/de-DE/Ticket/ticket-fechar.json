@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "fechar um ticket.",
+    "USAGE": "t-close\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "-Schließen",
+    "EXAMPLE": "-Schließen"
+}

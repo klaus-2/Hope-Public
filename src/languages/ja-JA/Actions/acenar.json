@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "誰かに手を振ってください。",
+    "USAGE": "波 [user]",
+    "USAGEE": "波 [user]",
+    "ACENAR_DESCRIÇÃO1": "<@{{author}}> 手を振った！",
+    "ACENAR_DESCRIÇÃO2": "<@{{user}}> が振り返りました",
+    "ACENAR_DESCRIÇÃO3": " 手を振った "
+}

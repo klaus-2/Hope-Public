@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Crie uma resposta automática que é acionada sem um prefixo!",
+    "USAGE": "autoresposta <comando> <resposta>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "autoresposta <comando> <resposta>",
+    "EXAMPLE": "autoresposta oi Olá!",
+    "AUTO_RESPOSTA": "<:cancel:855859391709577266> O nome da sua auto-resposta ultrapassou 30 caracteres!",
+    "AUTO_RESPOSTA1": "<:cancel:855859391709577266> A resposta do seu comando ultrapassou 2000 caracteres!",
+    "AUTO_RESPOSTA2": "<:cancel:855859391709577266> Limite de Auto Respostas Atingido **(10)**\n\n[Torne-se PREMIUM para comandos ilimitados]({{config}})",
+    "AUTO_RESPOSTA3": "Auto-resposta adicionado:",
+    "AUTO_RESPOSTA4": "Você pode deletar essa Auto-Resposta usando",
+    "AUTO_RESPOSTA5": "deletaresposta <nome da auto-resposta>",
+    "AUTO_RESPOSTA6": "Já existe uma auto-resposta com este nome!"
+}

@@ -1,0 +1,18 @@
+{
+    "DESCRIPTION": "Exibe o status do usuario.",
+    "USAGE": "Premium\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "Prämie",
+    "EXAMPLE": "Prämie",
+    "PREMIUM_AUTHOR": "Hallo, {{author}}",
+    "PREMIUM_DESC": "Dies ist die **Premium-Abonnement** Information für den **{{guild}}** Server",
+    "PREMIUM_DESC1": "**Aktueller Plan:** {{plan}}",
+    "PREMIUM_DESC2": "Code: ||**{{code}}**||",
+    "PREMIUM_DESC3": "Erlösungsdatum:** {{date}}",
+    "PREMIUM_DESC4": "**Einlösen von:** <@{{user}}>",
+    "PREMIUM_DESC5": "**Server-ID:** {{guild}}",
+    "PREMIUM_DESC6": "**Läuft ab am:** {{expires}}",
+    "PREMIUM_TITULO": "Hallo, {{author}}",
+    "PREMIUM_FOOTER": "Denken Sie daran, dass nach Ablauf des Pakets alle Premium-Funktionen automatisch auf dem Server deaktiviert werden.",
+    "PREMIUM_DESC7": "Ich bin froh, dass du Premium werden möchtest!\n\nPremium ist eine Art und Weise, mich zurückzugeben und einige nette Vorteile von mir zu bekommen.\n\n**BEKOMMENSHope PREMIUM WIRD DU BESCHRÄNKT WERDEN:**\n• Lass Hope auf einem Sprachkanal 24/7\n• Erstelle vollständige Serversicherung (erspart, Ich kann alle Kategorien, Kanäle, Nachrichten, Emojis und Positionen speichern)\n• Anpassen Addon Einbettungen Ticket, Klebstoff und Geburtstag.\n• Erlaubnis, mehr als 2 Playlist auf HopeDJ zu erstellen <:SkyeOuvindoMusica:823046654554144768>\n• Geldbonus für Skys globales Wirtschaftssystem.\n• Löschen Sie bis zu 1000 Nachrichten gleichzeitig mit dem Clear Befehl.\n• Auto-Response-Addon-Limit von 10 auf No Limit geändert.\n• Sie können mehr als 3 Reaktionsrollen erstellen.\n• Mehr als 10 Animes in Auto-Animes Addon hinzufügen\n• Mehr als 10 Kanäle im Auto-YouTube-Addon hinzufügen\n• Mehr als 2 Kanäle in Auto-Twitch-Addon hinzufügen\n\nEs ist eine Menge, nicht wahr? Bild um Zugriff auf all dies und kostenlos zu haben? Können Sie es nicht glauben? hmmm. . Weil glauben Sie mir! Und es gibt zwei Möglichkeiten, um Premium zu erhalten:\n\n**1 - BOOST AUF MEIN [SUPPORT SERVER]({{SupportServer}})**\nEin kleiner Boost würde nicht schaden, oder? Neben meinem Support-Server einfallsreicher zu machen, wird es mir erlauben, wirklich coole Emojis in meinen Nachrichten zu senden.\nDes Weiteren ist Boost auf dem Support-Server das Äquivalent zu **30 Tagen PREMIUM**, und jedem Benutzer Ihres Servers oder jeden Freund, kann meinen Server boosten und die Premium auf deinem Server für dich aktivieren, wenn du keinen Discord Nitro hast.\n\n**2 - Hope ABSTIMMUNG**\nDurch Abstimmung für mich du hilfst mir mehr Sichtbarkeit zu bekommen, so coole Leute wie du mich auf ihren Servern haben kannst.\nDu kannst die Liste der verfügbaren Botlists mit dem `{{prefix}}vote` Befehl ansehen\nOh, und jede Stimme entspricht **12 Stunden PREMIUM**, und Sie können alle 12 Stunden abstimmen.",
+    "PREMIUM_FOOTER1": "Wann immer du Skype unterstützst, beweisen Sie, dass sie auf dem richtigen Weg ist und geben ihrem Entwickler einen super Anreiz, sie weiter zu verbessern."
+}

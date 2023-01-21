@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "pokaż aktualnie odtwarzany utwór.",
+    "USAGE": "np\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "np",
+    "EXAMPLE": "np",
+    "MUSICA": "🔴 NA ŻYWO",
+    "MUSICA1": "» Odtwarzanie teraz:",
+    "MUSICA2": "Link do dostępu",
+    "MUSICA3": "kliknij tutaj",
+    "MUSICA4": "Żądany przez",
+    "MUSICA5": "Czas trwania"
+}

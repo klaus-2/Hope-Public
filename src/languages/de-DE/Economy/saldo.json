@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Zeigt dein aktuelles Guthaben.",
+    "USAGE": "balance\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "saldo",
+    "EXAMPLE": "saldo",
+    "SALDO": "Hier finden Sie alle Informationen über Ihre Wirtschaft!",
+    "SALDO1": "<:carteira:855169963470880778> Wallet",
+    "SALDO2": "$",
+    "SALDO3": "skcoins in Ihrer Brieftasche",
+    "SALDO4": "<:banco:855170000985391186> Bank",
+    "SALDO5": "skcoins auf deiner Bank",
+    "SALDO6": "Aktuelle Reihe:",
+    "SALDO7": "Alles am besten:",
+    "SALDO8": "links",
+    "SALDO9": "Sträge(n) um ein **Belohnung Item \\✨",
+    "SALDO10": "<:bonus:855181102893498438> Bonus",
+    "SALDO11": "✔️ Der tägliche Bonus wurde bereits **beansprucht**! Du kannst ihn erneut beanspruchen unter",
+    "SALDO12": "und",
+    "SALDO13": "⚠️ Täglicher Bonus ist **verfügbar**!\nBenutze `{{prefix}}täglich, um ihn einzulösen."
+}

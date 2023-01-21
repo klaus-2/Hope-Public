@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Fai una gita di pesca.",
+    "USAGE": "fish\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "pesce",
+    "EXAMPLE": "pesce",
+    "PESCAR": "<:cancel:855859391709577266> Whoa! Dal momento che non è passato molto tempo da quando hai rilasciato una linea, i pesci sono ancora spaventati.\nForse in pochi",
+    "PESCAR1": "e",
+    "PESCARR": "sono già calmi per voi a peccare di nuovo <:SkyeIssoai2:823248929700446228>",
+    "PESCAR2": "🎣 Hai lanciato la tua linea e hai preso un",
+    "PESCAR3": "Dopo averlo venduto al pescatore del tuo Pietro, hai **$",
+    "PESCAR4": "skcoins!",
+    "PESCAR5": "list",
+    "PESCAR6": "premi",
+    "PESCAR7": "Elenco dei nomi dei pesci e delle ricompense che puoi ottenere",
+    "PESCAR8": "```\n🔧Cestino :: Ricompensa massima: 5, Ricompensa minima: 1\n🐟Common :: Ricompensa massima: 25, Premio minimo: 10\n🐠Non comune :: Premio massimo: 50, Premio minimo: 18\n🦑Rare :: Premio massimo: 75, Premio minimo: 30\n🐋Legendary :: Premio massimo: 100, Ricompensa minima: 50```\n**Tutte le ricompense sono casuali da max / min **<unk>"
+}

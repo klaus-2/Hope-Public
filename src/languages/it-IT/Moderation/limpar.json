@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "cancella tutti i messaggi da un canale contemporaneamente.",
+    "USAGE": "nuke\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "nuke",
+    "EXAMPLE": "nuke",
+    "LIMPAR": "Questo canale non può essere cancellato! Cosa stai pensando?",
+    "LIMPAR1": "BAM! <#{{channel}}> **è stato cancellato pulito.**"
+}

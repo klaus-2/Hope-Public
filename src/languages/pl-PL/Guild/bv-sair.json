@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Włącz lub wyłącz dodatek wiadomości, gdy użytkownik wyloguje się z serwera.",
+    "USAGE": "bv-leave <enable | disable>\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "bv-urlop <enable | disable>",
+    "EXAMPLE": "bv-urlop na"
+}

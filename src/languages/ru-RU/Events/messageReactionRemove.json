@@ -1,0 +1,7 @@
+{
+    "MESSAGE_REACTION_REMOVE": "убрали реакцию",
+    "MESSAGE_REACTION_REMOVE1": "этого сообщения",
+    "MESSAGE_REACTION_REMOVE2": "Идентификатор пользователя:",
+    "MESSAGE_REACTION_REMOVE3": "Идентификатор сообщения:",
+    "MESSAGE_REACTION_REMOVE4": "[EVENT — РЕАКЦИЯ УДАЛЕНА]"
+}

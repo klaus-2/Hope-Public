@@ -1,0 +1,8 @@
+{
+    "CHANNEL_CREATE": "Kanał tekstowy",
+    "CHANNEL_CREATE1": "Kanał głosowy",
+    "CHANNEL_CREATE2": "Kategoria",
+    "CHANNEL_DELETE": "W",
+    "CHANNEL_DELETE1": "został usunięty",
+    "CHANNEL_DELETE2": "[EVENT — KANAŁ USUNIĘTY]"
+}

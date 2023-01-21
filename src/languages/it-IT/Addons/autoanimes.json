@@ -1,0 +1,22 @@
+{
+    "DESCRIPTION": "Imposta l'autoanime addon.",
+    "USAGE": "auto-animes <add | remove >\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "anime automatiche <add | remove >",
+    "EXAMPLE": "auto-animes add",
+    "ANIMES": "enable",
+    "ANIMES1": "L'addon `Auto-Animes` è stato attivato con successo.",
+    "ANIMES2": "disable",
+    "ANIMES3": "L'addon `Auto-Animes` è stato disabilitato con successo.",
+    "ANIMES4": "channel",
+    "ANIMES5": "Oops! Non mi sembra di avere accesso a questo canale, o non esiste su questo server. Controlla e riprova!",
+    "ANIMES6": "Il canale è stato aggiornato con successo a <#{{channel}}> nell'addon `Auto-Animes`.",
+    "ANIMES7": "add",
+    "ANIMES8": "Oops! È successo qualcosa qui.\n1- Il nome digitato dell'anime potrebbe essere sbagliato, in questo caso basta controllare e riprovare.\n2- L'anime non è più in mostra, in questo caso, controllare l'anime corrente in mostra e i loro nomi corretti su [questo link](https://anilist. o/search/anime?year=2021&airing%20status=RELEASING) e riprova.",
+    "ANIMES9": "Oops! Scusa, ma hai raggiunto il limite di 10 anime! Rendi questo server premium per aggiungere anime illimitate.",
+    "ANIMES10": "Oops! Sembra che questo anime sia già stato aggiunto all'addon `Auto-Animes`. Controlla la lista attuale in **{{prefix}}autoanimes list**.",
+    "ANIMES11": "Oops! Sembra che tu abbia raggiunto il limite massimo di 999.",
+    "ANIMES12": "Anime {{title}} è stato aggiunto con successo all'addon `Auto-Animes`.",
+    "ANIMES13": "remove",
+    "ANIMES14": "Anime {{search}} è stato rimosso con successo dall'addon `Auto-Animes`.",
+    "ANIMES15": "Oops! Sembra che questo anime non sia stato aggiunto all'addon `Auto-Animes`. Per controllare l'elenco degli anime corrente, usa `{{prefix}}autoanimes list`."
+}

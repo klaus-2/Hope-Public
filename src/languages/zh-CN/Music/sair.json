@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "断开机器人与语音频道的连接。",
+    "USAGE": "dc\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "dc",
+    "EXAMPLE": "dc"
+}

@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Hold hands with someone special.",
+    "USAGE": "holdhands <user>",
+    "USAGEE": "holdhands <user>",
+    "MAOS_DESCRIÇÃO": "\\❌ **<@{{author}}>**, who would you like to hold your hands of?!",  
+    "MAOS_DESCRIÇÃO1": "is holding the hands of",
+    "MAOS_DESCRIÇÃO2": "\\❌ **<@{{author}}>**, you need to tell whose you'd like to hold your hands"
+}

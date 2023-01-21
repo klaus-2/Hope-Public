@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Activer ou désactiver le module complémentaire de message lorsqu'un utilisateur se déconnecte du serveur.",
+    "USAGE": "bv-leave <enable | disable>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "bv-leave <enable | disable>",
+    "EXAMPLE": "bv-leave on"
+}

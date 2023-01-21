@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "uzyskać informacje o horoskopie dzisiaj.",
+    "USAGE": "horoskop <sign>\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "horoskop <sign>",
+    "EXAMPLE": "Byk horoskop",
+    "FHOR_DESC": "Proszę, daj mi znak na jego horoskop!",
+    "FHOR_DESC1": "To nie jest ważny znak!",
+    "FHOR_DESC2": "Przepraszam! Moje API (Horoskop Machine) nie działa!",
+    "FHOR_DESC3": "nastrój",
+    "FHOR_DESC4": "Żadnych danych.",
+    "FHOR_DESC5": "intensywności",
+    "FHOR_DESC6": "Słowa kluczowe"
+}

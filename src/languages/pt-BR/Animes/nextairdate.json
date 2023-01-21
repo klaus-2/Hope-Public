@@ -1,0 +1,23 @@
+{
+    "DESCRIPTION": "Mostra o tempo restante para o próximo episódio de determinado anime. Retorna a programação deste dia, se nenhum anime for especificado.",
+    "USAGE": "proximos-episodios [anime]\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "proximos-episodios",
+    "EXAMPLE": "proximos-episodios | pep boruto | proximos-episodios black clover | proximos-episodios attack on titan | pep tensura",
+    "APEP_DESC": "Nada encontrado!",
+    "APEP_DESC2": "Response Error",
+    "APEP_DESC3": "**{{member}}**, An unexpected error has occured!\n\n",
+    "APEP_DESC4": "Por favor, tente novamente em alguns minutos. Isso geralmente é causado por um tempo de inatividade do servidor.",
+    "APEP_DESC5": "**{{member}}**, Esse anime pode já ter **terminado a exibição**, ",
+    "APEP_DESC6": "tem a **próxima data do ep desconhecido**, ou aquele anime pode **nunca ter existido**!",
+    "APEP_DESC7": "Episódio",
+    "APEP_DESC8": "Episódio final",
+    "APEP_DESC9": "de",
+    "APEP_DESC10": "irá ao ar em aproximadamente",
+    "APEP_DESC11": "Data de transmissão do próximo episódio em",
+    "APEP_DESC12": "é atualmente desconhecido.",
+    "APEP_DESC13": "Estreia a seguir",
+    "APEP_DESC14": "vai ao ar em",
+    "APEP_DESC15": "A data do próximo episódio é atualmente **desconhecido**.\n\u200b",
+    "APEP_DESC16": "Vai ao ar mais tarde",
+    "APEP_DESC17": "Nenhum Anime foi encontrado nos próximos 7 dias.\n\u200b"
+}

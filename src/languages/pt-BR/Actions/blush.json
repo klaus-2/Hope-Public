@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Expresse um setimento de vergonha/corar.",
+    "USAGE": "vergonha [user]\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "vergonha [user]",
+    "EXAMPLE": "vergonha @Hope",
+    "VERGONHA_DESCRIÇÃO": "<@{{author}}> está com vergonha",  
+    "VERGONHA_DESCRIÇÃO1": "está com vergonha de"
+}

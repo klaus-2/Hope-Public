@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "cambiar el apodo de un usuario.",
+    "USAGE": "nick <user> <newNick>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "nick <user> <newNick>",
+    "EXAMPLE": "nick @Hope @Hope <3",
+    "ENTER_NICKNAME": "Por favor, introduzca un apodo.",
+    "LONG_NICKNAME": "El apodo debe tener menos de 32 caracteres."
+}

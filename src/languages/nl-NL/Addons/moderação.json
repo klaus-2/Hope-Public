@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Schakel de moderatie-add-on in of uit.",
+    "USAGE": "moderatie <enable | disable>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "moderatie <enable | disable>",
+    "EXAMPLE": "moderatie inschakelen"
+}

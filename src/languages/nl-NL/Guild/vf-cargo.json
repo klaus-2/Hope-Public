@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "configureer de controlepositie.",
+    "USAGE": "vf-role <newroleID>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "vf-rol <newroleID>",
+    "EXAMPLE": "vf-rol 98789623672631",
+    "VF_CARGO": "Configurações: `Server`",
+    "VF_CARGO1": "<:v_:855859391835799582>De `auto rol` is succesvol bijgewerkt.",
+    "VF_CARGO2": "De rol van verificatie",
+    "VF_CARGO3": "veranderd van"
+}

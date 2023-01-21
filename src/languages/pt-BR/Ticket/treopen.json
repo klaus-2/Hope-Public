@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Reabre um ticket.",
+    "USAGE": "ticket-reabrir\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "ticket-reabrir",
+    "EXAMPLE": "ticket-reabrir"
+}

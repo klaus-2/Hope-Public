@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "봇의 상태를 가져옵니다.",
+    "USAGE": "핑2",
+    "PING": "핑:",
+    "CLIENT": "클라이언트 API:",
+    "MONGO": "몽고 DB:"
+}

@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Stel je regio in in het profiel.",
+    "USAGE": "set-regio <region>\n💡 **Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "set-regio <region>",
+    "EXAMPLE": "set-regio ons",
+    "REG": "Je regio is succesvol bijgewerkt naar `United States of America`!",
+    "REG1": "Je regio is succesvol bijgewerkt naar `Brazil`!"
+}

@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "クレジットを獲得し始める。登録して獲得したクレジットを追跡しましょう！",
+    "USAGE": "register\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "登録します",
+    "EXAMPLE": "登録します",
+    "REGISTRAR": "よっしゃー <:SkyeIssoai1:823223048701739028>あなたはすでに登録されています。\n自分のプロフィールは{{prefix}}`profile`で、残高は{{prefix}}`bal`で確認できます。",
+    "REGISTRAR1": "スカイのデータベースに正常に登録されました！\n登録の礼儀として、おれはプレゼントとしてあげてる**$",
+    "REGISTRAR2": "skcoins**！\n残高を確認するには、「{{prefix}}bal`」と入力します。"
+}

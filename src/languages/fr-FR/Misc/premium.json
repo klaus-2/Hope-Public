@@ -1,0 +1,18 @@
+{
+    "DESCRIPTION": "Quitter le statut de l'utilisateur.",
+    "USAGE": "premium\n💡**Exemple**: {{EXAMPLE}}",
+    "USAGEE": "premium",
+    "EXAMPLE": "premium",
+    "PREMIUM_AUTHOR": "Bonjour, {{author}}",
+    "PREMIUM_DESC": "Ceci est l'information **Abonnement Premium** pour le serveur **{{guild}}**",
+    "PREMIUM_DESC1": "**Plan actuel:** {{plan}}",
+    "PREMIUM_DESC2": "Code : ||**{{code}}**||",
+    "PREMIUM_DESC3": "Date de rachat :** {{date}}",
+    "PREMIUM_DESC4": "**Échanger par:** <@{{user}}>",
+    "PREMIUM_DESC5": "**ID du serveur:** {{guild}}",
+    "PREMIUM_DESC6": "**Expire le:** {{expires}}",
+    "PREMIUM_TITULO": "Bonjour, {{author}}",
+    "PREMIUM_FOOTER": "N'oubliez pas qu'après l'expiration du forfait, toutes les fonctionnalités premium seront automatiquement désactivées sur le serveur.",
+    "PREMIUM_DESC7": "Je suis heureux que vous souhaitiez devenir premium !\n\nPremium est une façon pour l'utilisateur de me rendre la pareille et d'obtenir de moi des avantages intéressants.\n\n**EN DEVENANT Hope PREMIUM, VOUS SEREZ EN MESURE DE:**\n- Gardez Hope sur un canal vocal 24/7\n- Faire une sauvegarde complète du serveur (Sérieusement, je peux sauvegarder tout, catégories, canaux, messages, emojis et positions)\n- Cet addon personnalisable permet d'intégrer les thèmes Ticket, Sticky et Birthdays.\n- Permission de créer plus de 2 listes de lecture sur HopeDJ <:SkyeOuvindoMusica:823046654554144768>.\n- Un bonus d'argent pour le système d'économie globale de Hope.\n- Supprimez jusqu'à 1000 messages à la fois avec la commande clear.\n- La limite de l'addon Auto-Response est passée de 10 à Aucune limite.\n- Vous pouvez créer plus de 3 rôles de réaction.\n- Ajouter plus de 10 animes dans l'addon Auto-Animes\n- Ajouter plus de 10 chaînes dans l'addon Auto-YouTube\n- Ajouter plus de 2 canaux dans l'addon Auto-Twitch\n\nC'est beaucoup, n'est-ce pas ? Image pour avoir accès à tout cela et gratuitement ? Tu ne peux pas le croire ? hmmm... parce que croyez-moi ! Et il y a deux façons d'obtenir une prime :\n\n**1 - BOOST SUR MON [SERVEUR DE SOUTIEN]({{SupportServer}})**\nUn petit coup de pouce ne ferait pas de mal, non ? En plus de rendre mon serveur de support plus ingénieux, il me permettra d'envoyer des émojis vraiment cool dans mes messages.\nAussi, le boost sur le serveur de support est équivalent à **30 jours de PREMIUM**, et tout utilisateur de votre serveur ou tout ami, peut booster mon serveur et activer le premium sur votre serveur pour vous, si vous n'avez pas de discord nitro.\n\n**2 - Hope VOTES**\nEn votant pour moi, vous m'aidez à obtenir plus de visibilité afin que plus de gens cool comme vous puissent m'avoir sur leurs serveurs.\nVous pouvez vérifier la liste des botlists disponibles pour la récompense avec la commande `{{prefix}}vote`.\nOh, et chaque vote est équivalent à **12 heures de PREMIUM**, et vous pouvez voter toutes les 12 heures.",
+    "PREMIUM_FOOTER1": "À chaque fois que vous soutenez Hope, vous prouvez qu'elle est sur la bonne voie et donnez à son développeur une excellente incitation à continuer à la rendre meilleure."
+}

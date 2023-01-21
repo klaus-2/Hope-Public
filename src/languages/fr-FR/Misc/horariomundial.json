@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "afficher l'heure du monde.",
+    "USAGE": "monde\n💡**Exemple**: {{EXAMPLE}}",
+    "USAGEE": "monde",
+    "EXAMPLE": "monde",
+    "EFUSO_DESC": "Horloge mondiale - fuseaux horaires"
+}

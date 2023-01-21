@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "ユーザーがサーバーからログアウトするときにメッセージアドオンを有効または無効にします。",
+    "USAGE": "bv-leave <enable | disable>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "bv-leave <enable | disable>",
+    "EXAMPLE": "bv-おいておけ"
+}

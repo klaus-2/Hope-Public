@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Obtenha informações sobre um cargo.",
+    "USAGE": "infocargo <cargo>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "infocargo <cargo>",
+    "EXAMPLE": "infocargo @cargo",
+    "ROLE_NAME": "Cargo | {{roleName}}",
+    "ROLE_MEMBERS": "Membros:",
+    "ROLE_COLOR": "Cor:",
+    "ROLE_POSITION": "Posição:",
+    "ROLE_MENTION": "Menção:",
+    "ROLE_HOISTED": "Em exibição:",
+    "ROLE_MENTIONABLE": "Mencionável:",
+    "ROLE_PERMISSION": "Permissões",
+    "ROLE_CREATED": "Criado em:",
+    "ROLE_FOOTER": "Requerido por {{MEMBER}} | ID do cargo: {{ID}}"
+}

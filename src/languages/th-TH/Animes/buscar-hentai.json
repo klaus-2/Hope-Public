@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Consult hanime.tv for a specific hentai. Returns a maximum of 10 results",
+    "USAGE": "hanime <name>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "hanime <anime>",
+    "EXAMPLE": "hanime | searchhentai mankitsu happening | hanisearch dropout | hanime tamashii insert",
+    "AHENTAI_DESC": "ไม่พบผลลัพธ์สำหรับ",
+    "AHENTAI_DESC1": "หน้าหนังสือ",
+    "AHENTAI_DESC2": "จาก",
+    "AHENTAI_DESC3": "สั่งการ",
+    "AHENTAI_DESC4": "เปิดตัว",
+    "AHENTAI_DESC5": "จัดอันดับ",
+    "AHENTAI_DESC6": "ดาวน์โหลด",
+    "AHENTAI_DESC7": "ชอบ",
+    "AHENTAI_DESC8": "ความสนใจ",
+    "AHENTAI_DESC9": "มุมมอง",
+    "AHENTAI_DESC10": "นาฬิกา",
+    "AHENTAI_DESC11": "ที่ถูกเซ็นเซอร์",
+    "AHENTAI_DESC12": "ไม่ได้ตรวจสอบ",
+    "AHENTAI_DESC13": "ใน"
+}

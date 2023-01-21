@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "obtener el tiempo de actividad del bot.",
+    "USAGE": "uptime\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "tiempo de actividad",
+    "EXAMPLE": "tiempo de actividad",
+    "EUP_DESC": "Hope | Tiempo de actividad",
+    "EUP_DESC1": "En línea desde"
+}

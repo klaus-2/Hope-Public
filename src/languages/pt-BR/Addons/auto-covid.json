@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Configura o addon Auto-Covid.",
+    "USAGE": "auto-covid | <ID do canal>",
+    "USAGEE": "auto-covid | <ID do canal>",
+    "EXAMPLE": "auto-covid 62349322567745\n💡**Exemplo**: {{EXAMPLE}}",
+    "CAC_TITULO": "Configurações: `Auto-Covid`",
+	"CAC_FIELD": "<:Informao:823004619805294643> Addon de Auto-Postagem de informações atualizadas sobre o covid-19 a cada 1 hora.",
+	"CAC_FIELD1": "Canal",
+	"CAC_FIELD2": "Status",
+	"CAC_FIELD3": "`Configurar addon`",
+    "CORONA_DESCRIÇÃO": "é necessario a permissão de `ADMINISTRADOR` para usar esse comando.",
+	"CORONA_DESCRIÇÃO1": "O Addon **AUTO-CORONA** foi redefinido, pois nenhum canal foi fornecido.",
+	"CORONA_DESCRIÇÃO2": "O Addon **AUTO-CORONA** foi definido ao canal <#{{channel}}> com sucesso.",
+    "COVID": "O Addon auto-covid foi desativado com sucesso!"
+}

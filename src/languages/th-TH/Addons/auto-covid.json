@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Configures the Auto-Covid addon.",
+    "USAGE": "auto-covid | <channelID>",
+    "USAGEE": "auto-covid | <channelID>",
+    "EXAMPLE": "auto-covid 62349322567745\n💡**Example**: {{EXAMPLE}}",
+    "CAC_TITULO": "Settings: `Auto-Covid`",
+	"CAC_FIELD": "<:Informao:823004619805294643> Auto-Posting Addon for updated information on covid-19 every 1 hour.",
+	"CAC_FIELD1": "Channel",
+	"CAC_FIELD2": "Status",
+	"CAC_FIELD3": "`Set up addon`",
+    "CORONA_DESCRIÇÃO": "จําเป็นต้องมีสิทธิ์ `ผู้บริหาร` เพื่อใช้คําสั่งนี้",
+	"CORONA_DESCRIÇÃO1": "แอดดอน **AUTO-COVID** ได้รับการรีเซ็ตเนื่องจากไม่มีช่องให้",
+	"CORONA_DESCRIÇÃO2": "แอดดอน **AUTO-COVID** ได้รับการตั้งค่าเป็น <#{{channel}}>",
+    "COVID": "เดอะ Auto-Covid addon ถูกปิดใช้งานเรียบร้อยแล้ว!"
+}

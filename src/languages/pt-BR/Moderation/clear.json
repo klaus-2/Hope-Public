@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "apagar uma certa quantidade de mensagens.",
+    "USAGE": "apagar <1-1000> [user]\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "apagar <1-1000> [user]",
+    "EXAMPLE": "apagar 559",
+    "NO_PREM": "O servidor deve ser premium para apagar mais de `200` mensagens.",
+    "TITLE": "Exclusão de mensagens - Hope",
+    "DESC": "Você está prestes a apagar {{NUM}} mensagens deste canal, por favor, reaja para confirmar esta ação.",
+    "DEL_MSG": "Apagando {{NUM}} mensagens, isto pode levar até {{TIME}} segundos para completar.\n**POR FAVOR! NÃO ENVIE NENHUMA MENSAGEM ENQUANTO ISTO ESTIVER ACONTECENDO.**",
+    "SUCCESS": "{{NUM}} mensagens foram apagadas com sucesso.",
+    "CON_CNC": "A Exclusão de mensagens foi cancelada",
+    "CON_TO": "Tempo limite para interação atingido."
+}

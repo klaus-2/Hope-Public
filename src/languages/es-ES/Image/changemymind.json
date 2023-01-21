@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Crea una imagen de cambio de opinión.",
+    "USAGE": "changemymind <text>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "cambiar de opinión <text>",
+    "EXAMPLE": "changemymind Hope es el mejor bot del mundo <3"
+}

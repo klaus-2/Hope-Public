@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Riproduci la riga precedente della coda.",
+    "USAGE": "indietro\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "indietro",
+    "EXAMPLE": "indietro <unk> precedente <unk> precedente"
+}

@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "在 Hope 的服务器上留下关于她的反馈。",
+    "USAGE": "反馈 <stars> <comment>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "反馈 <stars> <comment>",
+    "EXAMPLE": "反馈 5 Hope 是一款出色的机器人，可以满足我服务器上的所有要求",
+    "EFEED_DESC": "收到新的反馈",
+    "EFEED_DESC1": "星星：",
+    "EFEED_DESC2": "评论：",
+    "EFEED_DESC3": "由... 提交",
+    "EFEED_DESC4": "使用命令 {{prefix}}反馈留下 Hope 反馈",
+    "EFEED_DESC5": "<: Hopeoi: 823047534577975366> 您的反馈已成功发送到 Hope 的支持服务器！"
+}

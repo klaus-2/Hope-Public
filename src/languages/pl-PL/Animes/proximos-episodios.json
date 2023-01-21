@@ -1,0 +1,23 @@
+{
+    "DESCRIPTION": "Pokazuje pozostały czas następnego odcinka określonego anime. Powraca do harmonogramu tego dnia, jeśli nie określono anime.",
+    "USAGE": "nextep [anime]\n💡 **Przykład: {{EXAMPLE}}",
+    "USAGEE": "nextep",
+    "EXAMPLE": "nextairing | nextair boruto | nextep koniczyna czarna | nextepisode atak na tytan | pep tensura",
+    "APEP_DESC": "Nic nie znaleziono!",
+    "APEP_DESC2": "Błąd odpowiedzi",
+    "APEP_DESC3": "**{{member}}**, Wystąpił nieoczekiwany błąd!\n\n",
+    "APEP_DESC4": "Spróbuj ponownie za kilka minut. Zwykle jest to spowodowane przestojami serwera.",
+    "APEP_DESC5": "**{{member}}**, To anime mogło już mieć **ukończone wietrzenie**, ",
+    "APEP_DESC6": "ma **następną datę EP nieznany**, lub że anime może **nigdy nie istnieje**!",
+    "APEP_DESC7": "Odcinek",
+    "APEP_DESC8": "Ostatni odcinek",
+    "APEP_DESC9": "z",
+    "APEP_DESC10": "będzie powietrze w przybliżeniu",
+    "APEP_DESC11": "Następny odcinek termin anteny na",
+    "APEP_DESC12": "jest obecnie nieznany.",
+    "APEP_DESC13": "Następna premiera",
+    "APEP_DESC14": "będzie wywietrzył",
+    "APEP_DESC15": "Data następnego odcinka jest obecnie **nieznany**..\n",
+    "APEP_DESC16": "Później wypłynie na powietrze.",
+    "APEP_DESC17": "Anime nie znaleziono przez następne 7 dni.\n"
+}

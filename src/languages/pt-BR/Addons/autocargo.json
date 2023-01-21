@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Ativa ou Desativa o addon AutoCargo.",
+    "USAGE": "autocargo <ativar | desativar>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "autocargo <ativar | desativar>",
+    "EXAMPLE": "autocargo ativar"
+}

@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "codificar un mensaje en binario.",
+    "USAGE": "encode <message>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "codificar <message>",
+    "EXAMPLE": "codificar Hope é a melhor bot do mundo <3"
+}

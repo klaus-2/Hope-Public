@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Commencer un Don",
+    "USAGE": "g-start <time> <number of winners> <prize>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "g-start <time> <number of winners> <prize>",
+    "EXAMPLE": "g-start 2h30m 3 nitro classic",
+    "CRIAR_SORTEIO": "Le prix doit contenir moins de 256 caractères.",
+    "CRIAR_SORTEIO1": "a commencé un don sur le serveur:",
+    "CRIAR_SORTEIO2": "Oups, les mentions ne sont pas des prix, essayez à nouveau.",
+    "giveaway": "<:Sorteio1:823004177064132658>\t**GIVEAWAY**\t<:Sorteio1:823004177064132658>",
+    "giveawayEnded": "<:Sorteio1:823004177064132658>**GIVEAWAY ENDED**<:Sorteio1:823004177064132658>",
+    "timeRemaining": "<:Tempo:823004079831384074> Temps restant : **{duration}**!",
+    "inviteToParticipate": "Réagissez avec <:Sorteio:823004188292022303> pour participer !",
+    "winMessage": "<:Confetti:823008227033350163> Félicitations, {winners}! Contactez {this.hostedBy} pour recevoir **{this.prize}**!\nLien Giveaway : {messageURL}",
+    "noWinner": "Oh 😕 quel dommage ! Le tirage a été annulé parce qu'il n'y avait pas d'entrées valides.\nHmm... Essayons à nouveau?",
+    "hostedBy": "💳 Hébergé par: {this.hostedBy}",
+    "winners": "🏆 {this.winnerCount} gagnant(s)",
+    "endedAt": "Terminé le",
+    "CRIAR_SORTEIO3": "Le prix doit comporter moins de 256 caractères.",
+    "FOOTER": "Sorteio"
+}

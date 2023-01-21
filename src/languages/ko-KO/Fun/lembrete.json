@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "한동안 기억해야 할 것을 정의하십시오.",
+    "USAGE": "알림 <time> <message>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "알림 <time> <message>",
+    "EXAMPLE": "알림 1h 내 고양이에게 먹이주기",
+    "FLEMBRETE_DESC": "기억할 기간을 설정해야 합니다!",
+    "FLEMBRETE_DESC1": "주어진 시간",
+    "FLEMBRETE_DESC2": "31일 한도를 초과했습니다.",
+    "FLEMBRETE_DESC3": "기억해야 할 메시지를 써야 합니다!",
+    "FLEMBRETE_DESC4": "이봐, 안녕",
+    "FLEMBRETE_DESC5": "당신은 나의 도움을 믿을 수 있습니다!여기서 상기시켜 드리겠습니다.",
+    "FLEMBRETE_DESC6": "당신은 내가 기억할 거라고 믿을 수 있습니다. ~~*나는 생각합니다*~~"
+}

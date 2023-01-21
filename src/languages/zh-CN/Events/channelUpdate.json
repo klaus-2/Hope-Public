@@ -1,0 +1,20 @@
+{
+    "CHANNEL_UPDATE": "该类别",
+    "CHANNEL_UPDATE1": "该频道",
+    "CHANNEL_UPDATE2": "它的名字已经改了",
+    "CHANNEL_UPDATE3": "[活动 — 名称已更改]",
+    "CHANNEL_UPDATE4": "旧名字：",
+    "CHANNEL_UPDATE5": "新名字：",
+    "CHANNEL_UPDATE6": "他的话题改变了",
+    "CHANNEL_UPDATE7": "[活动 — 主题已更改]",
+    "CHANNEL_UPDATE8": "来自：",
+    "CHANNEL_UPDATE9": "至：",
+    "CHANNEL_UPDATE10": "* 空话题 *",
+    "CHANNEL_UPDATE11": "权限已更改 **\n* 注意：* 请参阅 [documentation](https://discordapp.com/developers/docs/topics/permissions) 了解数字的含义",
+    "CHANNEL_UPDATE12": "[活动 — 主题已更改]",
+    "CHANNEL_UPDATE13": "允许烫发：",
+    "CHANNEL_UPDATE14": "烫发被拒绝：",
+    "CHANNEL_UPDATE15": "替换被排除在外",
+    "CHANNEL_UPDATE16": "[活动 — 区域已更改]",
+    "CHANNEL_UPDATE17": "它的地区发生了变化"
+}

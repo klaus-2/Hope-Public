@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Deposita una cantidad de dinero del complemento Economy en tu cuenta bancaria.",
+    "USAGE": "deposit <value>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "depósito <value>",
+    "EXAMPLE": "depósito 5000",
+    "DEPOSITAR": "todos",
+    "DEPOSITAR1": "<:cancel:855859391709577266> No tienes dinero para depositar",
+    "DEPOSITAR2": "<:v_:855859391835799582> Has depositado todas tus monedas en tu banco",
+    "DEPOSITAR3": "<:cancel:855859391709577266> Especificar una cantidad a depositar",
+    "DEPOSITAR4": "<:cancel:855859391709577266> ¡Tu valor no es un número!",
+    "DEPOSITAR5": "<:cancel:855859391709577266> No puedes depositar dinero negativo",
+    "DEPOSITAR6": "no tienes esa cantidad disponible para depositar en tu banco.",
+    "DEPOSITAR7": "<:v_:855859391835799582> Has depositado",
+    "DEPOSITAR8": "skcoins a tu cuenta bancaria"
+}

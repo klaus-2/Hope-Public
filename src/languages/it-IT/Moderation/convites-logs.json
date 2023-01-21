@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Visualizza i record di invito di un utente.",
+    "USAGE": "invite-tracker <user>\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "invite-tracker <user>",
+    "EXAMPLE": "invite-tracker @User",
+    "CONVITE": "I bot non possono invitare qualcuno, Lui Può Ma Non Contare.",
+    "CONVITE1": "non ha invitato nessuno al server!",
+    "CONVITE2": "Invita Tracker",
+    "CONVITE3": "Informazioni sugli inviti di",
+    "CONVITE4": "**Persone Invitate:**",
+    "CONVITE5": "Codici di invito\n\n"
+}

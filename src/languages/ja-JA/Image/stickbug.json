@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "stickbugのミームを作れよ",
+    "USAGE": "stickbug [user] | [file]\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "スティックバグ [user] | [file]",
+    "EXAMPLE": "stickbug ユーザー | stickbug <attachment>"
+}

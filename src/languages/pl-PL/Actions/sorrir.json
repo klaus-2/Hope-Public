@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Uśmiech dla użytkownika.",
+    "USAGE": "uśmiech [user]",
+    "USAGEE": "uśmiech [user]",
+    "SORRIR_DESCRIÇÃO": "<@{{author}}> uśmiechnie się!",
+    "SORRIR_DESCRIÇÃO1": "<@{{author}}> uśmiech!",
+    "SORRIR_DESCRIÇÃO2": "Oddaję uśmiech",
+    "SORRIR_DESCRIÇÃO3": "uśmiech na"
+}

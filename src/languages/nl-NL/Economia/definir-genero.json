@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Stel het geslacht van de gebruiker in het profiel in.",
+    "USAGE": "set-gender <genero>\n💡 **Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "set-gender <gender>",
+    "EXAMPLE": "set-gender mannelijk",
+    "GEN": "mannelijk",
+    "GEN1": "vrouw",
+    "GEN2": "Je geslacht is succesvol bijgewerkt naar `Male`!",
+    "GEN3": "Je geslacht is succesvol bijgewerkt naar `Vrouw`!"
+}

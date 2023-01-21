@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "スカイサポートサーバーから招待状を受け取る。",
+    "USAGE": "support\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "サポート",
+    "EXAMPLE": "サポート",
+    "ESUP_DESC": "スカイサポートサービス",
+    "ESUP_DESC1": "[here](https://discord.gg/KCjWHUf4zV) をクリックしてサポートサーバーに入ります！",
+    "ESUP_DESC2": "その他のリンク",
+    "ESUP_DESC3": "** [スカイを招待] (https://discordapp.com/oauth2/authorize?client_id =${bot.user.id}&scope=bot&permissions=8) | ",
+    "ESUP_DESC4": "[Twitter](#) **"
+}

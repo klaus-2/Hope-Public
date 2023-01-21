@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "缩短您提交的 URL。",
+    "USAGE": "shorturl <link>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "shorturl <link>",
+    "EXAMPLE": "简短的 https://www.google.com",
+    "EURL_DESC": "你好，",
+    "EURL_DESC1": "您已经请求了缩短版本的",
+    "EURL_DESC2": "这里是："
+}

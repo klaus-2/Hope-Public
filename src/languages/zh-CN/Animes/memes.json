@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "从选定的 subreddits 中生成一个随机的动漫模因。",
+    "USAGE": "模因\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "模因",
+    "EXAMPLE": "模因 | 动漫 | ameme | animememe",
+    "AMEMES_DESC": "未能"
+}

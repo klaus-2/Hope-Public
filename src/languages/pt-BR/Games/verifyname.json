@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Verifica se um nome de invocador no League of Legends está em uso.",
+    "USAGE": "verificarnome <nick>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "verificarnome <nick>",
+    "EXAMPLE": "verificarnome esA",
+    "VERFNOME": "Verificando o nick: {{arg}}",
+    "VERFNOME1": "Este nick está disponivel.",
+    "VERFNOME2": "Este nick já está em uso."
+}

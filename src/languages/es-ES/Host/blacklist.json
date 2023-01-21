@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Actualizar lista de prohibiciones globales",
+    "USAGE": "lista negra <add / remove> <userID> [reason]",
+    "MISSING_USER": "ID de usuario incorrecto.",
+    "AUTHOR": "{{TAG}} ha sido prohibido globalmente",
+    "DESC": "**Motivo: ** {{REASON}}",
+    "ALRDY_BAN": "Usuario: {{ID}} ya está prohibido.",
+    "SUCC_UNBAN": "Se ha desbaneado correctamente al usuario."
+}

@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "um die Größe eines Emoji zu vergrößern.",
+    "USAGE": "ezooom <emoji>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "ezoomen <emoji>",
+    "EXAMPLE": "ezoom <:SkyeTimida:823046655632211989>",
+    "EZOOM_DESC": "Erweiterte Version von {{emoji}}"
+}

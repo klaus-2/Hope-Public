@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Hören Sie auf ein Radio.",
+    "USAGE": "Funk <query>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "Funk <query>",
+    "EXAMPLE": "radio junter | radio bbc",
+    "RADIO": "Kein Radio mit diesem Namen gefunden",
+    "RADIO1": "Ergebnisse für",
+    "RADIO2": "Wähle eine Zahl von 1-10 oder abbrechen.",
+    "RADIO3": "Du hast kein Lied rechtzeitig ausgewählt.",
+    "RADIO4": "abbrechen",
+    "RADIO5": "Die angegebene Nummer war zu klein oder zu groß (1-{{max}}).",
+    "RADIO6": "Zur Warteschlange hinzugefügt:",
+    "RADIO7": "Auswahl abgebrochen."
+}

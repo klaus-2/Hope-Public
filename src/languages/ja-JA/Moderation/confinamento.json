@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "trancar um canal por um determinado tempo.",
+    "USAGE": "lockdown <time>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "ロックダウン <time>",
+    "EXAMPLE": "ロックダウン 1",
+    "CONFINAMENTO": "注意",
+    "CONFINAMENTO1": "チャネル",
+    "CONFINAMENTO2": "の監禁下に置かれました",
+    "CONFINAMENTO3": "チャネルの監禁",
+    "CONFINAMENTO4": "は取り消されました。"
+}

@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Создайте мем с клейкой ошибкой.",
+    "USAGE": "stickbug [user] | [file]\n💡 **Пример**: {{EXAMPLE}}",
+    "USAGEE": "клоп [user] | [file]",
+    "EXAMPLE": "пользователь stickbug | stickbug <attachment>"
+}

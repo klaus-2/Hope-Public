@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "QR コードを作成します。",
+    "USAGE": "qrcode <text / file>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "qrcode <text / file>",
+    "EXAMPLE": "qrcode https://www.google.com/ | qrcode <attachment> | qrcode こんにちは、どうなったの",
+    "QR1": "こんにちは",
+    "QR2": "変換したのは:",
+    "QR3": "QRCODEで正常に入力されました。"
+}

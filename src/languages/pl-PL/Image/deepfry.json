@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Pogłębiaj obraz.",
+    "USAGE": "głębokie [file]\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "pogłębiać [file]",
+    "EXAMPLE": "głębokie <attachment> | Głęboki <user>"
+}

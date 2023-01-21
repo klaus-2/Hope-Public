@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "usuario de banir um.",
+    "USAGE": "ban <user> [reason] [time]\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "prohibición <user> [reason] [time]",
+    "EXAMPLE": "Ban Hope practicando spam en chat 3d | Prueba de Ban Hope | Prueba de Ban Hope 1D 10h 25m | Prueba Ban Hope 30s",
+    "BAN": "PROHIBIDO!",
+    "BAN1": "<a:anibanned:823008288236765184> Se le ha prohibido el viento**{{guild}}**.",
+    "BAN2": "Prohibido por:",
+    "BAN3": "Razón:",
+    "MISSING_USER": "No puedo castigar a alguien que no está en este servidor."
+}

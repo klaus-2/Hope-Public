@@ -1,0 +1,22 @@
+{
+    "DESCRIPTION": "Ottieni statistiche su un account Rainbews.",
+    "USAGE": "r6 <user> [pc / xbox / ps4] [eu / na / as]\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "r6 <user> [pc / xbox / ps4] [eu / na / come]",
+    "EXAMPLE": "r6 ThatGingerGuy02 <unk> r6 ThatGingerGuy02 pc eu",
+    "R6": "Specifica un nome utente da cercare",
+    "R6_1": "<a:loading:823004555884232724> Attenersi... Sto cercando!",
+    "R6_2": "Statistiche per",
+    "R6_3": "regione in",
+    "R6_4": "Generale:",
+    "R6_5": "Statistiche:",
+    "R6_6": "Vittorie:",
+    "R6_7": "Perdite:",
+    "R6_8": "Rapporto vittoria/perdita:",
+    "R6_9": "Uccisioni",
+    "R6_10": "Morti",
+    "R6_11": "Rapporto K/D",
+    "R6_12": "Tempo Di Gioco:",
+    "R6_13": "ore",
+    "R6_14": "Caccia Al Terrorista:",
+    "R6_15": "Mising dei dati giocatore"
+}

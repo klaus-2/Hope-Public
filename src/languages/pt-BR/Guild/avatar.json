@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Exibe a foto de perfil do usuário.",
+    "USAGE": "foto [user]\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "foto [user]",
+    "EXAMPLE": "foto userID | foto @mention | foto username",
+    "AVATAR_TITLE": "Avatar de {{user}}",
+    "AVATAR_DESCRIPTION": "**Links:**",
+    "FOTO": "Aqui está a foto solicitada.",
+    "FOTO1": "**Últimas 5 fotos anteriores:**"
+}

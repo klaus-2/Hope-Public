@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Create a full server backup.",
+    "USAGE": "s-backup-creater\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "s-backup-create <backupID>",
+    "EXAMPLE": "s-backup-create 2334",
+    "S_BACKUP_CRIAR": "**Missing Permissions**",
+    "S_BACKUP_CRIAR1": "You Must Have [ADMINISTRATOR, MANAGE_GUILD] Perms To Use This Command!",
+    "S_BACKUP_CRIAR2": "Creating Backup... ",
+    "S_BACKUP_CRIAR3": "New Backup Created\n **Backup ID**:",
+    "S_BACKUP_CRIAR4": "**Guild Name**:",
+    "S_BACKUP_CRIAR5": "Backup Has Been Created ",
+    "S_BACKUP_CRIAR6": "** NEW BACKUP CREATED **\nBackup ID:",
+    "S_BACKUP_CRIAR7": "Backup Author:",
+    "S_BACKUP_CRIAR8": "Guild:"
+}

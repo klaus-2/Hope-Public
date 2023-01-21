@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Play the photo of a user in the trash.",
+    "USAGE": "trash [user]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "trash",
+    "EXAMPLE": "trash @Hope",
+    "FLIXO_DESC": "เพิ่งโยน",
+    "FLIXO_DESC1": "ในถังขยะ",
+    "FLIXO_DESC2": "คุณจะปล่อยเรื่องนี้ไปเหรอ?",
+    "FLIXO_DESC3": "และได้รับแม้ 😈",
+    "FLIXO_DESC4": "Whoa!"
+}

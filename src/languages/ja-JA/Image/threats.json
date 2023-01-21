@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "脅威ミームを作成します。",
+    "USAGE": "脅威 [user] | [file]\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "脅威 [user] | [file]",
+    "EXAMPLE": "脅威ユーザー | 脅威 <attachment>"
+}

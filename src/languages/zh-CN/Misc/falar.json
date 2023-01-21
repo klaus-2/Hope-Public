@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "让 Hope 说点什么。",
+    "USAGE": "说 <message>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "说 <message>",
+    "EXAMPLE": "说 Hope 是世界上最好的机器人 <3",
+    "EFALAR_DESC": "嗨，我是 Hope 我只是想说..."
+}

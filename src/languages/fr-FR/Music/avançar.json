@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "pour avancer rapidement le lecteur de la valeur spécifiée.",
+    "USAGE": "fastforward <time>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "avance rapide <time>",
+    "EXAMPLE": "fastforward 1:00 | ffw 1:32:00",
+    "AVANÇAR": "D'accord, j'ai avancé `{{OLD}}` dans la chanson actuelle! Son temps actuel est maintenant : `{{NEW}}`.",
+    "AVANÇAR1": "dans la chanson courante.\nHeure actuelle:",
+    "AVANÇAR2": "La musique a seulement"
+}

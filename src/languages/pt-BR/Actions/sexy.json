@@ -1,0 +1,17 @@
+{
+    "DESCRIPTION": "Chame alguém de sexy.",
+    "USAGE": "sexy [user]\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "sexy [user]",
+    "EXAMPLE": "sexy @Hope | sexy @user1 @User2",
+    "SEXY_DESCRIÇÃO": "<@{{member}}>, essa safada!",  
+    "SEXY_DESCRIÇÃO1": "eu",
+    "SEXY_DESCRIÇÃO2": "disse que",
+    "SEXY_DESCRIÇÃO3": "Eu não sou sexy!!!!",
+    "SEXY_DESC": " e ",
+    "SEXY_DESC1": ", e ", 
+    "SEXY_EXTRA": "sou",     
+    "SEXY_EXTRA1": "somos",
+    "SEXY_EXTRA2": "é",
+    "SEXY_EXTRA3": "são",
+    "SEXY_EXTRA4": "sexy?"
+}

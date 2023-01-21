@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Faça carinho no(s) usuário(s) que você mencionou!",
+    "USAGE": "carinho [user]",
+    "USAGEE": "carinho [user]",
+    "CARINHO_DESCRIÇÃO": "คุณไม่สามารถเลี้ยงตัวเองปล่อยให้ฉัน >.< <@{{member}}>!",
+    "CARINHO_Hope": " **ฉัน**",
+    "CARINHO_Hope1": " ใน **ฉัน**",
+    "CARINHO_DESCRIÇÃO1": "ทําให้ความรักใน",
+    "CARINHO_HopeFRASE": "H-Haa.. (✿´ ꒳ ` ) ได้โปรดอย่าหยุด...",
+    "CARINHO_DESC": " และ ",
+    "CARINHO_DESC1": ", และ "
+}

@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "wygenerować bezpieczne hasło.",
+    "USAGE": "password\n💡 **Przyklad**: {{EXAMPLE}}",
+    "USAGEE": "hasło",
+    "EXAMPLE": "hasło",
+    "ESENHA_DESC": "Nie jestem pewien",
+    "ESENHA_DESC1": "Bardzo bezpieczny",
+    "ESENHA_DESC2": "Ubezpieczenie",
+    "ESENHA_DESC3": "Generator haseł Hope",
+    "ESENHA_DESC4": "Hasło",
+    "ESENHA_DESC5": "Długość",
+    "ESENHA_DESC6": "Poziom ochrony",
+    "ESENHA_DESC7": "Uwaga - Twoje hasła nigdy nie są przechowywane po naszej stronie!",
+    "ESENHA_DESC8": "🚫 Nie udało się wysłać hasła!",
+    "ESENHA_DESC9": "Nie mogę wysłać ci DM! Napraw to, zmieniając ustawienia prywatności dla tego serwera, aby umożliwić bezpośrednie wiadomości!"
+}

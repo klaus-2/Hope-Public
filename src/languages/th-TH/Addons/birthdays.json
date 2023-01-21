@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Manage and configure Hope's Birthdays addon.",
+    "USAGE": "<prefix><commandName> <option>\n💡**Example**\n{{EXAMPLE}}",
+    "USAGEE": "<prefix><commandName> <option>",
+    "EXAMPLE": "{{prefix}}bdays enable **- to activate the addon**\n{{prefix}}bdays disable **- to disable the addon**\n{{prefix}}bdays channel** - to set the announcement channel**",
+    "NIVER": "คุณต้องพูดถึง ID ของช่องสัญญาณที่ถูกต้อง!\nตัวอย่าง: **`{{prefix}}`setniver channel 843583652729323560**",
+    "NIVER1": "enable",
+    "NIVER2": "disable",
+    "NIVER3": "channel"
+}

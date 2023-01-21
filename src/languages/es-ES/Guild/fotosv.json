@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "obtener el icono del servidor.",
+    "USAGE": "guildicon\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "icono de gremio",
+    "EXAMPLE": "guildicon | icono de servidor",
+    "NO_GUILD_ICON": "Este servidor no tiene icono de servidor.",
+    "GUILD_ICON": "Descargar"
+}

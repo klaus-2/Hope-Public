@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Add, remove, copy, and download emojis from other servers to your server.",
+    "USAGE": "<prefix><commandName> [option]\n💡**Example**\n{{EXAMPLE}}",
+    "USAGEE": "<prefix><commandName> [option]",
+    "EXAMPLE": "{{prefix}}emoji add <:SkyeZumbi:823046656387055646> **- para adicionar o emoji ao servidor**\n{{prefix}}emoji remove <:SkyeZumbi:823046656387055646> **- para remover o emoji do servidor**\n{{prefix}}emoji list** - para ver a lista de emojis do servidor**\n{{prefix}}emoji download <:SkyeZumbi:823046656387055646> ** - para obter o link de download do emoji**"
+}

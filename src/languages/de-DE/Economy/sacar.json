@@ -1,0 +1,23 @@
+{
+    "DESCRIPTION": "Überweisen Sie Geld direkt von Ihrem Bankkonto.",
+    "USAGE": "<value> | [all]\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "<value> zurückziehen | [all]",
+    "EXAMPLE": "5000 abheben | alle abheben",
+    "SACAR": "alle",
+    "SACAR1": "<:cancel:855859391709577266> **Du hast kein Geld zu ziehen!**",
+    "SACAR2": "<:v_:855859391835799582> Du hast dein ganzes Geld von deinem Bankkonto abgezogen. <:SkyeTimida:823046655632211989> Vorsicht davor, beraubt zu werden!",
+    "SACAR3": "<:cancel:855859391709577266> Geben Sie einen Betrag für die Auszahlung an!",
+    "SACAR4": "<:cancel:855859391709577266> Dein Wert ist keine Zahl!",
+    "SACAR5": "<:cancel:855859391709577266> Du kannst kein negatives Geld zurückziehen!",
+    "SACAR6": "<:cancel:855859391709577266> Du hast nicht viel Geld in der Bank! `benutze {{prefix}}Kontostand`, um herauszufinden, wie viel du besitzt.",
+    "SACAR7": "Du hast es",
+    "SACAR8": "skcoins von deinem Bankkonto!",
+    "SACAR9": "vou nicht genug Geld in Ihrer Bank, um mit dieser Transaktion fortzufahren.",
+    "SACAR10": "Du hast nur **R$",
+    "SACAR11": "skcoins** auf deinem Account.\nNoch **$ verlassen",
+    "SACAR12": "Skins ** um die Transaktion abzuschließen.\n(**Denken Sie daran, dass eine Transaktionsgebühr von 5% enthalten ist**)",
+    "SACAR13": "Um Ihr ganzes Geld auf einmal abzuheben, geben Sie bitte ein",
+    "SACAR14": "alle zeichnen",
+    "SACAR15": "Sie können diesen hohen Geldbetrag nicht abheben! \n(Sie können nur bis zu 50 000 Skcoins in Ihrer Brieftasche haben, um die Sicherheit zu gewährleisten).",
+    "SACAR16": "(**+5% Transaktionsgebühr inbegriffen**)."
+}

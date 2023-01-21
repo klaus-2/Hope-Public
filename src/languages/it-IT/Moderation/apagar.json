@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "apagar uma certa quantidade de mensagens.",
+    "USAGE": "apagar <1-1000> [user]\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "apagar <1-1000> [user]",
+    "EXAMPLE": "apagar 559",
+    "NO_PREM": "Il server deve essere premium per cancellare più di `200` messaggi.",
+    "TITLE": "Cancella Conferma Messaggio",
+    "DESC": "Stai per cancellare {{NUM}} messaggi da questo canale, si prega di reagire per confermare questa azione.",
+    "DEL_MSG": "L'eliminazione di {{NUM}} messaggi che richiederà circa {{TIME}} secondi per il completamento.\nNON INVIARE MESSAGGI SE QUALSIASI È APPENING.",
+    "SUCCESS": "{{NUM}} messaggi sono stati eliminati con successo.",
+    "CON_CNC": "Conferma annullata",
+    "CON_TO": "Conferma scaduta."
+}

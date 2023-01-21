@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Dostosuj tło profilu za pomocą wybranego obrazu.",
+    "USAGE": "custom-background [załącznik | url]\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "custom-background [załącznik | url]",
+    "EXAMPLE": "niestandardowe tło https://i.imgur.com/ru3E3zd.png",
+    "BG": "Witam {{author}}",
+    "BG1": "Twój zakup zakończył się sukcesem!\n$",
+    "BG2": "skcoins zostały odejmowane z portfela, aby zakończyć transakcję!\nTwoje nowe tło to [{{url}}] (link)",
+    "BG3": "Aby zobaczyć, jak to wygląda, użyj polecenia {{prefix}}profile",
+    "BG4": "skcoins zostały odejmowane z portfela, aby zakończyć transakcję!\nTwoje nowe tło to [{{args}}] (link)",
+    "BG5": "musisz załączyć obraz lub wstawić link, aby ustawić nowe tło!",
+    "BG6": "Nie masz dość pieniędzy! Brak\n",
+    "BG7": ", aby zmienić tło"
+}

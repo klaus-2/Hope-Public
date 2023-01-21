@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "删除播放列表",
+    "USAGE": "p-删除 <playlist name>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "p-删除 <playlist name>",
+    "EXAMPLE": "p-删除测试",
+    "P_DEL": "我找不到名为 **{{name}}** 的播放列表。",
+    "P_DEL1": "已成功删除"
+}

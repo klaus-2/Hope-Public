@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Flashes para un usuario.",
+    "USAGE": "guiño <user>",
+    "USAGEE": "guiño <user>",
+    "PISCAR_DESCRIÇÃO": "¡<@{{author}}> parpadeó!",
+    "PISCAR_DESCRIÇÃO1": "parpadeado a"
+}

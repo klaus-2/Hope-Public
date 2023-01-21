@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Borrosa una imagen.",
+    "USAGE": "blurpify [user] | [attached]\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "borrosos [user] | [attached]",
+    "EXAMPLE": "blurpify @Hope | blurp [attached]"
+}

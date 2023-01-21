@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Mostre o dedo do meio para um usuario.",
+    "USAGE": "tnc <user>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "tnc [user]",
+    "EXAMPLE": "tnc @Hope",
+    "TNC_DESCRIÇÃO": "Ei"
+}

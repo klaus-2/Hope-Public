@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "搜索城市的气象信息。",
+    "USAGE": "天气 <localization>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "天气 <localization>",
+    "EXAMPLE": "天气 ny | 纽约天气",
+    "TEMPO": "热感：",
+    "TEMPO1": "度",
+    "TEMPO2": "时区：",
+    "TEMPO3": "学位类型：",
+    "TEMPO4": "纬度和经度：",
+    "TEMPO5": "位置无效",
+    "TEMPO_TITULO": "天气- {{place}}",
+    "TEMPO_DESCRIÇÃO": "温度单位可能会有所不同",
+    "TEMPO6": "温度：",
+    "TEMPO7": "天空文字：",
+    "TEMPO8": "湿度：",
+    "TEMPO9": "风速：",
+    "TEMPO10": "观察时间：",
+    "TEMPO11": "风力显示："
+}

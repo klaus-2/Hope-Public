@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Fragen Sie nach Almosen und erhalten Sie eine kleine Summe.",
+    "USAGE": "alms\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "almos",
+    "EXAMPLE": "almos",
+    "ESMOLA": "<:cancel:855859391709577266> Hast du jemals vor kurzem gebetet",
+    "ESMOLA1": "Erneut betteln in",
+    "ESMOLA2": "und",
+    "ESMOLA3": "<:v_:855859391835799582> Du wurdest gebetet und erhalten",
+    "ESMOLA4": "skcoins"
+}

@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Sla een gebruiker.",
+    "USAGE": "klap [user]",
+    "USAGEE": "klap [user]",
+    "TAPA_DESCRIÇÃO": "<@{{member}}>, klik niet zelf!",
+    "TAPA_DESCRIÇÃO1": "**ik**",
+    "TAPA_DESCRIÇÃO2": "slap",
+    "TAPA_HopeFRASE": "(;/h ;-) Het spijt me. Je kunt ze slapen, maar raak me alsjeblieft niet...",
+    "TAPA_DESC": " en ",
+    "TAPA_DESC1": ", en ",
+    "TAPA_DESC2": "mij"
+}

@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Embrassez le ou les utilisateurs que vous avez mentionnés !",
+    "USAGE": "baiser [user]",
+    "USAGEE": "baiser [user]",
+    "BEIJAR_DESCRIÇÃO": "Vous ne pouvez pas baiser, mais laissez-moi vous embrasser à la place, <@{{member}}>!",
+    "BEIJAR_Hope": " **Je**",
+    "BEIJAR_DESCRIÇÃO1": "embrassé",
+    "BEIJAR_HopeFRASE": "Ce n'est pas comme si je voulais que tu m'embrasses ou quoi que ce soit. ・:*(〃・ｪ・〃人)*:・",
+    "BEIJAR_DESC": " et ",
+    "BEIJAR_DESC1": ", et "
+}

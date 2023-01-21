@@ -1,0 +1,4 @@
+{
+    "DESCRIPTION": "Esegue un file script.",
+    "USAGE": "script <file name> [...params]"
+}

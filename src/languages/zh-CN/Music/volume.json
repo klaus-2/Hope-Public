@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "更改音乐的音量。",
+    "USAGE": "音量 <number>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "卷 <number>",
+    "EXAMPLE": "第 50 卷"
+}

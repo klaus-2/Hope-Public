@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Actief ons desatief om de geldigheidsniveaus toe te voegen.",
+    "USAGE": "musicadj <ativar | desativar>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "musicade <ativar | desativar>",
+    "EXAMPLE": "musicdj inschakelen"
+}

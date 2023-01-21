@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Abre um canal de voz para o Ticket.",
+    "USAGE": "ticket-fechar\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "ticket-fechar",
+    "EXAMPLE": "ticket-fechar"
+}

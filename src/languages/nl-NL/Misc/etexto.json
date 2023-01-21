@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "retourneer de tekst in de vorm van emoji (emotes).",
+    "USAGE": "etext <message>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "etext <message>",
+    "EXAMPLE": "etext test"
+}

@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "zoek het oudste lid op de server.",
+    "USAGE": "oud\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "oud",
+    "EXAMPLE": "oud",
+    "FOLD_DESC": "Wauw! Ik heb het oudste lid op deze server gevonden",
+    "FOLD_DESC1": "is de oudste gebruiker",
+    "FOLD_DESC2": "Je Discord-account is gemaakt in:",
+    "FOLD_DESC3": "Goh, dat is een lange tijd!"
+}

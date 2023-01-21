@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "加载备份。",
+    "USAGE": "电子备份加载 <code>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "电子备份加载 <code>",
+    "EXAMPLE": "电子备份加载 exoBDL",
+    "E_BACKUP_CARREGAR": "你确定吗？",
+    "E_BACKUP_CARREGAR1": "你好， {{author}}",
+    "E_BACKUP_CARREGAR2": "确实要加载备份吗？\n\n<: Informao: 823004619805294643> 注意：它只会在服务器上有足够空间的情况下添加表情符号。\n因此，请确保如果备份中的表情符号多于服务器空间，那不是错误，而是空间不足。",
+    "E_BACKUP_CARREGAR3": "** 备份加载已取消。**",
+    "E_BACKUP_CARREGAR4": ":x: | ** 找不到此备份代码 ** \n请验证您使用的代码是否正确，然后重试。",
+    "E_BACKUP_CARREGAR5": ":x: | ** 该备份中没有表情符号！**",
+    "E_BACKUP_CARREGAR6": "没有更多空间可以容纳新的表情符号了。",
+    "E_BACKUP_CARREGAR7": "<: v_: 855859391835799582> ** 备份已成功加载。**",
+    "E_BACKUP_CARREGAR8": ":x: | ** 找不到备份！**"
+}

@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Travaillez pour gagner plus d'argent.",
+    "USAGE": "travail\n💡**Exemple**: {{EXAMPLE}}",
+    "USAGEE": "travail",
+    "EXAMPLE": "travail",
+    "TRABALHAR": "../../../assets/json/works-en.json",
+    "TRABALHAR1": "Oups",
+    "TRABALHAR2": "il n'y a pas longtemps que vous avez terminé votre journée de travail.\n\nJe pense que vous feriez mieux de réessayer d'ici",
+    "TRABALHAR3": "et",
+    "TRABALHAR4": "ou vous allez finir comme moi <:SkyeInsonia:823046653153902626>",
+    "TRABALHAR5": "skcoins"
+}

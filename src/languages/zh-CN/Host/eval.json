@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "评估一个代码 JS。",
+    "USAGE": "eval <code>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "eval <code>",
+    "EXAMPLE": "eval bot.users.cache.get (`184376969016639488`)",
+    "EVAL": "我要评估什么？",
+    "EVAL1": "太大而无法显示。",
+    "EVAL2": "Bruh 你 tryina 偷了我的令牌吧？"
+}

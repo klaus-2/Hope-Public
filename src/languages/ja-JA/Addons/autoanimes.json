@@ -1,0 +1,22 @@
+{
+    "DESCRIPTION": "自動アニメアドオンを設定します。",
+    "USAGE": "自動アニメーション <add | remove >\n💡**例**: {{EXAMPLE}}",
+    "USAGEE": "自動アニメーション <add | remove >",
+    "EXAMPLE": "自動アニメ追加",
+    "ANIMES": "enable",
+    "ANIMES1": "`Auto-Animates` addon が有効になりました。",
+    "ANIMES2": "disable",
+    "ANIMES3": "`Auto-Animates` アドオンは正常に無効化されました。",
+    "ANIMES4": "channel",
+    "ANIMES5": "このチャンネルにアクセスできないか、このサーバーに存在しません。確認してもう一度お試しください！",
+    "ANIMES6": "チャンネルは正常に`Auto-Animates`アドオンで<#{{channel}}>に更新されました。",
+    "ANIMES7": "add",
+    "ANIMES8": "おっと！ここで何かが起こった。\n1-アニメの名前が間違っている可能性があります。この場合は、確認してもう一度やり直してください。\n2-アニメはもう展示されていません。この場合、[このリンク] (https://anilist.co/search/anime?year=2021&airing%20status=releasing) で現在の展示中のアニメとその正しい名前を確認し、もう一度試してください。",
+    "ANIMES9": "申し訳ありませんが、アニメ制限が10に達しました！このサーバープレミアムにして無制限のアニメを追加しましょう。",
+    "ANIMES10": "おっと！このアニメは既に「自動アニメ」アドオンに追加されているようです。**{{prefix}}autoanimes list**で現在のリストを確認してください。",
+    "ANIMES11": "おっと！上限が999に達しているようです。",
+    "ANIMES12": "Anime {{title}} が `Auto-Animates` アドオンに正常に追加されました。",
+    "ANIMES13": "remove",
+    "ANIMES14": "Anime {{search}} が `Auto-Animates` アドオンから削除されました。",
+    "ANIMES15": "おっと！このアニメは「自動アニメ」アドオンに追加されていないようです。現在のアニメリストを確認するには、`{{prefix}}autoanimes list` を使用してください。"
+}

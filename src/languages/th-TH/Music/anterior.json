@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Displays the previous tracks that have been played.",
+    "USAGE": "previous [pageNumber]\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "previous [pageNumber]",
+    "EXAMPLE": "previous 2",
+    "ANTERIOR": "ไม่มีเพลงก่อนหน้าที่เล่น",
+    "ANTERIOR1": "แทร็กก่อนหน้า",
+    "ANTERIOR2": "**แทร็กสุดท้าย**:",
+    "ANTERIOR3": "  ไม่มีอะไร",
+    "ANTERIOR4": "หน้า",
+    "ANTERIOR5": "เพลง",
+    "ANTERIOR6": "หน้าต้องเป็นตัวเลข",
+    "ANTERIOR7": "มีเพียง",
+    "ANTERIOR8": "มีหน้าว่าง"
+}

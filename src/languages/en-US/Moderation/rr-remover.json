@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Make reaction roles",
+    "USAGE": "reactionroles <messagelink>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "reactionroles <messagelink>",
+    "EXAMPLE": "reactionroles https://discord.com/channels/450822670105082938/451619652009787331/747357221053937082",
+    "RR_REMOVER": "Invalid message link",
+    "RR_REMOVER1": "Successfully deleted reaction role"
+}

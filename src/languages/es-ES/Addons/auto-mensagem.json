@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Configura el complemento de mensaje automático.",
+    "USAGE": "auto-mensaje",
+    "USAGEE": "auto-mensaje",
+    "EXAMPLE": "auto-message habilitado\n💡**Ejemplo**: {{EXAMPLE}}",
+    "MENSAGEM": "enable",
+    "MENSAGEM1": "El complemento `Auto-Message` se ha activado correctamente.",
+    "MENSAGEM2": "disable",
+    "MENSAGEM3": "El complemento `Auto-Message` ha sido deshabilitado correctamente.",
+    "MENSAGEM4": "channel",
+    "MENSAGEM5": "El canal de complementos `Auto-Message` se ha actualizado correctamente a <#{{channel}}>.",
+    "MENSAGEM6": "counter",
+    "MENSAGEM7": "Por favor, introduzca un número para el contador de mensajes.",
+    "MENSAGEM8": "El contador debe estar entre 1-100 mensajes.",
+    "MENSAGEM9": "El contador de mensajes para el complemento `Auto-Message` ha sido actualizado correctamente a `{{amount}}`.",
+    "MENSAGEM10": "message",
+    "MENSAGEM11": "Por favor, informe de un mensaje.",
+    "MENSAGEM12": "El contador debe contener hasta `2000` caracteres.",
+    "MENSAGEM13": "El mensaje del complemento `Auto-Message` se ha actualizado correctamente."
+}

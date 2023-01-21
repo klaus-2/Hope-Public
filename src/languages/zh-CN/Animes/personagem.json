@@ -1,0 +1,18 @@
+{
+    "DESCRIPTION": "在 myanimelist.net 上搜索角色",
+    "USAGE": "字符 <name>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "字符 <name>",
+    "EXAMPLE": "角色舞樱岛 | anichar Mai Sakurajima | char mai-san | 角色迈",
+    "APERSO_DESC": "在 <: myanimeList:8277735112425472> [MyAnimeList](https://myanimelist.net '网站') 中寻找一个名为 **{{query}}** 的角色。",
+    "APERSO_DESC1": "没有找到关于 **{{query}}** 的结果！\n\n如果你认为这个角色存在，请尝试他们的备用名。",
+    "APERSO_DESC2": "我在 {{badge}}的价格有限。请稍后再试。",
+    "APERSO_DESC3": "无法访问 {{badge}}。该网站目前可能已关闭。",
+    "APERSO_DESC4": "什么都没找",
+    "APERSO_DESC5": "响应错误",
+    "APERSO_DESC6": "使用 HTTP 错误代码进行响应",
+    "APERSO_DESC7": "阅读更多",
+    "APERSO_DESC8": "视觉效果",
+    "APERSO_DESC9": "无",
+    "APERSO_DESC10": "和",
+    "APERSO_DESC11": "更多！"
+}

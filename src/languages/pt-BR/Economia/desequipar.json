@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Desequipa um item do seu perfil.",
+    "USAGE": "desequipar <tipo>\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "desequipar <tipo>",
+    "EXAMPLE": "desequipar planodefundo",
+    "DESEQUIPAR": "por favor selecione uma das seguintes opções:",
+    "DESEQUIPAR1": "você desequipou",
+    "DESEQUIPAR2": "com sucesso!"
+}

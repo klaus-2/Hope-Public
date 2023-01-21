@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "设置公会的应用日志",
+    "USAGE": "应用日志 <enable #channel | disable>\n💡**示例**: {{EXAMPLE}}",
+    "USAGEE": "应用日志 <enable #channel | disable>",
+    "EXAMPLE": "应用日志启用 #测试"
+}

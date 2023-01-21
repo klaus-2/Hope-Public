@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Donne une liste de réponses automatiques sur un serveur",
+    "USAGE": "autoresponse-list\n💡**Exemple**: {{EXAMPLE}}",
+    "USAGEE": "liste de réponse automatique",
+    "EXAMPLE": "liste de réponse automatique",
+    "LISTA_RESPOSTA": "<:cancel:855859391709577266> La guilde actuelle n'a pas de Commandes Personnalisées !",
+    "LISTA_RESPOSTA1": "Commandes personnalisées",
+    "LISTA_RESPOSTA2": "La guilde actuelle n'a pas de Commandes personnalisées!"
+}

@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "将指定的歌曲编号移动到指定位置。",
+    "USAGE": "移动 <music position> <new position>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "移动 <music position> <new position>",
+    "EXAMPLE": "移动 4 8",
+    "MOVER": "无法移动已在播放的歌曲。要跳过当前播放的歌曲类型：`{{prefix}}skip`",
+    "MOVER1": "找不到歌曲。",
+    "MOVER2": "好的！已将 **{{title}}** 移至队列的开头。",
+    "MOVER3": "移动的",
+    "MOVER4": "到这个位置",
+    "MOVER5": "从队列中。",
+    "MUSICA6": "编号无效。"
+}

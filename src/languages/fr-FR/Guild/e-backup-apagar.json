@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "supprimer un code de sauvegarde.",
+    "USAGE": "e-backup-delete <code>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "e-backup-delete <code>",
+    "EXAMPLE": "e-backup-delete Cg267T",
+    "E_BACKUP_APAGAR": "Bonjour, {{author}}",
+    "E_BACKUP_APAGAR1": ":x: | **sauvegarde non trouvée**",
+    "E_BACKUP_APAGAR2": "**La sauvegarde a été supprimée avec succès !** ",
+    "E_BACKUP_APAGAR3": ":x: | **Cette sauvegarde n'a pas été trouvée.**"
+}

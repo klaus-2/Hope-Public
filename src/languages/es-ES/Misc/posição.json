@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "muestra la posición de inicio de sesión de un usuario en el servidor.",
+    "USAGE": "position <user>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "posición <user>",
+    "EXAMPLE": "posición @Hope",
+    "EPOS_DESC": "Unirse al puesto",
+    "EPOS_DESC1": "fue el",
+    "EPOS_DESC2": "el usuario al que entrar"
+}

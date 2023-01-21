@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Erstelle einen Code zur Einlösung.",
+    "USAGE": "generatecode <month | year>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "generierter Code <month | year>",
+    "EXAMPLE": "ggeneratecode ich",
+    "NOVO_PREMIUM": "monat",
+    "NOVO_PREMIUM1": "jahr",
+    "NOVO_PREMIUM2": "Geben Sie einen Plan an!",
+    "NOVO_PREMIUM3": "Generiert",
+    "NOVO_PREMIUM4": "Premium-Code(s)",
+    "NOVO_PREMIUM5": "Typ:",
+    "NOVO_PREMIUM6": "Läuft ab:"
+}

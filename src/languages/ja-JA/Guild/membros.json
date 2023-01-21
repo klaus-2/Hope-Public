@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "特定ポジションのメンバー全員チェックしろ！それとも全部かも！",
+    "USAGE": "メンバー < all | role name | @role >\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "会員 < all | role name | @role >",
+    "EXAMPLE": "メンバー @role | メンバー全て | メンバーロール名",
+    "MEMBROS": "すべて",
+    "MEMBROS1": "一覧",
+    "MEMBROS2": "次のメンバーはいません",
+    "MEMBROS3": "ロールが存在します。"
+}

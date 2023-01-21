@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Zjedz coś z użytkownikami, o których wspomniałeś!",
+    "USAGE": "kanał [user]",
+    "USAGEE": "kanał [user]",
+    "COMER_DESCRIÇÃO": "<@{{member}}> będziesz jeść... samowystarczalne?!",
+    "COMER_Hope": " **mnie**",
+    "COMER_DESCRIÇÃO1": "jedzą z",
+    "COMER_DESCRIÇÃO2": "zażywał mnie",
+    "COMER_HopeFRASE": "*Nom Nom Nom* Arigatoo~",
+    "COMER_HopeFRASE1": "Nie karmię się na mnie! Nie będę pokazywał Ci żadnych zdjęć!",
+    "COMER_APIOFF": "hmmm, api jest wyłączony, przepraszamy!",
+    "COMER_DESC": " W przypadku gdy państwo członkowskie lub Szwajcaria stwierdzi, że dane państwo członkowskie lub Szwajcaria spełniają warunki określone w art. 4 ust. 1 lit. a) i b) oraz w art. 5 ust. 1 lit. b) i c) rozporządzenia (WE) nr 207/2009 oraz w art. 5 ust. 1 lit. b) i c) rozporządzenia (WE) nr 207/2009 oraz w art. 5 ust. 1 lit. b) tego rozporządzenia i art. 6 ust. 1 lit. b) tego rozporządzenia i c) tego rozporządzenia stosuje się od dnia 1 stycznia 2018 r. ",
+    "COMER_DESC1": ", oraz "
+}

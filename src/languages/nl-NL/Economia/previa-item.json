@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Kijk wat je in de winkel kunt kopen.",
+    "USAGE": "vieitem <id>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "bekijk item <id>",
+    "EXAMPLE": "bekijk item 23",
+    "PRE": "gelieve de **itemID** op te geven!",
+    "PRE1": "Ik kon geen items vinden met deze **ID**! Controleer of je de juiste **ID** hebt ingevoerd en probeer het opnieuw.",
+    "PRE2": "VOORBEELD VAN ITEM-ID",
+    "PRE3": "Naam:",
+    "PRE4": "Type:",
+    "PRE5": "Prijs:"
+}

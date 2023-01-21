@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "タバコを吸う。",
+    "USAGE": "smoke\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "煙",
+    "EXAMPLE": "煙",
+    "FFUMAR_DESC": "*照明たばこ*",
+    "FFUMAR_DESC1": "禁煙する"
+}

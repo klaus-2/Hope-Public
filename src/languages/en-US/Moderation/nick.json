@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "change a user's nickname.",
+    "USAGE": "nick <user> <newNick>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "nick <user> <newNick>",
+    "EXAMPLE": "nick @Hope @Hope <3",
+    "ENTER_NICKNAME": "Please enter a nickname.",
+    "LONG_NICKNAME": "Nickname must be shorter than 32 characters."
+}

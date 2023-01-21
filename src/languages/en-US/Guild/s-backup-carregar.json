@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Load a backup from the server.",
+    "USAGE": "s-backup-load <backupID>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "s-backup-load <backupID>",
+    "EXAMPLE": "s-backup-load 2334",
+    "S_BACKUP_CARREGAR": "Aah {{author}}, I'm sorry :(",
+    "S_BACKUP_CARREGAR1": "You need to have the manage messages permissions to create a backup in this server.",
+    "S_BACKUP_CARREGAR2": ":warning: All the server channels, roles, and settings will be cleared. Do you want to continue? Send `confirm` or `cancel`!",
+    "S_BACKUP_CARREGAR3": "confirm",
+    "S_BACKUP_CARREGAR4": "cancel",
+    "S_BACKUP_CARREGAR5": "Backup loaded successfully!",
+    "S_BACKUP_CARREGAR6": "No backup found for ID: **{{backupID}}**",
+    "S_BACKUP_CARREGAR7": "An error occurred:",
+    "S_BACKUP_CARREGAR8": ":x: Cancelled.",
+    "S_BACKUP_CARREGAR9": ":x: Command timed out! Please retry."
+}

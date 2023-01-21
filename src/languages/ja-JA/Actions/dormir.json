@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "ユーザーをスリープ状態にします。",
+    "USAGE": "睡眠 [user]",
+    "USAGEE": "睡眠 [user]",
+    "DORMIR_DESCRIÇÃO": "<@{{author}}> が眠ってしまった！",
+    "DORMIR_DESCRIÇÃO1": "一緒に居眠りしました",
+    "DORMIR_DESCRIÇÃO2": "<@{{author}}>、眠くないchar@@1"
+}

@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Create an auto-response that is triggered without a prefix!",
+    "USAGE": "autoresponse <command> <response>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "autoresponse <command> <response>",
+    "EXAMPLE": "autoresponse hi Hello!",
+    "AUTO_RESPOSTA": "<:cancel:855859391709577266> Your autoresponse name is above 30 characters!",
+	"AUTO_RESPOSTA1": "<:cancel:855859391709577266> Your autoresponse content is above 2000 characters long!",
+	"AUTO_RESPOSTA2": "<:cancel:855859391709577266> Auto Response Limit Reached **(10)**\n\n[Upgrade Premium Here for unlimited commands]({{config}})",
+	"AUTO_RESPOSTA3": "Added Auto-Response:",
+	"AUTO_RESPOSTA4": "Delete the following auto response using",
+	"AUTO_RESPOSTA5": "deleteresponse <autoresponse-name>",
+	"AUTO_RESPOSTA6": "The following autoresponse is already an existing command!"
+}

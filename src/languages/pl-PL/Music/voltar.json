@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Odtwórz poprzednią linię kolejki.",
+    "USAGE": "powrót\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "z powrotem",
+    "EXAMPLE": "z powrotem | pop | poprzedni"
+}

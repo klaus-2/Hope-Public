@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Zablokuj kanał.",
+    "USAGE": "lock\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "zamek",
+    "EXAMPLE": "zamek",
+    "TRANCAR": "🔒 <#{{channel}}> został zablokowany.",
+    "TRANCAR1": "UWAGA",
+    "TRANCAR_PERMISSÃO": "Nie wolno ci tego robić."
+}

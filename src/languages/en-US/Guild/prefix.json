@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "set up Hope's prefix for this server.",
+    "USAGE": "prefix <new prefix>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "prefix <new prefix>",
+    "EXAMPLE": "prefix !",
+    "PREFIXO": "<:SkyeOla1:823223308744130580> Whoa! Unfortunately the prefix cannot be longer than 3 characters.",
+    "PREFIXO1": "Settings: `Server`",
+    "PREFIXO2": "<:v_:855859391835799582> The `prefix` has been successfully updated.",
+    "PREFIXO3": "Prefix",
+    "PREFIXO4": "Changed from"
+}

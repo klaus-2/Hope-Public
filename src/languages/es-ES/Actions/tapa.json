@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Golpear a un usuario.",
+    "USAGE": "golpea [user]",
+    "USAGEE": "golpea [user]",
+    "TAPA_DESCRIÇÃO": "<@{{member}}>, ¡Por favor, no te golpees!",
+    "TAPA_DESCRIÇÃO1": "**mi**",
+    "TAPA_DESCRIÇÃO2": "chaqueta",
+    "TAPA_HopeFRASE": "Lo siento, pero no lo hagas. Por favor, no me golpees...",
+    "TAPA_DESC": " y ",
+    "TAPA_DESC1": ", y ",
+    "TAPA_DESC2": "yo"
+}

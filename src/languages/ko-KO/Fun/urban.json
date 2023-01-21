@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "도시 단어 사전을 가져옵니다.",
+    "USAGE": "어반 <word>\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "도시 <word>",
+    "EXAMPLE": "도시 <word>",
+    "INCORRECT_URBAN": "구문: `{{phrase}}`을 (를) 도시 사전에서 찾을 수 없습니다.",
+    "URBAN_TITLE": "{{word}} 의 정의",
+    "URBAN_DESCRIPTION": "{{definition}}\n**예: **\n{{examples}}"
+}

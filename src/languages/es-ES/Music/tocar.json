@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "toca una canción.",
+    "USAGE": "play <link / song name>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "jugar <link / song name>",
+    "EXAMPLE": "jugar palaye royale | jugar <attachment> | jugar https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "TOCAR": "Cola",
+    "TOCAR1": "canciones",
+    "TOCAR2": "se ha añadido a la cola de reproducción actual.",
+    "TOCAR3": "Introduce el nombre/url de una canción",
+    "TOCAR4": "Pistas en cola **{{num}}**",
+    "TOCAR5": "Añadido a la cola: [{{title}}] ({{url}})"
+}

@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Konfigurieren Sie den Addon-Kanal für die Nachricht.",
+    "USAGE": "vf-channel <channelID>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "vf-Kanal <channelID>",
+    "EXAMPLE": "vf-Kanal 98789623672631",
+    "VF_CANAL": "Kanal erfolgreich aktualisiert auf: `{{channel}}`"
+}

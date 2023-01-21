@@ -1,0 +1,4 @@
+{
+    "DESCRIPTION": "运行脚本文件。",
+    "USAGE": "脚本 <file name> [...params]"
+}

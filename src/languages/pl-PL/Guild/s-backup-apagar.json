@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Usuń kopię zapasową serwera.",
+    "USAGE": "s-backup-delete <backupID>\n💡 **Przykład: {{EXAMPLE}}",
+    "USAGEE": "s-backup-delete <backupID>",
+    "EXAMPLE": "s-backup-delete 2334",
+    "S_BACKUP_APAGAR": "Aah {{author}}, przepraszam: (",
+    "S_BACKUP_APAGAR1": "Status premium: :small_blue_diamond: **NORMALNY USER** :small_blue_diamond:\nNiestety <:SkyeFoimal:823046654374314044> nie możesz użyć tego polecenia, ponieważ nie jesteś użytkownikiem premium na serwerze **Hope Support Server**.",
+    "S_BACKUP_APAGAR2": "💡 Premium jest korzyścią dla użytkowników, którzy zwiększają poziom wsparcia Hope. {{prefix}}Hope",
+    "S_BACKUP_APAGAR3": "Musisz określić poprawny identyfikator kopii zapasowej Aby usunąć",
+    "S_BACKUP_APAGAR4": "** KOPIA ZAPASOWA USUNIĘTE**",
+    "S_BACKUP_APAGAR5": "** NOWY BACKUP DELETE**\n Autor: {{author}}",
+    "S_BACKUP_APAGAR6": "Nie znaleziono kopii zapasowej dla {{backupID}}"
+}

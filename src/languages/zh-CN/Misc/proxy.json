@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "发送代理列表（每小时更新一次）",
+    "USAGE": "代理\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "代理",
+    "EXAMPLE": "代理",
+    "EPROXY_DESC": "代理列表",
+    "EPROXY_DESC1": "💡 此列表每小时更新一次。"
+}

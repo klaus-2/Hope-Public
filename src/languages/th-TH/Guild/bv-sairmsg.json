@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "configure the message to be sent in the channel when a user leaves the server.",
+    "USAGE": "bv-leavemsg <message>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "bv-leavemsg <message>",
+    "EXAMPLE": "bv-leavemsg **{user}** has just logged off the server.",
+    "BV_SAIRMENSAGEM": "<:v_:855859391835799582> อัปเดตช่องสำเร็จเป็น:"
+}

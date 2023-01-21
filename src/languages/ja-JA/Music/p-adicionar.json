@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "プレイリストに曲を追加します。",
+    "USAGE": "p-add <playlist name> <song>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "p-add <playlist name> <song>",
+    "EXAMPLE": "p-add テスト https://www.youtube.com/watch?v=4AnmemzByVY",
+    "P_ADD": "何か変なことが起こった",
+    "P_ADD1": "名前が `{{name}}` のプレイリストは見つかりませんでした。",
+    "P_ADD2": "プレイリストに {{num}} の新しい曲を追加しました:`{{title}}`。",
+    "P_ADD3": "{{title}}の検索結果",
+    "P_ADD4": "{{results}}\n\n 1～10の数字を選択するか、キャンセルします。\n",
+    "P_ADD5": "入力された数字は小さすぎるか大きすぎます (1-{{num}})。"
+}

@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Configureer het Addon kanaal voor berichtverificatie.",
+    "USAGE": "vf-channel <channelID>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "vf-kanaal <channelID>",
+    "EXAMPLE": "v-kanaal 98789623672631",
+    "VF_CANAL": "Channel is succesvol bijgewerkt naar: `{{channel}}`"
+}

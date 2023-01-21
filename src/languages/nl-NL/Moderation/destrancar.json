@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "speel een kanaal vrij.",
+    "USAGE": "unlock\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "ontgrendelen",
+    "EXAMPLE": "ontgrendelen",
+    "DESTRANCAR": "🔓 Het kanaal <{{channel}}> is vrijgegeven.",
+    "DESTRANCAR1": "AANDACHT"
+}

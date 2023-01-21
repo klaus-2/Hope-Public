@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "嫁给一个用户。",
+    "USAGE": "嫁给 <user>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "嫁给 <user>",
+    "EXAMPLE": "嫁给 @Hope",
+    "FCASAR_DESC": "🙁 | <@{{author}}>，你是单身。",
+    "FCASAR_DESC1": "用 {{prefix}}结婚 <user> 来结婚。",
+    "FCASAR_DESC2": "你嫁给了",
+    "FCASAR_DESC3": "自 ({{date}})",
+    "FCASAR_DESC4": "我找不到一个人",
+    "FCASAR_DESC5": "你想结婚吗",
+    "FCASAR_DESC6": "回答：“是” 或 “否”",
+    "FCASAR_DESC7": "你拒绝了",
+    "FCASAR_DESC8": "恭喜你结婚了，非常喜欢你 💕"
+}

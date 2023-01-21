@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Genereer een willekeurige anime-meme van geselecteerde subreddits.",
+    "USAGE": "memes\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "memes",
+    "EXAMPLE": "memes | animeme | ameme | animememe",
+    "AMEMES_DESC": "Mislukte"
+}

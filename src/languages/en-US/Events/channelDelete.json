@@ -1,0 +1,8 @@
+{
+    "CHANNEL_CREATE": "Text channel",
+    "CHANNEL_CREATE1": "Voice Channel",
+    "CHANNEL_CREATE2": "Category",
+    "CHANNEL_DELETE": "The",
+    "CHANNEL_DELETE1": "has been deleted",
+    "CHANNEL_DELETE2": "[EVENT — CHANNEL DELETED]"
+}

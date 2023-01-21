@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Configureer de Hope Verification Addon voor deze server.",
+    "USAGE": "vf-option <0-2>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "vf-optie <0-2>",
+    "EXAMPLE": "vf-optie 1",
+    "VF_OP": "Instellingen: `Server`",
+    "VF_OP1": "<:v_:855859391835799582>De `option` is succesvol bijgewerkt.",
+    "VF_OP2": "Optie van verificatie",
+    "VF_OP3": "veranderd van",
+    "VF_OP4": "Verfiy",
+    "VF_OP5": "Verificatiesysteem",
+    "VF_OP6": "Klik op de __button__ hieronder om **verificeren** en toegang te krijgen tot deze server.",
+    "VF_OP7": "Yayy! Je hebt het met succes geverifieerd en nu heb je toegang tot de server.\nWelkom <:Skye_Welkom: 890355726625697813>",
+    "VF_OP8": "Vraag de beheerder van deze server om de **verificatierol** te configureren met `settings vf`."
+}

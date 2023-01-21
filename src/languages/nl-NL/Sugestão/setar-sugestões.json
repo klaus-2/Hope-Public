@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Hiermee stelt u het suggestiekanaal in de database in.",
+    "USAGE": "set-suggestions\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "set-suggesties",
+    "EXAMPLE": "set-suggesties",
+    "SETAR_SUGESTÕES": "Het suggestiekanaal werd gedefinieerd in <{{channel}}>",
+    "SETAR_SUGESTÕES1": "Het suggestiekanaal is gereset en gedeactiveerd."
+}

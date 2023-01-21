@@ -1,0 +1,22 @@
+{
+    "DESCRIPTION": "segnala un bug al mio sviluppatore.",
+    "USAGE": "bug <message>\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "bug <message>",
+    "EXAMPLE": "bug Sto cercando di usare il comando di test ma non sta funzionando.",
+    "HBUG_DESC": "Devi aspettare 5 minuti prima di usare nuovamente questo comando!",
+    "HBUG_DESC1": "Nome:",
+    "HBUG_DESC2": "ID:",
+    "HBUG_DESC3": "Account creato il",
+    "HBUG_DESC4": "Messaggio:",
+    "HBUG_DESC5": "Si prega di utilizzare il modello qui sotto per rispondere",
+    "HBUG_DESC6": "> RISPOSTA A PRIVATO",
+    "HBUG_DESC7": "  u.send(`**Re: Feedback/Bug**\nMESSAGE QUI`)`",
+    "HBUG_DESC8": "> RISPOSTA SUL CANALE",
+    "HBUG_DESC9": "Re: Feedback/Bug**\nMESSAGGIO QUI",
+    "HBUG_DESC10": "Inviato dal server",
+    "HBUG_DESC11": "In",
+    "HBUG_DESC12": "C'è stato un problema, si prega di segnalarlo sul mio server di supporto ```{{prefix}}supporto```",
+    "HBUG_DESC13": "Heey {{author}}, tutto è andato bene!",
+    "HBUG_DESC14": "Il tuo report ha già raggiunto il mio sviluppatore e risponderà il prima possibile, per favore sii paziente.",
+    "HBUG_DESC15": "Se abusi, ti verrà impedito di usare questo comando!\nOh e mi dispiace per l'inconveniente se hai avuto un problema. <:SkyeAmor:823223048290172928>"
+}

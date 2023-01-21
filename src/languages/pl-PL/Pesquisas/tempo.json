@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "do poszukiwania meteorologicznych infomacji miasta.",
+    "USAGE": "pogoda <localization>\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "Pogoda <localization>",
+    "EXAMPLE": "Pogoda ny | pogoda new york",
+    "TEMPO": "Wrażenie termiczne",
+    "TEMPO1": "stopnie",
+    "TEMPO2": "Strefa czasowa:",
+    "TEMPO3": "Typ stopnia:",
+    "TEMPO4": "Szerokość i długość geograficzna:",
+    "TEMPO5": "Nieprawidłowa lokalizacja",
+    "TEMPO_TITULO": "Pogoda - {{place}}",
+    "TEMPO_DESCRIÇÃO": "Jednostki temperatury mogą się różnić od pewnego czasu",
+    "TEMPO6": "Temperatura:",
+    "TEMPO7": "Tekst nieba:",
+    "TEMPO8": "Wilgotność:",
+    "TEMPO9": "Prędkość wiatru:",
+    "TEMPO10": "Czas obserwacji:",
+    "TEMPO11": "Wyświetlacz wiatru:"
+}

@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Verkrijg het stedelijk woordenboek van een woord.",
+    "USAGE": "urban <word>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "stedelijk <word>",
+    "EXAMPLE": "stedelijk <word>",
+    "INCORRECT_URBAN": "Zin: `{{phrase}}` werd niet gevonden in het urban dictionary.",
+    "URBAN_TITLE": "Definitie van {{word}}",
+    "URBAN_DESCRIPTION": "{{definition}}\n**Voorbeeld: **\n{{examples}}"
+}

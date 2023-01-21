@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "maak een uitnodiging voor deze server.",
+    "USAGE": "uitnodigen [temp]\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "uitnodigen [temp]",
+    "EXAMPLE": "nodig uit",
+    "CONVITE": "Aangevraagd door:",
+    "CONVITE1": "Een uitnodiging voor deze server is succesvol gegenereerd!"
+}

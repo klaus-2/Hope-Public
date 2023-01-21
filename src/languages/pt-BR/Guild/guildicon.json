@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Exibe o ícone do servidor.",
+    "USAGE": "fotosv\n💡**Exemplo**: {{EXAMPLE}}",
+    "USAGEE": "fotosv",
+    "EXAMPLE": "fotosv",
+    "NO_GUILD_ICON": "Este servidor não tem um ícone de servidor.",
+    "GUILD_ICON": "Baixar"
+}

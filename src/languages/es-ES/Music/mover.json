@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "mueve el número de canción especificado a la posición especificada.",
+    "USAGE": "move <music position> <new position>\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "movimiento <music position> <new position>",
+    "EXAMPLE": "movimiento 4 8",
+    "MOVER": "No se puede mover una canción que ya se está reproduciendo. Para omitir el tipo de canción que se está reproduciendo actualmente: `{{prefix}}skip`",
+    "MOVER1": "No se ha encontrado la canción.",
+    "MOVER2": "¡Sí! Se ha movido **{{title}}** al principio de la cola.",
+    "MOVER3": "movido",
+    "MOVER4": "al puesto",
+    "MOVER5": "de la cola.",
+    "MUSICA6": "Número no válido."
+}

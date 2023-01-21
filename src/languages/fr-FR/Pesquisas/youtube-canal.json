@@ -1,0 +1,17 @@
+{
+    "DESCRIPTION": "rechercher une chaîne youtube.",
+    "USAGE": "youtube-channel <name>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "youtube-channel <name>",
+    "EXAMPLE": "youtube-channel ninja",
+    "YOUTUBE_CANAL": "Erreur de canal inconnue.",
+    "YOUTUBE_CANAL1": "Aucun résultat de canal. Réessayez.",
+    "YOUTUBE_CANAL2": "Erreur de données de canal inconnue.",
+    "YOUTUBE_CANAL3": "Nom du canal",
+    "YOUTUBE_CANAL4": "Description du canal",
+    "YOUTUBE_CANAL5": "Nombre d'abonnés",
+    "YOUTUBE_CANAL6": "Vues totales",
+    "YOUTUBE_CANAL7": "Vidéo(s) au total",
+    "YOUTUBE_CANAL8": "Date de création",
+    "YOUTUBE_CANAL9": "Lier",
+    "YOUTUBE_CANAL10": "Vous ne pouvez pas rechercher ces termes sur un canal non NSFW."
+}

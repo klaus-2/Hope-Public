@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "현재 재생 중인 곡을 표시합니다.",
+    "USAGE": "np\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "np",
+    "EXAMPLE": "np",
+    "MUSICA": "🔴 라이브",
+    "MUSICA1": "” 지금 플레이하기:",
+    "MUSICA2": "액세스 링크",
+    "MUSICA3": "여기를 클릭하십시오",
+    "MUSICA4": "요청한 자",
+    "MUSICA5": "지속 시간"
+}

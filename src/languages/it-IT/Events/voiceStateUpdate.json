@@ -1,0 +1,20 @@
+{
+    "VOICE_STATE_UPDATE": "L'audio da",
+    "VOICE_STATE_UPDATE1": "sul server era",
+    "VOICE_STATE_UPDATE2": "un",
+    "VOICE_STATE_UPDATE3": "assordato nel canale",
+    "VOICE_STATE_UPDATE4": "Id Utente:",
+    "VOICE_STATE_UPDATE5": "[EVENTO — AUDIO]",
+    "VOICE_STATE_UPDATE6": "Il microfono di",
+    "VOICE_STATE_UPDATE7": "sul server era",
+    "VOICE_STATE_UPDATE8": "un",
+    "VOICE_STATE_UPDATE9": "mutato nel canale",
+    "VOICE_STATE_UPDATE10": "Id Utente:",
+    "VOICE_STATE_UPDATE11": "[EVENTO — MICROFONE]",
+    "VOICE_STATE_UPDATE12": "iniziato",
+    "VOICE_STATE_UPDATE13": "fermato",
+    "VOICE_STATE_UPDATE14": "una trasmissione su",
+    "VOICE_STATE_UPDATE15": "Id Utente:",
+    "VOICE_STATE_UPDATE16": "[EVENTO — STREAMING]",
+    "VOICE_STATE_UPDATE17": "Disconnesso 🔉 **{{vcName}}** a causa di inattività. Se vuoi che rimanga nel canale vocale 24/7, puoi ottenere Premium su **`{{prefix}}`premium**"
+}

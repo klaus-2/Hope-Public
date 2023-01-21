@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Freír una imagen.",
+    "USAGE": "deepfry [file]\n💡 **Ejemplo**: {{EXAMPLE}}",
+    "USAGEE": "freír [file]",
+    "EXAMPLE": "freír <attachment> | freír <user>"
+}

@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Définit le canal de suggestion dans la base de données.",
+    "USAGE": "suggestions-set-\n💡**Exemple**: {{EXAMPLE}}",
+    "USAGEE": "ajoute-suggestions",
+    "EXAMPLE": "ajoute-suggestions",
+    "SETAR_SUGESTÕES": "Le salon de suggestion a été défini dans <#{{channel}}>",
+    "SETAR_SUGESTÕES1": "Le canal de suggestion a été réinitialisé et désactivé."
+}

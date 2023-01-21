@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Legen Sie die Position des gespielten Titels auf die angegebene Position fest.",
+    "USAGE": "suche <time>\n💡**Beispiel**: {{EXAMPLE}}",
+    "USAGEE": "suche <time>",
+    "EXAMPLE": "suchen 01:00",
+    "IRPARA": "Die Zeit ist kürzer als die aktuelle Liedlänge: `{{time}}`"
+}

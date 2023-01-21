@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "set up Hope's auto position for this server.",
+    "USAGE": "mod-mutedrole <newRoleID>\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "mod-mutedrole <newRoleID>",
+    "EXAMPLE": "mod-channel 865493021377",
+    "MOD_CARGOMUTADO": "การตั้งค่า: `Server`",
+    "MOD_CARGOMUTADO1": "<:v_:855859391835799582>O `auto role` ได้รับการปรับปรุงเสร็จเรียบร้อยแล้ว",
+    "MOD_CARGOMUTADO2": "Auto role",
+    "MOD_CARGOMUTADO3": "เปลี่ยนจาก"
+}

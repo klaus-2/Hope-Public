@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "per cercare infomazioni meteorologiche di una città.",
+    "USAGE": "meteo <localization>\n💡**Esempio**: {{EXAMPLE}}",
+    "USAGEE": "meteo <localization>",
+    "EXAMPLE": "meteo ny <unk> tempo nuovo york",
+    "TEMPO": "Sensazione termica:",
+    "TEMPO1": "gradi",
+    "TEMPO2": "Fuso orario:",
+    "TEMPO3": "Tipo Di Grado",
+    "TEMPO4": "Latitudine e longitudine:",
+    "TEMPO5": "Posizione non valida",
+    "TEMPO_TITULO": "Meteo - {{place}}",
+    "TEMPO_DESCRIÇÃO": "Le unità di temperatura possono differire un po 'di tempo",
+    "TEMPO6": "Temperatura:",
+    "TEMPO7": "Testo Cielo:",
+    "TEMPO8": "Umidità:",
+    "TEMPO9": "Velocità del vento:",
+    "TEMPO10": "Tempo Di Osservazione:",
+    "TEMPO11": "Visualizzazione Vento"
+}

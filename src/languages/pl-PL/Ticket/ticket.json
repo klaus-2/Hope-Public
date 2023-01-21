@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "poinformować o addon Biletu.",
+    "USAGE": "bilet\n💡 **Przykład**: {{EXAMPLE}}",
+    "USAGEE": "t-close",
+    "EXAMPLE": "t-close",
+    "TICKET_REAÇÃO": "reaction",
+    "TICKET_REAÇÃO1": "Sekretarz Hope",
+    "TICKET_REAÇÃO2": "Halo! Jestem Hope i jestem tu, by pomóc ci otworzyć bilet. To bardzo proste, wystarczy kliknąć przycisk poniżej <:SkyeCorreta:823047534602616832>",
+    "TICKET_REAÇÃO3": "Halo! Jestem Hope i pomogę ci w tym procesie.\n\nPo pierwsze, pamiętajmy, że `<> jest konieczny` e `[] jest opcjonalny`!\n\nChodź, masz dwie opcje otwarcia biletu:\n Pierwszą opcją jest przejście do wiadomości wysłanej przeze mnie w kanale Bilety tego serwera i zareagowanie na nią 🎟.\n\nDrugą opcją jest wpisanie na czacie polecenia `{{prefix}}t-<create | open> [reason]` - aby otworzyć bilet.\n\n<a:sirene:823004235440062464> Poniższe polecenia są dostępne tylko dla administracji tego serwera, ok?!\n\n„{{prefix}}Reakcja biletu „- utwórz wiadomość reakcyjną, aby otworzyć bilet.\n`{{prefix}}t-setup` - aby skonfigurować polecenie biletu na tym serwerze.",
+    "TICKET_REAÇÃO4": "Otwieranie biletu"
+}

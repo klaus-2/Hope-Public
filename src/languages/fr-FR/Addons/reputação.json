@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Configure l'addon Réputation.",
+    "USAGE": "reputação\n💡**Example**: {{EXAMPLE}}",
+    "USAGEE": "reputação",
+    "EXAMPLE": "reputação",
+    "REP": "Le classement de la réputation sera mis à jour dans les 30 secondes."
+}

@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "プレゼントを削除する",
+    "USAGE": "g-delete <messageID>\n💡 **例**: {{EXAMPLE}}",
+    "USAGEE": "g-delete <messageID>",
+    "EXAMPLE": "g-delete 818821436255895612",
+    "SUCCESS_GIVEAWAY": "<: v_: 855859391835799582> 成功！Giveaway 削除しました！",
+    "UNKNOWN_GIVEAWAY": "メッセージ ID: `{{message}}` のプレゼントは見つかりませんでした。確認してもう一度お試しください、よろしいですか？待ってるよ 😊"
+}

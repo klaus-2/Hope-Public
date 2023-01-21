@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "创建语音频道。",
+    "USAGE": "创建语音频道 <name>\n💡 ** 示例 **： {{EXAMPLE}}",
+    "USAGEE": "创建语音频道 <name>",
+    "EXAMPLE": "创建语音频道测试"
+}

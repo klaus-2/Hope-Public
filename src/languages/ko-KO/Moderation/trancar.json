@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "채널을 잠급니다.",
+    "USAGE": "잠금\n💡 **예**: {{EXAMPLE}}",
+    "USAGEE": "자물쇠",
+    "EXAMPLE": "자물쇠",
+    "TRANCAR": "🔒 <{{channel}}>이 (가) 잠겼습니다",
+    "TRANCAR1": "주의",
+    "TRANCAR_PERMISSÃO": "이 작업은 허용되지 않습니다."
+}

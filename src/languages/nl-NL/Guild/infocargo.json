@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Krijg informatie over een rol.",
+    "USAGE": "roleinfo <role>\n💡 **Voorbeeld**: {{EXAMPLE}}",
+    "USAGEE": "rolinfo <role>",
+    "EXAMPLE": "roleinfo @role",
+    "ROLE_NAME": "Rol | {{roleName}}",
+    "ROLE_MEMBERS": "Leden:",
+    "ROLE_COLOR": "Kleur:",
+    "ROLE_POSITION": "Positie:",
+    "ROLE_MENTION": "Vermeld:",
+    "ROLE_HOISTED": "Gehesen:",
+    "ROLE_MENTIONABLE": "Vermeldbaar:",
+    "ROLE_PERMISSION": "Belangrijkste machtigingen:",
+    "ROLE_CREATED": "Gemaakt op:",
+    "ROLE_FOOTER": "Aangevraagd door {{MEMBER}} | Rol-ID: {{ID}}"
+}
