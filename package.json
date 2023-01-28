@@ -82,7 +82,7 @@
     "node-kitsu": "^1.1.1",
     "node-os-utils": "^1.3.7",
     "node-superfetch": "^0.3.0",
-    "optiic": "^0.0.20",
+    "optiic": "^0.0.21",
     "passport": "^0.6.0",
     "passport-discord": "^0.1.4",
     "proxy-list-random": "^1.0.2",
