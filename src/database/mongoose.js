@@ -9,7 +9,7 @@ module.exports = {
 			family: 4,
 			useUnifiedTopology: true,
 		};
-		mongoose.connect(bot.config.MongoDBURl, dbOptions);
+		mongoose.connect(bot.config.MongoDBURL, dbOptions);
 		mongoose.Promise = global.Promise;
 		mongoose.connection.on('connected', () => {
 			bot.logger.ready('MongoDB successfully connected');

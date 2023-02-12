@@ -1,7 +1,7 @@
 <!-- LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/klaus-2/FindBots-Botlist">
+  <a href="https://github.com/klaus-2/Hope-Public">
     <img src="https://cdn.discordapp.com/avatars/901243176814276680/0b216cbe24f1dde9e901d95c1f59c5ad.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -49,13 +49,11 @@ Hope is a Discord bot that has been growing slowly, it has several features such
 ### Prerequisites
 
 - Modules
-  ```sh
-  This bot has addons that have been divided into several modules that are available in my other repositories.
-  ```
+  <a href="https://github.com/klaus-2/Hope-AutoAnimes-Public">Auto Animes</a>
+  <a href="https://github.com/klaus-2/Hope-AutoYoutube-Public">Auto Youtube</a>
+  <a href="https://github.com/klaus-2/Hope-AutoTwitch-Public">Auto Twitch</a>
 - Website & Dashboard (Opcional)
-  ```sh
-  The actual website is available in my other repository including the dashboard for the bot.
-  ```
+  <a href="https://github.com/klaus-2/Hope-WebDashboard-Public">Website & Dashboard</a>
 
 ### Installation
 
@@ -103,16 +101,16 @@ Discord - [Klaus#1565](https://discordapp.com/users/622812963572809771/)
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/klaus-2/FindBots-Botlist.svg?style=for-the-badge
-[contributors-url]: https://github.com/klaus-2/FindBots-Botlist/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/klaus-2/FindBots-Botlist.svg?style=for-the-badge
-[forks-url]: https://github.com/klaus-2/FindBots-Botlist/network/members
-[stars-shield]: https://img.shields.io/github/stars/klaus-2/FindBots-Botlist.svg?style=for-the-badge
-[stars-url]: https://github.com/klaus-2/FindBots-Botlist/stargazers
-[issues-shield]: https://img.shields.io/github/issues/klaus-2/FindBots-Botlist.svg?style=for-the-badge
-[issues-url]: https://github.com/klaus-2/FindBots-Botlist/issues
-[license-shield]: https://img.shields.io/github/license/klaus-2/FindBots-Botlist.svg?style=for-the-badge
-[license-url]: https://github.com/klaus-2/FindBots-Botlist/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/klaus-2/Hope-Public.svg?style=for-the-badge
+[contributors-url]: https://github.com/klaus-2/Hope-Public/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/klaus-2/Hope-Public.svg?style=for-the-badge
+[forks-url]: https://github.com/klaus-2/Hope-Public/network/members
+[stars-shield]: https://img.shields.io/github/stars/klaus-2/Hope-Public.svg?style=for-the-badge
+[stars-url]: https://github.com/klaus-2/Hope-Public/stargazers
+[issues-shield]: https://img.shields.io/github/issues/klaus-2/Hope-Public.svg?style=for-the-badge
+[issues-url]: https://github.com/klaus-2/Hope-Public/issues
+[license-shield]: https://img.shields.io/github/license/klaus-2/Hope-Public.svg?style=for-the-badge
+[license-url]: https://github.com/klaus-2/Hope-Public/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: https://i.imgur.com/fE0i4pv.png

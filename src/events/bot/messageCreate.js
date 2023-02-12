@@ -1,6 +1,7 @@
 ﻿// Dependencies
 const { Collection, WebhookClient, PermissionsBitField } = require('discord.js'),
-	LogCMD = new WebhookClient({ id: 'hookID', token: 'hookTOKEN' }),
+	{ WebHooks } = require(`${process.cwd()}/src/config.js`),
+	LogCMD = new WebhookClient({ id: WebHooks[0].ID, token: WebHooks[0].TOKEN }),
 	moment = require('moment'),
 	{ Embed, func: { genInviteLink } } = require(`../../utils`),
 	fs = require('fs'),

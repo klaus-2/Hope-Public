@@ -50,7 +50,7 @@ async function loadCommands() {
 	bot.logger.log('-{ Loading command(s): 1 }-');
 	// loop through each category
 	cmdFolders.forEach(async (dir) => {
-		if (bot.config.disabledPlugins.includes(dir) || dir == 'command.example.js') return;
+		if (bot.config.disabledFeatures.includes(dir) || dir == 'commandexample.js') return;
 		const commands = (await readdir('./src/commands/' + dir + '/')).filter((v, i, a) => a.indexOf(v) === i);
 		// loop through each command in the category
 		commands.forEach((cmd) => {

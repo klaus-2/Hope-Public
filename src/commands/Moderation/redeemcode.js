@@ -2,9 +2,10 @@
 const { Embed } = require(`../../utils`),
   { PermissionsBitField: { Flags }, WebhookClient } = require('discord.js'),
   Premium = require(`../../database/models/GuildPremium`),
+  { WebHooks } = require(`${process.cwd()}/src/config.js`),
   moment = require("moment"),
-  webhookClient = new WebhookClient({ id: 'hookID', token: 'hookTOKEN' }),
-  logpremium = new WebhookClient({ id: 'hookID', token: 'hookTOKEN' }),
+  webhookClient = new WebhookClient({ id: WebHooks[0].ID, token: WebHooks[0].TOKEN }),
+  logpremium = new WebhookClient({ id: WebHooks[0].ID, token: WebHooks[0].TOKEN }),
   uniqid = require('uniqid'),
   Command = require('../../structures/Command');
 moment.locale('pt-br');

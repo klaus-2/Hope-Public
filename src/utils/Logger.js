@@ -1,6 +1,7 @@
 // Dependências
 const chalk = require('chalk'),
 	moment = require('moment'),
+	{ WebHooks } = require(`${process.cwd()}/src/config.js`),
 	log = require('simple-node-logger').createRollingFileLogger({
 		logDirectory: './src/utils/logs',
 		fileNamePattern: 'roll-<DATE>.log',
@@ -8,8 +9,8 @@ const chalk = require('chalk'),
 	});
 
 const Discord = require('discord.js');
-const LogError = new Discord.WebhookClient({ id: 'hookID', token: 'hookTOKEN' });
-const LogDebug = new Discord.WebhookClient({ id: 'hookID1', token: 'hookTOKEN' });
+const LogError = new Discord.WebhookClient({ id: WebHooks[0].ID, token: WebHooks[0].TOKEN });
+const LogDebug = new Discord.WebhookClient({ id: WebHooks[0].ID, token: WebHooks[0].TOKEN });
 //const LogCMD = new Discord.WebhookClient('hookID', 'hookTOKEN');
 //const Logs = new Discord.WebhookClient('hookID', 'hookTOKEN');
 
