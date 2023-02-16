@@ -27,7 +27,6 @@ const config = {
 		NoModerator: '',
 		BasicPermissions: '',
 	},
-	// URL to mongodb
 	MongoDBURL: '',
 	rateLimitChannelID: '',
 	embedColor: '',
